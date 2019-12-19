@@ -1,0 +1,1163 @@
+KANSAS DEPARTMENT OF HEALTH AND ENVIRONMENT
+KANSAS LAWS AND REGULATIONS FOR LICENSING DAY CARE HOMES AND GROUP DAY CARE HOMES FOR CHILDREN
+MARCH 2019
+Division of Public Health
+Bureau of Family Health
+Child Care Licensing Program
+1000 SW Jackson, Suite 200, Topeka, KS 66612-1274 Phone: (785) 296-1270 Fax: (785) 559-4244 Website: http://www.kdheks.gov/bcclr/index.html E-mail: kdhe.cclr@ks.gov
+   
+TABLE OF CONTENTS
+I. Kansas Child Care Licensing Laws, Revised July 2018
+K.S.A. 65-501 K.S.A. 65-503 K.S.A. 65-504
+K.S.A. 65-505 K.S.A. 65-506
+K.S.A. 65-507 K.S.A. 65-508
+K.S.A. 65-510 K.S.A. 65-512 K.S.A. 65-513
+K.S.A. 65-514
+K.S.A. 65-515 K.S.A. 65-516
+K.S.A. 65-523
+K.S.A. 65-524
+K.S.A. 65-525
+K.S.A. 65-526 K.S.A. 65-527
+K.S.A. 65-528 K.S.A. 65-529 K.S.A. 65-530 K.S.A. 65-531 K.S.A. 65-532 K.S.A. 65-534
+Page
+License or temporary permit required; exemptions ...........................1 Definitions .........................................................................................1 Licenses; contents; limitations; posting; inspections; temporary permits; access to premises; temporary licenses; denial or
+revocation of license; procedure ........................................................2 License fees; maternity centers and child care licensing fee fund.....4 Notice of issuance, limitation, modification, suspension or revocation of license; notice to parents or guardians of enrollees of limitation, modification, suspension, revocation or denial; unlicensed placements prohibited......................................................5 Records of maternity centers and child care facilities;
+confidentiality ....................................................................................6 Equipment, supplies, accommodations; competent supervision and care of children; safe sleep practices; rules and regulations; immunizations....................................................................................6 Unlawful for child care facility to care for adults; exceptions ..........8 Inspections ........................................................................................8 Changes or alterations required to comply with law; notice; duty of licensee...............................................................................................9 Violations of article 5 of chapter 65; penalties; notice and hearing................................................................................................9 Prosecutions ......................................................................................10 Restrictions on persons maintaining or residing, working or volunteering at child care facility; criminal history check by
+secretary of health and environment; information to be provided sponsoring child placement agency; child care criminal
+background and fingerprinting fund .................................................10 Grounds for limitation, modification or suspension of license or temporary permit ...............................................................................15 Suspension, limitation or modification of license or temporary
+permit prior to hearing; procedure ....................................................15 Disclosure of certain information prohibited, exceptions; consent
+to disseminate certain information required .....................................15 Civil fine assessed against licensee; limitations ...............................16
+.........................................................17 Child care policy of state; desired outcome ......................................18 Continuation of effect of license, registration or permit ...................19 Smoking prohibited in day care homes .............................................19 Immunization information and records; disclosure ..........................20 Lexie’s law ........................................................................................21 Online information dissemination system; rules and regulations .....21
+ Drop-in programs and school-age programs in schools and public
+ recreation centers; licensing of
+
+K.S.A. 65-535
+Staff secure facility; requirements; services; rules and regulations ..21
+Other Related Laws
+K.S.A. 72-1421 K.S.A. 72-3238 K.S.A. 72-3239
+Child care facilities; authority to establish, operate, and maintain; fees, collection and disposition .........................................................22 Summer programs; establishment; fees, limitation; summer
+program fund; use of money ..............................................................23 Extraordinary school programs; authority to establish, operate and maintain; fees, collection, limitations, disposition; fund ..................24
+II. General Regulation, Amended December 2010
+K.A.R. 28-4-92 License fees........................................................................................26
+III. General Regulation, February 2012
+K.A.R. 28-4-93 Online information dissemination system .........................................27
+IV. General Regulation, November 2018
+K.A.R. 28-4-95 Fee for fingerprint-based background checks....................................28
+V. General Regulations for Licensed Day Care Homes, Group Day Care Homes, Child Care Centers, Preschools, Residential Centers and Group Boarding Homes, Amended June 2018
+ K.A.R. 28-4-122
+K.A.R. 28-4-123 K.A.R. 28-4-124 K.A.R. 28-4-125 K.A.R. 28-4-126 K.A.R. 28-4-127 K.A.R. 28-4-128 K.A.R. 28-4-129 K.A.R. 28-4-130 K.A.R. 28-4-131 K.A.R. 28-4-132
+General regulations for family day care homes and child care facilities .............................................................................................29 Parental access to child care facilities ...............................................29 Parental permission for children to go off-premises .........................29 Background checks ............................................................................29 Health of persons 16 years or older in child care facilities................31 Emergencies .......................................................................................32 Safety procedures ..............................................................................33 Swimming and wading activities ......................................................33 Transportation ...................................................................................35 Animals, birds, or fish .......................................................................37 Child care practices............................................................................37 If you have diapered children in your child care program ................40
+VI. Regulations for Licensing Day Care Homes and Group Day Care Homes for Children Amended May 2017
+K A.R. 28-4-113 K A.R. 28-4-114 K A.R. 28-4-114a K A.R. 28-4-115
+Definitions .........................................................................................41 Applicant; licensee.............................................................................43 Initial and ongoing professional development training. ....................47 Facility ..............................................................................................50
+
+K.A.R. 28-4-115a K.A.R. 28-4-116 K.A.R. 28-4-116a K.A.R. 28-4-117 K.A.R. 28-4-118
+K.A.R. 28-4-119b
+Supervision .......................................................................................54 Daily care of children.........................................................................56 Napping and sleeping.........................................................................61 Health care requirements for children under 16 years of age ...........63 Medication administration and reporting suspected child abuse or neglect ................................................................................................65 Compliance with regulations .............................................................66
+
+KANSAS CHILD CARE LICENSING LAWS
+Chapter 65. PUBLIC HEALTH
+Article 5. MATERNITY CENTERS AND CHILD CARE FACILITIES
+K.S.A. 65-501. License or temporary permit required; exemptions.
+It shall be unlawful for any person, firm, corporation or association to conduct or maintain a maternity center or a child care facility for children under 16 years of age without having a license or temporary permit therefor from the secretary of health and environment. Nothing in this act shall apply to:
+(a) A residential facility or hospital that is operated and maintained by a state agency as defined in K.S.A. 75-3701 and amendments thereto; or
+(b) a summer instructional camp that:
+(1) Is operated by a Kansas educational institution as defined in K.S.A. 74-32,120, and amendments thereto, or a postsecondary educational institution as defined in K.S.A. 74-3201b, and amendments thereto;
+(2) is operated for not more than five weeks;
+(3) provides instruction to children, all of whom are 10 years of age and older; and
+(4) is accredited by an agency or organization acceptable to the secretary of health and environment.
+History: L. 1919, ch. 210, § 1; R.S. 1923, 65-501; L. 1974, ch. 352, § 85; L. 1978, ch. 236, § 1; L. 1985, ch. 209, § 1; L. 1994, ch. 279, § 4; L. 2001, ch. 101, § 1; April 26.
+K.S.A. 65-503. Definitions. As used in this act:
+(a) “Child placement agency” means a business or service conducted, maintained or operated by a person engaged in finding homes for children by placing or arranging for the placement of such children for adoption or foster care.
+(b) “Child care resource and referral agency” means a business or service conducted, maintained or operated by a person engaged in providing resource and referral services, including information of specific services provided by child care facilities, to assist parents to find child care.
+(c) “Child care facility” means:
+(1) A facility maintained by a person who has control or custody of one or more children under 16 years of age, unattended by parent or guardian, for the purpose of providing the children with food or lodging, or both, except children in the custody of the secretary for children and families who are placed with a
+1
+
+prospective adoptive family pursuant to the provisions of an adoptive placement agreement or who are related to the person by blood, marriage or legal adoption;
+(2) a children's home, orphanage, maternity home, day care facility or other facility of a type determined by the secretary to require regulation under the provisions of this act;
+(3) a child placement agency or child care resource and referral agency, or a facility maintained by such an agency for the purpose of caring for children under 16 years of age; or
+(4) any receiving or detention home for children under 16 years of age provided or maintained by, or receiving aid from, any city or county or the state.
+(d) "Day care facility" means a child care facility that includes a day care home, preschool, child care center, school-age program or other facility of a type determined by the secretary to require regulation under the provisions of K.S.A. 65-501 et seq., and amendments thereto.
+(e) “Person” means any individual, association, partnership, corporation, government, governmental subdivision or other entity.
+(f) “Boarding school” means a facility which provides 24-hour care to school age children, provides education as its primary function, and is accredited by an accrediting agency acceptable to the secretary of health and environment.
+(g) "Maternity center" means a facility which provides delivery services for normal, uncomplicated pregnancies but does not include a medical care facility as defined by K.S.A. 65-425, and amendments thereto.
+History: L. 1919, ch. 210, § 3; R.S. 1923, 65-503; L. 1978, ch. 236, § 2; L. 1978, ch. 237, § 2; L. 1980, ch. 184, § 1; L. 1983, ch. 140, § 45; L. 1994, ch. 279, § 6; L. 1998, ch. 166, § 1; L. 2007, ch. 130, § 1; L. 2010, ch. 161, § 4; L. 2012, ch. 99, § 1; L. 2014, ch. 115, § 248; July 1.
+K.S.A. 65-504. Licenses; contents; limitations; posting; inspections; temporary permits; access to premises; temporary licenses; denial or revocation of license; procedure.
+(a) The secretary of health and environment shall have the power to grant a license to a person to maintain a maternity center or child care facility for children under 16 years of age. A license granted to maintain a maternity center or child care facility shall state the name of the licensee, describe the particular premises in or at which the business shall be carried on, whether it shall receive and care for women or children, and the number of women or children that may be treated, maintained, boarded or cared for at any one time. No greater number of women or children than is authorized in the license shall be kept on those premises and the business shall not be carried on in a building or place not designated in the license. The license shall be kept posted in a conspicuous place on the premises where the business is conducted. A license granted to maintain a day care facility shall have on its face an expiration sticker stating the date of expiration of the
+2
+
+(b) (1)
+In all cases where the secretary for children and families deems it necessary, an investigation of the maternity center or child care facility shall be made under the supervision of the secretary for children and families or other designated qualified agents. For that purpose and for any subsequent investigations they shall have the right of entry and access to the premises of the center or facility and to any information deemed necessary to the completion of the investigation. In all cases where an investigation is made, a report of the investigation of such center or facility shall be filed with the secretary of health and environment.
+license. The secretary of health and environment shall grant no license in any case until careful inspection of the maternity center or child care facility shall have been made according to the terms of this act and until such maternity center or child care facility has complied with all the requirements of this act. Except as provided by this subsection, no license shall be granted without the approval of the secretary for children and families. The secretary of health and environment may issue, without the approval of the secretary for children and families, a temporary permit to operate for a period not to exceed 90 days upon receipt of an initial application for license. The secretary of health and environment may extend, without the approval of the secretary for children and families, the temporary permit to operate for an additional period not to exceed 90 days if an applicant is not in full compliance with the requirements of this act but has made efforts towards full compliance.
+(2) In cases where neither approval or disapproval can be given within a period of 30 days following formal request for such a study, the secretary of health and environment may issue a temporary license without fee pending final approval or disapproval of the center or facility.
+(c) Whenever the secretary of health and environment refuses to grant a license to an applicant, the secretary shall issue an order to that effect stating the reasons for such denial and within five days after the issuance of such order shall notify the applicant of the refusal. Upon application not more than 15 days after the date of its issuance a hearing on the order shall be held in accordance with the provisions of the Kansas administrative procedure act.
+(d) When the secretary of health and environment finds upon investigation or is advised by the secretary for children and families that any of the provisions of this act or the provisions of K.S.A. 59-2123, and amendments thereto, are being violated, or that the maternity center or child care facility is maintained without due regard to the health, safety or welfare of any woman or child, the secretary of health and environment may issue an order revoking such license after giving notice and conducting a hearing in accordance with the provisions of the Kansas administrative procedure act. The order shall clearly state the reason for the revocation.
+(e) If the secretary revokes or refuses to renew a license, the licensee who had a license revoked or not renewed shall not be eligible to apply for a license for a period of one year subsequent to the date such revocation or refusal to renew becomes final. If the secretary revokes or refuses to renew a license of a licensee who is a repeat, three or more times,
+3
+
+violator of statutory requirements or rules and regulations or is found to have contributed to the death or serious bodily harm of a child under such licensee’s care, such licensee shall be permanently prohibited from applying for a new license to provide child care or from seeking employment under another licensee.
+(f) Any applicant or licensee aggrieved by a final order of the secretary of health and environment denying or revoking a license under this act may appeal the order in accordance with the Kansas judicial review act.
+History: L. 1919, ch. 210, § 4; R.S. 1923, 65-504; L. 1951, ch. 358, § 1; L. 1961, ch. 285, § 1; L. 1974, ch. 352, § 86; L. 1978, ch. 236, § 3; L. 1982, ch. 258, § 3; L. 1983, ch. 147, § 2; L. 1984, ch. 313, § 93; L. 1985, ch. 209, § 2; L. 1988, ch. 239, § 1; L. 1989, ch. 188, § 1; L. 1990, ch. 145, § 37; L. 1991, ch. 184, § 1; L. 1994, ch. 279, § 7; L. 2000, ch. 137, § 1; L. 2010, ch. 161, § 5; L. 2012, ch. 99, § 2; L. 2014, ch. 115, § 249; July 1.
+K.S.A. 65-505. License fees; maternity centers and child care licensing fee fund.
+(a) The annual fee for a license to conduct a maternity center or child care facility shall be fixed by the secretary of health and environment by rules and regulations in an amount not exceeding the following:
+(1) For a maternity center, $150;
+(2) for a child placement agency, $150;
+(3) for a child care resource and referral agency, $150; and
+(4) for any other child care facility, $75 plus $1 times the maximum number of children authorized under the license to be on the premises at any one time.
+The license fee shall be paid to the secretary of health and environment when the license is applied for and annually thereafter. The fee shall not be refundable. No fee shall be charged for a license to conduct a home for children which is a family foster home as defined in K.A.R. 28-4-311, and amendments thereto. Fees in effect under this subsection (a) immediately prior to the effective date of this act shall continue in effect on and after the effective date of this act until a different fee is established by the secretary of health and environment by rules and regulations under this subsection.
+(b) Any licensee who fails to renew such license within 30 days after the expiration of the license shall pay to the secretary the renewal fee plus a late fee in an amount equal to the fee for the renewal of a license.
+(c) Any licensee applying for an amended license shall pay to the secretary of health and environment a fee established by rules and regulations of the secretary in an amount not exceeding $35.
+4
+
+(d) The secretary of health and environment shall remit all moneys received by the secretary from fees under the provisions of this section to the state treasurer in accordance with the provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt of each such remittance, the state treasurer, notwithstanding any other law to the contrary, shall deposit the entire amount in the state treasury to the credit of the maternity centers and child care licensing fee fund. All expenditures from the maternity centers and child care licensing fee fund shall be made only for the purposes of article 5 of chapter 65 of the Kansas Statutes Annotated in accordance with appropriation acts upon warrants of the director of accounts and reports issued pursuant to vouchers approved by the secretary of health and environment or by a person or persons designated by the secretary. Notwithstanding any other law to the contrary, no moneys shall be transferred or otherwise revert from this fund to the state general fund by appropriation act or other act of the legislature. Moneys available under this section by the creation of the maternity centers and child care licensing fee fund shall not be substituted for or used to reduce or eliminate moneys available to the department of health and environment to administer the provisions of article 5 of chapter 65 of the Kansas Statutes Annotated. Nothing in this act shall be construed to authorize a reduction or elimination of moneys made available by the state to local units of government for the purposes of article 5 of chapter 65 of the Kansas Statutes Annotated.
+History: L. 1919, ch. 210, § 5; R.S. 1923, 65-505; L. 1974, ch. 352, § 87; L. 1978, ch. 236, § 4; L. 1982, ch. 259, § 1; L. 1985, ch. 210, § 2; L. 1986, ch. 230, § 1; L. 1991, ch. 184, § 2; L. 1994, ch. 279, § 8; L. 2001, ch. 5, § 217; L. 2010, ch. 161, § 6; July 1.
+K.S.A. 65-506. Notice of issuance, limitation, modification, suspension or revocation of license; notice to parents or guardians of enrollees of limitation, modification, suspension, revocation or denial; unlicensed placements prohibited.
+The secretary of health and environment shall serve notice of the issuance, limitation, modification, suspension or revocation of a license to conduct a maternity center or child care facility to the secretary for children and families, juvenile justice authority, department of education, office of the state fire marshal, county, city-county or multi-county department of health, and to any licensed child placement agency or licensed child care resource and referral agency serving the area where the center or facility is located. A maternity center or child care facility that has had a license limited, modified, suspended, revoked or denied by the secretary of health and environment shall notify in writing the parents or guardians of the enrollees of the limitation, modification, suspension, revocation or denial. Neither the secretary for children and families nor any other person shall place or cause to be placed any woman or child under 16 years of age in any maternity center or child care facility not licensed by the secretary of health and environment.
+History: L. 1919, ch. 210, § 6; R.S. 1923, 65-506; L. 1951, ch. 358, § 2; L. 1974, ch. 352, § 88; L. 1976, ch. 145, § 211; L. 1978, ch. 236, § 5; L. 1986, ch. 230, § 2; L. 1994, ch. 279, § 9; L. 2000, ch. 127, § 1; L. 2010, ch. 161, § 7; L. 2012, ch. 99, § 3; L. 2014, ch. 115, § 250; July 1.
+5
+
+K.S.A. 65-507. Records of maternity centers and child care facilities; confidentiality.
+(a) Each maternity center licensee shall keep a record upon forms prescribed and provided by the secretary of health and environment and the secretary for children and families which shall include the name of every patient, together with the patient's place of residence during the year preceding admission to the center and the name and address of the attending physician. Each child care facility licensee shall keep a record upon forms prescribed and provided by the secretary of health and environment which shall include the name and age of each child received and cared for in the facility; the name of the physician who attended any sick children in the facility, together with the names and addresses of the parents or guardians of such children; and such other information as the secretary of health and environment or secretary for children and families may require. Each maternity center licensee and each child care facility licensee shall apply to and shall receive without charge from the secretary of health and environment and the secretary for children and families forms for such records as may be required, which forms shall contain a copy of this act.
+(b) Information obtained under this section shall be confidential and shall not be made public in a manner which would identify individuals.
+History: L. 1919, ch. 210, § 7; R.S. 1923, 65-507; L. 1951, ch. 358, § 3; L. 1974, ch. 352, § 89; L. 1978, ch. 236, § 6; L. 1994, ch. 279, § 10; L. 2014, ch. 115, § 251; July 1.
+K.S.A. 65-508. Equipment, supplies, accommodations; competent supervision and care of children; safe sleep practices; rules and regulations; immunizations.
+(a) Any maternity center or child care facility subject to the provisions of this act shall:
+(1) Be properly heated, plumbed, lighted and ventilated;
+(2) have plumbing, water and sewerage systems which conform to all applicable state and local laws; and
+(3) be operated with strict regard to the health, safety and welfare of any woman or child.
+(b) Every maternity center or child care facility shall furnish or cause to be furnished for the use of each resident and employee individual towel, wash cloth, comb and individual drinking cup or sanitary bubbling fountain, and toothbrushes for all other than infants, and shall keep or require such articles to be kept at all times in a clean and sanitary condition. Every maternity center or child care facility shall comply with all applicable fire codes and rules and regulations of the state fire marshal.
+(c) (1) The secretary of health and environment with the cooperation of the secretary for children and families shall develop and adopt rules and regulations for the operation and maintenance of maternity centers and child care facilities. The rules and regulations for operating and maintaining maternity centers and child care
+6
+
+facilities shall be designed to promote the health, safety and welfare of any woman or child served in such facilities by ensuring safe and adequate physical surroundings, healthful food, adequate handwashing, safe storage of toxic substances and hazardous chemicals, sanitary diapering and toileting, home sanitation, supervision and care of the residents by capable, qualified persons of sufficient number, after-hour care, an adequate program of activities and services, sudden infant death syndrome and safe sleep practices training, prohibition on corporal punishment, crib safety, protection from electrical hazards, protection from swimming pools and other water sources, fire drills, emergency plans, safety of outdoor playground surfaces, door locks, safety gates and transportation and such appropriate parental participation as may be feasible under the circumstances. Boarding schools are excluded from requirements regarding the number of qualified persons who must supervise and provide care to residents.
+(2) Rules and regulations developed under this subsection shall include provisions for the competent supervision and care of children in day care facilities. For purposes of such rules and regulations, competent supervision as this term relates to children less than five years of age includes, but is not limited to, direction of activities, adequate oversight including sight or sound monitoring, or both, physical proximity to children, diapering and toileting practices; and for all children, competent supervision includes, but is not limited to, planning and supervision of daily activities, safe sleep practices, including, but not limited to, visual or sound monitoring, periodic checking, emergency response procedures and drills, illness and injury response procedures, food service preparation and sanitation, playground supervision, pool and water safety practices.
+(d) In addition to any rules and regulations adopted under this section for safe sleep practices, child care facilities shall ensure that all of the following requirements are met for children under 12 months of age:
+(1) A child shall only be placed to sleep on a surface and in an area that has been approved for use as such by the secretary of health and environment;
+(2) the sleep surface shall be free from soft or loose bedding, including, but not limited to, blankets, bumpers and pillows; and
+(3) the sleep surface shall be free from toys, including mobiles and other types of play equipment or devices.
+(e) Child care facilities shall ensure that children over 12 months of age only be placed to sleep on a surface and in an area that has been approved for use as such by the secretary of health and environment.
+(f) The secretary of health and environment may exercise discretion to make exceptions to requirements in subsections (d) and (e) where special health needs exist.
+(g) Each child cared for in a child care facility, including children of the person maintaining the facility, shall be required to have current such immunizations as the secretary of
+7
+
+health and environment considers necessary. The person maintaining a child care facility shall maintain a record of each child's immunizations and shall provide to the secretary of health and environment such information relating thereto, in accordance with rules and regulations of the secretary, but the person maintaining a child care facility shall not have such person's license revoked solely for the failure to have or to maintain the immunization records required by this subsection.
+(h) The immunization requirement of subsection (g) shall not apply if one of the following is obtained:
+(1) Certification from a licensed physician stating that the physical condition of the child is such that immunization would endanger the child's life or health; or
+(2) a written statement signed by a parent or guardian that the parent or guardian is an adherent of a religious denomination whose teachings are opposed to immunizations.
+History: L. 1919, ch. 210, § 8; R.S. 1923, 65-508; L. 1951, ch. 358, § 4; L. 1974, ch. 352, § 90; L. 1978, ch. 236, § 7; L. 1992, ch. 55, § 2; L. 1994, ch. 279, § 11; L. 1995, ch. 183, § 9; L. 1998, ch. 166, § 2; L. 2010, ch. 161, § 8; L. 2012, ch. 99, § 4; L. 2014, ch. 115, § 252; L. 2017, ch. 41, § 1; July 1.
+K.S.A. 65-510. Unlawful for child care facility to care for adults; exceptions.
+It shall be unlawful for any child care facility to receive or care for any adult except as authorized by rules and regulations adopted by the secretary of health and environment.
+History: L. 1919, ch. 210, § 10; R.S. 1923, 65-510; L. 1965, ch. 369, § 2; L. 1972, ch. 228, §17; L. 1978, ch. 236, § 8; L. 1988, ch. 240, § 1; L. 1994, ch. 279, § 12; July 1.
+K.S.A. 65-512. Inspections.
+(a) It is hereby made the duty of the secretary of health and environment to inspect or cause to be inspected at least once every 15 months prior to July 1, 2012, and once every 12 months thereafter, every maternity center or child care facility, unless otherwise provided in subsections (b) and (c). For the purpose of inspection the secretary or the secretary’s authorized agent shall have the right of entry and access thereto in every department and to every place in the premises, shall call for and examine the records which are required to be kept by the provisions of this act and shall make and preserve a record of every inspection. The licensee shall give all reasonable information to the authorized agent of the secretary of health and environment and shall afford every reasonable facility for viewing the premises and seeing the patients or children therein. No such patient or child without the consent of the patient or child shall be required to be interviewed by any agent unless the agent is an authorized person or a licensed physician.
+(b) (1) On or after the effective date of this act, the secretary of health and environment shall commence the inspection of registered family day care homes pursuant to K.S.A. 2017 Supp. 65-533, and amendments thereto.
+8
+
+(c) (1)
+Except as provided in subsection (b)(2), the following categories of child care facilities which were in compliance on the effective date of this act are not required to be inspected until July 1, 2011: Day care homes, as defined in K.A.R. 28-4-113; group day care homes, as defined in K.A.R. 28-4-113; child care centers, as defined in K.A.R. 28-4-420; preschools, as defined in K.A.R 28-4-420; school-age programs, as defined in K.A.R. 28-4-576; and drop-in programs, as defined in K.A.R. 28-4-700.
+(2) The secretary of health and environment shall conduct an inspection of any child care facility upon receiving a complaint. Any new child care facility shall be inspected prior to issuance of a license. The secretary may conduct an inspection of any child care facility that has a record of repeated complaints or serious violations at any time. The secretary shall inspect any child care facility that provides services to military families receiving military assistance for child care every 12 months.
+(2) The provisions of this subsection shall expire on July 1, 2011.
+History: L. 1919, ch. 210, § 12; R.S. 1923, 65-512; L. 1974, ch. 352, § 91; L. 1975, ch. 52, § 22; L. 1978, ch. 236, § 9; L. 1986, ch. 230, § 5; L. 1994, ch. 279, § 13; L. 2010, ch. 161, § 9; July 1.
+K.S.A. 65-513. Changes or alterations required to comply with law; notice; duty of licensee.
+Whenever an authorized agent of the secretary of health and environment or secretary for children and families finds a maternity center or child care facility is not being conducted according to law, it shall be the duty of such agent to notify the licensee in writing of such changes or alterations as the agent determines necessary in order to comply with the requirements of the law, and the agent shall file a copy of such notice with the secretary of health and environment. It shall thereupon be the duty of the licensee to make such changes or alterations as are contained in the written notice within five days from the receipt of such notice. Notice shall be given in accordance with the provisions of the Kansas administrative procedure act.
+History: L. 1919, ch. 210, § 13; R.S. 1923, 65-513; L. 1951, ch. 358, § 5; L. 1974, ch. 352, § 92; L. 1978, ch. 236, § 10; L. 1984, ch. 313, § 94; L. 1994, ch. 279, § 14; L. 2014, ch. 115, § 253; July 1.
+K.S.A. 65-514. Violations of article 5 of chapter 65; penalties; notice and hearing.
+Any person, firm, corporation or association who violates the provisions of article 5 of chapter 65 of the Kansas Statutes Annotated and acts amendatory of the provisions thereof or supplemental thereto shall be guilty of a misdemeanor, and upon conviction shall be fined not less than $5 nor more than $50. Each and every day that the person fails or refuses to comply shall be deemed a separate offense under the provisions of article 5 of chapter 65 of the Kansas Statutes Annotated and acts amendatory of the provisions thereof or supplemental thereto. If for
+9
+
+30 days after any final conviction for such violation or revocation of license the person still fails or refuses to comply with the orders in the notice under K.S.A. 65-513 and amendments thereto, upon notice and a hearing in accordance with the provisions of the Kansas administrative procedure act, the building or premises where such home is conducted may be closed until all provisions of this act shall have been complied with.
+History: L. 1919, ch. 210, § 14; R.S. 1923, 65-514; L. 1974, ch. 352, § 93; L. 1984, ch. 313, § 95; L. 1989, ch. 189, § 1; July 1.
+K.S.A. 65-515. Prosecutions.
+The county attorney of each county in this state is hereby authorized and required, upon complaint of any authorized agent of the secretary of health and environment, to file complaint and prosecute to the final determination all actions or proceedings against any person under the provisions of this act.
+History: L. 1919, ch. 210, § 15; R.S. 1923, 65-515; L. 1974, ch. 352, § 94; July 1.
+K.S.A. 65-516. Restrictions on persons maintaining or residing, working or volunteering at child care facility; criminal history check by secretary of health and environment; information to be provided sponsoring child placement agency; child care criminal background and fingerprinting fund.
+(a) No person shall knowingly maintain a child care facility if there resides, works or regularly volunteers any person who in this state or in other states or the federal government:
+(1) (A) (B)
+(C)
+Has been convicted of a crime that is classified as a person felony under the Kansas criminal code;
+has been convicted of a felony under K.S.A. 2010 Supp. 21-36a01 through 21-36a17, prior to their transfer, or article 57 of chapter 21 of the Kansas Statutes Annotated, and amendments thereto, or any felony violation of any provision of the uniform controlled substances act prior to July 1, 2009;
+has been convicted of any act that is described in articles 34, 35 or 36
+of chapter 21 of the Kansas Statutes Annotated, prior to their repeal, or article 54, 55 or 56 of chapter 21 of the Kansas Statutes Annotated, or K.S.A. 2018 Supp. 21-6104, 21-6325, 21-6326, 21-6418 through 21-6422 or 21-6424, and amendments thereto, or been convicted of an attempt under K.S.A. 21-3301, prior to its repeal, or K.S.A. 2018 Supp. 21-5301, and amendments thereto, to commit any such act or been convicted of conspiracy under K.S.A. 21-3302, prior to its repeal, or K.S.A. 2018 Supp. 21-5302, and amendments thereto, to commit such act, or similar statutes of any other state or the federal government;
+has been convicted of any act that is described in K.S.A. 21-4301 or 10
+(D)
+
+21-4301a, prior to their repeal, or K.S.A. 2018 Supp. 21-6401, and amendments thereto, or similar statutes of any other state or the federal government; or
+(E) has been convicted of any act that is described in K.S.A. 21-3718 or 21- 3719, prior to their repeal, or K.S.A. 2018 Supp. 21-5812, and amendments thereto, or similar statutes of any other state or the federal government;
+(2) has been adjudicated a juvenile offender because of having committed an act that if done by an adult would constitute the commission of a felony and that is a crime against persons, is any act described in articles 34, 35 or 36 of chapter 21 of the Kansas Statutes Annotated, prior to their repeal, or article 54, 55 or 56 of chapter 21 of the Kansas Statutes Annotated, or K.S.A. 2018 Supp. 21-6104, 21- 6325, 21-6326, 21-6418 through 21-6422 or 21- 6424, and amendments thereto, or similar statutes of any other state or the federal government, or is any act described in K.S.A. 21-4301 or 21-4301a, prior to their repeal, or K.S.A. 2018 Supp. 21-6401, and amendments thereto, or similar statutes of any other state or the federal government;
+(3) has been convicted or adjudicated of a crime that requires registration as a sex offender under the Kansas offender registration act, K.S.A. 22-4901 et seq., and amendments thereto, as a sex offender in any other state or as a sex offender on the national sex offender registry;
+(4) has committed an act of physical, mental or emotional abuse or neglect or sexual abuse and who is listed in the child abuse and neglect registry maintained by the Kansas department for children and families pursuant to K.S.A. 2018 Supp. 38- 2226, and amendments thereto, or any similar child abuse and neglect registries maintained by any other state or the federal government and:
+(A) The person has failed to successfully complete a corrective action plan that had been deemed appropriate and approved by the Kansas department for children and families or requirements of similar entities in any other state or the federal government; or
+(B) the record has not been expunged pursuant to rules and regulations adopted by the secretary for children and families or similar entities in any other state or the federal government;
+(5) has had a child removed from home based on a court order pursuant to K.S.A. 2018 Supp. 38-2251, and amendments thereto, in this state, or a court order in any other state based upon a similar statute that finds the child to be deprived or a child in need of care based on a finding of physical, mental or emotional abuse or neglect or sexual abuse and the child has not been returned to the home or the child reaches majority before being returned to the home and the person has failed to satisfactorily complete a corrective action plan approved by the department of health and environment;
+11
+
+(6) has had parental rights terminated pursuant to the Kansas juvenile code or K.S.A. 2018 Supp. 38-2266 through 38-2270, and amendments thereto, or a similar statute of other states;
+(7) has signed a diversion agreement pursuant to K.S.A. 22-2906 et seq., and amendments thereto, or an immediate intervention agreement pursuant to K.S.A. 2018 Supp. 38-2346, and amendments thereto, involving a charge of child abuse or a sexual offense; or
+(8) has an infectious or contagious disease.
+(b) No person shall maintain a child care facility if such person has been found to be a person in need of a guardian or a conservator, or both, as provided in K.S.A. 59-3050 through 59-3095, and amendments thereto.
+(c) Any person who resides in a child care facility and who has been found to be in need of a guardian or a conservator, or both, shall be counted in the total number of children allowed in care.
+(d) In accordance with the provisions of this subsection, the secretary of health and environment shall have access to any court orders or adjudications of any court of record, any records of such orders or adjudications, criminal history record information including, but not limited to, diversion agreements, in the possession of the Kansas bureau of investigation and any report of investigations as authorized by K.S.A. 2018 Supp. 38-2226, and amendments thereto, in the possession of the Kansas department for children and families or court of this state concerning persons working, regularly volunteering or residing in a child care facility. The secretary shall have access to these records for the purpose of determining whether or not the home meets the requirements of K.S.A. 59-2132, 65-503, 65-508 and 65-516, and amendments thereto.
+(e) In accordance with the provisions of this subsection, the secretary is authorized to conduct national criminal history record checks to determine criminal history on persons residing, working or regularly volunteering in a child care facility. In order to conduct a national criminal history check the secretary shall require fingerprinting for identification and determination of criminal history. The secretary shall submit the fingerprints to the Kansas bureau of investigation and to the federal bureau of investigation and receive a reply to enable the secretary to verify the identity of such person and whether such person has been convicted of any crime that would prohibit such person from residing, working or regularly volunteering in a child care facility. The secretary is authorized to use information obtained from the national criminal history record check to determine such person's fitness to reside, work or regularly volunteer in a child care facility.
+(f) Local and state law enforcement officers and agencies shall assist the secretary in taking and processing fingerprints of persons residing, working or regularly volunteering in a child care facility and shall release all records of adult convictions and nonconvictions and adult convictions or adjudications of another state or country to the department.
+(g) (1) The secretary shall adopt rules and regulations on or before January 1, 2019, to fix 12
+
+a fee for fingerprinting persons residing, working or regularly volunteering in a child care facility, as may be required by the department to reimburse the department for the cost of the fingerprinting.
+(2) The secretary shall remit all moneys received from the fees established under this section to the state treasurer in accordance with the provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt of each such remittance, the state treasurer shall deposit the entire amount in the state treasury to the credit of the child care criminal background and fingerprinting fund.
+(h) The child care criminal background and fingerprinting fund is hereby created in
+the state treasury to be administered by the secretary of health and environment. All moneys credited to the child care criminal background and fingerprinting fund shall be used to pay local and state law enforcement officers and agencies for the processing of fingerprints and criminal history background checks for the department. All expenditures from the child care criminal background and fingerprinting fund shall be made in accordance with appropriation acts upon warrants of the director of accounts and reports issued pursuant to vouchers approved by the secretary or by a person designated by the secretary.
+(i) The secretary shall notify the child care applicant or licensee, within seven days by certified mail with return receipt requested, when the result of the national criminal history record check or other appropriate review reveals unfitness specified in subsections (a)(1) through (8) with regard to the person who is the subject of the review.
+(j) No child care facility or the employees thereof, shall be liable for civil damages to any person refused employment or discharged from employment by reason of such facility's or home's compliance with the provisions of this section if such home acts in good faith to comply with this section.
+(k) For the purpose of subsection (a)(3), a person listed in the child abuse and neglect central registry shall not be prohibited from residing, working or volunteering in a child care facility unless such person has:
+(1) Had an opportunity to be interviewed and present information during the investigation of the alleged act of abuse or neglect; and
+(2) been given notice of the agency decision and an opportunity to appeal such decision to the secretary and to the courts pursuant to the Kansas judicial review act.
+(l) In regard to Kansas issued criminal history records:
+(1) The secretary of health and environment shall provide in writing information available to the secretary to each child placement agency requesting information under this section, including the information provided by the Kansas bureau of investigation pursuant to this section, for the purpose of assessing the fitness of
+13
+
+persons living, working or regularly volunteering in a family foster home under the child placement agency's sponsorship.
+(2) The child placement agency is considered to be a governmental entity and the designee of the secretary of health and environment for the purposes of obtaining, using and disseminating information obtained under this section.
+(3) The information shall be provided to the child placement agency regardless of whether the information discloses that the subject of the request has been convicted of any offense.
+(4) Whenever the information available to the secretary reveals that the subject of the request has no criminal history on record, the secretary shall provide notice thereof in writing to each child placement agency requesting information under this section.
+(5) Any staff person of a child placement agency who receives information under this subsection shall keep such information confidential, except that the staff person may disclose such information on a need-to-know basis to:
+(A) The person who is the subject of the request for information;
+(B) the applicant or operator of the family foster home in which the person lives, works or regularly volunteers;
+(C) the department of health and environment;
+(D) the Kansas department for children and families;
+(E) the department of corrections; and
+(F) the courts.
+(6) A violation of the provisions of subsection (l)(5) shall be an unclassified misdemeanor punishable by a fine of $100 for each violation.
+(m) No person shall maintain a day care facility unless such person is a high school graduate or the equivalent thereof, except where extraordinary circumstances exist, the secretary of health and environment may exercise discretion to make exceptions to this requirement. The provisions of this subsection shall not apply to any person who was maintaining a day care facility on the day immediately prior to July 1, 2010, or who had an application for an initial license or the renewal of an existing license pending on July 1, 2010.
+History: L. 1980, ch. 184, § 2; L. 1982, ch. 259, § 2; L. 1983, ch. 140, § 46; L. 1984, ch. 225, §1; L. 1985, ch. 210, § 1; L. 1987, ch. 233, § 1; L. 1988, ch. 232, § 10; L. 1991, ch. 185, § 1; L. 1994, ch. 279, § 15; L. 1996, ch. 229, § 117; L. 2002, ch. 114, § 74; L. 2006, ch. 169, § 116; L. 2007, ch. 147, § 1; L. 2009, ch. 32, § 53; L. 2010, ch. 74, § 13; L. 2010, ch. 155, § 18; L. 2011, ch. 30, § 235; L. 2012, ch. 99, § 5; L. 2012, ch. 166, § 10; L. 2014, ch. 115, § 254; L. 2017, ch. 41, § 2; L. 2018, ch. 47, § 1; July 1.
+14
+
+K.S.A. 65-523. Grounds for limitation, modification or suspension of license or temporary permit.
+The secretary may limit, modify or suspend any license or temporary permit issued under the provisions of K.S.A. 65-501 through 65-516, and amendments thereto, upon any of the following grounds and in the manner provided in this act:
+(a) Violation by the licensee or holder of a temporary permit of any provision of this act or of the rules and regulations promulgated under this act;
+(b) aiding, abetting or permitting the violating of any provision of this act or of the rules and regulations promulgated under this act;
+(c) conduct in the operation or maintenance, or both the operation and maintenance, of a maternity center or child care facility which is inimical to the health, safety or welfare of any woman or child receiving services from such maternity center or child care facility, or the public;
+(d) the conviction of a licensee or holder of a temporary permit, at any time during licensure or during the time the temporary permit is in effect, of crimes as defined in K.S.A. 65- 516, and amendments thereto; and
+(e) a third or subsequent violation by the licensee or holder of a temporary permit of subsection (b) of K.S.A. 65-530, and amendments thereto.
+History: L. 1985, ch. 209, § 3; L. 1994, ch. 279, § 20; L. 2010, ch. 161, § 11; L. 2012, ch. 99, § 6; July 1.
+K.S.A. 65-524. Suspension, limitation or modification of license or temporary permit prior to hearing; procedure.
+The secretary may limit, modify or suspend any license or temporary permit issued under the provisions of K.S.A. 65-501 through 65-516, and amendments thereto, prior to any hearing when, in the opinion of the secretary, the action is necessary to protect any child in the child care facility from physical or mental abuse, abandonment or any other substantial threat to health, safety or welfare. Administrative proceedings under this section shall be conducted in accordance with the emergency adjudicative proceedings of the Kansas administrative procedure act and in accordance with other relevant provisions of the Kansas administrative procedure act.
+History: L. 1985, ch. 209, § 4; L. 1994, ch. 279, § 21; L. 2010, ch. 161, § 12; L. 2012, ch. 99, § 7; July 1.
+K.S.A. 65-525. Disclosure of certain information prohibited, exceptions; consent to disseminate certain information required.
+(a) Records in the possession of the department of health environment or its agents regarding child care facilities or maternity centers shall not be released publicly in a manner that would identify individuals, except individual names of licensees, applicants, facilities and
+15
+
+maternity centers may be released. Nothing in this section prohibits release of any information as required by law.
+(b) Records in the possession of the department of health and environment or its agents regarding child care facilities or maternity centers may be released to:
+(1) An agency or organization authorized to receive notice under K.S.A. 65-506, and amendments thereto;
+(2) any local, state or federal government entity or subdivison thereof;
+(3) any child and adult care food program sponsoring agency; or
+(4) any disaster or emergency entity.
+(c) The secretary of health and environment shall prohibit the release of the name, address and telephone number of a maternity center or child care facility when the secretary determines that prohibition of the release of the information is necessary to protect the health, safety or welfare of the public or the patients or children enrolled in the maternity center or child care facility.
+(d) Any records under subsection (a), (b) or (c) shall be available to any member of the standing committee on appropriations of the house of representatives or the standing committee on ways and means of the senate carrying out such member's or committee's official functions in accordance with K.S.A. 75-4319, and amendments thereto, in a closed or executive meeting. Except in limited conditions established by 2/3 of the members of such committee, records received by the committee shall not be further disclosed. Unauthorized disclosure may subject such member to discipline or censure from the house of representatives or senate. Such records shall not identify individuals but shall include data and contract information concerning specific facilities.
+(e) In any hearings conducted under the licensing or regulation provisions of K.S.A. 65-501 et seq., and amendments thereto, the presiding officer may close the hearing to the public to prevent public disclosure of matters relating to persons restricted by other laws.
+History: L. 1985, ch. 201, § 1; L. 1996, ch. 229, § 157; L. 2000, ch. 127, § 2; L. 2001, ch. 190, § 1; L. 2004, ch. 145, § 19; L. 2010, ch. 161, § 13; July 1, 2011.
+K.S.A. 65-526. Civil fine assessed against licensee; limitations.
+(a) The secretary of health and environment, in addition to any other penalty prescribed under article 5 of chapter 65 of the Kansas Statutes Annotated, and amendments thereto, may assess a civil fine, after proper notice and an opportunity to be heard in accordance with the Kansas administrative procedure act, against a licensee for each violation of such provisions or rules and regulations adopted pursuant thereto which affect significantly and adversely the health, safety or sanitation of children in a child care facility. Each civil fine assessed under this section shall not exceed $500. In the case of a continuing violation, every day such violation continues shall be deemed a separate violation.
+16
+
+(b) All fines assessed and collected under this section shall be remitted to the state treasurer in accordance with the provisions of K.S.A. 75-4215, and amendments thereto. Upon receipt of each such remittance, the state treasurer shall deposit the entire amount in the state treasury to the credit of the state general fund.
+History: L. 1988, ch. 239, § 3; L. 1994, ch. 279, § 22; L. 1999, ch. 19, § 1; L. 2001, ch. 5, § 219; L. 2004, ch. 145, § 20; L. 2010, ch. 161, § 14; July 1.
+K.S.A. 65-527. Drop-in programs and school-age programs in schools and public recreation centers; licensing of.
+(a) As used in this section:
+(1) "Drop-in program" means a child care facility that is not located in an individual’s residence, that serves exclusively school-age children and youth and where the operator permits children and youth to arrive at and depart from the program at the child or youth's own volition at unscheduled times.
+(2) "Public recreation center" means any building used by a political or taxing subdivision of this state, or by an agency of such subdivision, for recreation programs that serve children who are less than 18 years of age.
+(3) "School" means any building used for instruction of students enrolled in kindergarten or any of the grades one through 12 by a school district or an accredited nonpublic school.
+(4) "School-age program" means a child care facility that serves exclusively school- age children and youth but does not include a drop-in program.
+(b) No license for a drop-in program or school-age program shall be denied, suspended or revoked on the basis that the building does not meet requirements for licensure if the building:
+(1) Is a public recreation center or school and is used by school-age children and youth the same age as children and youth cared for in the drop-in program or school-age program;
+(2) complies, during all hours of operation of the drop-in program or school-age program, with the Kansas fire prevention code or a building code that is by law deemed to comply with the Kansas fire prevention code; and
+(3) complies, except as provided in subsection (c), during all hours of operation of the drop-in program or school-age program, with all local building code provisions that apply to recreation centers, if the building is a public recreation center, or schools, if the building is a school.
+17
+
+(c) If the standards that a building is required to comply with pursuant to subsections (b)(2) and (b)(3) conflict or are otherwise inconsistent, then the standards provided by subsection (b)(2) shall control.
+(d) No license for a drop-in program or school-age program that operates in accordance with subsection (b)(1) shall be denied, suspended or revoked based on an environmental deficiency if:
+(1) The environmental deficiency does not pose an imminent risk to children and youth;
+(2) the environmental deficiency is outside the applicant's or licensee's immediate authority to correct; and
+(3) the applicant or licensee has notified the public recreation center or school of the environmental deficiency.
+History: L. 1992, ch. 125, § 1; L. 2018, ch. 30, § 1; July 1.
+K.S.A. 65-528. Child care policy of state; desired outcome.
+(a) The desired outcome of the child care policy of the state of Kansas is that families be able to fulfill their roles as primary child care givers and educators of young children by having access to high quality, affordable child care. The following principles shall guide development and implementation of state policy to achieve that outcome:
+(1) Family self-sufficiency. A stable source of child care is a critical ingredient to economic self-sufficiency. Child care policies and programs must facilitate a smooth transition into the work force for parents and a rich and stable environment for children.
+(2) Investment in children. Child care is a critical investment that affects a child's readiness to learn. High quality child care programs recognize and implement good early childhood practices.
+(3) Consumer orientation and education. Child care policies and programs must be responsive to the changing needs of families and educate families about available options, identifying quality programs and selecting appropriate care.
+(4) Accessibility. High quality child care must be available to any family seeking care regardless of where the family lives or the special needs of the child. A centralized place in local communities must be available to facilitate parents' access to child care.
+(5) Affordability. High quality child care must be available on a sliding scale basis, with families contributing based on ability to pay.
+18
+
+(6) Diversity. It is the goal of the state to strive wherever possible to provide child care in an integrated setting where children with various needs and of various income levels and cultures are cared for together.
+(7) Efficient, coordinated administration and support for infrastructure. Child care programs must be coordinated to ensure the most effective use of federal, state, local and private funds. State child care agencies and policies must support the orderly development of a high quality child care system working with local and private providers.
+(b) Any state agency involved in implementing any part of the state's child care policy shall develop appropriate measures of progress toward achievement of the stated
+outcome under the oversight of the joint committee on children and families in accordance with K.S.A. 46-2001 et seq. and amendments thereto.
+History: L. 1994, ch. 279, § 1; July 1.
+K.S.A. 65-529. Continuation of effect of license, registration or permit.
+Any license, certificate of registration or temporary permit which was issued prior to the effective date of this act and which is in effect on the effective date of this act shall continue in effect until the expiration thereof, unless suspended or revoked prior to such time.
+History: L. 1994, ch. 279, § 23; July 1.
+K.S.A. 65-530. Smoking prohibited in day care homes.
+(a) As used in this section:
+(1) “Day care home” means a day care home as defined under Kansas administrative regulation 28-4-113 and a group day care home as defined under Kansas administrative regulation 28-4-113.
+(2) “Smoking” means possession of a lighted cigarette, cigar, pipe or burning tobacco in any other form or device designed for the use of tobacco.
+(b) Smoking within any room, enclosed area or other enclosed space of a facility or facilities of a day care home during a time when children who are not related by blood, marriage or legal adoption to the person who maintains the home are being cared for, as part of the operation of the day care home, within the facility or facilities is hereby prohibited. Nothing in this subsection shall be construed to prohibit smoking on the premises of the day care home outside the facility or facilities of a day care home, including but not limited to porches, yards or garages.
+(c) Each child care license shall contain a statement in bold print that smoking is prohibited within a room, enclosed area or other enclosed space of the facility or facilities of the day care home under the conditions specified in subsection (b). The statement shall be phrased in substantially the same language as subsection (b). The license shall be posted in a conspicuous place in the facility or facilities.
+19
+
+(d) Each day care home shall be equipped with a fire extinguisher which shall be maintained in an operable condition in a readily accessible location.
+(e) The secretary of health and environment may levy a civil fine under K.S.A. 65-526, and amendments thereto, against any day care home for a first or second violation of this section. A third or subsequent violation shall be subject to the provisions of K.S.A. 65-523, and amendments thereto.
+(f) In addition to any civil fine which may be levied pursuant to subsection (d), any day care home that violates any provision of this section may also be subject to criminal punishment pursuant to K.S.A. 21-4012 and amendments thereto.
+History: L. 1994, ch. 279, § 26; L. 2010, ch. 8, § 7; L. 2011, ch. 91, § 28; July 1.
+K.S.A. 65-531. Immunization information and records; disclosure. On and after July 1,
+1996:
+(a) Except as provided further, information and records which pertain to the immunization status of persons against childhood diseases as required by K.S.A. 65-508, and amendments thereto, may be disclosed and exchanged without a parent or guardian's written release authorizing such disclosure, to the following, who need to know such information to assure compliance with state statutes or to achieve age appropriate immunization status for children:
+(1) Employees of public agencies or departments;
+(2) health records staff of child care facilities, including, but not limited to, facilities licensed by the secretary of health and environment;
+(3) persons other than public employees who are entrusted with the regular care of those under the care and custody of a state agency including, but not limited to, operators of day care facilities, group homes, residential care facilities and adoptive or foster homes; and
+(4) health care professionals.
+(b) Notwithstanding K.S.A. 60-427, and amendments thereto, or any other Kansas statute which provides for privileged information between a patient and a health care provider, there shall be no privilege preventing the furnishing of information and records as authorized by this section by any health care provider.
+(c) Information and records which pertain to the immunization status of persons against childhood diseases as required by K.S.A. 65-508, and amendments thereto, whose parent or guardian has submitted a written statement of religious objection to immunization as provided in K.S.A. 65-508, and amendments thereto, may not be disclosed or exchanged without a parent or guardian's written release authorizing such disclosure.
+History: L. 1996, ch. 229, § 156; L. 2010, ch. 161, § 16; July 1. 20
+
+K.S.A. 65-532. Lexie's law. The changes to law in this act shall be known as Lexie's law. History: L. 2010, ch. 161, § 1; July 1.
+K.S.A. 65-534. Online information dissemination system; rules and regulations.
+On or before July 1, 2011, the secretary of health and environment shall establish or cause to be established an online information dissemination system that is accessible to the public, including names of licensees, applicants and history of citations and substantiated findings. The secretary of health and environment shall adopt rules and regulations which are consistent with the requirements for the receipt of child care ARRA funds and which provide for the establishment of an online information dissemination system in accordance with the provisions of this subsection. The notice of hearing on the initial rules and regulations proposed to be adopted under this subsection shall be published in the Kansas register after February 14, 2011, but prior to March 11, 2011.
+History: L. 2010, ch. 161, § 18; July 1.
+K.S.A. 65-535. Staff secure facility; requirements; services; rules and regulations.
+(a) A staff (1)
+(2)
+(3) (4) (5) (6) (7)
+secure facility shall:
+Not include construction features designed to physically restrict the movements and activities of residents, but shall have a design, structure, interior and exterior environment, and furnishings to promote a safe, comfortable and therapeutic environment for the residents;
+implement written policies and procedures that include the use of a combination of supervision, inspection and accountability to promote safe and orderly operations;
+rely on locked entrances and delayed-exit mechanisms to secure the facility, and implement reasonable rules restricting entrance to and egress from the facility;
+implement written policies and procedures for staff monitoring of all facility entrances and exits;
+implement written policies and procedures for the screening and searching of both residents and visitors;
+implement written policies and procedures for knowing the whereabouts of all residents at all times and for handling runaways and unauthorized absences; and
+implement written policies and procedures for determining when the movements and activities of individual residents may, for treatment purposes, be restricted or subject to control through the use of intensive staff supervision.
+(b) A staff
+facility, as appropriate, for the duration of the placement:
+secure facility shall provide the following services to children placed in such
+21
+
+(1) Case management;
+(2) life skills training;
+(3) health care;
+(4) mental health counseling;
+(5) substance abuse screening and treatment; and
+(6) any other appropriate services.
+(c) Service providers in a staff secure facility shall be trained to counsel and assist victims of human trafficking and sexual exploitation.
+(d) A staff secure facility may be on the same premises as that of another licensed facility. If the staff secure facility is on the same premises as that of another licensed facility, the living unit of the staff secure facility shall be maintained in a separate, self-contained unit. No staff secure facility shall be in a city or county jail.
+(e) The secretary for children and families, in consultation with the attorney general, shall promulgate rules and regulations to implement the provisions of this section on or before January 1, 2017.
+(f) This section shall be part of and supplemental to article 5 of chapter 65 of the Kansas Statutes Annotated, and amendments thereto.
+History: L. 2013, ch. 120, § 6; L. 2014, ch. 28, § 7; L. 2016, ch. 102, § 20; July 1. OTHER RELATED LAWS
+Chapter 72. SCHOOLS
+Article 82. ORGANIZATION, POWERS AND FINANCES OF BOARDS OF EDUCATION
+K.S.A. 72-1421. Child care facilities; authority to establish, operate, and maintain; fees, collection and disposition.
+(a) The board of education of any school district may:
+(1) Establish, operate and maintain a child care facility;
+(2) enter into cooperative or interlocal agreements with one or more other boards for the establishment, operation and maintenance of a child care facility;
+(3) contract with private, nonprofit corporations or associations or with any public or private agency or institution, whether located within or outside the state, for the establishment, operation and maintenance of a child care facility; and
+22
+
+(4) prescribe and collect fees for providing care at a child care facility.
+(b) Fees for providing care at a child care facility established under authority of this section shall be prescribed and collected only to recover the costs incurred as a result of and directly attributable to the establishment, operation and maintenance of the child care facility. Revenues from fees collected by a board under this section shall be deposited in the general fund of the school district and shall be considered reimbursements to the district for the purpose of the Kansas school equity and enhancement act, K.S.A. 2017 Supp. 72-5131 et seq., and amendments thereto, and may be expended whether the same have been budgeted or not and amounts so expended shall not be considered operating expenses.
+(c) Every school district which establishes, operates and maintains a child care facility shall be subject to the provisions contained in article 5 of chapter 65 of Kansas Statutes Annotated, and amendments thereto.
+(d) As used in this section, the term “child” means any child who is three years of age or older, and any infant or toddler whose parent or parents are pupils or employees of a school district which establishes, operates and maintains, or cooperates in the establishment, operation and maintenance of, a child care facility under authority of this act.
+History: L. 1993, ch. 186, § 1; L. 2015, ch. 4, § 53; July 1; L. 2017, ch. 95, § 81; July 1. K.S.A. 72-3238. Summer programs; establishment; fees, limitation; summer program
+fund; use of money.
+(a) The board of education of any school district may:
+(1) Establish, operate and maintain a summer program for pupils;
+(2) enter into cooperative or interlocal agreements with one or more other boards of education for the establishment, operation and maintenance of a summer program for pupils; and
+(3) prescribe and collect fees for providing a summer program for pupils or provide such program without charge.
+(b) Fees for providing a summer program for pupils shall be prescribed and collected only to recover the costs incurred as a result of and directly attributable to the establishment, operation and maintenance of the program.
+(c) No school district may collect fees for providing a summer program for pupils required to attend such a program in accordance with the provisions of law, rules and regulations of the state board of education, policy of the board of education, or an individualized education plan developed for an exceptional child.
+23
+
+(d) There is hereby established in every district which establishes, operates and maintains a summer program a fund which shall be called the summer program fund, which fund shall consist of all moneys deposited therein or transferred thereto according to law. All moneys received by a district from fees collected under this section or from any other source for summer programs shall be credited to the summer program fund. Amounts deposited in the summer program fund may be used for the payment of expenses directly attributable to the program or may be transferred to the general fund of the school district as approved by the board of education.
+(e) As used in this section, the term “summer program” means a program which is established by the board of education of a school district and operated during the summer months for the purpose of giving remedial instruction to pupils or for the purpose of conducting special projects and activities designed to enrich and enhance the educational experience of pupils, or for both such purposes.
+History: L. 1993, ch. 264, § 15; L. 2011, ch. 107, § 12; L. 2012, ch. 155, § 14; L. 2013, ch. 121, § 13; L. 2015, ch. 4, § 54; July 1.
+K.S.A. 72-3239. Extraordinary school programs; authority to establish, operate and maintain; fees, collection, limitations, disposition; fund.
+(a) The board of education of any school district may:
+(1) Establish, operate and maintain an extraordinary school program for pupils who meet the district's criteria for attendance of such programs;
+(2) enter into cooperative or interlocal agreements with one or more other boards of education for the establishment, operation and maintenance of an extraordinary school program for pupils; and
+(3) prescribe and collect fees for providing an extraordinary school program for pupils or provide such program without charge.
+(b) Fees for providing an extraordinary school program for pupils shall be prescribed and collected only to recover the cost incurred as a result of and directly attributable to the establishment, operation and maintenance of the program.
+(c) No school district may collect fees for providing an extraordinary school program for pupils who are required to attend such a program in accordance with the provisions of law, rules and regulations of the state board of education, policy of the board of education, or an individualized education plan developed for an exceptional child or who are eligible for free or reduced price meals under the national school lunch act.
+(d) There is hereby established in every district which establishes, operates and maintains an extraordinary school program a fund which shall be called the extraordinary school program fund, which fund shall consist of all moneys deposited therein or transferred thereto according to law. All moneys received by a district from fees collected under this section or from any other source for extraordinary school programs shall be credited to
+24
+
+the extraordinary school program fund. The expenses of a district directly attributable to extraordinary school programs shall be paid from the extraordinary school program fund.
+(e) As used in this section, the term “extraordinary school program” means a program which is established by the board of education of a school district, operated before or after regular school hours during the regular school term, and maintained for any or all of the following purposes:
+(1) Providing pupils with additional time to achieve learner exit or improvement plan outcomes;
+(2) giving pupils remedial instruction or independent study assistance;
+(3) affording pupils an opportunity to strengthen or attain mastery of basic or higher order thinking skills; and
+(4) conducting special projects and activities designed to enrich and enhance the educational experience of pupils.
+History: L. 1994, ch. 310, § 1; July 1.
+25
+
+GENERAL REGULATION
+K.A.R. 28-4-92. License fees. When an applicant or licensee submits an application for a license or for the renewal of a license, the applicant or licensee shall submit to the secretary the appropriate nonrefundable license fee specified in this regulation:
+(a) For each maternity center as defined in K.S.A. 65-502 and amendments thereto, $75;
+(b) for each child placement agency as defined in K.S.A. 65-503 and amendments thereto, $75;
+(c) for each child care resource and referral agency as defined in K.S.A. 65-503 and amendments thereto, $75;
+(d) for each of the following child care facilities, $75 plus $1 times the maximum number of children to be authorized under the license:
+(1) Day care home or group day care home, as defined in K.A.R. 28-4-113; and
+(2) child care center, as defined in K.A.R. 28-4-420; and
+(e) for each of the following child care facilities with a license capacity of 13 or more children, $35 plus $1 for each child included in the license capacity, with the total not to exceed $75, and for each of the following child care facilities with a license capacity of 12 or fewer children, $15:
+(1) Attendant care facility, as defined in K.A.R. 28-4-285;
+(2) detention center or secure care center, as defined in K.A.R. 28-4-350;
+(3) preschool, as defined in K.A.R. 28-4-420;
+(4) psychiatric residential treatment facility, as defined in K.A.R. 28-4-1200;
+(5) residential center or group boarding home, as defined in K.A.R. 28-4-268; and
+(6) secure residential treatment facility, as defined in K.A.R. 28-4-330.
+(Authorized by and implementing K.S.A. 65-505, as amended by L. 2010, ch. 161, sec. 6; effective, T-83-24, Aug. 25, 1982; effective May 1, 1983; amended, T-86-46, Dec. 18, 1985; amended May 1, 1986; amended, T-87-22, Aug. 21, 1986; amended May 1, 1987; amended, T-28-8-16-10, Aug. 16, 2010; amended Dec. 17, 2010.)
+26
+
+GENERAL REGULATION
+K.A.R. 28-4-93. Online information dissemination system. This regulation shall apply to the department’s online information dissemination system for child care facilities, as defined in K.S.A. 65-503 and amendments thereto.
+(a) Definitions. The following terms shall have the meanings specified in this regulation:
+(1) “Applicant” means a person who has applied for a license to operate a child care facility but who has not yet been granted the license.
+(2) “Applicant with a temporary permit” means a person who has been granted a temporary permit to operate a child care facility.
+(3) “Department” means Kansas department of health and environment.
+(4) “Licensee” means a person who has been granted a license to operate a child care facility.
+(5) “Online information dissemination system” means the electronic database of the department that is accessible to the public.
+(b) Identifying information. Each applicant, each applicant with a temporary permit, and each licensee that wants the department to display the address and the telephone number of the child care facility on the online information dissemination system shall notify the department on a form provided by the department.
+(Authorized by and implementing K.S.A. 2010 Supp. 65-534; effective Feb. 3, 2012.)
+27
+
+GENERAL REGULATION
+   K.A.R. 28-4-95.
+(b) for each school-age program, each individual specified in K.A.R. 28-4-584; and
+(c) for each drop-in program, each individual specified in K.A.R. 28-4-705.
+(Authorized by and implementing K.S.A. 65-516; effective Nov. 26, 2018.)
+Fee for fingerprint-based background checks.
+Each applicant, applicant
+ with a temporary permit, and licensee shall submit a nonrefundable fee of $48 to the department
+ for the cost of each required fingerprint-based background check, as follows:
+ (a) For each day care home, group day care home, child care center, and preschool, each
+ individual specified in K.A.R. 28-4-125;
+   28
+
+GENERAL REGULATIONS FOR LICENSED DAY CARE HOMES, GROUP DAY CARE HOMES, CHILD CARE CENTERS, PRESCHOOLS, RESIDENTIAL CENTERS AND GROUP BOARDING HOMES
+K.A.R. 28-4-122. General regulations for family day care homes and child care facilities. K.A.R. 28-4-123 through 28-4-132 shall apply to the following:
+(a) Family day care home as defined in K.S.A. 65-517, and amendments thereto;
+(b) day care home and group day care home as defined in K.A.R. 28-4-113;
+(c) preschool and child care center as defined in K.A.R. 28-4-420; and
+(d) residential center and group boarding home as defined in K.A.R. 28-4-268.
+(Authorized by and implementing K.S.A. 65-508 and 65-522; effective, T-86-46, Dec. 18, 1985; effective May 1, 1986; amended March 28, 2008.)
+K.A.R. 28-4-123. Parental access to child care facilities. Each parent or guardian of a child enrolled in a day care facility or preschool as defined in K.S.A. 65-517, K.A.R. 28-4-113 or K.A.R. 28-4-420 shall have access to the premises during all hours of operation. Each residential facility as defined in K.A.R. 28-4-311 and K.A.R. 28-4-268 shall develop a plan for parental visitation in cooperation with the legal custodian if different from the parent.
+(Authorized by and implementing K.S.A. 65-508 and K.S.A. 65-522; effective, T-86-46, Dec. 18, 1985; effective May 1, 1986.)
+K.A.R. 28-4-124. Parental permission for children to go off-premises. Each day care facility as defined in K.A.R. 28-4-113, K.A.R. 28-4-420 and K.S.A. 65-517, and any amendments to it shall obtain a signed parental permission for each location to which children go off of the premises on a form supplied by the department of health and environment. The destination, the time children leave the child care facility, the adults responsible for the children while off premises, and the estimated time of return shall be posted in a place accessible to parents.
+(Authorized by and implementing K.S.A. 65-508 and 65-522; effective, T-86-46, Dec. 18, 1985; effective May 1, 1986; amended Feb. 26, 1990.)
+K.A.R. 28-4-125. Background checks. Each applicant, applicant with a temporary permit, and licensee shall meet the following requirements:
+(a) Submit to the department the identifying information necessary to complete background checks for each individual who works or regularly volunteers in the facility, each individual at least 10 years of age who resides in the facility, and any other individual in the facility whose activities involve either supervised or unsupervised access to children. The identifying information shall be submitted as follows:
+(1) When submitting an application for a license; 29
+
+(2) when submitting an application to renew a license; and
+(3) before allowing any individual to work, regularly volunteer, or reside in the facility and before allowing any individual whose activities involve either supervised or unsupervised access to children to be in the facility;
+(b) ensure that fingerprint-based background checks are completed for each of the following:
+(1) The applicant;
+(2) the applicant with a temporary permit;
+(3) the licensee;
+(4) each provider in a day care home or group day care home;
+(5) each individual at least 18 years of age who resides in a day care home or group day care home;
+(6) each employee in a preschool or child care center;
+(7) each volunteer counted in the staff-child ratio; and
+(8) any other individual regularly in the facility if the individual’s activities involve unsupervised access to children;
+(c) ensure that the information submitted for each individual specified in subsection (b) includes the required information for background checks from each state of residence throughout the five-year period before allowing the individual to work, regularly volunteer, or reside in the facility;
+(d) ensure that name-based background checks by the Kansas bureau of investigation and the Kansas department for children and families are completed for each of the following:
+(1) Each individual at least 10 years of age who resides in a day care home or group day care home;
+(2) each volunteer who is not counted in the staff-child ratio and whose activities do not involve unsupervised access to children;
+(3) each student of an accredited secondary or postsecondary school who is at least 16 years of age and who is participating in an educational experience arranged by the school, if the student is not counted in the staff-child ratio and does not have unsupervised access to children; and
+(4) any other individual regularly in the facility whose activities do not involve unsupervised access to children; and
+30
+
+(e) ensure that no individual works, regularly volunteers, or resides in the facility until the results of the individual’s background checks verify that the individual is not prohibited from working, regularly volunteering, or residing in a facility pursuant to K.S.A. 65-516, and amendments thereto.
+(Authorized by K.S.A. 2017 Supp. 65-508; implementing K.S.A. 2017 Supp. 65-508 and 65-516; effective, T-86-46, Dec. 18, 1985; effective May 1, 1986; amended Feb. 26, 1990; amended
+June 7, 2018.)
+K.A.R. 28-4-126. Health of Persons 16 years or older in child care facilities.
+(a) (1)
+Each person caring for children shall be free from physical, mental or emotional handicaps as necessary to protect the health, safety and welfare of the children, and shall be qualified by temperament, emotional maturity, sound judgment, and an understanding of children.
+(b) (1)
+Each person regularly caring for children shall have a health assessment conducted by a licensed physician or by a nurse trained to perform health assessments. The health assessment shall be conducted no earlier than one year before the date of employment or initial application for a license or certificate of registration, or not later than 30 days after the date of employment or initial application.
+(2) Persons in contact with children shall not be in a state of impaired ability due to the use of alcohol or drugs.
+(2) Each substitute in a day care facility as defined in K.A.R. 28-4-113 or K.S.A. 65- 517 shall be exempt from K.A.R. 28-4-126(b)(1).
+(c) Tuberculin testing.
+(1) Each person living, working or regularly volunteering in the facility shall have a record of a negative tuberculin test or x-ray obtained not more than two years before the employment or initial application for a license or certificate of registration or not later than 30 days after the date of employment or initial application.
+(2) Additional tuberculin testing shall be required if significant exposure to an active case of tuberculosis occurs, or symptoms compatible with tuberculosis develop. Proper treatment or prophylaxis shall be instituted, and results of the follow-up shall be recorded on the person's health record. The Kansas department of health and environment shall be informed of each case described within this paragraph.
+(d) Results of the health assessment and tuberculin test shall be recorded on forms supplied by the Kansas department of health and environment and kept on file at the facility. Health assessment records may be transferred to a new place of employment if the transfer occurs within one year of previous employment.
+31
+
+(e) Each resident 16 years or older in a residential facility as defined in K.A.R. 28-4-268 shall meet the requirements in K.A.R. 28-4-126(b), (c) and (d).
+(Authorized by and implementing K.S.A. 65-508 and K.S.A. 65-522; effective May 1, 1986; amended Feb. 26, 1990.)
+K.A.R. 28-4-127. Emergencies.
+(a) A working telephone shall be on the premises. Emergency telephone numbers shall be posted next to the telephone for the police, fire department, ambulance, hospital or hospitals, and poison control center.
+(b) Emergency medical treatment.
+(1) Each facility shall have on file at the facility for each child:
+(A) written permission of the parent, guardian, or legal custodian for emergency medical treatment on a form that meets the requirements of the hospital or clinic where emergency medical care will be given; and
+(B) the name, address and telephone number of a physician to be called in case of emergency.
+(2) Residential facilities providing emergency care shall be exempt from K.A.R. 28- 4-127(b)(l)(A).
+(3) Provisions shall be made at a hospital or clinic for emergency treatment for children.
+(c) Health assessment forms and emergency release forms shall be taken to the emergency room with the child.
+(d) When a staff member accompanies a child to the source of emergency care, that person shall remain with the child unless or until a parent or parent's designee assumes responsibility for the child. Such an arrangement shall not compromise the supervision of the other children in the facility.
+(e) Reporting illnesses and injuries:
+(1) (A) Residential facilities shall have on file at the facility written policies on reporting of illnesses and injuries of adults and children.
+(B) The policies shall be approved by the licensing agency.
+(2) Day care facilities shall report immediately to the parent or guardian each illness or injury of a child which requires medical attention.
+(3) Communicable diseases shall be reported to the county health department by the next working day.
+32
+
+(f) Any injury or illness which results in the death of a child in care shall be reported by the next working day to the county health department or the Kansas department of health and environment.
+(Authorized by and implementing K.S.A. 65-508 and 65-522; effective May 1, 1986; amended May 1, 1987; amended Feb. 26, 1990.)
+K.A.R. 28-4-128. Safety procedures.
+(a) Each facility shall develop an emergency plan to provide for the safety of children and staff in emergencies such as fire, tornadoes, storms, floods, and serious injury.
+(b) Each emergency plan shall be posted in a conspicuous place in the facility. Staff in day care facilities shall review the plan with parents of children enrolled.
+(c) Each person responsible for the children, including each substitute, shall be informed of and shall follow the emergency plans.
+(d) A fire drill shall be conducted monthly and scheduled to allow participation by each child. Each date and time shall be recorded.
+(e) A tornado drill shall be conducted monthly, April through September, and scheduled to allow participation by each child. Each date and time shall be recorded.
+(f) Each person regularly caring for children shall have first-aid training. Documentation of the training shall be on file at the facility.
+(Authorized by and implementing K.S.A. 65-508 and K.S.A. 65-522; effective May 1, 1986; amended Feb. 26, 1990.)
+K.A.R. 28-4-129. Swimming and wading activities.
+(a) Swimming and wading pools on the premises.
+(1) If swimming pools with water over 24 inches deep, wading pools, or hot tubs are on the premises, they shall be constructed, maintained, and used in such a manner as to safeguard the lives and health of the children.
+(2) The number and ages of children using either swimming or wading pools shall be limited to allow appropriate supervision by adult staff members.
+(3) Required staff/child ratios shall be maintained at all times that children are involved in swimming or wading activities.
+(4) Legible safety rules for the use of swimming pools shall be posted in a conspicuous location, and shall be read and reviewed weekly by each staff member responsible for the supervision of children.
+33
+
+(b) Swimming pools on the premises.
+(1) Below-ground swimming pools shall be enclosed by a fence not less than five feet high to prevent chance access by children.
+(2) Above-ground swimming pools shall be four feet high, or shall be enclosed with a fence not less than five feet high. Steps shall be removed from the pool when the pool is not in use.
+(3) Sensors shall not be used in lieu of a fence.
+(4) Water in the swimming pool shall be maintained between pH 7.2 and pH 8.2. Available free chlorine content shall be between 0.4 and 3.0 parts per million.
+The pool shall be cleaned daily, and the chlorine level and pH level shall be tested daily. The results of these tests shall be recorded and available.
+(5) A person with a lifesaving certificate or a person with training in CPR who can swim shall be in attendance when children are using a swimming pool.
+(6) Each swimming pool more than six feet in width, length, or diameter shall be provided with a ring buoy and rope or shepherd's hook. Such equipment shall be of sufficient length to reach the center of the pool from its edge.
+(c) Wading pools on the premises.
+(1) Children shall never be permitted to play without supervision in areas where there is a wading pool containing water.
+(2) Water in wading pools shall be emptied daily.
+(d) Hot tubs or spas on the premises.
+(1) Each hot tub or spa shall be covered with an insulated cover secured by straps or locks.
+(2) Children in day care facilities shall not be permitted to use hot tubs. Children in residential facilities shall be permitted to use hot tubs when medically indicated.
+(e) Ponds and lakes may be used only for children over six years of age, and shall be approved for swimming by the county health department or Kansas department of health and environment or like departments in other states. Required staff/child ratios shall be maintained at all times, and a certified life guard shall be on duty.
+(Authorized by and implementing K.S.A. 65-508 and 65-522; effective May 1, 1986; amended Feb. 26, 1990.)
+34
+
+K.A.R. 28-4-130. Transportation.
+(a) Facility-owned or leased vehicles.
+(1) When a vehicle used for transportation of children is owned or leased by the facility, the driver shall be 18 years of age or older, and shall hold an operator's license of a type appropriate for the vehicle being used. Trailers pulled by another vehicle, camper shells or truck beds shall not be used for transportation of children.
+(2) (A)
+Each transporting vehicle shall be maintained in safe operating condition.
+(B) The transporting vehicle shall have a yearly mechanical safety check of tires, lights, windshield, wipers, horn, signal lights, steering, suspension, glass, brakes, tail lights, exhaust system, and outside mirror. A record of the date of the annual safety check and corrections made shall be kept on file at the facility.
+(3) The vehicle shall be covered by accident and liability insurance in amount of not less than $100,000 for personal injury or death in any one accident, $300,000 for injury or death to two or more persons in any one accident; and $50,000 for loss to property of others.
+(4) (A)
+Emergency release forms and health assessment records shall be in the vehicle when children are transported. Residential facilities shall be exempt from K.A.R. 28-4-130(a)(4)(A) unless children are being transported more than 60 miles from the facility, or if children are in emergency care.
+(B) A first-aid kit shall be in the transporting vehicle and shall include band- aids of all sizes; adhesive tape; a roll of gauze; scissors; one package of 4x4 inch gauze squares; a cleansing agent; and one elastic bandage.
+(5) Each vehicle shall be equipped with an individual restraint for each child as follows:
+(A) An infant unable to sit up without support shall be provided with an infant car carrier which faces the rear.
+(B) A child able to sit up without support shall be provided with one of the following restraints:
+(i) A shield-type device;
+(ii) a car seat facing the front that is designed to hold a child weighing up to 40 pounds; or
+(iii) a safety harness.
+35
+
+(C) A child four years of age or older, or weighing 40 pounds or more, shall have a lap belt. Shoulder straps shall be used if they do not cross the child's neck or face.
+(D) Not more than one child shall be restrained in each lap belt.
+(E) Buses of the type used by schools shall not be required to be equipped with individual restraints if the buses are used to transport only school-age children.
+(6) The safety of the children riding in the vehicle shall be protected as follows:
+(A) All doors except the front door on the driver's side shall be locked while the vehicle is in motion.
+(B) Discipline shall be maintained at all times.
+(C) All parts of the child's body shall remain inside the vehicle at all times.
+(D) Children shall neither enter nor exit the vehicle into a lane of traffic.
+(E) Children under 10 years of age shall not be left in a vehicle unattended by an adult. When the vehicle is vacated, the driver shall make certain no child is left in the vehicle.
+(F) Smoking in the vehicle shall be prohibited while children are being transported.
+(G) (i) Day care facilities defined by K.S.A. 65-517, K.A.R. 28-4-113 and K.A.R. 28-4-420 shall maintain applicable staff/child ratios.
+(ii) Residential facilities as defined by K.A.R. 28-4-268 and K.A.R. 28-4-311 shall maintain applicable staff/child ratios when children under six are being transported.
+(H) The driver shall transport the child to the intended location, person, agency or institution as designated by the child's parent or legal guardian, or by the agency person in charge.
+(b) Vehicles owned by staff or volunteers.
+(1) When a vehicle used for transportation of children is owned by staff or volunteers the vehicle shall be covered by accident and liability insurance required by K.S.A. 40-3104 and 40-3118 and any amendments to it.
+(2) Each such vehicle shall meet the requirements of K.A.R. 28-4-130(a)(1); (a)(2)(A); (a)(4)(A); (a)(5); and (a)(6)(A) through (H).
+36
+
+(c) (1) Each driver shall be informed of the provisions of K.A.R. 28-4-130.
+(2) Paragraphs (A) through (H) of subsection (a)(6) of K.A.R. 28-4-130 shall be posted in the vehicle or given to the driver.
+(Authorized by and implementing K.S.A. 65-508; effective May 1, 1986; amended May 1, 1987; amended Feb. 26, 1990.)
+K.A.R. 28-4-131. Animals, birds, or fish.
+(a) When animals, birds, or fish are kept on the premises, the pet area shall be maintained in a sanitary manner. No animal or bird shall be in the kitchen while food is being prepared. Parents shall be informed whenever children have access to pets in the child care facility.
+(b) Dogs and cats shall have current immunizations as recommended by a veterinarian. A record of immunizations shall be kept on file in the facility.
+(c) When animals that represent a hazard to children are on the premises, children shall be protected from them. Pit bulldogs shall be prohibited. If animals are displayed as part of an animal exhibit, they shall be supervised by appropriate animal care personnel.
+(Authorized by and implementing K.S.A. 65-508 and 65-522; effective May 1, 1986; amended Feb. 26, 1990.)
+K.A.R. 28-4-132. Child care practices.
+(a) Supervision. Each child in day care shall be under the supervision of a person 16 years of age or older who is responsible for the child's health, safety and well-being.
+(b) Discipline.
+(1) There shall be a written discipline policy indicating methods of guidance appropriate to the age of the children enrolled. Parents shall be informed of the policy.
+(2) Prohibited punishment. Punishment which is humiliating, frightening or physically harmful to the child shall be prohibited. Prohibited methods of punishment include:
+(A) corporal punishment such as spanking with the hand or any implement, slapping, swatting, pulling hair, yanking the arm, or any similar activity;
+(B) verbal abuse, threats, or derogatory remarks about the child or the child's family;
+(C) binding or tying to restrict movement, or enclosing in a confined space such as a closet, locked room, box, or similar cubicle;
+37
+
+(D) withholding or forcing foods; and
+(E) placing substances which sting or burn on the child's mouth or tongue or other parts of the body.
+(3) If isolation is used in residential facilities as defined in K.A.R. 28-4-268, the isolation policies shall be approved by the department of social and rehabilitation services before implementation.
+(4) Each staff member and care provider's discipline practices shall comply with K.A.R. 28-4-132.
+(c) Diapering and toileting.
+(1) Each child's clothing or bedding shall be changed whenever wet or soiled.
+(2) Each child under three years of age shall have at least one complete change of clothing at the facility.
+(3) (A) Handwashing facilities shall be in or readily accessible to the diaper- changing area.
+(B) Each person caring for children shall wash hands with soap and water after changing diapers or soiled clothing.
+(4) Children shall be diapered in their own cribs or playpens, on a clean pad on the floor, or on a changing table. Each unit in a child care center as defined by K.A.R. 28-4-420 shall have a changing table.
+(5) Changing tables and pads shall have a waterproof, undamaged surface. Tables shall be sturdy, and shall be equipped with railing or safety straps. Children shall not be left unattended on the changing table.
+(6) Changing tables and pads shall be sanitized after each use by washing with a disinfectant solution of 1/4 cup of chlorine bleach to one gallon of water, or an appropriate commercial disinfectant.
+(7) The following procedures shall be followed when washable diapers or training pants are used:
+(A) Day care facilities. Washable diapers or training pants shall not be rinsed out. They shall be stored in a labeled covered container or plastic bag and returned home with the parents.
+(B) Residential facilities. Sanitary laundering procedures which promote infection control shall be followed.
+38
+
+(8) Disposable diapers shall be placed in a covered container or plastic bag which shall be emptied daily, or more frequently as necessary for odor control.
+(9) (A)
+Potty chairs when used shall be left in the toilet room. The wastes shall be disposed of immediately in a flush toilet. The container shall be sanitized after each use and shall be washed with soap and water daily.
+(B) There shall be one potty chair or child-sized toilet for every five toddlers in a child care center as defined by K.A.R. 28-4-420. Potty chairs shall not be counted as toilets.
+(10) Diapering procedures recommended by the U.S. Department of Health and Human Services, Public Health Service, December, 1984, shall be followed in all child care facilities caring for infants and toddlers. Diapering and toileting procedures shall be posted in child care centers, group boarding homes, residential centers and group day care homes serving children under 2 1/2 years of age.
+(Authorized by and implementing K.S.A. 65-508 and K.S.A. 65-522; effective Feb. 26, 1990.)
+39
+
+Kansas Department of Health and Environment
+Bureau of Child Care and Health Facilities 1000 SW Jackson, Suite 200
+Topeka, KS 66612-1274
+Phone: 785-296-1270 Fax: 785-296-0803 Website: www.kdheks.gov/kidsnet
+IF YOU HAVE DIAPERED CHILDREN IN YOUR CHILD CARE PROGRAM:
+Always use this method for changing diapers. This is the best way to stop diseases that spread through the intestinal tract.
+1. CHECK to make sure the supplies you need are ready.
+o fresh diaper or clothes;
+o freshly dampened paper towels or pre-moistened towelettes; and
+o plastic bag for soiled diaper
+2. PLACE roll paper or a disposable towel on the part of the diapering table where the child's bottom will be.
+3. HOLD the child AWAY from your body when you pick him up. When you know a child has soiled his diaper use only your hands to carry him. LAY the child on the paper or towel.
+4. REMOVE soiled diaper or clothes.
+o Put disposable diapers in a plastic bag or a plastic lined receptacle.
+o Put soiled clothes in a plastic bag for parents to take home with the child at the end of the day.
+Tell the parents that washing or rinsing clothes soiled with stool at the day care center might cause disease germs to spread.
+5. CLEAN the child's bottom with:
+o a pre-moistened disposable towelette, or
+o a damp paper towel.
+Put the used towelette or paper towel in the plastic bag or plastic-lined receptacle.
+6. REMOVE the paper or towel from beneath the child and dispose of it in the plastic bag or plastic-lined receptacle.
+7. WIPE your hands with a pre-moistened disposable towelette or a damp paper towel and dispose of it in the plastic bag or plastic-lined receptacle. If you are wearing a glove, dispose of it now.
+8. DIAPER or dress the child.
+Now you can hold him close to you.
+9. WASH the CHILD'S hands:
+IMPORTANT: If you must walk from the diapering table to the sink
+o be sure the child cannot fall, or
+o carry him with you.
+10. RETURN the child to his CRIB.
+11. CLEAN and DISINFECT
+o diapering area;
+o equipment or supplies touched; and
+o soiled crib or cot, if necessary.
+12. WASH your hands.
+Reprinted from: What You Can Do to Stop Disease in the Child Day Care Center U.S. Department of Health and Human Services
+Public Health Service, Centers for Disease Control
+Atlanta, Georgia
+December, 1984
+ 40
+
+REGULATIONS FOR DAY CARE HOMES AND GROUP DAY CARE HOMES
+K.A.R. 28-4-113. Definitions.
+(a) “Applicant” means a person who has applied for a license but who has not yet been granted a license to operate a facility.
+(b) “Applicant with a temporary permit” means a person who has been granted a temporary permit to operate a facility.
+(c) “Care provider” and “provider” mean an individual who cares for and supervises children in a facility and has responsibility for the health, safety, and well-being of children, including the following:
+(1) A primary care provider;
+(2) an individual who is at least 16 years of age and who is working in the facility; and
+(3) a substitute.
+(d) “Day care home” means the premises on which care is provided for a maximum of 10 children under 16 years of age, with a limited number of children under five years of age in accordance with K.A.R. 28-4-114(e).
+(e) “Department” means Kansas department of health and environment.
+(f) “Emergency care” means care for a period not to exceed two weeks for children not regularly enrolled in a facility.
+(g) “Evening care” means care after 6:00 p.m. and before 1:00 a.m. the following day for children enrolled at a facility and present during operating hours.
+(h) “Extended absence” means time away from a facility for a period of more than three hours in a day.
+(i) “Facility” means a day care home or a group day care home.
+(j) “Fire inspector” means a person approved by the state fire marshal to conduct fire safety inspections.
+(k) “Group day care home” means the premises on which care is provided for a maximum of 12 children under 16 years of age, with a limited number of children under five years of age in accordance with K.A.R. 28-4-114(f).
+(l) “Large motor activity” means any movement involving the arms, legs, feet, or entire body, including crawling, running, and jumping.
+41
+
+(m) “License capacity” means the maximum number of children who are authorized to be on the premises at any one time.
+(n) “Licensed physician” means an individual who is licensed to practice either medicine and surgery or osteopathy in Kansas by the Kansas state board of healing arts or who practices either medicine and surgery or osteopathy in another state and is licensed under the licensing statutes of that state.
+(o) “Licensee” means a person who has been granted a license to operate a facility.
+(p) “Overnight care” means care after 1:00 a.m. for children enrolled at a facility and present during operating hours.
+(q) “Primary care provider” means an applicant with a temporary permit, a licensee, or the designee of an applicant with a temporary permit or a licensee. Each applicant with a temporary permit, each licensee, and each designee shall be at least 18 years of age and shall meet the requirements for a primary care provider specified in K.A.R. 28-4-114a.
+(r) “Professional development training” means training approved by the secretary that is related to working with children in care.
+(s) “Substitute” means an individual who supervises children in the temporary absence or extended absence of the primary care provider and who meets the following requirements:
+(1) In the temporary absence of the primary care provider, the substitute shall be at least 16 years of age and shall meet all of the requirements for a provider specified in K.A.R. 28-4-114a (a)(2), (b)(4)(C), and (c).
+(2) In the extended absence of the primary care provider, the substitute shall be at least 18 years of age and shall meet all of the requirements for a primary care provider specified in K.A.R. 28-4-114a.
+(t) “Temporary absence” means time away from a facility for a period not to exceed three hours in a day.
+(u) “Use zone” means the surface under and around a piece of equipment onto which a child falling from or exiting the equipment would be expected to land.
+(v) “Weapons” means any of the following:
+(1) Firearms;
+(2) ammunition;
+(3) air-powered guns, including BB guns, pellet guns, and paint ball guns;
+(4) hunting and fishing knives;
+42
+
+(5) archery equipment; or
+(6) martial arts equipment.
+(Authorized by K.S.A. 2010 Supp. 65-508; implementing K.S.A. 2010 Supp. 65-503 and K.S.A. 2010 Supp. 65-508; effective, E-80-18, Oct. 17, 1979; effective May 1, 1980; amended May 1, 1981; amended May 1, 1983; amended May 1, 1984; amended May 1, 1985; amended Feb. 26, 1990; amended Feb. 3, 2012.)
+K.A.R. 28-4-114. Applicant; licensee.
+(a) Application process.
+(1) Any person desiring to operate a facility shall apply for a license on forms provided by the department.
+(2) Each applicant and each licensee shall submit the fee specified in K.A.R. 28-4-92 for a license or for the renewal of a license. The applicable fee shall be submitted at the time of license application or renewal and shall not be refundable.
+(3) The granting of a license to any applicant or applicant with a temporary permit may be refused by the secretary if the applicant or applicant with a temporary permit is not in compliance with the applicable requirements of the following:
+(A) K.S.A. 65-504 through 65-506, and amendments thereto;
+(B) K.S.A. 65-508, and amendments thereto;
+(C) K.S.A. 65-512, and amendments thereto;
+(D) K.S.A. 65-530 and 65-531, and amendments thereto; and
+(E) all regulations governing facilities.
+(4) Failure to submit the application forms and fee for renewal of a license shall result in an assessment of a late fee pursuant to K.S.A. 65-505, and amendments thereto, and may result in closure of the facility.
+(b) Applicant and licensee requirements. Each applicant, if an individual, and each licensee, if an individual, shall meet the following requirements:
+(1) Be at least 18 years of age;
+(2) not be involved in child care or a combination of child care and other employment for more than 18 hours in a 24-hour period; and
+(3) not be engaged in either business or social activities that interfere with the care or supervision of children.
+43
+
+(c) Multiple child care facilities.
+(1) Each applicant with a temporary permit and each licensee who operates more than one child care facility, as defined in K.S.A. 65-503 and amendments thereto, shall maintain each child care facility as a separate entity.
+(2) A license for an additional child care facility shall not be granted until all existing child care facilities for which the licensee has been granted a license are in compliance with licensing regulations.
+(d) Multiple licenses. No licensee shall be licensed concurrently for or provide more than one type of child care or child and adult care on the same premises.
+(e) License capacity for day care homes. Each applicant with a temporary permit and each licensee shall ensure that the requirements of this subsection are met.
+(1) The maximum number of children for which a day care home may be licensed shall be the following:
+TABLE I – LICENSE CAPACITY, ONE PROVIDER
+   Maximum Number of Children Under 18 Months
+    Maximum Number of Children at Least 18 Months but Under 5 Years of Age
+ Maximum Number of Children at Least
+5 Years but Under 11 Years of Age*
+     License Capacity
+   0
+      7
+   3
+      10
+    1
+  5
+4
+  10
+   2
+      4
+   3
+      9
+    3
+    3
+  2
+   8
+     *Children five years of age and over may be substituted for younger children in the license capacity.
+   (2) Children at least 11 years of age but under 16 years of age who are unrelated to the provider shall be included in the license capacity if child care for this age group as a whole exceeds three hours a week.
+(f) Maximum capacity for group day care homes. Each applicant with a temporary permit and each licensee shall ensure that all of the requirements of this subsection are met.
+(1) The maximum number of children for which a group day care home may be licensed shall be the following:
+44
+
+TABLE II – LICENSE CAPACITY, ONE PROVIDER
+   Age of Children Enrolled
+    License Capacity
+   At Least 2 1/2 Years but Under 11 Years of Age
+    9
+   At Least 3 Years but Under 11 Years of Age
+      10
+   At Least 5 Years but Under 11 Years of Age
+    12
+  TABLE III – LICENSE CAPACITY, TWO PROVIDERS*
+   Maximum Number of Children Under
+18 Months
+  Maximum Number of Children at Least 18 Months but Under 5 Years of Age
+  Maximum Number of Children at Least
+5 Years but Under 11 Years of Age**
+    License Capacity*
+   1
+  8
+  3
+    12
+   2
+  7
+  3
+    12
+   3
+  6
+  3
+    12
+   4
+    4
+   2
+     10
+    *A second provider shall be present when the number of children exceeds the maximum number allowed for one provider. See Table I.
+     **Children five years of age and over may be substituted for younger children in the license capacity.
+ TABLE IV – LICENSE CAPACITY, TWO PROVIDERS*
+   Maximum Number of Children Under
+18 Months
+  Maximum Number of Children at Least 18 Months but Under 2 1/2 Years of Age
+  Maximum Number of Children at Least
+2 1/2 Years but Under 11 Years of Age**
+    License Capacity*
+   0
+    5
+   7
+     12
+    *A second provider shall be present when the number of children exceeds the maximum number allowed for one provider. See Table I.
+     **Children five years of age and over may be substituted for younger children in the license capacity.
+ (2) Children at least 11 years of age but under 16 years of age unrelated to the provider shall be included in the license capacity if child care for this age group as a whole exceeds three hours a week.
+45
+
+(g) Developmental levels. Any child who does not function according to age-appropriate expectations shall be counted in the age group that reflects the developmental age level of the child.
+(h) License capacity not exceeded. Each applicant with a temporary permit and each licensee shall ensure that the total number of children on the premises, including children under 11 years of age related to the applicant with a temporary permit, the licensee, or any other provider, does not exceed the license capacity, except for additional children permitted in subsection (j).
+(i) Emergency care. Emergency care may be provided if the additional children do not cause the license capacity to be exceeded.
+(j) Additional children on the premises. In addition to the number of children permitted under the terms of the temporary permit or the license and specified in subsections (e) and (f), other children may be permitted on the premises.
+(1) Not more than two additional children 2 1/2 years of age or older who attend part- day preschool or part-day kindergarten may be present at any time between the hours of 11:00 a.m. and 1:00 p.m. for the noon meal on days that school is in session.
+(2) Not more than two additional children at least five years of age but under 11 years of age may be present between the hours of 6:00 a.m. and 6:00 p.m. The additional children may be present as follows:
+(A) During the academic school year before and after school, in-service days, school holidays, scheduled or emergency closures, and school breaks not to exceed two consecutive weeks; and
+(B) during the two consecutive weeks before the opening of the academic school year in August or September and following the end of the academic school year in May or June.
+(3) Not more than two additional children 11 years of age or older, unrelated to the applicant with a temporary permit or the licensee, may be present for not more than two hours a day during child care hours if all of the following conditions are met:
+(A) The additional children are not on the premises for the purpose of receiving child care in the facility.
+(B) The additional children are visiting the applicant’s or the licensee’s own child or children.
+(C) The additional children are supervised by a provider if they have access to the children in care.
+46
+
+(k) Substitute. Each applicant with a temporary permit and each licensee shall arrange for a substitute to care for children in the event of a temporary absence or extended absence of the primary care provider.
+(l) Posting of temporary permit or license and availability of regulations. Each applicant with a temporary permit and each licensee shall post any temporary permit or license conspicuously as required by K.S.A. 65-504, and amendments thereto. A copy of the current regulations governing facilities shall be kept on the premises and shall be available to all providers at all times.
+(m) Closure. Any applicant may withdraw the application for a license. Any applicant with a temporary permit and any licensee may submit, at any time, a request to close the facility. If an application is withdrawn or a facility is closed, any temporary permit or license granted to the applicant or licensee for that facility shall become void.
+(Authorized by K.S.A. 2010 Supp. 65-508; implementing K.S.A. 2010 Supp. 65-504, K.S.A. 2010 Supp. 65-505, and K.S.A. 2010 Supp. 65-508; effective, E-80-18, Oct. 17, 1979; effective May 1, 1980; amended May 1, 1981; amended May 1, 1983; amended May 1, 1984; amended May 1, 1985; amended Feb. 26, 1990; amended Feb. 3, 2012.)
+K.A.R. 28-4-114a. Initial and ongoing professional development training. If an applicant, an applicant with a temporary permit, or a licensee is not an individual, the applicant, applicant with a temporary permit, or licensee shall designate an individual to meet the requirements of this regulation.
+(a) Orientation.
+(1) Each person shall, before applying for a license, complete an orientation program on the requirements for operating a facility, provided by the health department or the secretary’s designee that serves the county in which the facility will be located.
+(2) Each applicant, each applicant with a temporary permit, and each licensee shall provide orientation to each individual who will be caring for children about the policies and practices of the facility, including duties and responsibilities for the care and supervision of children. Each provider shall complete the orientation before the provider is given sole responsibility for the care and supervision of children. The orientation shall include the following:
+(A) Licensing regulations;
+(B) the policies and practices of the facility, including emergency procedures, behavior management, and discipline;
+(C) the schedule of daily activities;
+(D) care and supervision of children in care, including any special needs and known allergies;
+47
+
+(E) health and safety practices; and
+(F) confidentiality.
+(b) Health and safety training. Each applicant, each applicant with a temporary permit, each licensee, and each provider shall complete health and safety training approved by the secretary.
+(1) Each applicant and each applicant with a temporary permit shall complete the training not later than 30 calendar days after submitting an application for a license.
+(2) Each provider shall complete the training before the date of employment or not later than 30 calendar days after the date of employment.
+(3) Each licensee whose license was issued before July 1, 2017 and who has completed the training in the subject areas specified in paragraphs (b)(4)(A), (B), and (C) shall be exempt from training in the subject areas specified in paragraphs (b)(4)(D) through (I). Each provider who was employed at the facility before July 1, 2017 and who has completed the training in the subject areas specified in paragraphs (b)(4)(A), (B), and (C) shall be exempt from training in the subject areas specified in paragraphs (b)(4)(D) through (I).
+(4) The health and safety training shall include the following subject areas:
+(A) Recognizing the signs of child abuse or neglect, including prevention of shaken baby syndrome and abusive head trauma, and the reporting of suspected child abuse or neglect;
+(B) basic child development, including supervision of children;
+(C) safe sleep practices and sudden infant death syndrome;
+(D) prevention and control of infectious diseases, including immunizations;
+(E) prevention of and response to emergencies due to food and allergic reactions;
+(F) building and premises safety, including identification of and protection from hazards that could cause bodily injury, including electrical hazards, bodies of water, and vehicular traffic;
+(G) emergency preparedness and response planning for emergencies resulting from a natural disaster or a human-caused event, including violence at a facility;
+(H) handling and storage of hazardous materials and the appropriate disposal of bio-contaminants, including blood and other bodily fluids or waste; and
+48
+
+(I) precautions when transporting children, if transportation is provided.
+(c) Pediatric first aid and pediatric cardiopulmonary resuscitation (CPR) certifications. Each applicant, each applicant with a temporary permit, each licensee, and each provider shall obtain certification in pediatric first aid and pediatric CPR as specified in this subsection.
+(1) Each applicant and each applicant with a temporary permit shall obtain the certifications not later than 30 calendar days after submitting an application for a license.
+(2) Each provider shall obtain the certifications before the date of employment or not later than 30 calendar days after the date of employment.
+(3) Each individual required to obtain the certifications shall maintain current certifications.
+(d) Medication administration training.
+(1) Each of the following individuals shall complete the medication administration training as specified in this subsection:
+(A) Applicant;
+(B) applicant with a temporary permit;
+(C) licensee; and
+(D) provider designated to administer medications.
+(2) The training shall be approved by the secretary.
+(3) Each applicant and each applicant with a temporary permit shall complete the training not later than 30 calendar days after submitting an application for a license and before administering medication to any child.
+(4) Each licensee whose license was issued before July 1, 2017 shall complete the training not later than December 31, 2017. The licensee shall not administer medications after December 31, 2017 unless the licensee has completed the training.
+(5) Each provider designated to administer medications who is employed at the facility before July 1, 2017 shall complete the training not later than December 31, 2017. The designated provider shall not administer medications after December 31, 2017 unless the designated provider has completed the training.
+(6) Each provider designated to administer medications who is employed at the facility on or after July 1, 2017 shall complete the training before administering medication to any child.
+49
+
+(e) Annual professional development training requirements.
+(1) For purposes of this subsection, “licensure year” shall mean the period beginning on the effective date and ending on the expiration date of a license.
+(2) In each licensure year, each primary care provider shall complete professional development training as follows:
+(A) For each licensure year ending during the 2017 calendar year, five clock- hours;
+(B) for each licensure year ending during the 2018 calendar year, five clock- hours;
+(C) for each licensure year ending during the 2019 calendar year, 12 clock- hours; and
+(D) for each licensure year ending during the 2020 calendar year, and for each subsequent licensure year, 16 clock-hours.
+(f) Documentation. Documentation of all orientation, training, and certifications for each individual shall be kept in that individual’s file in the facility.
+(Authorized by and implementing K.S.A. 2016 Supp. 65-508; effective Feb. 3, 2012; amended May 12, 2017.)
+K.A.R. 28-4-115. Facility.
+(a) Water supply and sewerage systems. Each applicant, each applicant with a temporary permit, and each licensee shall ensure that public water and sewerage systems, where available, are used. If a nonpublic source for the water supply is used, the water shall be safe for drinking and shall be tested annually by a department-certified laboratory. If a well is used, the well shall be approved by the local authority for private well permitting, the department, or a licensed water well contractor. A copy of the test results and the approval shall be kept on file at the facility. Each private sewerage system shall be maintained in compliance with all applicable state and local laws.
+(b) Drinking water for children under 12 months of age. If children under 12 months of age are enrolled in a facility using water from a nonpublic source, including private well water, commercially bottled drinking water shall be purchased and used until a laboratory test confirms that the nitrate content of the private well water is not more than 10 milligrams per liter (10 mg/l) as nitrogen.
+(c) General environmental requirements. Each facility shall have 25 square feet of available play space per child and shall be constructed, arranged, and maintained to provide for the health and safety of children in care. Each applicant, each applicant with a temporary permit, and each licensee shall ensure that the facility meets the following requirements:
+50
+
+(1) Has walls that are in good condition;
+(2) is skirted and anchored if a mobile home;
+(3) has a 2A 10B:C fire extinguisher;
+(4) has a working smoke detector on each level of the facility;
+(5) is uncluttered, visibly clean, and free from any evidence of vermin infestation and any objects or materials that constitute a danger to children in care;
+(6) has kitchen and outdoor trash and garbage in covered containers or in tied plastic bags;
+(7) meets all of the following requirements for each heating appliance:
+(A) Has a protective barrier for each freestanding heating appliance to protect from burns; and
+(B) has each heating appliance using combustible fuel vented to the outside;
+(8) has each electrical outlet covered or inaccessible to prevent easy access by a child when the outlet is not in use;
+(9) has any power strip or extension cord positioned in a manner that prevents a tripping or shock hazard;
+(10) has each stairway with more than two stairs railed;
+(11) if any children under 2 1/2 years of age are in care, meets all of the following requirements:
+(A) Has each stairway equipped with balusters not more than four inches apart or guarded to prevent a child’s head or body from falling through;
+(B) has each stairway guarded by a secured door or gated to prevent unsupervised access by the child, including a latching device that an adult can open readily in an emergency;
+(C) does not have any accordion gate in use; and
+(D) does not have a pressure gate at the top of any stairway;
+(12) has a readily available second means of escape from the first floor;
+(13) has each lockable interior door designed to permit the door to be unlocked from either side in case of an emergency;
+51
+
+(14) is maintained at a temperature of not less than 65 degrees Fahrenheit and not more than 85 degrees Fahrenheit in the play area;
+(15) does not have any window coverings with strings or cords accessible to children in care; and
+(16) has at least one bathroom with at least one sink and one flush toilet. All fixtures shall be in working order at all times. An individual towel and washcloth or disposable products shall be provided for each child. Hand soap shall be readily accessible in each bathroom.
+(d) Fire safety. Each facility shall be approved for fire safety by a fire inspector.
+(e) Basements and other floors. A basement or a second floor used for child care in a facility shall be approved for fire safety by a fire inspector before use. A third floor shall not be used for child care.
+(f) Refrigerator. A refrigerator shall be available for the storage of perishable foods. Refrigerated medications shall be in a locked box.
+(g) Storage of hazardous items. The following hazardous items shall be safely stored:
+(1) All household cleaning supplies and all bodily care products bearing warning labels to keep out of reach of children or containing alcohol shall be in locked storage or stored out of reach of children under six years of age. Soap used for hand washing may be kept unlocked and placed on the back of the counter by a bathroom or kitchen sink.
+(2) Dangerous chemicals, household supplies with warning labels to keep out of reach of children, and all medications shall be in locked storage or stored out of the reach of children under 10 years of age.
+(3) Sharp instruments shall be stored in drawers or cabinets equipped with childproof devices to prevent access by children or stored out of reach of children.
+(4) Tobacco products, ashtrays, lighters, and matches shall be stored out of reach of children.
+(h) Storage of weapons. No child in care shall have access to weapons. All weapons shall be stored in a locked room, closet, container, or cabinet. Ammunition shall be kept in locked storage separate from other weapons.
+(i) Outdoor play area. The designated area for outdoor play and large motor activities on the premises shall meet all of the following requirements:
+(1) The outdoor play area shall be fenced if the play area adjoins that of another child care facility, as defined in K.S.A. 65-503 and amendments thereto, or if the area surrounding, or the conditions existing outside, the play area present hazards that
+52
+
+could be dangerous to the safety of the children, which may include any of the following:
+(A) A fish pond or a decorative pool containing water;
+(B) railroad tracks; or
+(C) a water hazard, including a ditch, a pond, a lake, and any standing water.
+(2) Outdoor play equipment that is safely constructed and in good repair shall be available and placed in an area free of health, safety, and environmental hazards.
+(3) The use of a trampoline shall be prohibited during the hours of operation of the facility. If a trampoline is on the premises, the trampoline shall be made inaccessible to children during the facility’s hours of operation.
+(4) Climbing equipment and swings shall be either anchored in the ground with metal straps or pins or set in cement, to prevent movement of the equipment and swings.
+(5) All surfaces under and around climbing equipment and swings shall meet the following requirements:
+(A) Impact-absorbent surfacing material shall be installed in each use zone under and around anchored equipment over four feet in height, including climbing equipment, slides, and swings.
+(B) Impact-absorbent surfacing material shall consist of material intended for playground use, including shredded bark mulch, wood chips, fine sand, fine gravel, shredded rubber, unitary surfacing material, or synthetic impact material.
+(C) Hard-surfacing materials, including asphalt, concrete, and hard-packed dirt, shall not be used in any use zone. This requirement shall apply regardless of the height of the climbing equipment, slides, and swings.
+(D) Surfaces made of loose material shall be maintained by replacing, leveling, or raking the material.
+(6) Swings shall not have wooden or metal seats.
+(7) Teeter-totters and merry-go-rounds designed for school-age children shall not be used by children under five years of age.
+(j) Each facility licensed on and after March 1, 2012 shall have a designated area for outdoor play and large motor activities as part of the licensed premises.
+(Authorized by and implementing K.S.A. 2010 Supp. 65-508; effective, E-80-18, Oct. 17, 1979; effective May 1, 1980; amended May 1, 1981; amended May 1, 1983; amended May 1, 1984; amended May 1, 1986; amended May 1, 1987; amended Feb. 26, 1990; amended Feb. 3, 2012.)
+53
+
+K.A.R. 28-4-115a. Supervision.
+(a) Supervision plan.
+(1) Each applicant, each applicant with a temporary permit, and each licensee shall develop a supervision plan for children in care that includes all age ranges of children for whom care will be provided. A copy of the plan shall be available for review by the parents or legal guardians of children in care and by the department. The plan shall include the following:
+(A) A description of the rooms, levels, or areas of the facility including indoor and outdoor areas in which the child will participate in activities, have snacks or meals, nap, or sleep;
+(B) the manner in which supervision will be provided; and
+(C) any arrangements for the provision of evening or overnight care.
+(2) Each applicant, each applicant with a temporary permit, and each licensee shall update the supervision plan when changes are made in any of the requirements of paragraph (a)(1).
+(3) Each provider shall follow the supervision plan.
+(b) General supervision requirements. Each applicant with a temporary permit and each licensee shall ensure that supervision is provided as necessary to protect the health, safety, and well-being of each child in care.
+(1) Each child in care shall be under the supervision of a provider who is responsible for the child’s health, safety, and well-being.
+(2) Each provider shall be aware at all times of the location of each child in that provider’s care and the activities in which the child is engaged. Each provider shall perform the following:
+(A) Interact with the child and attend to the child’s needs;
+(B) respond immediately if the child is crying or in distress in order to determine the cause and to provide comfort and assistance;
+(C) investigate immediately any change in the activity or noise level of the child; and
+(D) respond immediately to any emergency that could impact the health, safety, and well-being of the child.
+(3) No provider shall engage in business, social, or personal activities that interfere with the care and supervision of children.
+54
+
+(4) If used, electronic monitoring devices, including infant monitors, shall not replace any of the supervision requirements of this regulation.
+(c) Indoor supervision requirements. When any child is indoors, each provider shall ensure that all of the following requirements are met, in addition to the requirements of subsection (b):
+(1) For each child who is under 2 1/2 years of age and who is awake, the provider shall be within sight of and in proximity to the child, watching and overseeing the activities of the child. When the provider is attending to personal hygiene needs or engaging in other child care duties and is temporarily unable to remain within sight of the child, the provider shall meet all of the following conditions:
+(A) The provider has first ensured the safety of each child.
+(B) The provider is able to respond immediately to any child in distress.
+(C) The provider remains within hearing distance of each child.
+(2) For each child 2 1/2 years of age and older who is awake, the provider may permit the child to go unattended to another room within the facility to engage in activities if all of the following conditions are met:
+(A) The provider determines, based on observations of the child’s behavior and information from the parent or legal guardian, that the child can go unattended to another room within the facility.
+(B) The door to each room remains open.
+(C) The provider remains within hearing distance of the child.
+(D) The provider visually checks on the child and responds as necessary to meet the needs of the child.
+(3) Each applicant with a temporary permit and each licensee shall ensure that supervision is provided for each child who is napping or sleeping.
+(A) Each child who is napping or sleeping shall be within sight or hearing distance of the provider and shall be visually checked on by the provider at least once every 15 minutes.
+(B) The provider shall meet all of the requirements of K.A.R. 28-4-116a for any child who is under 12 months of age and is napping or sleeping.
+(C) When any child is napping or sleeping in a room separate from the provider, the door to that room shall remain open.
+55
+
+(D) When a child awakens and is ready to get up, the provider shall attend to the child’s needs and assist the child in moving to another activity.
+(d) Outdoor supervision requirements. When any child is outdoors, each provider shall ensure that all of the following requirements are met, in addition to the requirements of subsection (b):
+(1) For each child under five years of age, the provider shall be outdoors at all times and remain within sight of and in proximity to each child, watching and directing the activities of the child.
+(2) For each child five years of age and older, the provider may permit the child to go unattended to the facility’s designated outdoor play area on the premises if all of
+the following conditions are met:
+(A) The designated play area on the premises is enclosed with a fence.
+(B) The provider determines that the area is free of any potential hazards to the health and safety of the child.
+(C) The provider remains within hearing distance of the child.
+(D) The provider visually checks on the child and responds as necessary to meet the needs of the child.
+(e) Evening care and overnight care. Each applicant with a temporary permit and each licensee who provide evening care or overnight care shall ensure that the following requirements are met:
+(1) All requirements of subsections (a) through (d) shall be met.
+(2) When overnight care is provided in a day care home, at least one provider shall remain awake at all times.
+(3) When overnight care is provided in a group day care home, a second provider shall remain awake at all times if the number of children who are awake exceeds the requirements of K.A.R. 28-4-114 (e), table I.
+(Authorized by and implementing K.S.A. 2010 Supp. 65-508; effective Feb. 3, 2012.)
+K.A.R. 28-4-116. Daily care of children.
+(a) Daily activities.
+(1) Each applicant with a temporary permit and each licensee shall provide daily activities that promote healthy growth and development, take into consideration the cultural background and traditions that are familiar to the children, and incorporate both indoor and outdoor activities that are appropriate for the ages and developmental levels of the children in care.
+56
+
+(2) Each child shall be offered a choice of activities and the opportunity to participate. Age-appropriate toys, play equipment, books, and other learning materials shall be available in sufficient quantities to allow each child a choice of activities.
+(3) The activities, supplies, and equipment shall be designed to promote the following:
+(A) Large motor and small motor development, which may include running, climbing, jumping, grasping objects, drawing, buttoning, and tying;
+(B) creative expression, which may include dramatic play, music, and art;
+(C) math and science skills, which may include sorting, matching, counting, and measuring; and
+(D) language development and literacy, which may include reading, singing, finger plays, writing, and stories.
+(4) Each child shall be given the opportunity for at least one hour of physical activity daily, either outdoors as described in paragraph (a)(7) or indoors.
+(5) Each applicant with a temporary permit and each licensee shall ensure that the following requirements are met if the daily activities include any media viewing:
+(A) Each program shall be age-appropriate and, if rated, shall have a rating appropriate for the ages and developmental levels of the children who view the program.
+(B) No child shall be required to participate in media viewing. Each child not engaged in media viewing shall be offered a choice of at least one other activity for that time period.
+(6) Toys and other items used by children shall meet the following requirements:
+(A) Be clean, of safe construction, and in good repair;
+(B) be washed and sanitized daily when used by children under 18 months of age; and
+(C) be washed and sanitized before being used by another child, if contaminated by saliva or other bodily fluids.
+57
+
+(7) Unless prohibited by the child’s medical condition or extreme weather conditions, each child in care shall be taken outdoors daily. Each child 12 months of age or older shall have the opportunity for at least one hour of outdoor play daily.
+(b) Self-help and personal care. Each provider shall ensure that each child is assisted as needed with hand washing, toileting, dressing, and other personal care.
+(c) Hand washing. Hands shall be washed using soap and warm running water and dried with a paper towel or a single-use towel. When soap and running water are not readily available, an alcohol-based hand sanitizer may be used only by adults and, under adult supervision, by children two years of age and older.
+(1) Each provider shall wash that provider’s hands as needed when hands are soiled and when each of the following occurs:
+(A) At the start of the hours of operation or when first arriving at the facility;
+(B) returning from being outdoors;
+(C) after toileting, diapering, assisting a child with toileting, or handling any bodily fluids;
+(D) before preparing each snack and each meal and before and after eating each snack and each meal;
+(E) before and after administrating any medication; and
+(F) after feeding or handling any pet.
+(2) Each child shall wash that child’s hands or be assisted in washing that child’s hands as needed when hands are soiled and when each of the following occurs:
+(A) First arriving at the facility;
+(B) returning from being outdoors;
+(C) after toileting;
+(D) before and after eating each snack and each meal; and
+(E) after feeding or handling any pet.
+(d) Smoking prohibited. No provider shall smoke while providing direct physical care to children. Smoking in any room, enclosed area, or other enclosed space on the premises shall be prohibited when children are in care pursuant to K.S.A. 65-530, and amendments thereto.
+58
+
+(e) Nutrition and food service. Each applicant with a temporary permit and each licensee shall develop and implement menu plans for meals and snacks that contain a variety of healthful foods, including fresh fruits, fresh vegetables, whole grains, lean meats, and low-fat dairy products.
+(1) If children under 18 months of age are in care, the following requirements shall be met:
+(A) Each child shall be held when bottle-fed until the child can hold the child’s own bottle.
+(B) No child shall be allowed to sleep with a bottle in the mouth.
+(C) Each bottle that contains prepared formula or breast milk shall be stored in the refrigerator with the nipple covered. The bottle shall be labeled with the child’s name, the contents, and the date received and shall be used within 24 hours of the date on the label.
+(D) If a child does not finish a bottle, the contents of the bottle shall be discarded.
+(E) No formula or breast milk shall be heated in a microwave oven.
+(F) Solid foods shall be offered when the provider and the parent or legal guardian of the child determine that the child is ready for solid foods. Opened containers of solid foods shall be labeled with the child's name, the contents, and the date opened. Containers shall be covered and stored in the refrigerator.
+(2) Each applicant with a temporary permit and each licensee shall serve nutritious meals and snacks based on the amount of time a child is in care.
+(A) Each child who is in care at least 2 1/2 hours but under four hours shall be served at least one snack.
+(B) Each child who is in care at least four hours but under eight hours shall be served at least one snack and at least one meal.
+(C) Each child who is in care at least eight hours but under 10 hours shall be served at least two snacks and one meal or at least one snack and two meals.
+(D) Each child who is in care for 10 or more hours shall be served at least two meals and at least two snacks.
+(3) Each applicant with a temporary permit and each licensee shall include the following items in meals and snacks:
+59
+
+(A) Breakfast shall include the following:
+(i) A fruit, vegetable, full-strength fruit juice, or full-strength vegetable juice;
+(ii) bread or grain product; and
+(iii) milk.
+(B) Noon and evening meals shall include one item from each of the following:
+(i) Meat or a meat alternative;
+(ii) two vegetables or two fruits, or one vegetable and one fruit;
+(iii) bread or a grain product; and
+(iv) milk.
+(C) Midmorning and midafternoon snacks shall include at least two of the following:
+(i) Milk;
+(ii) fruit, vegetable, full-strength fruit juice, or full-strength vegetable juice;
+(iii) meat or a meat alternative; or
+(iv) bread or grain product.
+(D) For snacks, juice shall not be served when milk is served as the only other item.
+(4) A sufficient quantity of food shall be prepared for each meal to allow each child to have a second portion of bread, milk, and either vegetables or fruits.
+(5) Drinking water shall be available to each child at all times when the child is in care.
+(6) Only pasteurized milk products shall be served.
+(7) Milk served to any child who is two years of age or older shall have a fat content of one percent or less, unless a medical reason is documented in writing by a licensed physician.
+(8) If a fruit juice or a vegetable juice is served, the juice shall be pasteurized and full-strength.
+60
+
+(9) If any child has a food allergy or special dietary need, the provider and the parent or legal guardian of the child shall make arrangements for the provision of alternative foods or beverages.
+(10) Meals and snacks shall be served to each child using individual tableware that is appropriate for the food or beverage being served. Food shall be served on tableware appropriate for that food and shall not be served directly on a bare surface, including a tabletop.
+(11) Tableware shall be washed, rinsed, and air-dried or placed in a dishwasher after each meal.
+(12) Sanitary methods of food handling and storage shall be followed.
+(13) A washable or disposable individual cup, towel, and washcloth shall be provided for each child.
+(f) Recordkeeping. Each applicant with a temporary permit and each licensee shall ensure that a file is maintained for each child, including each child enrolled for emergency care. Each file shall include the following information:
+(1) The full name, home and business addresses, and telephone numbers of the child's parent or parents or legal guardian and the name, address, and telephone number of the individual to notify in case of emergency;
+(2) the full name and telephone number of each individual authorized to pick up the child and to provide transportation to and from the facility;
+(3) a medical record as required by K.A.R. 28-4-117 (a), except that each child enrolled for emergency care shall be exempt from K.A.R. 28-4-117 (a)(2); and
+(4) written permission from the parent or legal guardian for emergency medical
+care and for the child to go off the premises as required by K.A.R. 28-4-124 and 28-4-127 (b)(1)(A).
+(Authorized by K.S.A. 2010 Supp. 65-508; implementing K.S.A. 65-507 and K.S.A. 2010 Supp. 65-508; effective, E-80-18, Oct. 17, 1979; effective May 1, 1980; amended May 1, 1981; amended May 1, 1983; amended May 1, 1985; amended May 1, 1987; amended Feb. 26, 1990; amended Feb. 3, 2012.)
+K.A.R. 28-4-116a. Napping and sleeping.
+(a) Rest period. Each child shall have a daily, supervised rest period as needed. Each child who does not nap or sleep shall be given the opportunity for quiet play.
+(b) Safe sleep practices for children in care. 61
+
+(1) Each applicant with a temporary permit and each licensee shall develop and implement safe sleep practices for children in care who are napping or sleeping.
+(2) Each applicant with a temporary permit and each licensee shall ensure that the safe sleep practices are discussed with the parent or legal guardian of each child before the first day of care.
+(3) Each provider shall follow the safe sleep practices of the facility.
+(4) Each child who is 12 months of age or older shall nap or sleep on a bed, a cot, the lower bunk of a bunk bed, or a pad over a carpet or area rug on the floor.
+(5) Each applicant with a temporary permit and each licensee shall ensure that all of the following requirements are met for each child in care who is under 12 months of age.
+(A) The child shall nap or sleep in a crib or a playpen. Stacking cribs or bassinets shall not be used. Cribs with water-bed mattresses shall not be used.
+(B) If the child falls asleep on a surface other than a crib or playpen, the child shall be moved to a crib or playpen.
+(C) The child shall not nap or sleep in the same crib or playpen as that occupied by another child at the same time.
+(D) The child shall be placed on the child’s back to nap or sleep.
+(E) When the child is able to turn over independently, the child shall be placed on the child’s back but then shall be allowed to remain in a position preferred by the child. Wedges or infant positioners shall not be used.
+(F) The child shall sleep in a crib or a playpen that is free of any soft items, which may include pillows, quilts, heavy blankets, bumpers, and toys.
+(G) If a lightweight blanket is used, the blanket shall be tucked along the sides and foot of the mattress. The blanket shall not be placed higher than the child’s chest. The head of the child shall remain uncovered. The child may nap or sleep in sleep clothing, including sleepers and sleep sacks, in place of a lightweight blanket.
+(c) Napping or sleeping surfaces. Each applicant with a temporary permit and each licensee shall ensure that the following requirements are met for all napping or sleeping surfaces:
+(1) Clean, individual bedding shall be provided for each child.
+62
+
+(2) Each surface used for napping or sleeping shall be kept clean, of safe construction, and maintained in good repair.
+(3) Each crib and each playpen shall be used only for children who meet the manufacturer’s recommendations for use, including any age, height, or weight limitations. The manufacturer’s instructions for use, including any recommendations for use, shall be kept on file at the facility.
+(4) Each crib and each playpen shall have a firm, tightfitting mattress and a fitted sheet. The mattress shall be set at its lowest point when any child using the crib or playpen becomes able either to sit up or to pull up to a standing position inside the crib or playpen, whichever occurs first, to ensure that the child cannot climb out of the crib or playpen.
+(5) If a crib or playpen is slatted, the slats shall be spaced not more than 2 3/8 inches apart.
+(6) On and after December 28, 2012, each applicant, each applicant with a temporary permit, and each licensee shall ensure that no crib purchased before June 28, 2011 is in use in the facility.
+(7) Each pad used for napping or sleeping shall be at least 1/2 inch thick, washable or enclosed in a washable cover, and long enough so that the child’s head and feet rest on the pad. Clean, individual bedding, including a bottom and a top cover, shall be provided for each child.
+(8) Cribs, cots, playpens, and pads, when in use for napping or sleeping, shall be separated by at least 24 inches in all directions except when bordering on the wall.
+(9) When not in use, cribs, cots, playpens, pads, and bedding shall be stored in a clean and sanitary manner.
+(d) Consumer warning or recall. Each applicant with a temporary permit and each licensee shall make any necessary changes to follow the recommendations of any consumer warning or recall of a crib or a playpen as soon as the warning or recall is known.
+(e) Transition from crib or playpen. The determination of when a child who is 12 months of age or older is ready to transition from a crib or a playpen to another napping or sleeping surface shall be made by the parent or guardian of the child and by either the applicant with a temporary permit or the licensee. The requirements of paragraphs (c)(3) and (4) for a child using a crib or playpen shall apply.
+(Authorized by and implementing K.S.A. 2010 Supp. 65-508; effective Feb. 3, 2012.)
+K.A.R. 28-4-117. Health care requirements for children under 16 years of age.
+(a) (1) A completed medical record on the form provided by the department shall be on file for each child under 11 years of age enrolled for care and for each child under
+63
+
+(b) (c)
+(d)
+(e)
+(f) (g)
+16 years of age living in the child care facility.
+(2) Each medical record shall include the results of a health assessment conducted by a nurse trained to perform health assessments or a licensed physician, within six months before the child’s initial enrollment in a child care facility.
+(3) Each medical record shall include a medical history obtained from the parent.
+A child under 16 years of age shall not be required to have routine tuberculin tests.
+Immunizations for each child, including each child of the provider under 16 years of age, shall be current as medically appropriate and shall be maintained current for protection from the diseases specified in K.A.R. 28-1-20(d). A record of each child's immunizations shall be maintained on the child's medical record.
+Exceptions to the requirements for immunizations shall be permitted as specified in K.S.A. 65-508, and amendments thereto. Documentation of each exception shall be maintained on file at the child care facility.
+If an infant who has not been immunized against measles, mumps, rubella, and varicella because of the age of that child is enrolled and there are children in care who have not had measles, mumps, rubella, and varicella immunizations due to exemption, including the children of the provider, the parents of the infant at risk shall sign a statement that the parents have been informed of the risk to their child. This statement shall be in the infant's file at the day care or group day care home.
+If a child is moved to a different child care provider, a new health assessment shall not be required if the previous medical record is available.
+Each licensee shall provide information to parents of children in the licensee's program about the benefits of annual well-child health assessments for children under the age of six years and biennial health assessments for children six years of age and older. Each licensee shall also provide information about the importance of seeking medical advice when children exhibit health problems. This information may be given on a form provided by the department to the parent when the child is enrolled or be posted in a conspicuous place, with copies of the form available to parents on request.
+(Authorized by K.S.A. 65-508; implementing K.S.A. 65-507 and 65-508; effective, E-80-18, Oct. 17, 1979; effective May 1, 1980; amended May 1, 1981; amended, T-83-27, Sept. 22, 1982; amended May 1, 1983; amended May 1, 1984; amended May 1, 1985; amended May 1, 1986; amended Feb. 26, 1990; amended July 11, 2008.)
+64
+
+K.A.R. 28-4-118. Medication administration and reporting suspected child abuse or neglect.
+(a) Medication administration.
+(1) Each applicant with a temporary permit and each licensee shall designate at least one provider to administer medications to children.
+(2) If nonprescription medication is to be administered to a child, each designated provider shall meet the following requirements:
+(A) Obtain written permission from each child’s parent or legal guardian before administering medication to that child;
+(B) require that each medication supplied by a parent or legal guardian for the child be in the original container;
+(C) ensure that the container is labeled with the first and last name of the child for whom the medication is intended; and
+(D) administer each medication according to the instructions on the label.
+(3) If prescription medication is administered to a child, each designated provider shall meet the following requirements:
+(A) Obtain written permission from each child’s parent or legal guardian before administering medication to that child;
+(B) keep each medication in the original container labeled by a pharmacist, with the following information:
+(i) The child’s first and last name;
+(ii) the name of the licensed physician, physician assistant (PA), or advanced practice registered nurse (APRN) who ordered the medication;
+(iii) the date the prescription was filled;
+(iv) the expiration date of the medication; and
+(v) specific, legible instructions for administration and storage of the medication;
+(C) consider the instructions on each label to be the order from the licensed physician, PA, or APRN;
+65
+
+(D) administer the medication only to the child designated on the prescription label; and
+(E) administer the medication in accordance with the instructions on the label.
+(4) Documentation of each medication administered shall be kept on a form provided by the department and maintained in each child’s file.
+(5) A copy of the documentation of each medication administered shall be made available to the parent or legal guardian of the child.
+(b) Reporting suspected child abuse or neglect. Each provider shall report to the Kansas department for children and families or to law enforcement any suspected child abuse or neglect within 24 hours.
+(Authorized by and implementing K.S.A. 2016 Supp. 65-508; effective, E-80-18, Oct. 17, 1979; effective May 1, 1980; amended May 1, 1981; amended May 1, 1983; amended May 1, 1986; amended Feb. 26, 1990; amended May 12, 2017.)
+K.A.R. 28-4-119b. Compliance with regulations.
+(a) An exception to a regulation may be allowed by the department if:
+(1) The applicant requests an exception from the department on a form supplied by the department; and
+(2) The secretary determines the exception to be in the best interests of the day care child or children and their families.
+(b) Written notice from the Kansas department of health and environment stating the nature of the exception and its duration shall be posted with the license.
+(Authorized by and implementing K.S.A. 65-508; effective May 1, 1984; amended Feb. 26, 1990.)
+66
+

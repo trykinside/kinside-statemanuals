@@ -1,0 +1,1034 @@
+  Rules for
+Certified Family Child Care
+Effective 3/28/19
+Oregon Department of Education Early Learning Division Office of Child Care 503‐947‐1400 • 1‐800‐556‐6616
+   4/16/2019
+
+Contents
+DIVISION 350 CERTIFIED FAMILY CHILD CARE HOMES ............................................................. 3 414-350-0000 ApplicabilityofRules...................................................................................................3 414-350-0010 Definitions.....................................................................................................................4 414-350-0020 Application for a Child Care Certificate....................................................................9 414-350-0030 Issuance of a Child Care Certificate....................................................................... 11 414-350-0040 ExceptionstoRules..................................................................................................12 414-350-0050 GeneralRequirements.............................................................................................13 414-350-0060 Enrollment..................................................................................................................16 414-350-0070 ArrivalandDeparture................................................................................................17 414-350-0080 Records.......................................................................................................................18 414-350-0090 GeneralRequirements.............................................................................................19 414-350-0100 TheProvider...............................................................................................................22 414-350-0110 Assistants...................................................................................................................24 414-350-0115 TrainingRequirements.............................................................................................25 414-350-0120 Caregiver/Child Ratios and Supervision................................................................27 414-350-0130 GeneralRequirements.............................................................................................29 414-350-0140 IndoorArea.................................................................................................................29 414-350-0150 OutdoorArea.............................................................................................................31 414-350-0160 Sanitation....................................................................................................................31 414-350-0165 Testing for Lead in Drinking Water.........................................................................34 414-350-0170 HomeSafety..............................................................................................................37 414-350-0180 IllnessorInjury...........................................................................................................40 414-350-0190 AnimalsintheCertifiedFamilyChildCareHome................................................43 414-350-0200 FoodSelection,Storage,andPreparation............................................................44 414-350-0210 Meals and Snacks.....................................................................................................45 414-350-0220 GeneralRequirements.............................................................................................48 414-350-0230 Equipment, Furniture, and Supplies.......................................................................52 414-350-0235 InfantandToddlerFurnitureandEquipment........................................................53 414-350-0240 GuidanceandDiscipline..........................................................................................54 414-350-0250 Transportation............................................................................................................55 414-350-0375 NightCare..................................................................................................................56
+
+414-350-0380 SwimmingActivities..................................................................................................58 414-350-0390 Suspension,DenialandRevocation......................................................................62 414-350-0405 CivilPenalty...............................................................................................................63
+
+DIVISION 350 CERTIFIED FAMILY CHILD CARE HOMES 414‐350‐0000 Applicability of Rules
+(1) OAR 414‐350‐0000 through 414‐350‐0405 set forth the Office of Child Care’s (OCC) requirements for the inspection and certification of certified family child care homes subject to Oregon laws governing child care facilities (ORS 329A.030, 329A.250 through 329A.310, 329A.350 through 329A.460, and 329A.990) that:
+(a) Care for no more than 16 children; and
+(b) Are located in a building constructed as a single‐family dwelling.
+(2) Individuals who are not enrolled in the Central Background Registry because of removal, denial for cause, or voluntary surrender in lieu of legal action, may only care for their own children or children related within the fourth degree as determined by civil law, pursuant to ORS 329A.252.
+(3) The following child care facilities are specifically excluded by law and are not required to comply with these rules:
+(a) A registered family child care home;
+(b) A facility providing care for preschool children that is primarily educational for four hours or less per day and where no preschool age child is present at the facility for more than four hours per day except as provided in 414‐350‐0000(2);
+(c) Care provided in the home of the child; or
+(d) A facility that provides care on an occasional basis by a person, sponsor, or organization not ordinarily engaged in providing child care except as provided in 414‐350‐0000(2); or
+(e) A facility that provides care for no more than three children other than the person’s own children except as provided in 414‐350‐0000(2);
+(f) A facility that provides care for children from only one family other than the person’s own family except as provided in 414‐350‐0000(2).
+(4) If any court of law finds that any clause, phrase, or provision of these rules is unconstitutional or invalid for any reason whatsoever, this finding shall not affect the validity of the remaining portion of these rules.
+(5) For purposes of these rules, the determination of compliance or noncompliance shall be made by OCC.
+3
+
+(6) Providers have a right to review any action or decision affecting them. The OCC grievance procedures are available upon request to all applicants for child care certification or operators of certified family child care homes.
+(7) These rules apply only during the hours the provider is conducting the certified family child care business.
+414‐350‐0010 Definitions
+The following words and terms, when used in OAR 414‐350‐0000 through 414‐350‐0405, have the following meanings:
+(1) “Activity Area” means the area of the home that is available, during all the hours of operation, for the children’s activities. This area excludes the food preparation area of the kitchen, bathrooms, storage areas, and those parts of rooms occupied by heating stoves, furniture and stationary equipment not used by children.
+(2) “Attendance” means children actually present in the home at any given time.
+(3) “Capacity” means the total number of children allowed in the certified family child care home at any one time, based on the available square footage, the ages of the children to be served and the total number of staff.
+(4) “Caregiver” means any person, including the provider, who cares for the children in the certified family child care home and works directly with the children, providing care, supervision and guidance.
+(5) “Central Background Registry” means OCC’s Registry of individuals who have been approved to be associated with a child care facility in Oregon pursuant to ORS 329A.030 and OAR 414‐061‐0000 through 414‐061‐0120.
+(a) “CBR Enrollment” means approval for a 5 year period to be enrolled in the CBR following an Oregon State Police criminal records check, child abuse and neglect records check, checks of adult protective services and foster care certification and an FBI records check.
+(b) “CBR Conditional Enrollment” means temporary approval to be enrolled in the CBR following a Oregon State Police records check and child abuse and neglect records check but prior to receipt by OCC of the results of the required FBI records check.
+(6) “Certificate” means the document that is issued by OCC to a certified family child care home pursuant to ORS 329A.280.
+4
+
+(7) “Certified Family Child Care Home” or “Home” means: a child care facility located in a building constructed as a single family dwelling that has a certificate to care for a maximum of 16 children at any one time.
+(8) “Child Care” means the care, supervision, and guidance on a regular basis of a child, unaccompanied by a parent, guardian, or custodian, during a part of the 24 hours of the day, with or without compensation. Child care does not include the care provided:
+(a) In the home of the child;
+(b) By the child’s parent or guardian, or person acting in loco parentis;
+(c) By a person related to the child by blood or marriage within the fourth degree as determined by civil law;
+(d) On an occasional basis by a person, sponsor, or organization not ordinarily engaged in providing child care;
+(e) By providers of medical services; or
+(f) By a person who is a member of the child’s extended family, as determined by OCC on a case‐by‐case basis.
+(9)“Child Care Child” means any child six weeks of age or older and under 13 years of age, or a child with special needs under the age of 18 who requires a level of care over and above the norm for his/her age, and for whom the provider has supervisory responsibility in the temporary absence of the parent.
+(10) “Child with Special Needs” means a child under the age of 18 who requires a level of care over and above the norm for his/her age due to a physical, developmental, behavioral, mental or medical disability.
+(11) “Child Care Facility” means any facility that provides child care to children, including a child care center, certified family child care home, and registered family child care home. It includes those known under a descriptive name, such as nursery school, preschool, kindergarten, child play school, before and after school care, or child development center, except those excluded under ORS 329A.250. This term applies to the total child care operation. It includes the physical setting, equipment, staff, provider, program, and care of children.
+(12) “Civil Penalty” means a fine imposed by OCC on a provider for violation of these rules.
+(13) “Enrollment” means all children registered to attend the certified family child care home.
+5
+
+(14) “Guidance and Discipline” means the on‐going process of helping children develop self control and assume responsibility for their own acts.
+(15) “Infant” means a child who is at least 6 weeks of age but is not yet walking alone.
+(16) “Night Care” means care given to children who sleep at the home for all or part of the night.
+(17) “Nonserious violation” means OCC has made a valid finding when assessing a complaint alleging a violation not listed in OAR 414‐350‐0010(33).
+(18) “OCC” means the Office of Child Care of the Department of Education or the Administrator or staff of the Office of Child Care.
+(19) “Occasional” means infrequently or sporadically, including but not limited to care that is provided during summer or other holiday breaks when children are not attending school, but not to exceed 70 calendar days in a year.
+(20) “Operator” means the person responsible for the overall operation of the home and who has the authority to perform the duties necessary to meet certification requirements. In a certified family child care home, the operator is the provider.
+(21) “Oregon Registry” means Pathways for Professional Recognition in Childhood Care and Education is a voluntary, statewide program to document and recognize the professional achievements of people who work in the childhood care and education profession.
+(22) “Owner” means the person who holds the certified family child care business as property and has a major financial stake in the operation of the home.
+(23) “Parent” means parent(s), custodian(s), or guardian(s) exercising physical care and legal custody of the child.
+(24) “Potentially hazardous food” means any food or beverage containing milk or milk products, eggs, meat, fish, shellfish, poultry, cooked rice, beans or pasta, and all other previously cooked foods, including leftovers.
+(25) “Preschool Age Child” means a child 36 months of age to eligible to attend kindergarten or above in public school.
+(26) “Program” means all activities and care provided for the children during their hours of attendance at the certified family child care home.
+(27) “Provider” means the person in the certified family child care home who is responsible for the children in care, is the children’s primary caregiver, and in whose name the certificate is issued. In a certified family child care home, the provider is the operator.
+6
+
+(28) “Qualifying Teaching Experience” means 1,500 hours, gained in at least three‐hour blocks, within a 36‐month period, with a group of children in an on‐going group setting. Such a setting includes a kindergarten, preschool, child care center, certified or registered family child care home, Head Start program, or equivalent. Qualifying teaching experience must be documented. Time spent in a college practicum or practice teaching is considered qualifying teaching experience. The following does not constitute qualifying teaching experience: leader of a scout troop; Sunday school teacher; and coaching.
+(29) “Sanitizing” means using a bactericidal treatment that provides enough heat or concentration of chemicals for enough time to reduce the bacterial count, including disease‐producing organisms, to a safe level on utensils, equipment, and toys.
+(30) “School‐Age Child” means a child eligible to attend kindergarten or above in public school. This includes the months from the end of the prior school year to the start of the kindergarten school year.
+(31) “Serious complaint” means a complaint filed against a certified child care home by a person who has alleged that:
+(a) Children are in imminent danger;
+(b) There are more children in care than allowed by certified capacity;
+(c) Corporal punishment is being used;
+(d) Children are not being supervised;
+(e) Multiple or serious fire, health or safety hazards are present in the home;
+(f) Extreme unsanitary conditions are present in the home; or
+(g) Adults are in the home who are not enrolled in the Central Background Registry.
+(32) "Serious Injury or Incident" means any of the following: (a) Injury requiring surgery;
+(b) Injury requiring admission to a hospital;
+(c) Injury requiring emergency medical attention;
+(d) Choking and unexpected breathing problems; (e) Unconsciousness;
+7
+
+(f) Concussion;
+(g) Poisoning;
+(h) Medication overdose;
+(i) Broken bone;
+(j) Severe head or neck injury;
+(k) Chemical contact in eyes, mouth, skin, inhalation or ingestion;
+(l) All burns;
+(m) Allergic reaction requiring administration of Epi‐Pen;
+(n) Severe bleeding or stitches;
+(o) Shock or confused state;
+(p) Near‐drowning.
+(33) “Serious Violation” means OCC has made a valid finding when assessing a complaint that alleges:
+(a) Children are in imminent danger;
+(b) There are more children in care than allowed by law;
+(c) Corporal punishment is being used;
+(d) Children are not being supervised;
+(e) Multiple or serious fire, health or safety hazards are present in the home;
+(f) Extreme unsanitary conditions are present in the home; or
+(g) Adults are in the home who are not enrolled in the Office of Child Care’s Central Background Registry
+(34) “Substitute Caregiver” means a person who acts as the children’s primary caregiver in the certified family child care home in the temporary absence of the provider.
+8
+
+(35) “Supervision” means the act of caring for a child or group of children. This includes awareness of and responsibility for the ongoing activity of each child. It requires a caregiver to be within sight and/or sound of the children, knowledge of children’s needs, and accountability for children’s care and well‐being. Supervision also requires that staff be near and have ready access to children in order to intervene when needed.
+(36) “Toddler” means a child who is able to walk alone but is under 36 months of age. “Younger toddler” means a child who is able to walk alone but is under 24 months of age; “older toddler” means a child who is at least 24 months of age but under 36 months of age.
+(37) “Unsupervised Access to Children” means contact with children that provides the person opportunity for personal communication or touch when not under the direct supervision of a child care provider or staff with supervisory authority.
+(38) “Useable Exit” means an unobstructed door or window through which caregivers and children can evacuate the home in case of a fire or emergency. Doors must be able to be opened from the inside without a key, and window openings must be at least 20 inches wide and 22 inches in height, with a net clear opening of 5 square feet and a sill no more than 48 inches above the floor.
+414‐350‐0020 Application for a Child Care Certificate
+(1) No person, unless exempted by Oregon laws governing child care facilities, shall operate a certified family child care home without a valid certificate issued by OCC.
+(2) Application for a certificate shall be made on forms provided by OCC. (3) A completed application is required:
+(a) For the initial certificate;
+(b) For the annual renewal of a certificate; and
+(c) Whenever there is a change of provider or location.
+(4) The applicant shall complete and submit an application to OCC at least:
+(a) 45 days before the planned opening date of the certified family child care home; and
+(b) For renewal of a certificate, 30 days prior to the expiration of the certificate.
+(A) The expiration date of the current certificate, unless officially revoked, remains in force until OCC has acted on the application for renewal and has given notice of the action taken.
+9
+
+(B) If an application for renewal and payment of the required fee is not received by OCC at least 30 days prior to the expiration date of the current certificate, the certificate will expire as of the date stated on the certificate and child care must cease at the facility, unless the renewal is completed before the expiration date.
+(C) An application for a certificate shall be accompanied by a non‐refundable filing fee.
+(D) For the initial application, a change of provider, the reopening of a facility after a lapse in the certificate, or a change of location, the fee is $25 plus $2 for each certified space (e.g., the fee for a certified family child care home certified to care for 12 children is $24 + $25 = $49).
+(E) For a renewal application, the fee is $2 for each certified space.
+(5) All civil penalties must be paid in full.
+(6) An application for a certificate must be completed by the applicant and approved by OCC within 12 months of submission or the application will be denied. If an application is denied, an applicant will be required to submit a new application for a certificate.
+(7) The applicant shall submit with the initial application or when the home is being remodeled a drawing showing the dimensions of all rooms to be used (length and width), the planned use of each room, the location of required exits, and the placement of the kitchen and bathrooms.
+(8) The applicant shall provide verification to OCC that the home meets all applicable building codes and zoning requirements that apply to certified family child care homes:
+(a) Before the initial certificate is issued; and
+(b) Whenever the home is remodeled.
+(9) The home shall be approved by a environmental health specialist registered under ORS Chapter 700 or an authorized representative of the Department of Human Services before a certificate is issued by OCC.
+(10) The home may be inspected by the local fire jurisdiction when local ordinances require a fire life safety survey as part of a business license or when OCC determines there is a need to do so.
+(11) If the provider applies to care for more than 12 children, the provider must complete a fire life safety self evaluation. OCC staff and the provider will review the self evaluation. If fire
+10
+
+safety concerns are identified, OCC staff may consult with the fire marshal and after consultation, may request that the fire marshal complete a fire life safety inspection.
+(12) Upon receipt of a completed application, a representative of OCC shall evaluate the home and all aspects of the proposed operation to determine if certification requirements (OAR 414‐350‐0000 through 414‐350‐0405) are met.
+414‐350‐0030 Issuance of a Child Care Certificate
+(1) A certificate shall not be issued by OCC to an applicant who holds a medical marijuana card. A certificate shall not be issued to an applicant who grows marijuana or distributes marijuana.
+(2) A certificate shall be issued by OCC when it has been determined the home is in compliance with OAR 414‐350‐0000 through 414‐350‐0405. There are two types of certification. These are:
+(a) A regular certificate which, except as provided in OAR 414‐350‐0020(4)(b)(A), is valid for no more than one year; and
+(b) A temporary certificate. A certified family child care home may not operate under a temporary certificate for more than 180 days in any 12‐month period. A temporary certificate is issued when:
+(A) The home is in compliance with most requirements;
+(B) There are no deficiencies identified by OCC that are hazardous to children; and (C) The provider demonstrates an effort to be in full compliance.
+(3) A certificate is not transferable to any other location or to another organization or individual.
+(4) A certificate is granted in the name of the operator/provider. An operator/provider is limited to one certificate at one address.
+(5) An owner can have multiple sites under the following conditions:
+(a) If the owner is the provider/operator in one of the homes, the owner can have two certified family child care homes; or
+(b) If the owner does not directly care for any children, the owner can have more than two certified family child care homes.
+11
+
+(c) If the owner is the provider/operator in a home certified for more than 12 children, the owner may be the provider for only that certified family child care home. The provider may be the owner of other facilities. See OAR 414‐350‐0030(5).
+(6) Any changes in the conditions of certificate shall be requested in writing to OCC and approved by OCC before the condition(s) of the current certificate may be changed. Changes include, but are not limited to, facility capacity, age range of children, or hours of operation.
+414‐350‐0040 Exceptions to Rules
+(1) OCC may grant an exception to an individual rule (OAR 414‐350‐0000 through 414‐350‐ 0405) for a specified period of time when:
+(a) A requirement does not apply to the home; or
+(b) The intent of the requirement can be met by a method not specified in the applicable rule.
+(2) The provider shall request an exception to a rule on a form provided by OCC. The request shall include:
+(a) A justification for the requested exception; and
+(b) An explanation of how the provider plans to meet the intent of the rule.
+(3) No exception to a rule shall be granted:
+(a) If the requirement is established by statute;
+(b) To any home safety requirement (OAR 414‐350‐0170);
+(c) Unless the health, safety, and well‐being of the children are ensured; or
+(d) That would place the facility in violation of local zoning or state building codes.
+(4) Exceptions may not be implemented until approval is received from OCC.
+(5) The granting of an exception to a rule shall not set a precedent, and each request shall be considered on its own merits.
+(6) OCC may withdraw approval of an exception at any time, if deemed necessary to ensure the health, safety and well‐being of the children.
+12
+
+414‐350‐0050 General Requirements
+(1) The following items shall be posted in the certified family child care home where they may be clearly viewed by parents:
+(a) The most current certificate issued by OCC;
+(b) Notification of a communicable disease outbreak at the home;
+(c) The evacuation plan and the location where parents may be reunited with their children in the event of an evacuation;
+(d) A notice that the following items are available for parents to review:
+(A) The guidance/discipline policy;
+(B) The current week's menus, with substitutions recorded;
+(C) The description of the general routine;
+(D) Information on how to report a complaint to OCC regarding certification requirements; and
+(E) The most recent OCC and sanitation inspection reports and, if applicable, fire life safety self‐evaluation (or fire marshal inspection report if completed).
+(e) The Early Learning Division Website [www.oregonearlylearning.com] and phone number [1‐800‐556‐6616], and a statement advising parents that they can access information about their child care provider on the child care safety portal.
+(f) Providers must post all serious valid complaint and serious non‐compliance letters for 12 calendar months.
+(2) Providers shall immediately notify all parents of any closure of the active license.
+(3) The provider shall ensure that a copy of these administrative rules is available in the certified family child care home to all parents and staff.
+(4) Caregivers shall report suspected child abuse or neglect immediately, as required by the Child Abuse Reporting Law (ORS 419B.005 through 419B.055) to the Department of Human Services Child Welfare (DHS) or to a law enforcement agency. By statute, this requirement applies 24 hours per day.
+13
+
+(5) The certified family child care home shall comply with state and federal laws related to child safety systems and seat belts in vehicles, bicycle safety, civil rights laws, and the Americans with Disabilities Act (ADA).
+(6) Representatives of all agencies involved in certification shall have immediate access to all parts of the home whenever the provider is conducting the child care business:
+(a) OCC staff shall have the right to inspect all areas of the facility that are accessible to child care children, and to conduct a health and safety review of other areas of the facility to ensure the health and safety of child care children. This includes access to all caregivers, records of children enrolled in the home, and all records and reports related to the child care operation regarding compliance with these rules; and
+(b) Representatives of the Department of Human Services Child Welfare (DHS) and the State Fire Marshal have the right to enter and inspect the home when an inspection has been requested by OCC.
+(7) Custodial parents of all children enrolled shall have access to the home during the hours their child(ren) are in care.
+(8) The provider shall develop the following information in writing and shall make it available to OCC, to staff, and to parent(s) at the time of enrollment:
+(a) Guidance and discipline policy;
+(b) Information on transportation, when provided by the provider or other caregiver; and
+(c) The plan for handling emergencies and/or evacuations, including, but not limited to, acute illness of a child or staff, natural disasters (e.g. fire, earthquake, etc.), man‐caused events, such as violence at a child care facility, power outages, and situations which do not allow reentry to the home after evacuation.
+(9) The provider shall comply with the Department of Human Services' administrative rules relating to:
+(a) Immunization of children (OAR 333‐019‐0021 through 333‐019‐0090);
+(b) Reporting communicable diseases (OAR 333‐019‐0215 through 333‐019‐0415); and (c) Child care restrictable diseases (OAR 333‐019‐0010).
+(10) The provider shall report to OCC:
+(a) Any death of a child while in care, within 24 hours;
+14
+
+(b) Within 24 hours:
+(A) Any child that is lost or missing from the premises; (B) Any child that is left behind on a facility excursion; (C) Any child that is left unattended on the premises; (D) Any child that is left alone on the playground; or (E) Any child that is left alone in a vehicle.
+(c) Any serious injury or incident, as defined in OAR 414‐350‐0010(32) within 5 calendar days after the occurrence. This does not include:
+(A) Injuries for which a child is evaluated by a professional as a precaution;
+(B) Injuries for which first aid is administered at the facility, but no further treatment by a medical professional is warranted; or
+(C) Medical events due to routine, ongoing medical issues, such as asthma or seizures.
+(d) Any damage to the building that affects the provider’s ability to comply with the rules for Certified Family Child Care Homes within 48 hours of the occurrence.
+(e) Any animal bites to a child within 48 hours of occurrence.
+(f) Any change in provider prior to being on site. Such notification must include the replacement person's qualifications for the position and documentation that the person is enrolled in the Central Background Registry. A phone call, followed by written documentation, an e‐mail or a FAX will serve as notification.
+(11) Documentation of meals and snacks provided by the certified family child care home shall be made available to OCC upon request, if the home does not participate in the USDA Child and Adult Care Food Program. Documentation is limited to the three weeks prior to the request.
+(12) The provider is responsible for compliance with these requirements (OAR 414‐350‐0000 through 414‐350‐0405).
+(13) Facilities must have parent(s) or guardian(s) of each child enrolled in the certified family child care home, sign a declaration form approved by the Office of Child Care verifying they
+15
+
+have reviewed a copy of the current license certificate. The declaration shall be updated any time there has been an exception or condition added to the license.
+(14) Parental request or permission to waive any of the rules for certified family child care homes does not give the provider permission to do so.
+(15) The written emergency plan must be given to parents of children in care.
+(16) The Office of Child Care may notify parent(s) or guardian(s) of children under 12 months of age enrolled in the certified family child care home of any valid non‐compliance with regulations for safe sleep included in OAR 414‐350‐0220(7).
+414‐350‐0060 Enrollment
+(1) Children shall be admitted only in accordance with the conditions of the certificate, including, but not limited to, capacity, hours of operation, age range, and special conditions.
+(2) As required by state and federal civil rights laws and the Americans with Disabilities Act (ADA), the certified family child care home shall not discriminate against any child on the basis of race, religion, color, national origin, gender, marital status of parent, or because of a need for special care.
+(a) Refusal by the provider to care for a child with a need for special care because of lack of related skills and degree of competence or because of structural barriers in the certified family child care home, shall not in itself establish a prima facie case of discrimination. The decision to enroll/not enroll a child shall be made on an individual basis after the child's child care needs have been assessed using information from parents and professionals who are knowledgeable about the specific disability. The provider shall record the assessment that was made for each child with special needs.
+(b) If a child with special needs is enrolled who needs a specific plan for caring for that child, such a plan shall be developed in writing between the provider, parent(s) and, if necessary, outside specialists. The provider shall be responsible for ensuring that all caregivers have knowledge of the plan and act in compliance with the plan.
+(3) The provider shall obtain the following information in writing from parent(s) of each child before admission. The information shall be kept current at all times.
+(a) Name and birth date of child;
+(b) Name(s), home and business addresses and telephone numbers, and the working hours of custodial parent(s) or guardian(s);
+(c) The school attended by a school‐age child;
+16
+
+(d) Name and telephone number of child's medical provider(s) and dentist, if applicable.
+(e) Name and telephone number of person to be called in an emergency if the parent cannot be located; and
+(f) Name and telephone number of person(s) to whom the child may be released.
+(g) Any chronic health problem(s), including allergies, the child has.
+(4) The provider shall obtain the following written authorizations from parent(s) of each child before admission. The authorizations shall be kept current at all times.
+(a) Permission for the provider to obtain emergency medical treatment for the child. The emergency medical release shall be on a form accepted by the medical treatment facility used by the provider for emergency medical services;
+(b) Permission for the provider to call an ambulance or take a child to an available physician or medical treatment facility;
+(c) If applicable, permission for the child to participate in field trips; and
+(d) If applicable, permission for the child to participate in swimming or wading activities, both on and off the premises of the home.
+(5) No child under six weeks of age shall be enrolled in the certified family child care home.
+414‐350‐0070 Arrival and Departure
+(1) The provider shall require that the person bringing the child to the certified family child care home remain with the child until the child is accepted by a caregiver.
+(2) The provider shall release a child only to a parent or another person named and identified by the parent. The provider shall verify the identification of any person who picks up a child.
+(3) If a school‐age child arrives at or leaves the home without a parent, there shall be arrangements in advance, in writing, from the parent for the arrival and departure times and what the provider will do if the child has not arrived by the expected time.
+(4) The provider must notify parents if there will be a substitute caregiver and the caregiver's name or if the children will be away from the home for any part of the day for visits, field trips, or any other activity off the premises. In the event of an emergency, a good faith effort will be made to notify parents that a substitute will be caring for the children.
+17
+
+414‐350‐0080 Records
+(1) The provider shall keep the following records:
+(a) Complete and current information on each child, as required in OAR 414‐350‐0060(3) and (4);
+(b) Daily attendance record for each child, including dates each child attended and arrival and departure times each day;
+(c) Daily attendance record for the provider and each caregiver, including dates worked and arrival and departure times each day;
+(d) Medication administered, as specified in OAR 414‐350‐0180(9);
+(e) Emergency plan practice sessions and evacuations, as specified in OAR 414‐350‐ 0170(15);
+(f) An injury to or death of a child, as specified in OAR 414‐350‐0180(8);
+(g) Child abuse reports made to the Department of Human Services Child Welfare (DHS) or a law enforcement agency;
+(h) The general routine, as specified in OAR 414‐350‐0220(3);
+(i) Verification of the provider's and each caregiver's:
+(A) Qualifications for the position, as specified in OAR 414‐350‐0100 and 414‐350‐0110;
+(B) Current health‐related training, such as CPR and First Aid, as specified in OAR 414‐ 350‐0100(3);
+(C) Training as required in OAR 414‐350‐0115;
+(D) Current enrollment in the Central Background Registry;
+(E) Current food handler's certification pursuant to ORS 624.570, when required; and
+(F) Caregiver participation in an orientation to the provider's policies and practices and these administrative rules.
+(2) A provider shall allow custodial parent(s), upon request, to review all records and reports, except for child abuse reports, maintained on their own children.
+18
+
+(3) Records, except those specified in OAR 414‐350‐0165(7)(a), shall be kept for at least two years, and caregivers' and children's records for two years after termination of employment or care. These records shall be available at all times to OCC.
+414‐350‐0090 General Requirements
+(1) As required by Oregon civil rights law, ORS Chapter 659, the provider shall not discriminate in employment on the basis of race, color, gender, marital status, religion, national origin, age, or because of a mental or physical handicap unrelated to specific job performance.
+(2) All caregivers, including the provider, shall:
+(a) Have competence, sound judgment, and self‐control in working with children;
+(b) Be mentally, physically, and emotionally capable of performing duties related to child care; and
+(c) Have the required training and/or experience for the positions they hold, as specified in OAR 414‐350‐0100 and 0110.
+(3) If additional information is needed to assess a person’s ability to care for children or to have access to children, OCC may require references, an evaluation by a physician, counselor, or other qualified person, or other information.
+(4) No one shall have access to child care children who has demonstrated behavior that may have a detrimental effect on a child. Residents of the home are considered to have access to the child care children even if they are not generally at home during hours of operation. This does not apply to persons authorized to drop off and pick up a child care child.
+(a) The owner, the provider, all caregivers and other residents of the premises 18 years of age or older must be enrolled in OCC’s Central Background Registry prior to the issuance of an initial or renewal certificate.
+(b) The provider must receive confirmation from OCC that an individual 18 years of age or over, is enrolled or conditionally enrolled in the CBR before the individual can:
+(A) Reside on the premises;
+(B) Stay overnight on the premises for longer than 14 consecutive days, not to exceed a total of 30 days in a calendar year;
+(C) Assist the provider; or
+(D) Volunteer in the child care program.
+19
+
+(c) If any person listed in section (4)(a) & (b) of this rule has been charged with, arrested for, or a warrant is out for any of the crimes which OCC has determined indicate behavior which may have a detrimental effect on a child, with final disposition not yet reached, certification may be denied or suspended until the charge, arrest, or warrant has been resolved if the person continues to operate, be employed in or reside in the home, or have access to children in the home.
+(d) If a criminal record check shows that a warrant has been issued for any person checked, OCC will inform the originating law enforcement agency of the person's name, employment address and telephone number.
+(e) Any visitor to the home or other adult who is not enrolled in the Central Background Registry shall not have unsupervised access to children.
+(5) Individuals conditionally enrolled in the CBR shall not have unsupervised access to children until the provider has confirmed with OCC the individual is enrolled, but may count in staff to child ratio.
+(6) The provider shall have a written plan to ensure that individuals who are not enrolled or conditionally enrolled in the CBR and are on the child care premises shall not have unsupervised access to children.
+(7) The provider shall maintain a log of arrival and departure times of all individuals 18 and older who are not enrolled or conditionally enrolled in the CBR and enter the home while child care children are present, excluding persons authorized to drop off and pick up a child care child.
+(8) The provider, caregivers and other individuals that are required to be enrolled in the CBR and are on‐site must maintain current enrollment in the CBR at all times while the certified family child care license is active.
+(9) Individuals whose CBR enrollment has been revoked, denied or suspended, may not live in the home; be on the premises during child care hours; or have contact with child care children.
+(10) If additional information is needed to assess a person's ability to care for children or to have access to children, OCC may require references, an evaluation by a physician, counselor, or other qualified person, or other information.
+(11) Volunteers must meet the following requirements:
+(a) If volunteers are counted in determining the staff/child ratios, they must meet the qualifications of the position they are filling and be enrolled in the Central Background Registry.
+20
+
+(b) If volunteers may have unsupervised access to children, they must be enrolled in the Central Background Registry.
+(c) If volunteers do not have unsupervised access to children at any time, including during emergencies, the provider must have a written policy to this effect, the policy must be known to all caregivers and volunteers, and the volunteers do not have to be enrolled in the Central Background Registry.
+(12) No person shall smoke or carry any lighted smoking instrument, including an e‐cigarette or vaporizer in the certified family child care home or within ten feet of any entrance, exit, or window that opens or any ventilation intake that serves an enclosed area, during child care hours or when child care children are present. No person shall use smokeless tobacco in the certified family child care home during child care hours or when child care children are present. No person shall smoke, carry any lighted smoking instrument, including an e‐ cigarette or vaporizer or use smokeless tobacco in motor vehicles while child care children are passengers.
+(13) No one shall consume alcohol on the certified family child care home premises during the hours the child care business is conducted or when child care children are present. No one shall be under the influence of alcohol on the family child care home premises during the hours the child care business is conducted or when child care children are present.
+(14) Notwithstanding OAR 414‐350‐0000(6), no one shall possess, use or store illegal controlled substances on the certified family child care home premises. No one shall be under the influence of illegal controlled substances on the certified family child care home premises.
+(15) Notwithstanding OAR 414‐350‐0000(6), no one shall grow or distribute marijuana on the premises of the certified family child care home. No adult shall use marijuana on the certified family child care home premises during child care hours or when child care children are present.
+(16) No adult under the influence of marijuana shall have contact with child care children.
+(17) Secure Storage:
+(a) All medical marijuana obtained from a dispensary must be kept in its original container and stored under child safety lock. All medical marijuana derivatives and associated paraphernalia must be stored under lock.
+(b) Effective July 1, 2015 all marijuana, marijuana derivatives and associated paraphernalia must be stored under child safety lock.
+(18) Notwithstanding OAR 414‐350‐0000(6), marijuana plants shall not be grown or kept on the certified family child care home premises.
+21
+
+414‐350‐0100 The Provider
+(1) The provider shall be:
+(a) At least 18 years of age if the facility is certified for 12 children; or at least 21 years of age if the facility is certified for more than 12 children; and
+(b) Responsible for the operation of the certified family child care home, including those duties ordinarily considered to be administrative. These include, but are not limited to, financial management, maintaining records, maintenance of the building and grounds, meal planning and preparation, compliance with certification requirements, communication with OCC, and correcting deficiencies.
+(2) The provider shall have:
+(a) At least one year of qualifying teaching experience, as specified in OAR 414‐350‐ 0010(28), in the care of a group of children in an ongoing group setting such as a kindergarten, preschool, child care center, certified family child care home, registered family child care home, or Head Start program; or prior to applying to be certified for up to 16 children, completed one year of successful operation as a certified family child care facility for 12 children if the qualifying teaching experience is based on registered family child care; or
+(b) Completion of 20 credits (semester system) or 30 credits (quarter system) of training in a college or university in early childhood education or child development; or
+(c) Documentation of attaining at least step eight in the Oregon Registry.
+(3) The provider shall provide evidence of the following training prior to being certified:
+(a) A current certification in first aid and infant and child cardiopulmonary resuscitation. CPR training must have practical hands‐on instruction, therefore, strictly online training is not acceptable. CPR courses that involve an on‐line component with hands‐on instruction may be acceptable.
+(b) A current food handler certification;
+(c) Have completed a minimum of two hours of training on child abuse and neglect that is specific to Oregon law; and
+(d) Completed OCC approved safe sleep training.
+22
+
+(4) Prior to a facility providing care to more than two children under 24 months of age, the provider shall have at least 30 clock hours of training specific to infant and toddler care. The provider of facilities certified on October 15, 2002, who are providing care for more than two children under 24 months of age must have documentation of 30 hours of prior training in infant and toddler care or a plan, approved by OCC, that shows how the training will be attained.
+(5) The provider/operator shall be on‐site at least half of the hours of operation that are reflected on the certificate. If the facility is certified for more than 12 children, the provider shall be on site at least 2/3 of the hours of operation that are reflected on the certificate. The hours shall be calculated on a weekly basis, except for planned vacations and emergency absences.
+(6) The provider shall have no other employment, either in or out of the home, during the hours the provider is directly caring for children.
+(7) The provider, or a substitute caregiver, shall be present during all the hours the certified family child care business is conducted.
+(8) A caregiver substituting for the provider shall:
+(a) Be at least 18 years old;
+(b) Have current certification in first aid and infant and child cardiopulmonary resuscitation (CPR). Training must have practical hands‐on instruction; therefore, online training is not acceptable.
+(c) Have current food handler certification pursuant to ORS 624.570, if the substitute will be preparing or serving food;
+(d) Be familiar with the provider's policies and procedures and with these requirements (OAR 414‐350‐0000 through 414‐350‐0405);
+(e) Be authorized and able to correct a deficiency that might be an immediate threat to children; and
+(f) Have on file documentation of an orientation and training in these administrative rules and the functions and duties of a provider;
+(g) Have completed a minimum of two hours of training on child abuse and neglect that is specific to Oregon law before they can have unsupervised access to children; and
+(h) Have worked in the home at least 60 hours when substituting for the provider in a home certified to care for more than 12 children.
+23
+
+414‐350‐0110 Assistants
+(1) Assistants may be included in the caregiver/child ratio calculation.
+(2) An Assistant I shall:
+(a) Be at least 15 years of age;
+(b) Have current certification in first aid and pediatric CPR;
+(A) CPR courses must have practical hands‐on instruction;
+(B) CPR courses that involve an on‐line component with hands‐on instruction may be accepted;
+(C) Strictly on‐line CPR training is not acceptable; and
+(D) New Assistant I's must complete the training within 90 days of employment.
+(c) Have on file documentation of an orientation and be familiar with the provider’s policies and procedures and these requirements (OAR 414‐350‐0000 through 414‐350‐0405).
+(d) Have completed a minimum of 2 hours of training on child abuse and neglect that is specific to Oregon law within 30 days of employment;
+(e) Have a current food handler certification approved by the Oregon Health Authority or OCC before preparing or serving food;
+(f) Have completed OCC approved health and safety training within 30 days of employment; and
+(g) Have completed OCC approved safe sleep training within 30 days of employment.
+(3) An Assistant I, who is not enrolled in the CBR because they are under the age of 18, must be supervised within sight AND sound of the provider or substitute provider.
+(4) An assistant I, who is enrolled in the CBR, must be supervised within sight OR sound of the provider or substitute provider.
+(5) An Assistant II shall:
+(a) Be at least 18 years of age;
+24
+
+(b) Have on file documentation of an orientation and be familiar with the provider's policies and procedures and these requirements (OAR 414‐350‐0000 through 414‐350‐0405);
+(c) Have worked at least 60 hours at the certified family child care home, in a minimum of 3–4 hour blocks of time;
+(d) Have current certification in first aid and CPR. Training must have practical hands‐on instruction; therefore, online training is not acceptable;
+(e) With the approval of the provider, may be out of sight and sound of the provider with a group of children; and
+(f) Have completed OCC approved safe sleep training.
+414‐350‐0115 Training Requirements
+(1) All staff shall receive an orientation within the first two weeks of employment and before they can have unsupervised access to children. Orientation shall ensure that staff are familiar with the contents of the orientation, as described below, and shall include, but is not limited to:
+(a) Individual responsibilities in the event:
+(A) The home must be evacuated (e.g. fire);
+(B) An emergency requiring staff and children to remain inside under unusual circumstances (e.g. power outage, environmental hazard); or
+(C) A child or staff is injured or becomes ill;
+(b) These requirements (OAR 414‐350‐0000 through 414‐350‐0405);
+(c) The facility policies, as required in OAR 414‐350‐0050; and
+(d) Procedures for reporting suspected child abuse or neglect.
+(2) The provider and all caregivers who function as substitute providers and Assistant II staff, including volunteers, shall participate yearly in at least 15 clock hours of training related to child care, of which at least eight clock hours shall be in child development or early childhood education. Substitute providers and volunteers who provide care in the home for less than 20 hours in a calendar year are not required to participate in the 15 clock hours of training. If an individual has worked in the facility less than a year, the training requirements will be prorated as follows: At least 1.25 clock hours for each month worked in the current license period.
+25
+
+(a) The following core knowledge categories are accepted for the child development and early childhood education requirement: Diversity (D), Family and Community Systems (FCS), Human Growth and Development (HGD), Health Safety and Nutrition (HSN), Learning Environments and Curriculum (LEC), Observation and Assessment (OA), Special Needs (SN), and Understanding and Guiding Behavior (UGB).
+(b) Training may include correspondence courses, conferences, workshops and audio‐visual programs.
+(c) An approved planned reading program of professional materials may count for up to six hours of the 15 clock hours of training and must include a written assessment of reading materials completed by each participating staff person.
+(d) OCC will accept duplicate training one additional time if it is a Set 2 (intermediate) or Set 3 (advanced) training or above as described by the Oregon Center for Career Development in Childhood Care and Education; and it is not taken within the same license period.
+(3) During the first year of certification and the first year of employment staff may count up to two hours of orientation and their most recent training in first aid and CPR, food handler's and recognizing and reporting child abuse and neglect training, as part of the 15 clock hours of training required in OAR 414‐350‐0115(2), but may not use these toward the eight hours required in child development or early childhood education.
+(a) Recognizing and reporting child abuse and neglect training must be based on Oregon law and practice so information is relevant to reporting in Oregon.
+(b) Recognizing and reporting child abuse and neglect training must be two clock hours or more in duration to be accepted.
+(4) During subsequent years of certification and subsequent years of employment staff may count five hours of first aid and CPR training or food handler's training as part of the 15 clock hours of training. Duplicate training on recognizing and reporting child abuse and neglect training can be accepted again after three years, and every three years thereafter towards the 15 clock hours of staff training required for licensing.
+(5) The provider shall document each caregiver's training, showing the subject matter, the date completed, and the number of clock hours of training in each certification year.
+(6) The provider and all staff, with the exception of Assistant I's, who count in staff to child ratios must complete OCC approved training on recognizing and reporting child abuse and neglect and health and safety, prior to having unsupervised access to children and functioning in their position. Assistant I's must complete the training within the first 30 days of employment.
+26
+
+(7) The provider and all staff, with the exception of Assistant I's, who count in staff to child ratios must complete OCC approved training on safe sleep prior to having unsupervised access to children. Assistant I's must complete the training within the first 30 days of employment.
+(8) All current staff must complete OCC approved safe sleep training by January 1, 2019.
+(9) When a reopen or address change application is submitted, OCC shall, prior to approving it, receive evidence that the provider and all staff have completed OCC approved safe sleep training. If the reopen is a result of an address change, the person must complete the OCC approved safe sleep training by January 1, 2019.
+414‐350‐0120 Caregiver/Child Ratios and Supervision
+(1) The number of caregivers and group size shall be determined by the number and ages of the children in attendance:
+(a) All children in the home, including the provider's or other caregivers' own children, shall be counted in determining the caregiver/child ratio and group size;
+(b) All children visiting the home on a regular basis will count in capacity. Children attending with a parent do not count as enrolled as long as the parent remains with and is responsible for non‐enrolled children;
+(c) The required caregiver/child ratios shall be met at all times.
+(2) Children shall at all times have the full attention of and be supervised by the required number of caregivers:
+(a) Children shall be within sight and/or sound of a caregiver at all times;
+(b) A caregiver shall be near enough to children to respond when needed. Children out of direct visual contact shall be monitored regularly and frequently and must be in approved activity areas;
+(c) Children may not be on a floor level of the home unless a caregiver is on the same floor level, except as specified in OAR 414‐350‐0120(2)(d);
+(d) When bathroom facilities are not on the same floor level, a written plan for adequate supervision of both bathroom and child care areas shall be developed and implemented.
+27
+
+(3) The number of caregivers is determined by the age and number of the youngest child(ren) in the group. If the provider is certified to care for more than 12 children and plans to care for more than 8 infants and/or toddlers, the provider must develop a plan showing how infants and toddlers will be limited to a group size of not more than eight. The plan must be approved by OCC:
+(a) If all children are in the same age group, the following table determines the staff/child ratio;
+(b) If children in care include any infants and/or toddlers, the following table determines the staff/child ratio;
+(c) If children in care include a mix of only preschool and school aged children, the following table determines the staff/child ratio;
+(d) Even though staff/child ratios are specified in (a) and (b) above, a certified family child care provider may care for 10 children ages 6 weeks to school‐age if:
+(A) No more than 6 children are pre‐school age or younger, including the provider's own children and any staff children;
+(B) Of the 6, only 2 children are under 24 months of age; and
+(C) Four of the children are school‐age.
+(4) The maximum number of children allowed in a certified family child care home at any one time is 16.
+(5) If the home is certified to care for more than 12 children and the age blend is such that group separation is required:
+(a) Groups may be joined for: meals, naps, outdoor play, and limited quiet activities such as a video or circle time;
+(b) Provider must develop a plan that shows how the groups will be separated without requiring remodeling of the home. The plan must be approved by OCC.
+(6) If the facility provides care to more than two children under 24 months of age, the provider shall meet the requirements specified in OAR 414‐350‐0100(4).
+28
+
+(7) Prior to a facility providing care to more than four children under 24 months of age, at least one caregiver other than the provider shall meet the requirements specified in OAR 414‐ 350‐0100(4). In addition, the provider shall have an extra 20 clock hours of training specific to infant and toddler care above and beyond the original requirements. If the facility is certified to care for more than 12 children, there must be someone who meets the training requirements of OAR 414‐350‐100(4) on site at all times that five or more children under 24 months of age are in care.
+414‐350‐0130 General Requirements
+(1) The certified family child care home shall be:
+(a) Located in an area zoned residential or commercial:
+(A) "Residential zone" means any zone within an acknowledged urban growth boundary or an acknowledged residential exception area that allows a dwelling unit as a use permitted outright.
+(B) "Commercial Zone" means any zone within an acknowledged urban growth boundary or an acknowledged commercial exception area that allows sales or service or commercial and professional offices as uses permitted outright.
+(b) A building constructed as a single family dwelling; and
+(c) In space designed or remodeled for living quarters.
+(2) A home that is not the residence of the provider or a home located in a zone other than residential or commercial shall meet all state and local planning and zoning, occupancy, and building code requirements for a child care facility.
+(3) If there is a structural or maintenance problem that could present a health or safety hazard to children, OCC may request that the provider have the home inspected by the appropriate authority and the provider shall comply with the request.
+(4) The provider is responsible for payment of any applicable fees for inspections.
+414‐350‐0140 Indoor Area
+(1) The indoor area used for child care shall meet the following requirements:
+(a) If the provider is certified to care for 12 children or fewer, there shall be a minimum of 35 square feet of indoor activity area, as defined by OAR 414‐350‐0010(1), per child. If the provider is certified to care for more than 12 children, there shall be a minimum of 35 square feet of indoor activity area per child for 12 or fewer children, and 50 square
+29
+
+feet of indoor activity area available per child for each of the additional four children. This space, considered in determining capacity of the home, shall be available for use by children at all times. The following shall not be counted as part of the 35 square feet per child requirement: heating units, storage areas; large permanent equipment; any space not useable by children.
+(b) There shall be a designated area for children under 24 months of age that is developmentally appropriate and safe.
+(c) If the facility is certified to care for more than 12 children, the provider must develop a written plan showing that the space accessible to the children meets their safety needs, there is adequate supervision and there is adequate availability of toileting and hand washing for the children in care. OCC must approve the plan.
+(d) Activity areas shall be adequately lighted and ventilated. Room temperature shall be at least 68 degrees F. (20 degrees C.) and not so warm as to be dangerous or unhealthy to children in care.
+(2) Indoor fixtures and equipment shall meet the following requirements:
+(a) There shall be at least one flush toilet and one hand washing sink with mixing faucets available to the children at all times. If the facility is certified to care for more than 12 children, the provider must have a second flush toilet somewhere in the facility if: there are more than 15 children in care or if there are more than 12 toddlers in care. Homes with certification in effect on September 15, 2002, shall comply with the requirement for mixing faucets when bathroom facilities are remodeled.
+(b) Easily cleanable steps or blocks shall be provided so that children can use the toilets and sinks without adult assistance.
+(c) If bathroom facilities are not on the same floor level as the activity areas, the provider must comply with OAR 414‐350‐0120(2)(d).
+(d) Telephone service shall be available in the home at all times when children are in care.
+(e) Telephone numbers for fire, emergency medical care, and poison control, as well as the facility address, shall be posted on or near the telephone. Portable telephones must have emergency numbers and the facility address on the phone.
+(f) There must be a system in place to ensure that parents can have contact with the provider and staff when children are in care.
+30
+
+414‐350‐0150 Outdoor Area
+(1) There shall be an outdoor activity area that children can reach safely. If the outdoor activity area is not under the control of the provider during the hours of operation of the home, written approval to use the area by OCC is required.
+(2) A home shall have an outdoor play area of no less than 75 square feet for each child using the area at one time.
+(3) The outside activity area shall be:
+(a) Suitably surfaced and well drained. Playground equipment, such as slides, swings, climbing structures and other elevated equipment, shall be surrounded by a resilient surface of an acceptable depth or by rubber mats manufactured for such use, according to standards of the US Consumer Product Safety Commission;
+(b) Kept free of litter, solid waste and refuse, ditches, or other conditions presenting a potential hazard; and
+(c) Equipped to provide age‐appropriate activities for gross motor development.
+(4) The outdoor activity area of the home designated for use by child care children shall be enclosed by a barrier (fence, wall, or building) at least four feet high. Certified family child care homes with certification in effect on September 15, 2002, must comply with a barrier at least three feet high until such time as the existing barrier is replaced. Spacing between vertical slats of a fence shall be no greater than 4 inches. Fences must meet applicable local codes.
+(5) The provider shall be aware of and protect children from any toxic or other harmful plants, shrubs, or trees.
+(6) The use of swimming pools shall comply with OAR 414‐350‐0380. As specified in 414‐350‐ 0380(2)(h), portable‐style wading pools are not permitted.
+414‐350‐0160 Sanitation
+(1) Water Supply:
+(a) The home's water supply shall be continuous in quantity and from a water supply system approved by the Department of Human Services.
+(b) If drinking water is from a private source, the provider shall provide evidence of bacterial and chemical analysis which establish safety of the water;
+31
+
+(c) The tests shall be conducted by the local health department, the Department of Human Services, or an approved commercial laboratory;
+(d) The bacterial analysis shall be done quarterly;
+(e) The chemical analysis shall be done only once for a well and yearly for other water sources;
+(f) The provider shall have drinking water available to children that is supplied in a safe and sanitary manner. Drinking water for preparing food, infant formula, drinking or cooking shall not be obtained from bathroom sinks or diaper changing sinks.
+(2) Hand Washing:
+(a) Caregivers and children shall wash their hands with soap and warm running water after nose wiping, after using the toilet, and before and after eating;
+(b) Caregivers shall wash their hands with soap and warm running water before and after changing a diaper, before and after feeding a child or handling food, and after assisting a child with toileting and nose wiping;
+(c) Infants' and children's hands shall be washed with soap and warm running water after diaper changing;
+(d) Staff shall immediately and thoroughly wash their hands after handling animals or cleaning cages;
+(e) Commercial products labeled "hand sanitizers" shall not replace hand washing. If hand sanitizers are present in the home, they shall be kept under child‐proof lock and shall not be used by children;
+(f) When hand washing is not possible, e.g., on field trips or the neighborhood park, moist towelettes shall be used.
+(3) Maintenance:
+(a) The building, toys, equipment, and furniture shall be maintained in a clean, sanitary, and hazard‐free condition:
+(A) Kitchen and bathrooms shall be cleaned when soiled and at least daily;
+(B) Floors, walls, ceilings, and fixtures of all rooms shall be kept clean and in good repair;
+32
+
+(C) All kitchen counters, shelves, tables, refrigeration equipment, sinks, drain boards, cutting boards, and other equipment or utensils used for food preparation shall be kept clean and in good repair;
+(D) All food storage areas shall be kept clean and free of food particles, dust, dirt and other materials;
+(E) Cloths, both single use and multiple use, used for wiping food spills on utensils and food‐contact surfaces shall be kept clean and used for no other purpose. Cloths that are reused shall be stored in a sanitizing solution between uses.
+(F) The isolation area shall be thoroughly cleaned after use and all bedding laundered after each use;
+(G) A diaper‐changing table shall:
+(i) Have a surface that is non‐absorbent and easily cleaned;
+(ii) Becleanedandsanitizedaftereachuse;
+(iii) Not be used for any purposes other than diapering, including food or drink preparation or storage, dish washing, storage of food service utensils, arts and crafts supplies or products, etc.; and
+(iv) Comply with the requirements for diaper changing area specified in OAR 414‐ 350‐0235(2)(b).
+(H) Bathtubs, showers, sinks, bathinettes, or other receptacles used for bathing children shall be cleaned and sanitized after each use and shall not be used to obtain water for preparing food, infant formula, drinking or cooking.
+(I) Bedding shall be cleaned when soiled, with change of occupant, or at least once a week.
+(b) Tableware, kitchenware (pots, pans and equipment), and food‐contact surfaces of equipment shall be washed, rinsed, sanitized, and air‐dried after each use. The cleaning and sanitizing of tableware and kitchenware shall be accomplished by using:
+(A) A dishwasher that is operated according to the manufacturer's instructions; or
+(B) A three‐step manual process as follows:
+(i) Washing in the first compartment;
+33
+
+(ii) Rinsing in a second compartment; and
+(iii) Immersion in a third compartment or large dishpan or tub for at least two minutes in a sanitizing solution containing at least 2 teaspoons of household chlorine bleach in each gallon of warm water.
+(c) A sink used for diapering or bathing activities shall not be used for any part of preparing food, infant formula, drinking, cooking or dish washing.
+(d) Soap, paper towels dispensed in a sanitary manner, and mixing faucets with hot and cold running water shall be provided at each hand washing sink.
+(e) The home and grounds shall be kept clean and free of litter or rubbish and unused or inoperable equipment, utensils, and vehicles.
+(f) All garbage, solid waste, and refuse shall be disposed of at least once a week.
+(A) All garbage shall be kept in watertight, non‐absorbent, and easily washable containers with close‐fitting lids;
+(B) All garbage storage areas and garbage containers shall be kept clean; and
+(C) All garbage storage shall be inaccessible to children.
+(g) Bio‐contaminants including, but not limited to bodily fluids and blood shall be disposed of in a manner that prevents exposure to children.
+(4) Insect and Rodent Control:
+(a) The home shall be in such condition as to prevent the infestation of rodents and insects.
+(b) Doors and windows which are opened for ventilation shall be equipped with fine‐ meshed screens.
+(c) Automatic insecticide dispensers, vaporizers, or fumigants shall not be used.
+414‐350‐0165 Testing for Lead in Drinking Water
+(1) For purposes of this rule, “drinking water faucet or fixture”
+(a) means any plumbing fixture on the premises used to obtain water for drinking, cooking, preparing infant formula, or preparing food; and
+34
+
+(b) does not include any plumbing fixture used to obtain water for handwashing, bathing, or diaper changing.
+(2) Water obtained from fixtures identified in subsection (1)(b) of this rule cannot be used for drinking, cooking, preparing infant formula, or preparing food.
+(3) Initial Testing
+(a) Any provider with an active certificate as of September 30, 2018 must test each drinking water faucet or fixture for lead by November 30, 2018.
+(b) The following providers must test each drinking water faucet or fixture for lead in the water prior to being eligible to receive a license from OCC:
+(A) Any provider with a pending certificate application as of September 30, 2018; and
+(B) Any provider applying for a certificate on or after September 30, 2018, including, but not limited to, initial applications, renewal applications, and reopen applications.
+(c) A provider identified in subsection (3)(a) or (b) does not need to conduct the initial testing if:
+(A) All drinking water faucets or fixtures have been tested within 6 years prior to the effective date of this rule; and
+(B) The testing was conducted in accordance with the requirements of subsection (5) of this rule.
+(d) A provider identified in subsection (3)(a) must submit all test results to OCC no later than November 30, 2018. The test results must be accompanied by a floor plan or map of the facility that identifies the location of each drinking water faucet or fixture tested.
+(e) A provider identified in (3)(b) must submit test results to OCC within 10 calendar days of the facility receiving the results from the laboratory. The test results must be accompanied by a floor plan or map of the facility that identifies the location of each drinking water faucet or fixture tested.
+(4) Ongoing Testing
+(a) After a provider conducts the initial testing under subsection (3) of this rule, the provider must test all drinking water faucets or fixtures at least once every six years from the date of the last test.
+35
+
+(b) All test results obtained in accordance with subsection (4)(a) of this rule must be submitted to OCC within 10 calendar days of the provider receiving the results from the laboratory. The test results must be accompanied by a floor plan or map of the facility that identifies the location of each drinking water faucet or fixture tested.
+(5) Sampling and Testing
+(a) All sample collection and testing must be in accordance with the Environmental Protection Agency (EPA)’s 3Ts for Reducing Lead in Drinking Water in Schools and Child Care Facilities, Revised Manual from October 2018, adopted by reference.
+(b) All testing must be performed by a laboratory accredited by the Oregon laboratory Accreditation Program according to standards set under OAR chapter 333, division 64 in effect as of September 30, 2018.
+(c) If a facility does not use any of the on‐site plumbing fixtures to obtain water for drinking, cooking, preparing infant formula, or preparing food, the provider must:
+(A) Submit a written statement to OCC identifying the alternative source of water and confirming that the provider does not use any on‐site plumbing fixtures for drinking, cooking, preparing infant formula, or preparing food; and
+(B) Notify OCC in writing if the alternative source of water changes.
+(6) Results
+(a) If test results show that water from any drinking water faucet or fixture has 15 parts per billion (ppb) or more of lead, the provider must:
+(A) Prevent access to that drinking water faucet or fixture immediately after receiving the test results; and
+(B) Continue to prevent access to that drinking water faucet or fixture until mitigation in completed in accordance with subsection (6)(b) of this rule.
+(b) Following receipt of test results showing that water from any drinking water faucet or fixture has 15 parts per billion (ppb) or more of lead, the provider must:
+(A) Submit a corrective action plan to OCC for approval within 60 days of receiving the test results. The corrective action plan must identify an appropriate mitigation strategy in accordance with Module 6 of the EPA’s 3Ts for Reducing Lead in Drinking Water in Schools and Child Care Facilities, Revised Manual from October 2018, adopted by reference; and
+36
+
+(B) Implement the mitigation method within 30 days of approval by OCC.
+(7) Recordkeeping and Posting
+(a) The provider must keep a copy of the most recent lead test results on‐site at all times.
+(b) The provider must post the most recent lead test results summary provided by OCC in an area of the facility where the summary can be clearly viewed by parents. The provider must post the lead test results summary immediately after receiving the summary from OCC.
+(8) Providers must follow the routine practices identified in Module 6 of the EPA’s 3Ts for Reducing Lead in Drinking Water in Schools and Child Care Facilities, Revised Manual from October 2018, adopted by reference, at all times.
+414‐350‐0170 Home Safety
+(1) All floor levels used by children for play and napping shall have two usable exits to ground level.
+(2) All rooms used by children for play and napping shall have two usable exits.
+(3) Obstructions, including furniture, storage of supplies, or any other items shall not be placed in a manner that blocks usable exits.
+(4) There shall be at least one 2‐A‐10 BC‐rated fire extinguisher on each floor of the home. Fire extinguishers shall be easily accessible, kept out of the reach of children, and located along the path of emergency exiting.
+(5) Smoke alarms shall be:
+(a) Installed on each floor level of the home and in any area where children nap; and (b) Maintained in operating order.
+(6) Candles or other open flame decorative devices are prohibited, except for the brief use of celebratory candles.
+(7) Matches and lighters shall be kept in locked storage when not in use.
+(8) A portable light source, to be used in emergencies, shall be:
+(a) Available in all activity areas used by children;
+37
+
+(b) In working condition; and
+(c) Stored in an easily accessible place.
+(9) Items of potential danger (e.g., cleaning supplies and equipment, paints, poisonous and toxic materials, plastic bags, aerosols, detergents) shall be:
+(a) Kept in the original container or labeled; (b) Stored under child‐proof lock; and
+(c) Kept away from food service supplies.
+(10) The provider shall protect children from safety hazards, including but not limited to:
+(a) A rigid screen or guard shall be installed to prevent children from falling into a fireplace or against a heater or wood stove;
+(b) A movable barrier, such as mesh‐type gate, shall be placed at the top and/or bottom of all stairways accessible to infants and toddlers. Gates and enclosures should have the Juvenile Products Manufacturers Assn. (JPMA) certification seal to ensure safety;
+(c) Child‐proof latches shall be installed on all cupboards, closets, and drawers that contain hazardous objects and may be accessible to preschool‐age and younger children;
+(d) Firearms, ammunition, and other potentially hazardous equipment, such as darts, other projectiles, power tools, and knives shall be kept under lock:
+(A) Firearms, pellet or BB guns must be unloaded and kept in areas not used by child care children; and
+(B) Ammunition shall be stored separately from firearms;
+(e) Hot water heaters shall be equipped with a safety release valve and an overflow pipe that directs water to the floor or to another approved location;
+(f) Unused appliances, such as old refrigerators or freezers, that present a risk for entrapment, shall be secured so as to prevent entry by children;
+(g) Clear glass panels in doors shall be clearly marked at child level;
+(h) All exposed electrical outlets in rooms used by preschool or younger children shall have hard‐to‐remove protective caps or safety devices when not in use;
+38
+
+(i) Extension cords shall not be used as permanent wiring. All appliance cords will be in good condition and multiple connectors for cords will not be used. A grounded power strip outlet with built‐in over‐current protection may be used;
+(j) Floors shall be free of splinters, large unsealed cracks, sliding rugs, and other hazards;
+(k) Devices which generate heat and are hot from recent use shall be inaccessible to children; and
+(l) After painting or laying carpet, the certified home must be aired out completely for at least 24 hours with good ventilation before children are allowed to return.
+(11) The provider shall have written evidence that any wood stove in the home has been inspected and approved for use by the local building official.
+(12) All wood stove and fireplace flues shall be cleaned as needed or, at a minimum, once a year. A written record of cleaning shall be maintained on site.
+(13) The use of unvented, fuel‐fired space heaters is prohibited.
+(14) Flammable and combustible liquids, such as paint thinner and gasoline, shall be stored in the original container or a safety container and, if over one gallon, kept in an unattached storage building.
+(15) All caregivers and children shall practice at least one aspect of the emergency plan, as described in OAR 414‐350‐0050(9)(c), once per month.
+(a) Evacuating the home shall be practiced at least eight times per year. If the facility is certified to care for more than 12 children and more than 4 children regularly in care are under 24 months of age, evacuating the home shall be practiced monthly.
+(b) The provider shall maintain a written record showing the date, time of day, participants, and type of emergency of each emergency plan practice session.
+(16) The written plan for evacuating and removing children to a safe location in an emergency must be posted in the home and must be familiar to the children and the caregivers. The plan must include:
+(a) Procedures for notifying parents or other adults responsible for the children, of the relocation and how children will be reunited with their families;
+(b) Procedures to address the needs of individual children, including infants and toddlers, children with special needs, and children with chronic medical conditions;
+39
+
+(c) An acceptable method to ensure that all children in attendance are accounted for;
+(d) Procedures in the event that children must shelter‐in‐place or if the child‐care home must be locked‐down so that no one can enter or leave; and
+(e) Procedures for maintaining continuity of child‐care operations.
+(17) The provider must take precautions to protect children from vehicular traffic. The provider shall:
+(a) Require drop off and pick up only at the curb or at an off‐street location protected from traffic.
+(b) Assure that any adult who supervises drop‐off and loading can see and assure that children are clear of the perimeter of all vehicles before any vehicle moves.
+(18) Other hazards observed in the certification process must be corrected.
+414‐350‐0180 Illness or Injury
+(1) A provider shall not admit, or retain in care, a child who:
+(a) Is diagnosed as having or being a carrier of a child care‐restrictable disease, as defined in Department of Human Services administrative rules, OAR 333‐019‐0010; or
+(b) Has one of the following symptoms, or combination of symptoms, of illness:
+(A) Diarrhea (more than one abnormally loose, runny, watery or bloody stool);
+(B) Vomiting;
+(C) Fever over 100 degrees F taken under the arm;
+(D) Severe cough;
+(E) Unusual yellow color to skin or eyes;
+(F) Skin or eye lesions or rashes that are severe, weeping, or pus‐filled;
+(G) Stiff neck and headache with one or more of the symptoms listed above;
+(H) Difficult breathing or abnormal wheezing; or
+(I) Complaints of severe pain.
+40
+
+(2) A child who, after being admitted, shows signs of illness, as defined in subsection (1) of this rule, shall be isolated and the parent(s) notified and asked to remove the child from the home as soon as possible.
+(3) If a child has mild cold symptoms that do not impair his/her functioning, the child may remain in the home and the parent(s) notified when they pick up the child.
+(4) A specific place for isolating a child who becomes ill shall be provided. The isolation area shall be:
+(a) Located where the child can be seen and heard by a caregiver; and
+(b) Equipped with a cot, mat, or bed for each sick child.
+(5) All caregivers shall take appropriate precautions to prevent shaken baby syndrome and abusive head trauma.
+(6) The provider shall identify a licensed physician, hospital, or clinic to be used for emergency medical care:
+(a) The provider shall have written procedures for taking a child to emergency medical care;
+(b) In the event of an illness or injury which requires immediate medical care, the provider is responsible for securing such care and notifying the parent(s).
+(7) First aid supplies and a chart or handbook of first aid instructions shall be maintained in one identified place but kept out of reach of children:
+(a) The first aid supplies shall include bandaids, adhesive tape, sterile gauze pads, soap or sealed antiseptic towelettes or solution to be used as a wound cleaning agent, scissors, disposable plastic gloves for handling blood spills, chlorine bleach for sanitizing after a blood spill, a sanitary temperature taking device, and CPR mouthgards; and
+(b) First aid supplies shall be taken on all field trips.
+(8) Injuries or accidents shall be reported to the child's parent(s) on the day of occurrence:
+(a) A written report of the injury or accident shall be maintained on file;
+(b) The report shall include the date, child's full name, nature of the injury, witnesses, action taken, and the signatures of the provider and parent(s); and
+41
+
+(c) The injury to or death of a child shall be reported to OCC in accordance with OAR 414‐ 350‐0050(11)(a) and (c).
+(9) No prescription or non‐prescription medication, including, but not limited to, pain relievers, sunscreen, cough syrup, diapering and first aid ointments or nose drops, shall be given to a child except under the following conditions:
+(a) A signed, dated, written authorization from the parent(s) is on file;
+(b) Prescription medication is in the original container and labeled with the child's name, the name of the drug, dosage, directions for administering, date and physician's name;
+(c) Non‐prescription medication is in the original container, labeled with the child's name, the dosage, and directions for administering;
+(d) A written record of all medications administered, listing, as a minimum, the name of the child, type of medication, the signature of the caregiver administering the medication, date, time, and dosage given, shall be kept;
+(e) All medications shall be secured in a tightly‐covered container with a child‐proof lock or latch and stored so that they are not accessible to children;
+(f) Medications requiring refrigeration shall be kept in the refrigerator in a separate, tightly‐covered container, with a child‐proof lock or latch, clearly marked "medication"; and
+(g) Parent(s) shall be informed daily of medication administered to their child.
+(10) Sunscreen is considered a non‐prescription medication and may be used for child care children under the following conditions:
+(a) Providers must obtain written parental authorization prior to using sunscreen.
+(b) One container of sunscreen may be used for child care children unless a parent supplies an individual container for their child. The sunscreen shall be applied in a manner that prevents contaminating the container.
+(A) Parents must be informed of the type of product and the sun protective factor (SPF).
+(B) Parents must be given the opportunity to inspect the product and active ingredients.
+(c) If sunscreen is supplied for an individual child care child, the sunscreen must be labeled with the child’s first and last name and must be used for only that child.
+42
+
+(d) Providers must reapply sunscreen every two hours while the child care children are exposed to the sun.
+(e) Providers shall use a sunscreen with an SPF of 15 or higher and must be labeled as “Broad Spectrum”.
+(f) Providers shall not use aerosol sunscreens on child care children.
+(g) Sunscreen shall not be used on child care children younger than six months.
+(h) Child care children over six years of age may apply sunscreen to themselves under the direct supervision of the provider or staff member.
+(11) Parents of all children enrolled in the certified family child care home shall be informed of any outbreak of communicable disease within the facility.
+(12) If a child with allergies is enrolled who needs a specific plan for caring for that child, such a plan shall be developed in writing between the provider, parents, and if necessary, outside specialists. All staff who come in contact with that child shall be fully aware of the plan.
+414‐350‐0190 Animals in the Certified Family Child Care Home
+(1) Any animal at the certified family child care home must be in good health and show no evidence of carrying a disease.
+(a) Dogs and cats must be vaccinated according to a licensed veterinarian's recommendations. Proof of current compliance with immunizations shall be kept on file in the home.
+(b) Animals shall be cared for as recommended by a veterinarian. The provider shall have and follow written procedures for the care and maintenance of the animals.
+(2) Potentially aggressive animals must not be in the same physical space as the children.
+(3) Reptiles (e.g., lizards, turtles, snakes, iguanas), frogs, monkeys, hook‐beaked birds, baby chicks, and ferrets are prohibited, unless they are housed in and remain in a tank or other container which precludes any direct contact by children. Educational programs that include prohibited animals and are run by zoos, museums and other professional animal handlers are permitted.
+(4) Any animals other than cats and dogs shall be kept in an approved cage for the type of animal. Cages shall have removable bottoms and shall be kept clean and sanitary.
+43
+
+(5) All animals shall be kept away from food preparation surfaces. If animals have access to food preparation surfaces, the surfaces shall be cleaned and sanitized prior to meal preparation.
+(6) Litter boxes shall not be located in any part of the home used by children or for food storage, preparation, or eating.
+(7) Caregivers must be physically present when children are interacting with animals.
+(8) Handwashing, as specified in OAR 414‐350‐0160(2), shall be practiced.
+(9) Parents must be made aware of the presence of any animals in the child care home.
+414‐350‐0200 Food Selection, Storage, and Preparation
+(1) All food and drink served by the provider shall be selected, stored, prepared, and served in a sanitary manner.
+(2) All staff who prepare or serve food must have and maintain a current food handler certification pursuant to ORS 624.570.
+(3) All food products served by the provider shall be obtained from commercial food suppliers, except that:
+(a) Fresh fruits and vegetables may be served;
+(b) Frozen fruits, frozen vegetables, and canned and frozen jams and jellies processed in the certified family child care home may be served; and
+(c) Home‐canned or home‐processed food, other than those described in OAR 414‐350‐ 0200(3)(b), may be served to an individual child only when supplied by that child's parent(s).
+(4) Only pasteurized and fortified milk shall be served to children. (a) Powdered milk may be used only in cooking; and
+(b) The serving of unpasteurized milk is prohibited.
+(5) Only pasteurized 100% fruit or vegetable juice shall be served.
+(6) A certified family child care home shall have at least one refrigerator, in good operating condition, that is adequate to store all potentially hazardous foods.
+44
+
+(7) All potentially hazardous food shall, except when being prepared, be kept at 41° Fahrenheit or below, or 140° F or above.
+(a) A temperature‐measuring device (TMD) in working condition shall be affixed to the door or the front edge of the top shelf of all refrigerators.
+(b) Foods requiring refrigeration after preparation shall be covered and rapidly cooled to a temperature of 41° F or below.
+(c) Extra care shall be taken to ensure that, after pouring milk, any unused portion left in the container is returned to the refrigerator immediately.
+(d) Refrigerated storage space at 41° F or less shall be used to store lunches that contain potentially hazardous food that children bring from home.
+(e) Leftover food prepared but not served by the provider shall be covered, dated, labeled, and either refrigerated promptly and used within 36 hours or frozen immediately for later use.
+(f) Foods that have been cooked and then refrigerated shall be reheated rapidly according to food handler certification standards.
+(8) Children shall not be in the kitchen or food preparation areas when foods are being prepared unless they are protected from such hazards as hot foods, sharp utensils, etc.
+414‐350‐0210 Meals and Snacks
+(1) The provider shall provide or ensure the availability of adequate and nutritious meals and snacks appropriate for the ages and needs of the children served. USDA guidelines will be used to determine if meals and snacks are adequate and nutritious. Foods of minimal nutritional value (e.g., Jell‐O, popcorn, desserts, potato chips) shall only be served occasionally and not replace nutritious foods.
+(a) Every meal shall meet USDA guidelines and shall include at least one serving from each of the following food groups: fluid milk; breads and grains; meat, fish, poultry or meat alternatives (e.g., dried beans, peanut butter, yogurt or cheese). Each meal shall include two servings of fruits or vegetables. No liquids other than milk and 100% fruit juice shall be counted as part of the daily nutrition.
+(b) Snacks shall meet USDA guidelines and shall consist of food or beverage from at least two of the following food groups: fluid milk, breads and grains; meat, fish, poultry or meat alternatives (e.g., dried beans, peanut butter, yogurt or cheese); vegetables and fruits. No liquids other than milk and 100% fruit juice shall be counted as part of the daily nutrition. A snack shall not consist of only two beverages.
+45
+
+(c) Nutrient concentrates and supplements (protein powders, liquid proteins, vitamins, minerals, and other nonfood substances) shall not be served to a child without a written statement of parental consent and written instructions from a medical practitioner. Special diets, not including vegetarian diets, shall not be served to a child without written instructions from a registered dietician or medical practitioner and written parental consent.
+(2) Meals and snacks provided to children shall meet the following requirements:
+(a) In certified family child care homes open morning through afternoon, lunch and morning and afternoon snacks shall be served to the children in care. If breakfast is served to all children, a midmorning snack is not required;
+(b) School‐age children arriving after school shall be served a snack;
+(c) When the planned attendance is prior to 7 a.m. or after 6:30 p.m., a child shall be offered a complete meal if it is not provided by the parent(s); and
+(d) There shall be no more than 3‐1/2 hours between meals and snacks.
+(3) Meals and snacks for children shall be:
+(a) Prepared by the provider;
+(b) Prepared by the parent of the child; or
+(c) Prepared from a source approved by the Department of Human Services.
+(4) When the parent of a child provides food for the child's meal:
+(a) The provider shall be responsible for at least one serving of milk or a milk product to each child at meals;
+(b) Each child's food shall be monitored daily by a caregiver to ensure that the food meets nutritional requirements as defined in section (1) of this rule; and
+(c) The provider shall have sufficient food available to supplement any meal that does not meet nutritional requirements as defined in section (1) of this rule.
+(5) Meals shall be served in a manner that supports safe and sanitary eating and allows socialization to occur.
+46
+
+(6) Nutrient concentrates and supplements shall not be served to a child without a written statement of consent from the parent and a medical practitioner. Special diets, not including vegetarian diets, shall not be served to a child without a written statement of consent from the parent and a registered dietician or medical practitioner.
+(7) To serve family style meals, where food is brought to the table in larger quantities and served to the plates from the table, a certified home must have a written plan, approved by the environmental health specialist and OCC, which includes at least the following elements:
+(a) Provision for handwashing immediately prior to eating;
+(b) Separate serving portions for each table, if more than one table is used;
+(c) Serving utensils distinct from eating utensils;
+(d) Provision for serving mildly ill children so as to prevent the spread of the illness;
+(e) The discarding of any food brought to the table and not eaten; and
+(f) Food brought to the table must be covered until a caregiver is seated with the children.
+(8) A certified family child care home serving children under 12 months of age shall comply with the following requirements for those children:
+(a) Each child shall be fed on his/her own feeding schedule.
+(b) When formula is furnished by the provider, it shall be either the commercially prepared, iron‐enriched, ready‐to‐feed type or shall be prepared from powder or concentrate and diluted according to manufacturers' instructions. When formula is prepared on site, the provider must have a written plan for mixing formula and sanitizing bottles and nipples. The plan must be approved in writing by the environmental health specialist.
+(c) Formula, breast milk, and food provided by the parent shall be clearly marked with the child's name and refrigerated if required.
+(d) No liquids, other than milk, formula, water, and 100 percent fruit juice, shall be served.
+(e) Whole milk, skim milk, 1%, and 2% milk shall not be served unless requested in writing by the child's parent(s) and with a medical provider's written permission.
+(f) Solid foods fed to infants shall be selected from the USDA Infant Food Chart.
+47
+
+(A) Solid foods shall not be fed to infants less than four months of age without parental consent.
+(B) Solid food shall not be served directly from the container unless the child consumes the entire contents of the container or any remaining food in the container is discarded.
+(C) If a portion of solid food from a container is placed in a clean, sanitized dish and served from the dish, any food remaining in the dish shall be discarded.
+(D) Open containers of food, from which a portion has been removed, must immediately be refrigerated at 41 degrees F or less.
+(E) Solid foods, with the exception of finger foods, shall be fed with a spoon.
+(g) Honey or foods containing honey shall not be served; and
+(h) Children who cannot feed themselves shall be held or, if able to sit alone, fed in an upright position.
+(A) Infants up to six months of age shall be held or sitting up in a caregiver’s lap for bottle feeding.
+(B) Bottles shall never be propped. The child or a caregiver shall hold the bottle.
+(C) Infants no longer being held for feeding shall be fed in a manner that provides safety and comfort.
+(9) Children of any age shall not be laid down with a bottle.
+414‐350‐0220 General Requirements
+(1) The provider and any caregivers must give the children’s needs first priority, ensuring they get adequate care and attention.
+(2) There shall be activities for children according to their ages, interests, and abilities. If the provider is certified to care for more than 12 children the provider shall have a written program of activities for each age group.
+(3) A description of the general routine, covering all hours of operation, shall be in writing and shall provide:
+48
+
+(a) Regularity of such activities as eating, napping, and toileting with flexibility to respond to the needs of individual children;
+(b) A balance of active and quiet activities;
+(c) Individual and group activities;
+(d) Daily indoor and outdoor activities in which children use both large and small muscles;
+(e) Periods of outdoor play each day when weather permits; and
+(f) Opportunities for a free choice of activities by children.
+(4) The provider and other caregivers shall use the written description of the general routine as a guide, allowing flexibility to respond to the needs of individual children and/or groups of children and to appropriate variations in daily activities.
+(5) No child may view television or videos or play computer or electronic games for more than two hours per day.
+(6) Infant and toddler program of activities. The following apply to infant and toddlers in care at the certified home.
+(a) Infants shall be allowed to form and follow their own patterns of sleeping and waking periods.
+(b) Children shall be given opportunities during each day to move freely by creeping and crawling in a safe, clean, warm, and uncluttered area.
+(c) Throughout the day, each infant and toddler shall receive physical contact and individual attention (e.g., being held, rocked, talked to, sung to, and taken on walks inside and outside the home).
+(d) The provider must have routines for eating, napping, diapering and toileting, with flexibility to respond to the needs of each child.
+(e) Infants shall have a variety of appropriate infant toys stimulating to the senses.
+(f) Children shall be given appropriate opportunities to use the five senses through sensory play.
+(g) Infants shall be put to sleep on their backs.
+49
+
+(h) Immediate attention shall be given to the emotional and physical needs of the children. No child shall be routinely left in a crib except for sleep or rest.
+(i) Caregivers shall encourage the development of self‐help skills (dressing, toileting, washing, eating) as children are ready.
+(j) In addition, toddlers shall be given opportunities to participate in:
+(A) A variety of activities encouraging creative expression through the arts; and (B) Running, climbing, and other vigorous physical activities.
+(7) The following safe sleep practices must be followed:
+(a) Each infant shall sleep in a crib, portable crib, bassinet or playpen with a clean, non‐ absorbent mattress. All cribs, portable cribs, bassinets and playpens must comply with current Consumer Product Safety Commission (CPSC) standards;
+(b) Bassinets may only be used until the infant is able to roll over on their own;
+(c) Each mattress shall:
+(A) Fit snugly; and
+(B) Be covered by a tightly fitting sheet;
+(d) A clean sheet shall be provided for each child;
+(e) Infants must be placed on their backs on a flat surface for sleeping;
+(f) While on the child care premises, if an infant falls asleep in a place other than their crib, portable crib, bassinet or playpen, the provider must immediately move the infant to an appropriate sleep surface;
+(g) No child shall be routinely left in a crib, portable crib, bassinet or playpen except for sleep or rest;
+(h) There shall be no items in the crib, portable crib, bassinet or playpen with the infant, except a pacifier (e.g. bottles, toys, pillows, stuffed animals, blankets, bumpers);
+(i) Swaddling or other clothing or covering that restricts the child's movement is prohibited;
+50
+
+(j) Clothing or items that could pose a strangulation hazard (e.g. teething necklaces, pacifier attachments, clothing drawstrings) are prohibited; and
+(k) Car seats are to be used for transportation only. Children who are asleep in a car seat must be removed upon arrival to the home and placed in an appropriate sleep surface.
+(8) Preschool‐age program of activities. In addition to the daily routine specified in OAR 414‐ 350‐0220(2), preschool‐age children shall have opportunities, on a daily basis, to choose from a variety of activities and experiences, which shall include:
+(a) Creative expression through the arts;
+(b) Dramatic play;
+(c) Gross (large) motor development;
+(d) Fine (small) motor development;
+(e) Music and movement;
+(f) Opportunities to listen and speak;
+(g) Concept development;
+(h) Appropriate sensory play; and
+(i) A supervised nap or rest period. Children who do not sleep after 20–45 minutes of quiet time must be provided with an alternative quiet activity. The activity may be in the same room where children are sleeping if it is not distracting to sleeping children.
+(9) School‐age program of activities. In addition to the daily routine specified in OAR 414‐350‐ 0220(2), school age children shall have opportunities to choose from a variety of activities, including:
+(a) Individual or group projects and activities, including homework; and
+(b) Rest or relaxation.
+(10) A home providing swimming or other water activities to children shall meet all of the requirements set forth in OAR 414‐350‐0380.
+(11) Spa pools on the grounds of the certified family child care home shall be enclosed by a barrier at least 48 inches high, with a lockable gate or door, and have a lockable pool cover.
+51
+
+The enclosure and cover shall be locked whenever the child care business is being conducted.
+414‐350‐0230 Equipment, Furniture, and Supplies
+(1) The certified family child care home shall have indoor and outdoor play equipment, materials, and furniture that are:
+(a) Appropriate to the developmental needs and interests of children;
+(b) Safe, clean, durable, well constructed, in good repair, and made from lead‐free, non‐ toxic materials;
+(c) Child‐sized or appropriately adapted for infants, toddlers, and preschool age children's use; and
+(d) Easily accessible to the children.
+(2) The quantity of play materials (i.e., toys, books and games) shall be sufficient to:
+(a) Avoid excessive competition;
+(b) Provide a variety of choices to each child;
+(c) Provide a balance of active/quiet and individual/group activities; and
+(d) Provide the variety of activities required in OAR 414‐350‐0220(2), (3), and (4).
+(3) An individual bed, mat or cot, appropriate to the cultural background of the child, with individual bedding appropriate to the season shall be provided for each toddler and preschool age child in the home at nap time and for each school‐age child who wants to rest.
+(a) Family beds may be used.
+(b) If the parent(s) so request, siblings may share the same bed.
+(c) The upper level of bunk beds shall not be used for children under 10 years of age.
+(d) The upper level of bunk beds may be used for children 10 years or older if a bed rail and safety ladder are provided.
+52
+
+414‐350‐0235 Infant and Toddler Furniture and Equipment
+(1) Each infant shall have a crib, portable crib, or playpen with a clean, non‐absorbent mattress that meets the following requirements:
+(a) Each crib shall be of sturdy construction with vertical slats no more than 2 3/8" apart;
+(b) Locks and latches on the dropside of the crib shall be safe and secure from accidental release or release by the infant inside the crib;
+(c) Each mattress shall fit snugly; and
+(d) Sleeping arrangements shall be appropriate to the cultural background of the infant, with individual bedding appropriate to the season.
+(2) If infants and toddlers are in care there shall be:
+(a) A bathtub, bathinette, plastic basin, or similar size shallow sink available for bathing children; and
+(b) A diaper‐changing area. The area shall be located so that handwashing can occur immediately after diapering without contact with other surfaces or other children.
+(c) If the provider is certified to care for more than 12 children and more than 8 infants and toddlers are regularly in care, there must be a second diaper‐changing area available.
+(3) The diaper‐changing table or area shall comply with the requirements specified in OAR 414‐ 350‐0160(3)(a)(G).
+(4) If high chairs are used, they shall have:
+(a) A broad base to prevent tipping;
+(b) A latch to keep a child from raising the tray; and (c) Straps to prevent a child from sliding out.
+(5) Cribs, portable cribs, playpens, and high chairs must meet US Consumer Product Safety Commission or equivalent standards.
+(6) The use of baby equipment shall not substitute for providing a variety of stimulating experiences.
+(7) The use of infant walkers is prohibited.
+53
+
+(8) The use of potty chairs must be approved by the environmental health specialist and/or by OCC.
+414‐350‐0240 Guidance and Discipline
+(1) A provider shall have a written policy on guidance and discipline of children.
+(2) The provider shall make these policies known to all caregivers and parents.
+(3) The guidance and discipline policy shall:
+(a) Provide for positive guidance, redirection, and the setting of clear boundaries; and
+(b) Be designed to help the child develop self‐control, self‐esteem, and respect for others.
+(4) Only a caregiver shall provide guidance or discipline to a child.
+(5) Guidance and discipline shall be fair, consistently applied, timely, and appropriate to the behavior and age of the child. Positive statements or redirection of behaviors shall be used.
+(6) Prohibited punishment includes, but is not limited to:
+(a) Hitting, slapping, shaking, striking with hand or instrument, pinching, tying or binding, or inflicting any other form of corporal punishment;
+(b) Mental or emotional punishment including, but not limited to, name calling, ridicule, yelling, or threats;
+(c) Non‐prescription chemical restraints used for discipline or to control behavior;
+(d) Confining a child in an enclosed area, (e.g., a locked or closed room, closet, box);
+(e) Forcing or withholding meals, snacks, rest, or necessary toilet use; or
+(f) Belittling a child for or forcing a child to clean up after toileting accidents.
+(7) The provider shall not accept parental permission to use any form of punishment listed in subsection (6) of this rule.
+54
+
+414‐350‐0250 Transportation
+When transportation is provided by or arranged for by the certified family child care home, the following requirements must be met.
+(1) Drivers shall be at least 18 years of age and hold a current driver's license.
+(2) The vehicle shall be:
+(a) In compliance with all applicable state and local motor vehicle laws, and
+(b) Maintained in a safe operating condition.
+(3) If transportation is provided between the certified family child care home and the child's school or other destination, the provider shall have in writing an acknowledgment from the parent(s) that they are aware of the time of day their child is to be picked up and/or delivered by the provider. If the pick‐up schedule results in children being unsupervised at school or other location, the provider shall notify parents of this fact.
+(4) When transporting children:
+(a) The emergency information for each child who is being transported shall be in the vehicle.
+(b) Children shall be transported only in sections of vehicles designed for and equipped to carry passengers.
+(c) A seat that fully supports the passenger shall be provided for each child.
+(d) The number of children transported shall not exceed the number of seat belts or child safety systems available in the vehicle.
+(e) All children shall be transported in accordance with ORS 811.210. The child safety system and safety belts shall comply with ORS 815.055 and the standards adopted by the Oregon Department of Transportation. A child under four years of age and weighing 40 pounds or less shall be in an approved child safety system. A child between the ages of 4 and 6 years AND children who weigh between 40 and 60 pounds, regardless of age, must use a booster seat.
+(f) Staff/child ratios, as specified in OAR 414‐350‐0120, shall be maintained in vehicles, as well as in the certified family child care home, when one caregiver is transporting children.
+55
+
+(g) Infants, toddlers, and preschool age children shall leave the vehicle on the same side of the street as the building they will enter.
+(h) Drivers delivering children to their homes shall not depart until the child has been received by an authorized person.
+(i) No child shall be left unattended inside or outside a vehicle.
+(j) If firearms and ammunition are stored in a vehicle, they must be stored as specified in OAR 414‐350‐0170(10)(d).
+(5) The following vehicles may be used to transport child care children:
+(a) A vehicle manufactured to carry fewer than ten passengers;
+(b) A school bus or a multi‐function school activity bus;
+(c) A vehicle manufactured to carry ten or more passengers that was manufactured in 2010 or after; or
+(d) A vehicle manufactured to carry ten or more passengers that was manufactured before 2010, with the following conditions:
+(A) Travel speed may not exceed 50 mph; and
+(B) The vehicle must have an annual safety inspection by a garage, dealership or auto repair shop. Proof of inspection must be on the form provided by the Early Learning Division or on a form provided by the inspector which contains the same information.
+414‐350‐0375 Night Care
+When a certified family home provides night care to child care children, the provider shall meet all of the requirements for certified family child care homes contained in OAR 414‐350‐0000 through 414‐350‐0405, except for 414‐350‐0150 and 414‐350‐0220. In addition, the home shall comply with the following requirements, and the certification shall reflect that regulated night care is offered.
+(1) Staffing:
+(a) During the hours of night care, the required staff/child ratios, as specified in OAR 414‐ 350‐0120 shall be maintained.
+(b) A caregiver must be present on the same floor level as the child care children who are sleeping.
+56
+
+(c) A caregiver must be awake for the arrival and departure of each child in night care. A caregiver must be awake during night care hours if more than six(6) children are in care.
+(d) All persons 18 years of age and older, inclusive of guests sleeping in the home during night care hours, shall comply with OAR 414‐350‐0090(4).
+(2) Activities:
+(a) There shall be quiet activities, such as story‐time, games, arts and crafts, and reading, for each child arriving before bedtime. These activities shall be appropriate to the child's age, interests and abilities.
+(b) The use of television, videos, and computer or electronic games shall comply with OAR 414‐350‐0220(5).
+(c) The provider shall have a written plan for night care which includes: (A) Regular routines;
+(B) Supervision of children;
+(C) Evacuation procedures for awake and sleeping children;
+(D) Sleeping arrangements; and
+(E) Arrival and departure procedures.
+(d) If 24‐hour care is provided, the provider shall have a written plan for self care, i.e., how her/his own needs will be met.
+(3) Sleeping Arrangements:
+(a) Space shall be available so that children may go to sleep at various times, based on their age and need for rest.
+(b) All sleeping rooms used by children shall have two useable exits. A sliding door or window can be considered a useable exit if it meets the definition, as specified in OAR 414‐350‐0010(38).
+(c) Beds and bedding shall comply with OAR 414‐350‐0230(3) and 414‐350‐0235(1).
+(4) Personal Hygiene:
+(a) When bathing is provided, there shall be:
+57
+
+(A) Individual washcloths and towels for each child;
+(B) Individual bathing opportunities for each child, unless a parent(s) has given permission for siblings to bath together;
+(C) Safety glass in glass shower doors or glass tub enclosures;
+(D) Appropriate cleaning and sanitizing procedures implemented after each child has used the shower or tub; and
+(E) Appropriate equipment in bathtubs and showers to prevent slipping.
+(b) Children spending the night shall have the opportunity to brush their teeth with an individual toothbrush and toothpaste labeled with his/her name.
+(c) When bathing, showering or brushing teeth, children shall be supervised by a caregiver. For school‐age children, privacy shall be maintained.
+414‐350‐0380 Swimming Activities
+The following requirements apply to swimming/water activities provided on the premises of a certified family child care home, or off premises by another organization, public or private, when part of the facility's program.
+(1) Definitions:
+(a) "Beginning swimmer" means a child who has mastered the skills required to:
+(A) Hold his breath with his head submerged;
+(B) Perform a front and back float;
+(C) Perform the flutter kick on his front and back;
+(D) Be able to level off from a vertical entry into a float position; and
+(E) Do a combined stroke (front or back) for at least 20 feet without stopping.
+(b) "Non‐swimmer" means a child who does not meet the definition of beginning swimmer.
+(c) "Lifeguard" means a person holding current certification and meeting the requirements OAR 333‐060 of ‐0015(13).
+58
+
+(d) "Swimming pool" means a swimming or wading pool licensed by the Oregon Department of Human Services or one of its delegated agents under the requirements of OAR 333‐060‐0005 through 333‐060‐0225.
+(e) "Wading" means water activities in which the water's depth is no higher than the child's knee.
+(2) General Health and Safety:
+(a) Children with diarrhea or who have had diarrhea within the last two weeks shall not use the pool.
+(b) Children who are not toilet trained shall wear swim diapers.
+(c) Children shall use the toilet and shower before entering the pool.
+(d) Proper supervision shall be maintained, as specified in OAR 414‐350‐0380(3)(e), (f) and (g) and 414‐350‐0380(d) and (e).
+(e) The pool operator shall maintain water quality as required in OAR 333‐060‐0200 or pool use shall cease until the water quality is restored.
+(f) Children using the pool shall participate in basic water safety instruction based on their ages and developmental levels.
+(A) All adults counted in the staff/child ratios in Table 4 shall be able to swim if the water is more than 48 inches deep and, regardless of the water depth, shall be dressed for swimming.
+(B) For children 6 weeks to 36 months, one of the required staff must be in the water. Other staff may be on deck.
+(g) Recreational swimming is not allowed for non‐swimmers ages 6 weeks to 36 months in swimming pools with water depth 24 inches and over.
+(h) Portable‐style wading pools are not permitted.
+(3) On‐Premises Pool Facilities:
+(a) On‐premises pool facilities shall be licensed by the Oregon Department of Human Services or its delegated agent and shall comply with the requirements in OAR 333‐060‐ 0005 through 333‐060‐0225.
+(b) On‐premises pool facilities shall have toilets and showers for use by the swimmers.
+59
+
+(c) All new pools or pools at certified family child care homes certified after September 15, 2002, shall have dressing areas for each sex, with storage for the children's clothes.
+(d) All activities occurring in a pool shall be under the direction and direct supervision of lifeguards.
+(e) Center staff/child ratios shall be maintained at all times children are in the pool area, as specified in Table 4 of this rule.
+(f) Lifeguard/child ratios shall be maintained at all times children are in the pool area:
+(A) For children not yet attending kindergarten, there shall be one lifeguard for every 20 children;
+(B) For children attending kindergarten and older, there shall be one lifeguard for every 40 children; and
+(C) For mixed age groups of children, the age of the youngest child shall determine the lifeguard/child ratio.
+(g) During all periods of pool operation, the appropriate number of lifeguards shall be on duty in the pool area. During periods of recreational swimming, at least one of the required number of lifeguards shall be stationed on the pool deck.
+(h) Water activities that involve a sprayer or spray feature using potable water that is not re‐circulated or collected may be conducted by the home. [Table not included. See ED. NOTE.]
+(i) A written plan for pool emergencies shall be available to all staff. The plan shall cover procedures for medical emergencies, chemical emergencies and severe weather.
+(A) Staff shall be familiar with emergency procedures, the use of safety equipment and emergency contacts.
+(B) The certified home shall provide in‐service training and/or drills of the emergency procedures for the pool at least every six months. The provider shall keep a written record of the type, date, time and duration of the training/drills.
+(C) Emergency telephone numbers shall be posted near the telephone in the pool area and near a centrally‐located and accessible telephone in the certified home.
+(j) Safety equipment shall be provided and comply with OAR 333‐060‐0005 through 333‐ 060‐0225. In addition:
+60
+
+(A) All pools shall have an emergency telephone located in the pool area. The telephone shall be able to dial directly for emergency assistance, unless otherwise approved by the Oregon Department of Human Services.
+(B) A bodily‐fluid spill clean‐up kit shall be provided in the pool area. The kit shall consist, at a minimum, of protective gloves, disinfectant, clean‐up materials (e.g., bucket, sponge, paper towels), and a biohazard waste bag, be stored in a complete condition, and be replaced or restocked immediately after use.
+(C) A rescue tube, of the type required by the lifeguard certifying agency, shall be provided for each lifeguard on duty.
+(4) Off‐Premises Pool Facilities:
+(a) Off‐premises pool facilities used by the center shall be licensed by the Oregon Department of Human Services as public swimming pools.
+(b) The off‐premises pool management shall be made aware of the certified family child care home rules regarding swimming activities.
+(c) Certified family child care home staff and children shall comply with the rules and regulations of the public swimming pool.
+(d) Certified family child care home staff shall comply with the staff/child ratios in Table 4 of this rule. Lifeguard/child ratios shall be determined by the public swimming pool.
+(e) Children shall be within sight and sound of certified family child care home staff at all times.
+(f) First aid supplies and a copy of each child's medical release form shall be taken to off‐ premises pool facilities.
+(5) Natural Bathing Areas:
+(a) The certified family child care home shall not conduct swimming activities in areas with flowing water.
+(b) Wading is the only water activity permitted in shallow surf, lakes, rivers and streams.
+61
+
+414‐350‐0390 Suspension, Denial and Revocation
+(1) Certification may be denied or revoked if a certified family child care home fails to meet requirements, provide OCC with information requested, allow an inspection, correct deficiencies, or is operated or maintained in a manner which is harmful to the health, safety or well‐being of children in care.
+(2) The provider has the right to appeal any decision to suspend, deny or revoke the certification, subject to the provisions of Chapter 183, Oregon Revised Statutes.
+(3) A provider whose certification has been denied for cause (e.g. health and safety concerns, criminal activity or child protective services involvement) or revoked shall not be eligible to reapply for 5 years after the effective date of the closure.
+(4) If necessary to protect children, OCC may give public notice of denial, suspension or revocation action taken. The type of notice will depend on individual circumstances.
+(5) OCC may immediately, and without prior notice, suspend the child care certification when, in the opinion of OCC, such action is necessary to protect the children from physical or mental abuse or a substantial threat to health, safety or well‐being. Such action may be taken before an investigation is completed.
+(6) A provider whose certification has been suspended must immediately notify, verbally or in writing, all parents of the suspension.
+(7) A provider whose certification has been suspended must post the suspension in the home where it can be viewed by parents and others for the duration of the suspension.
+(8) If the provider does not request a hearing and the conditions which resulted in suspension have not been corrected, the certification shall be revoked.
+(9) An owner whose certification has been suspended must immediately provide OCC with all names, work and home telephone numbers and addresses of the parent(s) or legal guardian(s) for each child.
+(10) A certified family child care home whose certification has been denied or revoked must immediately notify all parents of the closure and shall post a notice of the closure where it can be viewed by parents and others. The notice shall remain posted for a minimum of 2 weeks.
+(11) Any action taken by OCC to deny, suspend, or revoke certification may be reported to the Department of Human Services, USDA Child Care Food Programs, child care resource and referral system.
+62
+
+(12) If any person, who is enrolled in the CBR, has been charged with, arrested for, or a warrant is out for any of the crimes which OCC has determined indicate behavior which may have a detrimental effect on a child, with final disposition not yet reached, certification may be denied or suspended or revoked until the charge, arrest, or warrant has been resolved if the person continues to operate, be employed in or reside in the home, or have access to children in the home.
+(13) Certification may be denied, suspended or revoked if an individual listed in OAR 414‐350‐ 0080(5) has a child protective services history or an open child protective services or law enforcement case that would disqualify the individual from the CBR.
+414‐350‐0405 Civil Penalty
+(1) Violations of these rules or terms and conditions of certification under these rules may be subject to a civil penalty up to $1200 per violation.
+(2) Whenever the Office of Child Care (OCC) investigates an alleged complaint at a certified facility, or a facility that may be operating in violation of the requirements of ORS 329A.250 through 329A.450, OCC shall:
+(a) Provide technical assistance as appropriate;
+(b) Send written notice of the complaint visit to the facility with a finding of valid, unable to substantiate, or invalid; and
+(c) OCC shall assess whether additional legal actions are appropriate, including but not limited to civil penalties, denials, revocations or suspensions, depending upon:
+(A) Numbers of previous violations of the same rule; or
+(B) Circumstances surrounding the rule violation.
+(3) For a serious violation, as defined in OAR‐414‐350‐0010 (33), an owner may be subject to a civil penalty not to exceed $1200 for each violation.
+(4) For a non‐serious violation, an owner may be subject to a civil penalty of $400 for each violation.
+(5) Each day that a child care facility is operating in violation of any of the rules and conditions of certification is a separate violation of the rules.
+(6) An individual or entity that provides child care subject to licensing in a home or facility that is not certified with the Office of Child Care, may be subject to a civil penalty not to exceed $1,500 per day of operation of the uncertified facility.
+63
+
+(7) Notwithstanding the Office of Child Care’s (OCC) decision to impose a civil penalty for one or more rule violations, OCC may also take action to deny, suspend or revoke a certification for the same rule violation or violations.
+(8) The provider has the right to appeal any decision to impose a civil penalty, subject to the provisions of Chapter 183, Oregon Revised Statutes.
+(9) Failure to pay a civil penalty in which the Office of Child Care has issued a final order by default or a final order after a contested case hearing shall be grounds for denial or revocation of the facility’s certification.
+64
+

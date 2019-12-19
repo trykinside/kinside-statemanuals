@@ -1,0 +1,2119 @@
+ PUB-002 (REV. 04/01/2019)
+
+Table of Contents
+100 CHILD CARE LICENSING 1
+101 Related Laws and Requirements 1 102 General Requirements 2 103 Licensing Procedures 3 104 License Fee 6 105 Appeal of Licensing Actions 7 106 Alternative Compliance 8 107 Church-Operated Exemptions 9 108 Licensing Investigations 10 109 Child Maltreatment Checks 10 110 Criminal Records Check 11
+200 ORGANIZATION AND ADMINISTRATION 16
+201 Administrative Procedures 16
+300 PERSONNEL 16
+301 Staff/Child Ratio 16 302 Director 18 303 Staff Requirements 19 304 Volunteer Requirements 20 305 Student Observers 20 306 Professional Development 21
+400 PROGRAM 22
+401 Program Requirements for all ages 22 402 Infant & Toddler Specific Program Requirements 24
+500 BEHAVIOR GUIDANCE 25
+501 Behavior Guidance Requirements 26 502 Infant & Toddler Behavior Guidance Requirements 27
+600 RECORDS 27
+601 Record Requirements 27
+
+602 Facility Records 27 603 Staff Records 28 604 Children’s Records 28
+700 NUTRITION 29
+701 Nutrition Requirements 29 702 Infant & Toddler Nutrition Requirements 30
+800 BUILDINGS 31
+801 Building Requirements 31 802 Infant & Toddler Building Requirements 32
+900 PLAYGROUNDS / OUTDOOR LEARNING ENVIRONMENT 33
+901 Layout & Design 33 902 General Hazards 34 903 Balance Beams 35 904 Slides 35 905 Swings 35 906 Climbing Equipment 36 907 Merry Go Rounds 36 908 Seesaws 36 909 Protective Surfacing 36
+1000 FURNITURE & EQUIPMENT 38
+1001 Furniture & Equipment Requirements 38 1002 Sleeping Requirements for Preschool 38 1003 Infant & Toddler Sleeping Requirements 38
+1100 HEALTH 39
+1101 General Health Requirements 39 1102 Hand Washing 43 1103 Infant & Toddler Hand-Washing 43 1104 Drinking Facilities 43 1105 Toilet Facilities 44 1106 Infant & Toddler Toilet Facilities 44
+
+1107 Diaper Changing 44 1108 Toilet Learning 45
+1200 SAFETY 45
+1201 Safety Requirements 45 1202 Infant & Toddler Safety Requirements 47 1203 Swimming Pools 47
+1300 TRANSPORTATION 48
+1301 Transportation Requirements 48 1302 Infant & Toddler Transportation Requirements 51
+1400 SPECIAL NEEDS 51
+1401 Special Needs Requirements 51 1402 Infant & Toddler Special Needs Requirements 52
+PROGRAM SPECIFIC VARIATIONS 52
+1500 SCHOOL AGE/SUMMER DAY CAMP 52
+301 Staff/Child Ratio 52 401 Program Requirements 52 604 Children’s Records 53 701 Nutrition Requirements 53 801 Building Requirements 53 1002 Sleeping Equipment 53 1101 Health Requirements 53 1102 Hand Washing 53 1104 Drinking Facilities 53 1105 Toilet Facilities 54 1203 Swimming Pools 54 1301 Transportation Requirements 54
+1600 EVENING & NIGHT CARE VARIATIONS 54
+301 Staff/Child Ratio 54 401 Program Requirements 54
+
+701 Nutrition Requirements 54 1002 Sleeping Arrangements 54 1105 Toilet Facilities 55
+1700 PART-TIME PROGRAM VARIATIONS 55
+401 Program Requirements 55 701 Nutrition Requirements 55
+1800 SICK CARE COMPONENT 55
+301 Staff/Child Ratio 55 302 Director 55 401 Program Requirements 56 604 Children’s Records 56 801 Building Requirements 56 1001 Furniture & Equipment Requirements 57 1101 General Health Requirements 57
+APPENDIX A: DEFINITIONS 59 APPENDIX B: LIST OF REPORTABLE DISEASES 62 APPENDIX C: CHILD CARE MEAL PATTERN 64 APPENDIX D: INFANT CARE MEAL PATTERN 68 APPENDIX E: ADULT CARE MEAL PATTERN 70 APPENDIX F: DISASTER/EMERGENCY PREPAREDNESS 74 IMMUNIZATION REQUIREMENTS 75
+
+Minimum Licensing Requirements for Child Care Centers
+100 CHILD CARE LICENSING
+101 Related Laws and Requirements
+1. The “Child Care Facility Licensing Act” Ark. Code Ann. 20-78-201-220, as amended, is the statutory authority for licensing child care facilities. This act created the Division of Child Care and Early Childhood Education and authorized the Division to establish rules and regulations governing the granting, revocation, denial and suspension of licenses for child care facilities and the operation of child care facilities in this state. The Minimum Licensing Requirements for Child Care Centers are the Division’s rules and regulations for Child Care Centers.
+2. The Child Care Facility Licensing Act designates the Arkansas Department of Human Services, Division of Child Care and Early Childhood Education as the administrative agency responsible for administering the Act in accordance with the Minimum Licensing Requirements for Child Care Centers. The Division is authorized to inspect and investigate any proposed or operating Child Care Centers and any personnel connected with the Center to determine if the facility will be or is being operated in accordance with the Child Care Facility Licensing Act and the Minimum Licensing Requirements for Child Care Centers.
+3. The licensing requirements contained in this manual apply to group child care. (Refer to the Minimum Licensing Requirements for Child Care Family Homes for the requirements that apply to child care provided in a Child Care Family Home.)
+4. The Child Care Licensing Unit will notify the applicable federal agency at any time they become aware of or are advised of violations of any of the following or similar laws. The owner should be aware of applicable federal laws which may affect the operation of the facility, such as, but not limited to:
+a. Americans with Disabilities Act (ADA).
+b. EnvironmentalProtectionAgency(EPA)regulationstoensurethatanyrenovationor
+repair work on a home, child care facility, or school that was constructed prior to 1978 shall be completed by a contractor that is certified by the Environmental Protection Agency (EPA), when the repairs and/or renovations consist of any or all of the following: the repair or renovation disturbs six (6) or more square feet of the interior, the repair or renovation disturbs twenty (20) feet or more square feet of the exterior, and/or the repair or renovation involves removing a window.
+c. Federal civil rights laws state that a facility may not discriminate on the basis of race, color, sex, religion, national origin, physical or mental handicap, or veteran status.
+5. The Licensee shall maintain Child Care Liability Insurance (Act 778 of 2009), and comply with the following requirements, with the following exception: State institutions, political
+       1
+
+subdivisions or other entities entitled to immunity from liability under 21-9-301, are not
+ required to have general liability insurance coverage in order to be licensed. (Act 23 of
+ 2015)
+ a. Prior to the approval of an application, the applicant shall provide verification of the required coverage to the Licensing Specialist and provide subsequent verification when requested. (Facilities licensed prior to the effective date of this revision shall have ninety (90) days to comply with this requirement.)
+b. TheLicenseeshallmaintaintheminimumamountofcoverageasfollows:
+6. Laws relevant to the operation of child care facilities are available upon request.
+7. The following standards are the minimum licensing requirements which shall be met by persons or organizations which operate a child care facility. In recommending a license be issued, the Division of Child Care and Early Childhood Education works in coordination with the local and state Health Departments, Fire Departments, City Planning or Zoning Departments and the Boiler Division of the Department of Labor. Persons considering opening or expanding a child care facility shall immediately contact these individual departments for inspection and information on their separate regulations.
+A prospective Licensee should request clarification regarding the codes or covenants enforced by these departments as some may prevent the operation of a child care facility at a particular location, may limit the number of children in care or may impose additional safety requirements.
+8. The Licensing Unit shall share information on the location and status of new applicants applying for a license and on facilities holding a license when a city or county requests the information.
+102 General Requirements
+1. Child Care Centers shall maintain compliance with the licensing requirements at all times. To be in substantial compliance, the Child Care Center shall meet all essential standards necessary to protect the health, safety and welfare of the children attending the Child Care Center. Essential standards include but are not limited to those relating to issues involving fire, health, safety, nutrition, discipline, staff/child ratio and space. Failure to comply with any of the licensing requirements for Child Care Centers may result in any of the following adverse actions:
+a. Denial of an application for a license or for church exempt status b. Revocationorsuspensionofalicenseorchurchexemptstatus
+Licensed Capacity of Center
+    Minimum Child Care Liability Insurance Coverage Required
+   1-74
+    $500,000 per occurrence
+   75 and up
+    $1,000,000 per occurrence
+    2
+
+c. Issuance of a provisional license or provisional church exempt status
+2. The following factors may be considered when determining the appropriate adverse action:
+a. Severity of the deficiency cited
+b. Number of violations cited
+c. Frequency of violations cited
+d. Pasthistoryofcompliance
+e. Willingness/ability to correct violations
+3. Each Child Care Center shall be reviewed by the Child Care Licensing Unit to determine whether the facility is in compliance with all the Minimum Licensing Requirements for Child Care Centers. Child Care Licensing staff shall have access to Child Care Centers for the purpose of conducting inspections, reviews and complaint investigations. (Clarification: In addition to rooms used for care, Child Care Licensing Staff must also be given access to all other rooms or spaces not used for child care. Any rooms or areas that are not accessible to children in care will only be viewed briefly for major health and safety issues and will not be routinely monitored for general licensing compliance. This is to help insure that there
+are no dangers such as fire hazards, which could impact the safety of the entire structure.)
+4. Denial of access to the facility or to interview children may result in any of the adverse actions described above.
+5. Any facility that has not provided care to children for a period of one year shall be closed unless a written request is made by the Licensee stating why closure should not take place. If the Licensee requests that the license remain open, license fees and required annual inspections shall be kept current.
+6.
+103 Licensing Procedures
+1. Application - An application shall be obtained from the Child Care Licensing Unit. The completed application packet shall be submitted to the Child Care Licensing Unit for review and approval. A completed application packet shall consist of:
+a. A signed application form with a designated person who assumes legal responsibility for operation of the child care facility
+b. Name of proposed director and their qualifications
+c. Names, addresses and telephone numbers of the Board of Directors, if applicable
+d. Clear written guidelines of responsibility for the Board of Directors, if applicable
+e. Building/facility diagram
+f. Description of the services that will be provided to the children
+g. Verification that criminal record checks and child maltreatment central registry checks
+have been initiated on all owners, operators and staff members of the Child Care Center
+   Falsification of any document and/or submission of false information to the Child Care Licensing
+Unit may constitute grounds for revocation of the license. Falsification of any document and/or
+ submission of false information to any DHS Division that results in exclusion, pursuant to DHS
+ Exclusion Policy 1088, shall constitute grounds for revocation of the license.
+ (Falsification means the submission of untrue information, whether by statement or omission.)
+ 3
+
+h. Boiler inspection, or verification that inspection has been scheduled i. Fire Department approval
+j. Health Department approval
+k. Zoning Approval
+l. Verification of Child Care Liability Insurance (if Child Care Liability Insurance cannot be obtained before application, it must be obtained with proof provided to the Child Care Licensing Unit before care of children can be provided)
+m. A reasonable plan with a proposed budget for the financial support of the center covering costs of staffing, building (including rent or mortgage and repairs), utilities, equipment, safety and nutrition. (This is a one-time only requirement that applies to new applicants for a license.)
+2. Time for processing: The Licensing Specialist has sixty (60) days to submit a recommendation to the Division.
+3. A pre-approval consultation meeting shall be required for all applicants for a license prior to the approval of the application. This meeting shall be offered to the applicant prior to application or within thirty (30) days of the receipt of the application.
+4. License - The Child Care Licensing Unit shall conduct a licensing study of each Child Care Center to determine eligibility for a license. The facility shall be approved by the Child Care Licensing Unit before a license may be issued by the Division. A license for a Child Care Center shall specify:
+a. The name and address of the Child Care Center
+b. Theowner/operatoroftheChildCareCenter
+c. The number of children authorized for care at the Child Care Center
+d. Theexpirationofanyprovisionallicenses
+e. The type of care the Child Care Center will be providing
+5. License - Non-transferable - A license for a Child Care Facility or approval for a church- operated exempt status shall apply only to the address and location stated on the license or approval issued. It shall not be transferable from one holder of the license or approval to another or from one place to another. If the location of a Child Care Facility is changed, or the operator of the Child Care Facility is changed, then the license or approval for that Child Care Facility shall be automatically closed on such a change. The Child Care Facility shall notify the Licensing Unit of a change of location or ownership.
+6. Compliance - On-site inspections of Child Care Centers are conducted by the Child Care Licensing Unit on a routine basis to determine a facility’s continued compliance with the standards. The caregiver shall cooperate with licensing staff during licensing visits and investigations.
+Violations of rules are documented in writing by use of the licensing compliance record. Documentation shall include:
+a. Reference to the specific rule violated
+b. AfactualdescriptionofthenatureoftheviolationandhowtheChildCareCenterfailed
+    to comply
+c. A date of expected corrections
+4
+
+7. If video recordings are made by the facility and are maintained for viewing as a part of a continuous monitoring system, they shall be made available to licensing staff upon request. This does not include video recordings of special events, etc.
+8. The Child Care Licensing Unit shall have the authority to make both scheduled and unscheduled visits to:
+a. Conduct inspections and reviews to determine compliance with the licensing requirements
+b. Investigatecomplaintsinvolvingpossibleviolationsoflicensingrequirements
+c. Offer consultation and technical assistance
+9. The Child Care Licensing Specialist may increase unscheduled monitor visits where numerous or severe violations of standards are cited.
+10. If a violation is of imminent threat to the health, safety and welfare of the children attending the Child Care Center, corrective action or compliance shall be obtained within 24 hours in order to insure the health, safety and welfare of the children in care. If a Child Care Center violates an administrative standard or standard that does not directly threaten the immediate health, safety or welfare of the children in care, these violations shall be corrected within a reasonable time as mutually agreed upon by the Child Care Licensing Unit and the Child Care Center.
+Once a violation has been corrected, the correction will be documented on the Licensing Compliance Record and a copy provided to the Child Care Center.
+11. New Provisional License - The Child Care Licensing Specialist shall recommend a New Provisional License when the facility is newly opened or a facility has been acquired by new owners whose compliance history has not been determined. A New Provisional License shall not exceed twelve (12) months in length.
+At the end of the Provisional License, the Division may in its discretion:
+a. Issue a Regular License b. Revokethelicense
+c. Suspend the license
+d. Issue a successive Provisional License
+12. Regular License - The Child Care Licensing Specialist will recommend a Regular License when the facility has demonstrated substantial compliance, or when an existing Licensee with a Regular License relocates their facility and their past demonstrates a substantial level of compliance.
+13. Provisional License - The Licensing Unit may issue a Probationary Provisional License when the center is not maintaining substantial compliance due to deficiencies which are so numerous, frequent or severe as to potentially jeopardize the health, safety and welfare of children. The facility and Licensing Unit shall have a corrective action plan in place addressing the issues.
+      5
+
+Based on the level of compliance during the period of the Probationary Provisional License, the Licensing Unit may:
+a. Issue a Regular License
+b. Suspend the license
+c. Revoke the license
+14. Suspension of License -The Division may suspend a license when the Licensing Unit determines that the facility has serious areas of non-compliance, but the facility would be able to resume normal operation when the harmful conditions are eliminated.
+If granted, the suspension order remains in effect until the order expires or until the Division determines that the problems necessitating the suspension order have been resolved. The suspension of a license may not exceed twelve (12) months. If the Division finds that the terms of the suspension order have been met prior to the expiration of the suspension period, the Division retains discretion to reinstate the license. If the terms of the order have not been met, the Division may revoke the license.
+15. Revocation of License -The Division may revoke a license when any of the following situations occur:
+a. The facility fails to maintain substantial compliance with licensing requirements.
+b. The facility fails or refuses to correct cited deficiencies in a timely manner.
+c. The facility fails to insure the health, safety and welfare of children in care.
+16. The revocation of a license nullifies and cancels the license. At the time of a final determination of revocation of the license by the Division, the Division shall specify in the revocation letter the terms of the revocation. The Licensee shall not be eligible to reapply for a license for a minimum of one (1) year, or longer if specified in the revocation order. Related parties shall not be eligible to apply for a license for the same specified period. (Related parties are defined as immediate family members, members of the Board of Directors, persons or entities associated or affiliated with, or which share common ownership, control or common board members or which have control of or are controlled by the Licensee. An immediate family member is defined as a spouse, step and in-law relationships, a child, a natural or adoptive parent, a sibling, a grandparent, a grandchild or a son or daughter-in-law.) (Applicants who are denied a license or registration due to this requirement may appeal the denial to the Child Care Facility Review Panel.) Facilities wishing to be re-licensed must submit a new application for licensure for review and approval by the Division. Approval must be obtained and a new license issued before the facility provides care to a licensable number of children.
+104 License Fee
+1. Each facility shall submit an annual license fee as long as the facility is in compliance with the Minimum Licensing Requirements for Child Care Centers. A facility license fee is determined by combining the maximum license capacity of all licenses located within the same premises.
+a. Facilities serving up to 17 children- $15 per year b. Facilitiesserving17to99children-$50peryear
+  6
+
+c. Facilities serving 100 or more children- $100 per year
+2. Upon review and determination of a licensing recommendation by the Child Care Licensing Specialist, the Specialist shall issue a Notice of License Fee Due to the facility.
+3. The Division shall not issue a license unless the required license fee has been paid.
+4. A copy of the license fee notice shall be submitted at the time of licensure recommendation.
+5. The fee schedule shall apply to all child care facility recommendations for licensure as follows:
+a. New Provisional License - (Provisional License for new operation to be issued for a period of twelve (12) months) A one-year license fee shall be paid prior to the issuance of a provisional license.
+b. NewRegularLicenseorconversionfromprovisionaltoregularstatus-Alicensefeeshall be paid prior to the issuance of a new license.
+c. Conversion to Provisional Status - No license fee is due for licenses converted to provisional status during the term of a regular license.
+6. A second notice of license fee due will be sent to facilities failing to submit the required license fee (Notice of License Fee Past Due). This notice will be sent twenty (20) days after the initial notice of fee due. Failure to submit a license fee within twenty (20) days of receipt of the past due notice will result in action to suspend the license until such time as the fee is paid.
+7. Refunds of license fees paid are made only when the Division does not approve issuance of a license. There shall be no refunds of license fees paid for voluntary closure of a facility or for Division action to revoke or suspend a license.
+8. All license fees paid to the Division shall be deposited in a special Child Care Provider’s Fund. This fund shall be used to meet the cost of conducting statewide criminal record checks, with the remaining money used for training or materials to be loaned to child care providers.
+105 Appeal of Licensing Actions
+1. A Licensee or applicant for license may request an appeal of any of the following licensing actions:
+a. Adverse licensing actions (revocation or suspension of a license, conversion to a provisional license or denial of an application for a license)
+b. Foundedlicensingcomplaints
+c. Denials of alternative compliance requests
+d. Citednoncompliancewiththepublishedstandards
+2. An appeal may be initiated on any of the above actions by requesting an appeal in writing to the Licensing Specialist or Licensing Supervisory Staff. Requests to appeal adverse licensing actions must be mailed within ten (10) calendar days of the receipt of the notice of the
+7
+
+adverse action. Requests to appeal licensing actions, other than adverse, must be mailed within twenty (20) calendar days from receipt of the notification of the action. The request to appeal shall include a statement of the action(s) taken by the Division and the reason(s) the Licensee or applicant for license disagrees with that action. The request to appeal will be reviewed by the Licensing Supervisor and the Licensing Administrator. If the appeal is
+not resolved to the satisfaction of the Licensee or applicant for license, the matter will be referred to the Child Care Appeal Review Panel for hearing. (This appeal process also applies to Church Operated Exempt facilities.) (Additional information regarding the appeal procedures and the Child Care Appeal Review Panel is available on request.)
+106 Alternative Compliance
+1. The Division may grant alternative compliance with the Minimum Licensing Requirements for Child Care Centers if the Division determines that the alternative form of compliance offers equal protection of health, safety and welfare to children and meets the basic intent of the requirements for which the center is making the request.
+2. The Division shall consider all requests for alternative compliance with the licensing requirements except those requirements that are enforced by the Department of Health, Local Fire Marshal or State Fire Marshal's office and applicable city ordinances including zoning.
+3. To request alternative compliance, the following procedure shall be initiated by the person responsible for the operation of the facility.
+4. The applicant/Licensee shall submit the request for alternative compliance in writing.
+5. The request shall include:
+a. Thespecificstandardsforwhichalternativecomplianceissought.
+b. An explanation of how the alternative form of compliance is equal to or
+exceeds the stated requirements.
+c. Fulljustificationanddescriptionofwhatthealternativecompliancemethod
+will be and the method by which the facility will carry out this plan to continue to provide for the health, safety and welfare of children as intended by the requirements.
+d. The applicant/Licensee shall provide clear and supportive evidence and upon request of the Division, and expert’s opinion on the effect of the request on health, safety and welfare of the children.
+6. A separate written request shall be submitted for each requirement for which alternative compliance is sought. The approved alternative compliance is effective for the duration of the license unless a shorter time frame is specified.
+7. The granting of alternative compliance for a requirement shall in no way constitute a precedent. If an alternate means of complying with the requirement is granted by the Division and the facility fails to satisfactorily implement this alternate means, the original requirement for which alternative compliance was sought shall become immediately enforceable.
+8
+
+8. The Division shall have the right to obtain an expert opinion to corroborate expert opinions provided by the applicant/Licensee.
+9. The Division shall have the right to deny requests for alternative compliance when it finds that such requests do not adequately protect the health, safety and welfare of children and do not meet the intent of the requirements.
+10. All requests for alternative compliance shall be answered in writing by the Division.
+107 Church-Operated Exemptions
+Please note that all regulations included in this manual also apply to Church Operated Exempt (COE) facilities.
+1. Act 245 of 1983 defines those facilities that may apply for an exemption from obtaining of license to operate a child care facility and the process through which such exemption may be granted. The facility must be operated by a church or group of churches and be exempt from the State Income Tax levied by Act 118 of 1929, as amended. The person or persons in charge of such a facility shall submit a written request to the Division for such exemption along with the following:
+a. Verification of Tax ID ownership by the church
+b. Verificationthatthefacilityisoperatedbyachurchorgroupofchurches
+c. Verification that the facility has been inspected annually and meets the applicable fire safety and health standards
+d. Certificationfromthefacilitythatitisinsubstantialcompliancewithpublishedstandards that similar nonexempt child care facilities are required to meet
+2. The Division shall review each request for a church-operated exemption and reply in writing within 60 days from receipt of such request.
+3. The facility shall be visited by Division staff to verify the facility's substantial compliance with the published standards prior to consideration and review by the Division.
+4. The Division shall consider each request for exemption and shall review the Division staff's written report in determining a facility's substantial compliance with published standards.
+5. If a facility claims and states the belief that a particular standard is of a religious nature, the Division shall consider and make a determination on the statements that shall then be a final action subject to review under the Administrative Procedures Act.
+6. Written notification of an exemption shall be made to the facility stating the maximum number of children allowable, the dates of exemption and any other conditions by which an exemption is granted.
+7. Division staff shall have the authority to visit any church-operated exempt facility to review, advise and verify the maintenance of substantial compliance at the direction of the Division.
+9
+
+108 Licensing Investigations
+1. ChildCareLicensingstaffshallinvestigateallcomplaintsinvolvingthepossibleviolationof licensing requirements.
+109 Child Maltreatment Checks
+1.
+The following persons shall be required to have their background reviewed through an Arkansas Child Maltreatment Central Registry Check. A check or money order for $10.00 made out to the Department of Human Services (DHS) must be attached to each form.
+a. Each applicant to own or operate a child care facility
+b. Staffmembersandapplicantsfor employment in a child care facility
+c. All volunteers who have routine contact with children
+d. Administrative staff and/or members of the Board of Directors who have supervisory and/or disciplinary control over children or who have routine contact with children
+e. Student Observers
+f. Therapists or other persons who have routine contact with children
+At application and every two years thereafter
+Atapplicationorwithin10daysof hire/start date and every two years thereafter
+At application and every two years thereafter
+At application and every two years thereafter
+At beginning of observation or within 10 days of first observation and every two years thereafter if applicable
+Within 10 days of the time they begin to provide services or begin to participate in center activities and every two years thereafter
+10
+
+2. If a complaint of child maltreatment is filed against any owner/operator, staff or other person in a child care center, the Child Care Licensing Specialist shall evaluate the risk to children and determine the suitability of the person(s) to supervise, be left alone with children, have disciplinary control over children or remain in the center during hours of care until the allegations have been determined true or unsubstantiated. (Pending the evaluation of risk to children by the Child Care Licensing Unit, the person(s) alleged shall not be left alone with children.)
+3. If corrective action is appropriate, the facility shall require all staff members who have had a founded report of child maltreatment to follow the corrective action plan specified by the Child Care Licensing Unit. Corrective action measures may vary from relevant training to reassignment or termination. Failure to comply with corrective action plans may constitute grounds for adverse action against the Licensee.
+4. The statewide Child Maltreatment "Hot Line" and the Child Care Licensing Central Office number shall be posted in a conspicuous place in the child care facility. The "Hot Line" number is 1-800-482-5964 and the Licensing Central Office number is (501) 682-8590 or toll free 1-800-445-3316.
+110 Criminal Records Check
+1. The following persons shall apply to the Identification Bureau of the Arkansas State Police for a nationwide criminal record check, to be conducted by the FBI, which shall include a fingerprint check: (The individual is responsible for the cost of a nationwide check. Each request must be accompanied by a check or money order made out to the Arkansas State Police.)
+Fingerprints submitted will be used to check the criminal history records of the FBI. Individuals with results showing a prohibited offense shall be advised to contact the Licensing Unit for procedures to obtain the results and for procedures to update or make corrections to the record of their individual history.
+a. b.
+d.
+Each applicant to own or operate a child care facility
+Initial application only
+Within 10 days of hire/start date. Within 10 days of hire/start date Within 10 days of start date
+Direct care staff or staff with routine
+  contact with children
+ c. Administrative persons who have direct
+  contact with children
+ Therapists, volunteers or other persons
+  who have supervisory control,
+ disciplinary control over children or are
+ left alone with children
+ 11
+
+2. The following persons shall be required to have their background reviewed through a criminal records check (which includes the Arkansas Sexual Offender Registry) conducted by the Arkansas State Police.
+a. Each applicant to own or operate a child care facility
+b. Staff and applicants for employment in a child care facility
+c. Administrative persons who have direct contact with children
+d. Therapists or other persons who have supervisory or disciplinary control over children, or are left alone with children
+At application and every 5 years thereafter
+Within 10 days of hire/start date and every 5 years thereafter
+Within 10 days of hire and every 5 years thereafter
+Within 10 days of the time they begin to provide services or begin to participate in center activities and every 5 years thereafter
+3. Criminal records will be returned to the division for review. Any charge/convictions listed in this section (Section 110) that are returned will be considered regardless of whether the record is expunged, pardoned or otherwise sealed.
+4. No person shall be eligible to be a child care facility owner, operator or employee if that person has pled guilty, or been found guilty, of any of the following offenses by any court in the State of Arkansas, any similar offense by a court in another state or any similar offense by a federal court. The following offenses are permanently prohibited:
+01. Abuse of an endangered or impaired person, if felony
+      §5-28-103
+         02. Arson
+ §5-38-301
+  03. Capital Murder
+      §5-10-101
+         04. Endangering the Welfare of an Incompetent person- 1st degree
+ §5-27-201
+  05. Kidnapping
+      §5-11-102
+         06. Murder in the First degree
+   §5-10-102
+     07. Murder in the Second degree
+    §5-10-103
+      08. Rape
+   §5-14-103
+     09. Sexual Assault in the First degree
+      §5-14-124
+         10. Sexual Assault in the Second degree
+   §5-14-125
+     5. No person shall be eligible to be a child care facility owner, operator or employee if that person has pled guilty, or been found guilty, of any of the following offenses by any court in the State of Arkansas, any similar offense by a court in another state, or any similar offense by a federal court. The following offenses are prohibited:
+12
+
+     01. Criminal Attempt to commit any offenses in MLR Section 110
+02. Criminal Complicity to commit any offenses in MLR Section110
+03. Criminal Conspiracy to commit any offenses in MLR Section 110
+04. Criminal Solicitation to commit any offenses in MLR Section 110
+§5-3-201
+§5-3-202 §5-3-401 §5-3-301
+               05. Assault in the First, Second, or Third degree                   §5-13-205
+- §5-13-207 - §5-13-203
+et. seq.
+- §5-26-305
+and §5-27-206 and §5-27-202
+and §5-11-104 - §5-64-508
+   06. Assault, Aggravated
+07. Assault, Aggravated on a Family or Household Member
+08. Battery in the First, Second, or Third Degree               §5-13-201
+§5-13-204 §5-26-306
+         09. Breaking or Entering
+10. Burglary
+11. Coercion
+12. Computer Crimes Against Minors               §5-27-601
+ §5-39-202 §5-39-201 §5-13-208
+               13. Contributing to the Delinquency of a Juvenile
+14. Contributing to the Delinquency of a Minor               §5-27-209
+  §5-27-220
+    15. Criminal Impersonation
+16. Criminal Use of a Prohibited Weapon
+17. Death Threats Concerning a School Employee or       §5-17-101
+  §5-3-208 §5-73-104
+           Students
+18. Domestic Battery in the First, Second, or Third Degree
+19. Employing or Consenting to the Use of a Child in a
+§5-26-303 §5-27-402
+            Sexual Performance
+20. Endangering the Welfare of a Minor in the First or           §5-27-205
+   Second Degree
+21. Endangering the Welfare of an Incompetent Person in
+§5-27-201
+     the First or Second Degree
+22. Engaging Children in Sexually Explicit Conduct for Use           §5-27-303
+   in Visual or Print Media
+23. False Imprisonment in the First or Second Degree
+24. Felony Abuse of an Endangered or Impaired Person
+25. Felony Interference with a Law Enforcement Officer
+26. Felony Violation of the Uniform Controlled Substance
+§5-11-103 §5-28-103 §5-54-104 §5-64-101
+                        13
+
+Act               et. seq.
+     27. Financial Identity Fraud
+28. Forgery
+29. Incest       §5-26-202
+30. Interference with Court Ordered Custody               §5-26-502
+§5-37-227 §5-37-201
+          31. Interference with Visitation
+32. Introduction of Controlled Substance into Body of
+Another Person
+33. Manslaughter
+34. Negligent Homicide
+35. Obscene Performance at a Live Public Show       §5-68-305
+36. Offense of Cruelty to Animals               §5-62-103
+§5-26-501 §5-13-210
+         §5-10-104 §5-10-105
+         37. Offense of Aggravated Cruelty to Dog, Cat, or Horse
+38. Pandering or Possessing Visual or Print Medium
+Depicting Sexually Explicit Conduct Involving a Child
+39. Patronizing a Prostitute
+40. Permanent Detention or Restraint
+41. Permitting Abuse of a Minor       §5-27-221
+42. Producing, Directing, or Promoting a Sexual           §5-27-403
+ §5-62-104 §5-27-304
+     §5-70-103 §5-11-106
+              Performance by a Child
+43. Promoting Obscene Materials
+44. Promoting Obscene Performance               §5-68-304
+    §5-68-303
+    §5-70-104 - §5-70-106
+§5-70-102 47. Public Display of Obscenity                   §5-68-205
+45. Promoting Prostitution in the First, Second, or Third Degree
+46. Prostitution
+      48. Resisting Arrest
+49. Robbery
+50. Robbery (Aggravated Robbery)       §5-12-103
+51. Sexual Offense (any)                   §5-14-101 et. seq.
+§5-54-103 §5-12-102
+          52. Simultaneous Possession of Drugs and Firearms
+53. Soliciting Money or Property from Incompetents
+54. Stalking               §5-71-229
+§5-74-106 §5-27-229
+        55. Terroristic Act
+56. Terroristic Threatening
+57. Theft by Receiving
+58. Theft of Property               §5-36-103
+ §5-13-310 §5-13-301 §5-36-106
+          59. Theft of Services
+60. Transportation of Minors for Prohibited Sexual Conduct
+61. Unlawful Discharge of a Firearm from a Vehicle               §5-74-107
+§5-36-104 §5-27-305
+        62. Voyeurism
+6. Any person who has pled guilty, nolo contendere or who has been found guilty of any one
+ §5-16-102 of the offenses listed above (Section 110.5), may not work in child care unless:
+    14
+
+a. The date of the conviction, plea of guilty or nolo contendere for a misdemeanor offense is at least five (5) years from the date of the request for the criminal history records check and there have been no criminal convictions or pleas of guilty or nolo contendere of any type or nature during the five (5) year period preceding the background check request.
+b. Thedateoftheconviction,pleaofguiltyornolocontendereforafelonyoffenseisat least more than ten (10) years from the date of the request for the criminal history records check and there have been no criminal convictions or pleas of guilty or nolo contendere of any type or nature during the ten (10) year period preceding the background check request.
+7. If the Licensee wishes to employ an individual with a conviction or plea of guilty or nolo contendere for the following nonviolent offenses, they shall submit a written request for a waiver prior to employment. § 20-38-103 (e) (3) (a) Act 990 of 2013
+a. Theft by receiving § 5-36-106
+b. Forgery§5-37-201
+c. Financial identity fraud § 5-37-227
+d. Resistingarrest§5-54-103
+e. Criminal impersonation in the second degree § 5-37-208(b)
+f. Interference with visitation § 5-26-501
+g. Interferencewithcourt-orderedvisitation§5-26-502
+h. Prostitution§5-70-102
+i. Patronizing a prostitute § 5-70-203
+The waiver may be approved if all of the following conditions are met:
+• The individual has completed probation or parole supervision
+• The individual has paid all court ordered fees, fines and/or restitution
+• The individual has fully complied with all court orders pertaining to the conviction or
+plea
+8. The waiver will be revoked if, after employment, the individual pleads guilty or nolo contendere or is found guilty of any prohibited offense (including the list above a-i) or has a true or founded report of child maltreatment or adult maltreatment in a central registry.
+9. The request for waiver and certification of approval shall be kept in the individual’s file for the term of employment and three years after termination of employment.
+10. If approved, the waiver is not transferable to another licensed facility.
+11. Anyone employed in a licensed center, COE center, Licensed Child Care Family Home or a Registered Child Care Family Home prior to 9/1/2009 with a clear background check history may remain eligible for employment unless the employee had a conviction, plead guilty or plead nolo contendere to an offense listed in the above section (Section 110.6) since 9/1/2009.
+15
+
+200 ORGANIZATION AND ADMINISTRATION
+201 Administrative Procedures
+1. The Owner and/or Board of Directors shall be responsible for operating the facility and shall have final responsibility to ensure that the facility meets licensing requirements. Names, addresses, and telephone numbers of Board members shall be provided to the Licensing Specialist.
+2. The facility shall provide a written procedure for reporting suspected child maltreatment. This procedure shall be followed and a call made to the Hot Line whenever there is suspicion of child maltreatment (1-800-482-5964). These reports of child maltreatment shall include all allegations made to the Licensee by parents, staff members or the general public. The Licensee should call Child Care Licensing for guidance if there is any question about whether or not the Hot Line should be called regarding any situation where potential child maltreatment is involved.
+3. The facility shall provide a written procedure for reporting suspected licensing violations. Serious licensing violations shall be reported to the Licensing Unit. These include, but are not limited to, violations relating to transportation, inappropriate behavior guidance, leaving children unattended or unsupervised, staff/child ratio violations or any other violations that could imminently affect the health and safety of children.
+4. Parents shall be informed in writing upon enrollment of their child that children may be subject to interviews by licensing staff, child maltreatment investigators and/or law enforcement officials for the purpose of determining licensing compliance or for investigative purposes. Child interviews do not require parental notice or consent.
+5. The facility shall provide a copy of the Kindergarten Readiness Skills Calendar or Checklist, prepared by the Arkansas Department of Education (copies can be requested online, by phone, or by mail from the DHS DCCECE Program Support Unit), to the parents of all three and four year old children enrolled. (Act 825 of 2003) A statement signed by the parent that they have received a copy of the list shall be maintained in the child’s record.
+300 PERSONNEL
+301 Staff/Child Ratio
+1. A Licensee shall not have more children in care at any one time that the maximum specified on the license.
+2. The following staff child ratios shall be maintained:
+Ages of Children
+      Number of Staff
+         Number of Children
+      a. Birth – 18 months
+ 1
+  5
+ b. 18months–36months
+   1
+     8
+   c. 21⁄2-3years
+     1
+        12
+     16
+
+d. 4years
+   1
+     15
+   e. 5 years to Kindergarten
+     1
+        18
+     f. Kindergarten and above
+   1
+     18
+   Providers licensed prior to the effective date of this rule will have four years from the implementation of this rule to comply with the revised ratios.
+3. Children ages 30 to 36 months may be placed in the group most suited to their social, emotional and developmental maturity.
+4. Infants and toddlers shall not be mixed with preschool children, except as listed in the following requirement.
+5. When a total of eight (8) or fewer children are in care at a licensed site, age groups may be mixed according to the following ratios:
+6. In a group containing children of different ages, the staff/child ratio shall meet the requirements for the youngest child in the group.
+7. During lunch or outdoor play activities, if children of different age groups are together, the staff child ratio for the respective age groups shall be maintained.
+8. At no time shall children be left unsupervised or unattended. The child care center shall provide additional staff for any temporary absence of primary child caring staff for activities such as breaks, meal preparation, transportation, etc.
+9. The use of cell phones by staff while supervising children shall be prohibited except in emergency situations.
+10. DDS (Developmental Disabilities Services) staff/child ratios shall be maintained during DDS program hours in all facilities that are licensed or certified by both Child Care Licensing and DDS.
+11. Additional staff provisions shall be made for enrollment of children with disabilities who require individual attention.
+12. During naptime for children 2 1/2 years of age and above, a minimum of 50% of the staff shall remain with the children, with a total of 75% of the staff remaining in the building.
+13. Group size shall be limited to 2 times the number of children allowed with one staff member. This does not apply to periodic or special group activities. (Existing structures licensed prior to November 1, 2002 are exempt from this requirement. However, any expansions, additions or any newly licensed structures effective November 1, 2002 shall be in compliance.)
+Number of Staff
+      Number of Children
+    Ages of Children
+    a. 1
+     6
+   No more than 3 under the age of 2 years
+   b. 1
+        7
+     No more than 2 under the age of 2 years
+     c. 1
+     8
+   No more than 1 under the age of 2 years
+   17
+
+14. For ages 2 1⁄2 and above, ratios may be exceeded momentarily as long as children are never left unattended and at least one staff member remains in the classroom with the children. (This would apply to situations such as brief absences for bathroom breaks or to take a sick or injured child to the Director’s office.)
+302 Director
+1. There shall be a director or assistant director/site supervisor who shall be responsible for:
+a. Administering, planning, managing and controlling the daily activities of the center
+b. Ensuringthatthefacilitymeetslicensingrequirements
+c. Ensuring the health and safety of children
+d. Providingprudentsupervisionofallstaffandvolunteers
+2. Directors shall be twenty-one (21) years of age or older, and provide documentation of one of the following educational levels: (Directors previously approved prior to the implementation of these requirements may continue in their position and do not have to meet these educational levels)
+a. Bachelor’s Degree or higher Degree in Early Childhood, Child Development or a related field from a regionally accredited college or university. (Determination of “related field” shall be made by the Division)
+b. Bachelor’sDegreeinanon-relatedfieldfromaregionallyaccreditedcollegeoruniversity plus one of the following:
+• Four years of experience in early childhood education
+• Child Development Associate Credential (CDA)
+• Birth – Pre K Credential
+c. Associate’s degree in Early Childhood, Child Development or a related field, plus six (6)
+years of experience in Early Childhood Education
+d. EightyearsofexperienceinEarlyChildhoodEducationandcompletionofoneofthe
+following, within two years of employment: a • Child Development Associate Credential
+• Birth – Pre K Credential
+• Director’s Credential or the equivalent
+• Technical Certificate in Early Childhood Education
+Individuals who have been employed in the position of Director or Site Supervisor at any time prior to implementation of this rule will not be required to meet the new director’s qualifications. These individuals may change employers after this date and still qualify as a director .
+3. A Director, or Assistant Director/Site Supervisor who meets director qualifications, must be present at each licensed site a minimum of 50% of the center’s primary operational day, on a routine basis.
+4. When the Director and Assistant Director/Site Supervisor are both away from the center, there shall be a person in charge who shall have the ability and authority to carry out daily operations. The person in charge shall be twenty-one (21) years of age or older.
+5. All new Directors and Assistant Directors/Site Supervisors shall attend New Directors
+18
+
+Orientation, PAS (Program Administration Scale) and ERS (Environment Rating Scale) training (or other approved tools that are considered equivalent in the states QRIS) within six months of employment. This is an orientation class sponsored by the Division. Proof of attendance shall be maintained in the Director’s file.
+6. Directors and Assistant Directors/Site Supervisors shall obtain fifteen (15) clock hours in early childhood education each year. Training shall be registered with the Division of Child Care and Early Childhood Education Professional Development Registry, or Department of Education or Department of Higher Education approved. Documentation of training shall be maintained and available for review.
+7. Topics appropriate for continuing early childhood education shall include, but are not limited to the following:
+a. Child growth and development
+b. Nutritionandfoodservice
+c. Parent communication and involvement
+d. Curriculumdevelopmentandimplementation
+e. Developmentally appropriate practice and learning environments
+f. Behavior guidance and positive interaction
+g. Emergencycareandfirstaid
+h. Programplanning,managementandleadershipofearlychildhoodprograms
+See Division web-site for a list of courses for which the Division maintains contracts to meet the above requirements.
+8. The Licensee shall notify the Licensing Unit of any change in the person named as Director or Assistant Director/Site Supervisor within five (5) calendar days.
+303 Staff Requirements
+1. A person shall be considered a staff member if they have disciplinary or supervisory control over children, is left alone with children at any time or is counted in staff/child ratio, regardless of whether or not they are paid by the facility.
+2. Staff members in a child care center shall be 18 years of age or older. Exceptions may be allowed for individuals sixteen (16) or seventeen (17) years of age to work in a center if they meet all of the following criteria:
+a. The individual shall not have disciplinary control over children.
+b. Theindividualshallnotbeleftalonewithchildrenatanytime.
+c. The individual shall be under the direct supervision of an adult staff member at all times.
+d. Theindividualshallmeetallotherstaffrequirements.
+e. The individual shall be enrolled in a high school or GED curriculum.
+3. All staff members who work directly with children shall have a high school diploma or GED.
+4. All staff members who work directly with children shall obtain at least fifteen (15) hours of training each year in continuing Early Childhood Education. This training shall be registered with the Division of Child Care and Early Childhood Education Professional Development
+Registry or Department of Education or Department of Higher Education approved and shall
+19
+
+be geared toward the age group they spend the majority of their time with.
+5. Allstaffmemberscaringforchildrenshallbeabletoperformnecessaryjobfunctions.
+6. Staffshallnotengageinbehaviorthatcouldbeviewedassexual,dangerous,exploitativeor physically harmful to children. A caregiver shall not use profanity or speak in an abusive manner when children are present.
+7. No caregiver shall consume or be under the influence of illegal drugs. (A drug test may be required if there is reasonable cause to suspect violation of this requirement and the issue cannot otherwise be resolved.) No caregiver shall consume or be under the influence of alcohol while delivering care. No caregiver shall consume or be under the influence of medications (prescription or non-prescription) which impair their ability to provide care.
+304 Volunteer Requirements
+1. Volunteers are those individuals who have routine contact with children and assist staff in the facility. If they are left alone with children, considered in the staff/child ratios or given supervisory/disciplinary control over children, they shall be considered staff and must meet the requirements for personnel (Section 300) and staff requirements (Section 303).
+2. All volunteers in a child care center shall be 18 years of age or older unless the volunteer is under the direct supervision of the director or assistant director/site supervisor and has been approved on an individual basis by the Child Care Licensing Unit.
+3. Volunteers who have routine contact with children shall have on file a child maltreatment Central Registry check. An exception shall be given to parents who volunteer on field trips, but are not left alone with children. Child maltreatment Central Registry checks for volunteers under 18 years of age must include a parent’s signature.
+4. Individualswhoprovidehealthservicesorprogramenrichmentactivitiesonalimitedbasis are not considered volunteers. The facility shall retain a register of such persons listing name, organization, address, telephone number, date and time in the center. (Note: This section does not apply to therapists or others who have routine contact with children. Therapists who are not left alone with children are required to have child maltreatment background checks. Therapists who are left alone with children at any time are subject to all background checks required for personnel. The therapist is entitled to a copy of the initial background/maltreatment check results, and may share a copy with other facilities in which the therapist may be working.)
+305 Student Observers
+1. Students visiting the center on a regular or periodic basis to observe classroom activities, or for similar purposes, shall not be counted in the staff/child ratio, shall not have disciplinary control over children, and shall not be left alone with children. These individuals
+shall have a child maltreatment background check on file.
+2. Students that are conducting practicum, student teaching or working in the same capacity as a staff member or volunteer must meet the criteria in the appropriate section. (Sections 303 and 304)
+ 20
+
+306 Professional Development
+1. All directors, site supervisors and staff who provide direct care to children shall be registered with the Division of Child Care and Early Childhood Education Professional Development Registry within 30 days of hire and all training shall be registered with the Division of Child Care and Early Childhood Education Professional Development Registry or Department of Education or Department of Higher Education approved.
+2. All new staff shall have a probationary period of at least 30 days, but not more than six months, during which they are closely supervised, mentored and evaluated. Evaluations shall be documented and maintained in the employee file.
+3. All new staff members who provide direct care to children shall receive a basic orientation on facility management policies, The Minimum Licensing Requirements, center schedules and emergency procedures prior to providing care. This shall be documented in the employee file.
+4. All new staff, including volunteers who are counted in the ratios, shall receive the following orientation (unless the staff has prior documented training in the required areas).
+1. Introduction (8 clock hours) to be completed before being left alone with children:
+a. Proper supervision of children
+b. Behavioralguidancepractices
+c. Safe sleep practices for infants
+d. Shakenbabysyndrome;whichincludesprevention(Carter’sLaw,Act1208)
+e. Appropriately responding to a crying/fussy infant/child
+f. Emergency procedures in the event of severe weather, or fire, including evacuation procedures and routes, and location and use of fire extinguishers.
+g. Mandatedreportertraining
+h. Administeringmedication
+i. Caring for children with special needs / care plans
+j. Transportation and car seat safety
+k. Policiesregardingreleaseofchildrentoauthorizedindividuals
+See Division web-site for a list of courses, that The Division maintains contracts for, which meet the above requirements.
+2. All staff shall have 15 hours of job specific training each year for the ages of children they work with. This shall be training focused on their job responsibilities, such as “Hands on Routine Care” for infants, or “Basics of Assessment” for preschool staff.
+See Division web-site for a list of courses, that the Division maintains contracts for, which meet the above requirements.
+5. The Director, Assistant Director/Site Supervisor, and 50% of the facility staff that are on site at any given time shall have a certificate of successful completion of first aid and CPR from
+ an approved organization.
+21
+
+a. The curriculum shall conform to current American Heart Association or American Red Cross guidelines.
+b. Thecurriculumshallrequirehandson,skill-basedinstruction,aswellaspractical testing. Training and certification that is provided solely “on-line” will not be accepted.
+c. The instructor shall be qualified and authorized to teach the curriculum and shall be certified by a nationally recognized organization. (Including but not limited to: Health and Safety Institute; EMS Safety Services, Inc.)
+400 PROGRAM
+401 Program Requirements for all ages
+1. Each child care center shall be equipped with supplies, resources and indoor and outdoor equipment to take care of the needs of the total group and to provide each child with a variety of activities throughout the day.
+2. Children shall have a variety of toys, books, creative materials and equipment that is easily accessible and arranged to support learning. This includes equipment for:
+a. Large Muscle/Gross Motor activities (such as climbing and running)
+b. Manipulative/FineMotoractivities(suchasthingsdonewiththehands:puzzles,
+drawing, modeling clay)
+3. There shall be a written daily schedule posted in each classroom, listing developmentally appropriate activities for children. The program shall offer alternating periods of active play and quiet times throughout the day.
+4. There shall be a total of 30 minutes per day of moderate to vigorous physical activity. This could be included in outdoor play time if it meets this criterion. See Division web-site.
+5. Staff shall plan and provide experiences that meet children’s needs and stimulate learning in the following developmental areas: physical, social/emotional, creative/aesthetic cognitive/intellectual and language, found in Arkansas’ Learning Standards.
+a. The facility shall have an approved curriculum with weekly activity plans appropriate for the developmental needs of each group of children. See Division web-site for a list of approved curricula.
+b. Eachchildisviewedbystaffasauniquepersonwithanindividualpatternofgrowthand development.
+c. The center has a variety of learning areas, for example: areas for dramatic play, blocks, books, art, language, literacy, math and science.
+d. Childrenareprovidedopportunitiestoworkindividuallyorinsmall,informalgroups most of the day and permitted to choose staff-directed or self-selected activities or not to participate.
+6. Facility staff shall avoid activities or experiences that may be damaging to children’s self- esteem and positive self-image.
+7. There shall be meaningful, positive interaction between staff and children, to include but not limited to the following:
+ 22
+
+a. Comfort children who are upset.
+b. Engage in frequent, multiple and rich social interchanges such as smiling, conversation,
+touching and singing.
+c. Interact with children by being their play partner as well as protector.
+d. Helpchildrenidentifyandlabelfeelingsbybeingattunedtochildren’sneeds.
+e. Communicate consistently with parents/guardians.
+f. Interact with children and develop a relationship in the context of everyday routines.
+8. There shall be an opportunity for a supervised rest period.
+a. The supervised rest period shall be at least one (1) hour, but shall not exceed two (2) hours.
+b. Ifchildrendonotfallasleep,theyshallbeallowedtoparticipateinaquietactivityeither on their cots, in the area or in another room under direct supervision.
+9. There shall be sufficient lighting during nap time to provide adequate supervision of the children.
+10. Parents shall not be denied access to their child at any time during hours of operation.
+(Clarification: The intent of this rule is to ensure that the parent(s) or guardian(s) is able to have contact with their child during hours of care. It is not intended to be a determining factor in child custody/visitation matters, nor should it be used to circumvent court ordered custody/visitation rights or schedules. Facilities should encourage parents to resolve custody/visitation issues outside of the care environment. Parents should be informed that continuing problems could result in the dismissal of their child.)
+11. Each center is required to provide at least four Division approved opportunities for parental involvement. Examples of approved activities are listed below. (See Arkansas Better Beginnings website for resources. www.arbetterbeginnings.com)
+• Parents are allowed to observe, eat lunch with a child or volunteer in the classroom.
+• Conferences are held at least once a year and at other times, as needed, to discuss
+children’s development and learning.
+• A parent resource area is available with books, pamphlets or articles on parenting
+and child development.
+• Parent meetings are held with guest speakers or special events, for example, open
+house or a family activity night.
+• Parents are informed of the center’s programs and activities through a parents’
+bulletin board, regular newsletter, email or web page.
+• Parents participate in program and policy development through board involvement,
+planning meetings or questionnaires/surveys.
+12. The facility shall distribute materials developed or approved by the Department of Health on prevention of Shaken Baby Syndrome to all parents of infants, upon enrollment. Written documentation of receipt of this information by each parent, with a signature, shall be placed in the child’s file. (Carter’s Law, Act 1208 of 2013)
+13. Staff shall not release a child to anyone who is not immediately recognized as the child’s
+ 23
+
+parent or as someone on the authorized pick-up list unless:
+a. The individual can provide an official picture ID AND,
+b. ThepersoninchargecanmatchtheIDtotheindividualnamedonthechild’sdata
+sheet.
+14. Verification of permission for persons not on the authorized list shall be obtained by the person in charge by calling the parent at a number listed in the child’s record. The person
+in charge shall view an official picture ID of the individual to verify identity.
+15. There shall be a total of at least one (1) hour of outdoor play per day in suitable weather. When making a determination if children should play outside, staff shall consider the following environmental factors:
+a. When the heat index is forecast to be ninety (90) degrees Fahrenheit or above, outdoor play should be scheduled during early morning hours or the length of time spent outdoors should be reduced to avoid heat stress.
+b. Whenoutdoorplayoccursduringthehotterpartoftheday,childrenshouldhave shaded area, an ample supply of water, and should be monitored closely for signs of heat stress.
+c. When outdoor play occurs during the winter months and when temperatures are extremely cold, the time scheduled for outdoor play should be reduced or suspended depending on the temperature and other weather conditions.
+16. The use of television, DVDs, video cassettes, computer/video games and other screen time activities shall meet the following requirements:
+a. Shall be prohibited for children younger than two years of age (The use of DVDs or other video programs for any activities with this age group would have to be approved through an alternative compliance request.)
+b. Shallbelimitedtoprogramsofeducationalvaluewhichareage-appropriate
+c. Shall be scheduled and shall not exceed one (1) hour daily per child or group of children.
+Children shall not be required to participate in screen time activities and shall be offered other choices. (Viewing time may be extended for special events or occasions such as a current event, holiday or birthday celebration or for the occasional viewing of age appropriate movies or other programs that may exceed one hour in length.)
+d. Educationalcomputerlearningperiodsforchildrenbelow5yearsofagemaynotexceed two (2) hours a day per child or group of children. Educational computer learning periods for children 5 years of age and older may exceed two hours per day.
+17. Photos or video recordings shall not be made of any child without prior written permission from the child’s parent or guardian.
+18. Photos or video recordings of children shall not be placed on social media or any other websites without prior written parental permission.
+402 Infant & Toddler Specific Program Requirements
+1. The facility shall provide a safe and clean learning environment, both indoors and outdoors, with age appropriate materials and equipment arranged to support learning.
+24
+
+2. Toys used by infants and toddlers shall be safe and sanitized as needed to help prevent the spread of contagious diseases. Toys that cannot be cleaned and sanitized shall not be used.
+3. Infants and toddlers, shall have a learning/play environment that shall include staff being on their level interacting with them frequently when they are awake.
+4. The facility shall implement relationship-based practices that promote consistency. Infant and toddler caregivers/teachers shall:
+a. Respond promptly to cries and calls of distress by verbally acknowledging, gently touching and holding children.
+b. Engagechildreninfrequentrichsocialexchangesinavarietyofways,forexample: holding, patting, making frequent eye contact, smiling, singing and using a pleasant calm voice in conversation.
+c. Engage children in frequent positive social exchanges during routine care, such as eating, diaper changing, toileting and preparing for rest.
+d. Provideconsistentemotionalsupporttoinfantandtoddlersbyacknowledgingtheir feelings and emotions and providing physical and verbal support.
+e. Communicate consistently with parents/guardians by greeting them warmly and exchanging information that promotes continuity between the center and the child’s home.
+f. Engage in play activities with children by providing a safe environment to explore, modeling play behavior such as imagination and use of toys and equipment, and providing verbal encouragement and support.
+(See Division web site for brain development diagram.)
+5. It is recommended that the facility promote continuity of care for infants and toddlers by maintaining consistency in staffing.
+6. Staff shall plan and provide experiences that meet infant/toddlers needs and stimulate learning in the following developmental areas: self-concept, physical, social, emotional, cognitive and language, as found in the “Arkansas Frameworks for Infant & Toddler Care.”
+7. The center shall have an approved curriculum with weekly lesson plans appropriate for the developmental needs of each group of children. (When available.)
+8. Infants and toddlers shall be taken outside for a period of time every day, unless prevented by weather or special medical conditions.
+9. Outdoor play for infants and toddlers may include riding in a carriage or stroller. However, infants and toddlers shall be offered opportunities for gross motor play outdoors as well.
+10. An age appropriate daily schedule (for each age group) shall be posted in each classroom and shall be accessible to parents and staff.
+500 BEHAVIOR GUIDANCE
+25
+
+501 Behavior Guidance Requirements
+1. Behavior guidance shall be:
+a. Individualized and consistent for each child
+b. Appropriatetothechild’slevelofunderstanding
+c. Directed toward teaching the child acceptable behavior and self-control
+See Division web-site for recommended behavior guidance training.
+2. Physical punishment shall not be administered to children.
+3. The length of time a child is placed in time out shall not exceed one minute per year of the child's age.
+4. Acceptable behavior guidance techniques include:
+a. Look for appropriate behavior and reinforce the child with praise and encouragement when they are behaving well.
+b. Remindthechildonadailybasisoftherulesbyusingclearpositivestatements regarding how they are expected to behave rather than what they are not supposed to do.
+c. Attempt to ignore minor inappropriate behavior and concentrate on what the child is doing properly.
+d. Usebriefsupervisedseparationfromthegrouponlywhenthechilddoesnotrespondto a verbal command which instructs the child as to how he or she is supposed to behave.
+e. When a misbehaving child begins to behave appropriately, encourage and praise small steps rather than waiting until the child has behaved appropriately for a long period of
+time.
+f. Attend to the children who are behaving appropriately and other children will follow their
+example in order to obtain your attention.
+5. Thefollowingactivitiesorthreatsofsuchactivitiesareunacceptableasbehaviorguidance measures and shall not be used for children. These include, but are not limited to the following:
+a. Restraints (Restraining a child briefly by holding the child is allowed when the child’s actions place the child or others at risk of injury.)
+b. Washing mouth with soap
+c. Taping or obstructing a child’s mouth
+d. Placingunpleasantorpainfultastingsubstancesinmouth,onlips,etc.
+e. Profane or abusive language
+f. Isolation without supervision
+g. Placingchildindarkarea
+h. Inflictingphysicalpain,hitting,pinching,pullinghair,slapping,kicking,twistingarms,
+biting or biting back, spatting, swatting, etc.
+i. Yelling (This does not include a raised voice level to gain a child’s attention to protect
+the child from risk of harm.)
+j. Forcing physical activity, such as running laps, doing push-ups, etc. (This does not
+26
+
+include planned group physical education activities that are not punitive in nature.)
+k. Associating punishment with rest, toilet training or illness
+l. Denying food (lunch or snacks) as punishment or punishing children for not eating.
+m. Children shall not be forced or bribed to eat.
+n. Shaming,humiliating,frightening,labeling,physicallyormentallyharmingchildren
+o. Covering the faces of children with blankets or similar items
+6. Posted group behavior charts shall not be used. (Individual behavior charts that are not viewable by children and individual charts used by therapists are allowable.)
+7. Behavior guidance practices used by the center shall be discussed with each child's parents and provided to them in writing at the time of enrollment with a copy signed by the parent maintained in the child's record.
+502 Infant & Toddler Behavior Guidance Requirements
+1. Time-out shall not be used for children under two years of age.
+2. The child may be placed in a supervised area away from the group or in a crib or playpen while staff attends to the situation. Brief separation from the group is acceptable when the child’s behavior places the child or others at risk of harm. Example: A child who has bitten another child would be removed from the group, briefly, while staff attends to the bitten child.
+600 RECORDS
+601 Record Requirements
+1. All staff, child and facility records shall be kept and made available to the Child Care Licensing Unit on request. The records shall be maintained for three (3) years unless otherwise indicated.
+2. Licensing compliance forms (DCC-521) shall be available at the facility for 3 years. The facility shall advise parents in writing that the compliance forms are available for review upon request.
+3. The facility shall maintain daily attendance records on all children as follows:
+a. Children shall be signed in and out daily by a parent or guardian, or designee. Electronic sign in and out systems will meet this requirement.
+b. Therecordshallincludethedateandtimeofarrivalanddeparture.
+602 Facility Records
+1. Facility Records shall be maintained on site and include:
+a. Attendance records on all children
+b. Transportation rosters, if applicable (maintained for one year)
+c. Verification of current vehicle registration, if applicable
+d. Verificationofrequiredcommercialvehicleinsurancecoverage,ifapplicable
+27
+
+e. Verification of required Child Care Liability Insurance f. Verification of current pet vaccinations, if applicable g. Verificationofannualfiredepartmentapproval
+h. Verificationofannualhealthdepartmentapproval
+i. Verification of zoning approval (maintained as part of permanent record)
+j. Verification of annual approval by the Boiler Inspector Division of the Department of
+Labor
+k. Mobile Home Commission approval for double wide manufactured homes, if applicable
+(maintained as part of permanent record)
+l. Record of emergency drills
+m. Plans and procedures of Emergency Preparedness
+n. Proceduresforreportingallegationsofchildmaltreatment
+o. Procedures for reporting suspected licensing violations
+p. Licensingcomplianceforms
+q. LogofProductRecallandSafetyNoticesfromCPSCorAttorneyGeneral’sOffice r. Articles of Incorporation, if applicable (maintained as part of permanent record) s. Current list of names, addresses and phone numbers of the Board of Directors, if
+applicable
+603 Staff Records
+1. Staff records may be maintained off site, unless otherwise noted, and shall contain the following:
+a. Name, date of birth, address and telephone number
+b. Education,trainingandexperience,includingacopyoftheGEDorhighschooldiploma
+(If these documents are no longer available, proof of reasonable effort to obtain the documentation is acceptable.) Clarification: Training hours will be counted on a calendar year basis or by the facility’s operating schedule if they do not operate year round.
+c. Employment related information for previous six (6) years, with written documentation of verification of employment and reference checks
+d. Attendancerecord,listingdaysandhoursworked
+e. Date of employment and date of separation
+f. Documented training or continuing education; i.e., orientation, in-service training, and
+workshop documentation, which shall include title of workshop, presenter, hours of
+training and date
+g. InitiationofCriminalRecordChecksandCentralRegistryChecksandtheresults
+obtained when received
+h. Verificationofcompletionoftherequiredtransportationtrainingandareadable,current
+copy of the driver’s license for all staff who transport children (copy must be on site)
+i. Verification of First Aid and/or CPR for applicable staff (copy must be on site)
+j. Documentation of new employee evaluations.
+604 Children’s Records
+1. The child care facility shall maintain a record for each child in care which shall be on site. Records for children no longer enrolled may be maintained off site. Children’s records shall contain the following information:
+28
+
+a. Application form which includes child’s name, date of birth and address, name of parent or guardian, telephone numbers (home and business), work hours of parents or guardians, and date of enrollment in facility
+b. Thename,address,andtelephonenumber(homeandbusiness)ofaresponsibleperson to contact in an emergency if the parent or guardian cannot be located promptly
+c. Name, address and telephone of child’s physician or emergency care facility
+d. Writtenpermissionofparentorguardianauthorizingemergencymedicalcareand
+transportation of child for emergency treatment (This authorization shall accompany
+children anytime they are transported.)
+e. Name(s) of persons authorized to pick up child
+f. Permission slips signed by parent or guardian authorizing the child to be taken on
+specific field trips
+g. Pertinentmedicalhistoryonthechild
+h. Anauthorizedrecordofup-to-dateimmunizationsordocumentationofareligious,
+medical or philosophical exemption from the Arkansas Department of Health (Updated immunization schedules will be provided as changes are received from the Arkansas Department of Health.)
+i. A written record of all significant changes in the child’s physical or emotional state and accidents, incidents or injuries, indicating the date, location, time of day, area or piece of equipment where the incident occurred (A copy of this shall be given to the parent on the day of occurrence.)
+j. Any legal or medical documentation that has been given to the facility, by the parent or legal guardian, regarding the care of the child
+k. Written permission for the facility to photograph or video tape their child, if applicable
+l. Written permission for the facility to place photos and video recordings of their child on
+social media or other websites, if applicable
+m. Infant feeding documentation shall be maintained for at least one year
+n. DocumentationofdistributionofShakenBabySyndromeinformationtoallparentsof
+infants in accordance with Carter’s Law
+700 NUTRITION
+701 Nutrition Requirements
+1. The center shall ensure that lunch is served to each child.
+2. Breakfast, lunch, snacks and evening meals shall each meet current U.S. Department of Agriculture guidelines, including portion size. (See Appendix C) Menus for all food service shall be posted. (See Division web-site.) If sack lunches are utilized, the facility shall ensure that they also meet these requirements. Milk shall be served to each child during the day. Exceptions may be made for children who suffer allergies to milk.
+3. Breakfast shall be made available for children who arrive before 7:00 a.m. Breakfast may be served to all children rather than a morning snack provided there is no more than 3 hours between the beginning of breakfast and the beginning of lunch.
+4. All food service surfaces shall be kept sanitary.
+5. Food shall be served on individual plates, bowls or other dishes that can be sanitized or discarded.
+29
+
+6. Food and drinks which are not available to the children shall not be consumed by staff in the children's presence.
+7. Mid-morning snacks or breakfast, and mid-afternoon snacks shall be provided for all children.
+8. All food brought from outside sources shall come from Health Department approved kitchens and shall be transported as per Health Department requirements, or the food shall be in an individual, commercially pre-packaged container. (This does not include individual sack lunches brought from home.)
+9. All refrigerators used for food storage shall be maintained at a temperature of 41 degrees or below, and all freezers used for food storage shall be maintained at a temperature of 0 degrees or below.
+702 Infant & Toddler Nutrition Requirements
+It is recommended that mothers be allowed and encouraged to breast feed their children at the facility.
+1. The routine use of food, bottles and formula shall be agreed upon by the caregiver and parent. Instructions regarding special needs for food, bottles and formula, such as food allergies, shall be obtained in writing from the parent and followed by the caregiver. (See Appendix D).
+2. Feedings for all children up to twelve (12) months of age shall be documented by the caregiver and available for review by the parent. This documentation shall continue for all children older than twelve (12) months of age who are still being given bottles.
+3. Infant bottles and food shall be prepared and heated in an area separate from the diaper changing area.
+4. Microwaves shall not be used for heating bottles, due to the danger of uneven heating.
+5. Infants no longer held for feeding shall either sit in low chairs at low tables or in infant seats with trays, or in high chairs with wide bases. Safety straps shall be used if directed by the manufacturer.
+6. Children under 2 years of age shall not be fed foods that may cause choking, such as, but not limited to hard candy, raw carrots, hot dogs, nuts, seeds, or popcorn.
+7. Water used for the preparation of formula shall not come from the hot water supply. (Water from hot water systems may contain high levels of lead and other substances which could be harmful to small children.)
+8. Children shall not share the same bottle or eating utensils. The facility shall practice a sanitary method of cleansing baby bottles, cups and utensils.
+9. Bottles shall not be propped. Infants under six months of age shall be held while being
+30
+
+bottle-fed.
+10. Bottles and “sippy cups” shall be labeled with the child’s name and shall be refrigerated. 800 BUILDINGS
+801 Building Requirements
+1. Child care centers shall comply with the Minimum Requirements of the currently adopted Arkansas Fire Prevention Code as administered by local fire department or by the State Fire Marshal, who has final authority. Written verification of annual approval shall be maintained on file. (Note that the State and Local Fire Codes may not allow the use of basements or floors above ground level by children, first grade and younger, unless there is a ground level exit.)
+2. State Health Department requirements shall be met. Written verification of annual approval shall be maintained on file.
+3. Department of Labor, Boiler Inspection Division requirements shall be met. All water heaters and any other boilers in licensed child care settings shall be inspected on an annual basis and/or upon installation. Verification that initial inspection has been scheduled and annual approval shall be maintained on file. Inspection, or proof of attempt to set up initial inspection, shall be completed within six (6) months of licensure. Scheduling and completion of annual inspections will be the responsibility of the Department of Labor, however, the
+facility is responsible for cooperating and keeping documentation of such inspection on file for review. (AR Code §20-23-101 et. seq.)
+4. All space used by a center shall be kept clean and free of hazardous or potentially hazardous objects. (These objects include, but are not limited to, poisonous substances, firearms, explosives, broken toys/equipment, or other objects that could be harmful or dangerous, if they are determined to be accessible to children.)
+5. Thirty-five square feet per child of usable floor space shall be required for indoor activities. This does not include bathrooms, kitchen and hallways. Usable space in the child care center shall include areas in the classroom used for storage of programmatic materials which are accessible to children. This does not include closets or storage space for equipment that is not in use.
+6. Separate space shall be provided for the isolation of children who become ill and shall be located in an area that can be supervised at all times by a staff member.
+7. All parts of the center used by the children shall be well heated, air conditioned, lighted, ventilated and maintained at a comfortable temperature.
+8. Glass doors shall be clearly marked.
+9. When windows and doors are used for ventilation, they shall be screened and shall not present a safety hazard.
+10. Floor furnaces, gas heaters, electric heaters, hot radiators, water heaters, air conditioners
+31
+
+and electric fans shall have guards and shall not present a safety hazard. Portable fuel fired heaters shall not be used.
+11. It is recommended that if natural gas or propane is used, the facility’s heating systems be inspected and cleaned if necessary before each heating season by a qualified HVAC technician.
+12. Carbon monoxide detectors shall be placed in facilities according to manufacturer’s recommendations if one of the following situations applies:
+a. Facilities using wood, propane, natural gas or any other product as a heat source that can produce carbon monoxide indoors or in an attached garage
+b. Anysituationswherecarbonmonoxidedetectorsarerequiredbystateorlocallaw
+13. Floors, ceilings and walls shall be in good repair and kept clean. Paints used at the facility shall be lead free.
+14. A child care center shall have an operable telephone on site all hours children are in care. The Licensee shall provide the phone number to the Licensing Unit and to the parents. (This phone may be a cell phone if the phone stays operable, stays at the facility during all hours of care, and is the phone number provided to the Licensing Unit and the parents.)
+15. The following structures shall not be used as child care centers:
+a. Manufactured homes constructed prior to June, 1976
+b. Manufactured homes constructed with metal roofs and outside walls
+c. Single-wide manufactured homes
+d. Portablestoragetypebuildings
+16. Double-wide manufactured homes may be considered provided they are tied down in accordance with the manufacturer's tie down specifications manual. Any new applicant for a child care center that requests the use of a manufactured home shall obtain an inspection at the applicant's expense from the Arkansas Manufactured Home Commission.
+17. Manufactured homes currently licensed as child care facilities shall be tied down as recommended by the Arkansas Manufactured Home Commission.
+18. Portable classroom buildings are not considered manufactured homes, but do require Fire Department approval. Portable classroom buildings installed after November 1, 2002, shall have Fire Department approval prior to purchase and installation.
+802 Infant & Toddler Building Requirements
+1. If Infant and Toddler Centers and Child Care Centers are operated in the same building, the areas designated for care of infants and toddlers shall be in rooms separate from the activity of other children.
+2. When infants/toddlers share the same eating areas with older children, arrangements shall be made to maintain separation.
+32
+
+900 PLAYGROUNDS / OUTDOOR LEARNING ENVIRONMENT
+To provide the safest possible playground environment, you are encouraged to meet Consumer Product Safety Commission’s guidelines listed in the “Handbook for Public Playground Safety”. However, the following are minimum requirements and shall be met.
+Please note that these requirements do not mandate the use of any playground equipment that would require use zones and protective surfacing. Numerous options for suitable playground environments are available and acceptable.
+Examples of such activities are:
+• Sand boxes
+• Activity walls at ground level
+• Art easels
+• Balls & games
+• Play houses
+• Nature walks
+• Use of the approved natural environment for outdoor learning
+The use of public playgrounds and other play environments away from the facility is not recommended as these environments may not meet acceptable safety standards. If these playgrounds are used, staff should provide close supervision and not allow children to use any equipment that appears unsafe (eg: broken equipment, sharp objects, strangulations hazards, etc.). Using playgrounds and other play environments away from the facility is considered a field trip and all field trip requirements shall be followed.
+901 Layout & Design
+1. A diagram of the playground shall be submitted, clearly identifying the perimeter of the playground, with measurements, and identifying each piece of equipment used by the children enrolled at the licensed facility. This documentation shall be in the form of a satellite photo from an internet site such as Google Maps, or a diagram if a satellite photo is not available.
+2. Any changes in the play area boundaries and/or equipment requested must be submitted in writing and approved prior to use.
+3. All equipment and protective surfacing shall be installed and maintained according to manufacturer’s guidelines.
+4. The play area/outdoor learning area shall be fenced or otherwise enclosed and provide at least 75 square feet per child present on the playground at any time.
+5. There shall be an outside exit from the play area.
+6. The area shall be well drained.
+7. There shall be equipment and activities appropriate for the age and number of children
+enrolled in the facility.
+33
+
+8. Separate play areas or time schedules shall be provided if, infants and toddlers share playgrounds with older children.
+9. A shady area shall be provided where children can get out of direct sunlight. This can be accomplished by utilizing existing shade such as trees and buildings, or by creating shade with manufactured structures such as awnings. If shade is not available the schedule for outdoor play shall be altered so that children are outdoors during early morning hours to avoid extreme heat and direct sunlight.
+10. All areas where children play outdoors shall be properly maintained.
+902 General Hazards
+1. The area shall be free of hazards or potentially hazardous objects.
+2. Equipment that has been determined by the Division to be unsafe for the children in the
+licensed facility to use shall be removed from the play area, or enclosed by a fence or other suitable barrier so the children will not have access to it.
+3. All newly purchased playground equipment designed for children to play on or climb on, such as slides, swings, composite structures, etc., shall be commercially manufactured and certified to meet ASTM or CPSC standards for public playgrounds. Equipment in place prior to January 1, 2014 may continue to be used provided it meets all other licensing requirements.
+4. Equipment, which is designed to be anchored, shall be properly anchored so that the anchoring devices are below ground level.
+5. Sand for playing shall be kept safe and clean.
+6. Paint on equipment shall be lead free.
+7. All fasteners, including S-hooks, shall be securely tightened or closed.
+8. There shall be no sharp points, corners, edges or splinters.
+9. Equipment shall not have protrusion hazards. (A protrusion is a projection which, when tested, is found to be a hazard having the potential to cause bodily injury to a user who impacts it.)
+10. Equipment shall not have entanglement hazards. (An entanglement is a condition in which the user’s clothes or something around the user’s neck becomes caught or entwined on a component of playground equipment.)
+11. Trampolines shall not be used. (Therapeutic use of trampolines is acceptable if supervised by the therapist on a one-on-one basis.)
+12. Ball pits shall not be used. (Ball pits are large areas or “pits” filled with balls intended for children to jump in and play. Therapeutic use of ball pits is acceptable if supervised by the
+34
+
+therapist on a one-on-one basis.)
+13. Wading pools shall not be used. This does not prohibit the use of sprinklers and water play.
+14. To prevent entrapment, there shall be no opening(s) between any interior opposing surfaces between 3.5 and 9 inches. (Openings in equipment that might allow a child’s body to pass through, but not their head.) Ground bounded openings are exempt.
+15. Providers/caregivers shall be aware of and remove when possible any hazardous items children may wear on play equipment such as helmets, drawstrings, and other accessories around the neck that may cause a strangulation/entanglement hazard.
+16. All children one year of age and older shall wear properly fitted and approved helmets while riding on bicycles and when using roller skates, skate boards, roller blades and scooters.
+Helmets shall be removed as soon as children stop riding the wheeled equipment. Helmets shall meet CPSC standards. (Helmet use is recommended while riding tricycles and other wheeled toys.)
+17. All soccer goals shall be commercially manufactured and installed and anchored according to manufacturer’s guidelines.
+903 Balance Beams
+1. Balance beams shall not be higher than 12 inches and shall have use zones with protective surfacing.
+2. Children under age 2 shall not use balance beams.
+904 Slides
+1. Slides shall not have any spaces or gaps between the platform and the slide surface.
+2. Slides shall have a transition platform of at least 14 inches deep for preschool and school age children, and 19 inches deep for toddlers.
+905 Swings
+1. The following swings shall not be used for any ages:
+a. Multi-occupancy swings designed to hold more than one child, except tire swings
+b. Heavymoldedswingssuchasanimalfigureswings
+c. Free swinging rope (Tarzan ropes)
+d. Swingingexerciserings
+e. Trapeze bars
+f. Swings attached to a composite structure (Composite Structure is defined by CPSC as,
+“Two or more play structures attached or functionally linked, to create one integral unit that provides more than one play activity.”)
+2. There shall be no wood or metal swing seats.
+35
+
+3. Toddler swings shall have fully enclosed bucket seats.
+4. Direct supervision shall be provided for children in toddler swings.
+906 Climbing Equipment
+1. Free standing arch climbers shall not be used for preschoolers.
+2. Flexible grid climbing devices, such as rope or chain ladders, climbing ropes, etc., shall be securely anchored at both ends.
+3. Flexible grid climbing devices shall not be used for preschoolers unless they are anchored at both ends and have a means of transitioning from one piece of equipment to the next.
+4. Preschoolers shall not use sliding poles.
+5. Sliding poles shall have no protruding welds or seams along the sliding surface and the pole shall not change directions.
+907 Merry Go Rounds
+1. Theonlymerry-go-roundsallowedareportablemerry-go-roundsnotdesignedto be anchored and they shall have handgrips or other secure means of holding on.
+908 Seesaws
+1. Seesaws without spring centering devices shall have shock absorbing materials, such as partial tires embedded in the ground underneath the seats or secured to the underside of the seats.
+2. Hand holds shall be provided for both hands at each seating position and shall not turn when grasped.
+3. Hand holds shall not protrude beyond the sides of the seat on seesaws.
+909 Protective Surfacing
+1. There shall be use zones and protective surfacing under and around all equipment that is over 18” in height at the highest accessible point. The highest accessible point is defined as the highest surface on the piece of equipment where children would stand or sit when the equipment is being used as intended. Use zones shall extend a minimum of 6’ in all directions (unless otherwise specified) from the perimeter of the equipment. (Playground equipment that is between 18 inches and 24 inches at the highest accessible point and that was installed prior to the enforcement date of this revision is allowable without protective surfacing, as long as it meets all other requirements.)
+2. Swings require use zones and protective surfacing regardless of height.
+3. Use zone protective surfacing depths shall be as follows:
+36
+
+Inches
+a. 6* b. 9 c. 9 d. 9
+e. 9
+Loose-Fill Material
+Shredded/recycled rubber Sand
+Pea Gravel
+Wood mulch (non-CCA)
+Wood chips
+Protects to Fall Height of:
+10 feet 4 feet 5 feet 7 feet
+10 feet
+Minimum compressed loose-fill protective surfacing depths
+*Shredded/recycled rubber loose-fill protective surfacing does not compress in the same manner as other loose-fill materials. However, it is recommended, care be taken to maintain a constant depth as displacement may still occur.
+4. Shock absorbent material such as sand, pea gravel, wood chips, wood mulch, shredded tires, etc., shall be used in use zone areas under and around playground equipment which requires a use zone.
+a. When purchasing gravel, care should be taken prior to purchase to insure that the gravel is actually pea gravel that is smooth and rounded, and not crushed rock or gravel with sharp edges. Crushed rock and sharp gravel will not be approved.
+b. Pea gravel used for use zones shall not be over 1⁄2 inch in diameter.
+c. Different types of protective surfacing materials shall not be combined within the same
+use zone area.
+5. Hard surface materials, such as asphalt and concrete shall not be used as base surfaces in the use zones except under commercial matting or other systems/products designed to be installed over hard surfaces as directed by the manufacturer.
+6. SLIDES: The use zone for slides measuring 6 feet or over, measured from the slide platform to the ground, shall extend 8 feet from the exit end of the slide. Use zones for slides measuring under 6 feet from the platform to the ground shall extend 6 feet from the exit end of the slide.
+7. SWINGS: The use zone for single-axis swings (standard swings) (except toddler swings) shall extend to the front and to the rear of the swing a minimum distance of two times the height of the pivot point (where the chain attaches to the frame) above the playing surface. The use zone for toddler swings shall extend to the front and rear of the swing a minimum of two times the distance from the pivot point to the swing seat. Use zones shall also extend 6 feet to the sides of the swing set.
+8. SWINGS: The use zone for multi-axis swings (such as tire swings or others with three or more suspending chains) shall extend in all directions a minimum of six feet, plus the height of the suspending rod or chain. The use zone from the end of the structure must also extend a minimum of 6 feet in all directions.
+9. Use zones shall be free of obstacles onto which children may fall.
+37
+
+1000 FURNITURE & EQUIPMENT
+1001 Furniture & Equipment Requirements
+1. All manufacturer guidelines shall be followed for furniture and equipment that is used by, or around, children.
+2. All equipment shall be sturdy, clean and safe.
+3. Paint on toys, equipment and other materials shall be lead free.
+4. Child size tables and chairs, highchairs, or other age appropriate and comfortable seating options shall be used during snack and meal times.
+5. Safety straps shall be used at all times in high chairs or any other seats designed to be used with straps.
+6. The center shall provide individualized space for storing personal belongings.
+7. There shall be storage space for extra materials and other equipment when not in use.
+8. Outdoor equipment that requires use zones and protective surfacing shall require the same use zones and protective surfacing if used inside the facility. (This does not apply to equipment specifically designed for indoor use only.)
+1002 Sleeping Requirements for Preschool
+1. There shall be a labeled, individual cot or mat, bottom sheet, and adequate cover for each child in care during rest time.
+2. The use of mats shall be acceptable if they are at least 2 inches thick, washable, waterproof, and size-appropriate for children.
+3. All sleeping equipment shall be kept at least one foot apart for napping to prevent cross- contamination and to ensure ease of access in an emergency.
+4. Sheets and covers shall be washed at least once a week or more frequently as needed. Once a sheet/cover/blanket has been used by a child, it shall not be used by another child until it has been washed.
+1003 Infant & Toddler Sleeping Requirements
+1. Sleeping infants & toddlers shall be visually monitored at all times and physically checked regularly for breathing.
+2. Infants/toddlers shall be placed in age appropriate cribs, cots, or mats meeting CPSC standards, for when they fall asleep. (Note: Also, any items used in the crib must be used according to manufacturer guidelines, regardless if the child is sleeping or not, in accordance with 1001.1).
+38
+
+3. Infants (children 12 months of age and below) shall be placed flat on their backs to sleep, in accordance with American Academy of Pediatrics guidelines, to lessen the risk of suffocation and Sudden Infant Death Syndrome. (If a child rolls over on his/her own, the facility is not required to reposition the child.) If there is a medical reason a child cannot sleep on his/her back, then a signed statement from the child’s physician must be in the file stating the reason, the sleep position indicated, and the time frame this is required
+4. Infants’ sleep space (e.g. crib) shall be free of loose bedding. If a light blanket is
+necessary, it should be kept at or below the mid-chest area of the child. Staff shall not cover the faces of infants.
+5. Swaddling infants is not recommended and shall require a note from the child’s physician if continued past the age of 3 months.
+6. Pillows (including nursing or “boppy” pillows), bumpers/bumper pads and stuffed animals shall not be placed in cribs.
+7. Bibs, necklaces and garments with ties or hoods shall be removed from infants prior to rest/naptime to reduce the risk of entanglement and strangulation while the child is sleeping.
+8. Any cribs or playpens that have been identified as unsafe, or have been subject to recall as defined by the Consumer Products Safety Commission (CPSC) guidelines or law, shall be removed or repaired as indicated.
+9. An individually labeled crib or safe playpen with a waterproof mattress shall be provided for each child less than 12 months of age. A bassinet shall not be used. (Please note that the CPSC does not recommend the use of playpens in licensed child care.)
+10. The following guidelines shall be required for cribs:
+a. Slats shall be no greater than 2 3/8" apart
+b. Cribs that have end panels with decorative cutout areas shall not be used
+c. Mattresses shall fit snugly in the crib, be waterproof and in good repair
+d. Thespacebetweencribandmattressshallmeasurenomorethan1inch
+e. Corner posts shall be the same height as end panels
+f. End panels shall extend below mattress at the lowest position of the mattress
+11. Crib bedding shall be changed daily or more frequently when wet or soiled.
+1100 HEALTH
+1101 General Health Requirements
+1. No child or staff shall be admitted who has a contagious or infectious disease.
+2. The parent or legal guardian shall be notified as soon as possible when a child has any symptom that requires exclusion from the facility. The child shall be separated from other children and closely monitored until the parent arrives to pick the child up.
+3. Thecaregivershalldetermineiftheillnesspreventsthechildfromparticipatingcomfortably
+39
+
+in activities, results in a greater need for care than the child care staff can provide without compromising the health and safety of the other children, or poses a risk of spread of harmful diseases to others.
+The caregiver shall temporarily exclude the child from child care if the child has:
+a. Sudden change in behavior, such as:
+• lethargy or lack of responsiveness
+• unexplained irritability or persistent crying • difficult breathing
+• a quickly-spreading rash
+b. Feverover101degrees/oral,100/axillary(orequivalentmethod)inachildwhoalsohas pain, behavior changes, or other symptoms of illness
+• An infant younger than 2 months with any increased temperature shall get urgent medical attention, within an hour.
+• An infant younger than 6 months with any increased temperature shall be medically evaluated.
+c. Diarrhea, defined as watery/runny stools if frequency exceeds 2 or more stools above normal for that child, and is not related to a change in diet or medication (Exclusion from child care is required if diarrhea cannot be contained in the diaper or if diarrhea is causing soiled clothing in toilet-trained children.)
+d. Bloodormucusinstools(unlesscausedbyhardstools)
+e. Vomiting illness (2 or more episodes of vomiting in the previous 24 hours)
+f. Abdominal pain which lasts more than 2 hours
+g. Mouthsoreswithdrooling
+h. Rash with fever or behavior change
+i. Conjunctivitis or “pink eye” – with white, yellow, or green eye discharge and red
+(“bloodshot”) eyes, exclude only if child has: • fever,
+• eye pain
+• redness and/or swelling of the skin around the eyes, or • if more than one child in the program has symptoms
+j. Pediculosis (head lice), until after the first treatment
+k. Active tuberculosis, until a health care provider or health official states that the child is
+on appropriate therapy and can attend child care
+l. Impetigo, until treatment has been started
+m. Strep throat, until 24 hours after antibiotic treatment has been started
+n. Chickenpox,untilalllesionshavecrusted(usually6daysaftertherashappears)
+o. Rubella, until 6 days after onset of rash
+p. Pertussis(whoopingcough);until5daysofantibiotictreatment
+q. Mumps,until5daysafteronsetofglandswelling
+r. Measles, until 4 days after onset of rash
+s. Hepatitis A, until 1 week after onset of illness or as directed by the health department
+4. Any child who is injured shall have immediate attention. Parents shall be notified of all injuries. Injuries that require the attention of medical personnel shall be reported to the parent immediately and to the Licensing Unit within one business day.
+40
+
+5. Parents or guardians of all children shall be notified of contagious illness as soon as possible.
+6. Medication shall be given to children only with signed parental permission which includes date, type, drug name, time and dosage, length of time to give medication, and what the medication is being given for. It shall be in the original container with a child resistant cap, not have an expired date and be labeled with the child's name. (Aspirin substitutes, such as ibuprofen and acetaminophen, may be provided by the facility if parental permission has been granted. These medications shall be in the original container.) Staff shall not dispense medications in dosages that exceed the recommendations stated on the medication bottle.
+7. Children with special health care needs (ex. asthma, seizures, diabetes, etc.) who require scheduled daily medications or medications to be given on an emergent basis (Benadryl, EpiPen, rescue asthma medication, etc.) shall have a care plan. Care plans shall have clearly stated parameters, directions, and symptoms for giving the medications. Care plans shall be updated as needed, but at least yearly.
+8. The facility shall share information with families regarding medical homes for children.
+9. Medication shall be returned to the parent or disposed of properly when a child withdraws from the program or when the medication is out of date.
+10. Medicine shall be stored at the proper temperature, separately from food at all times.
+11. A first aid supply shall be kept out of reach of the children. A first aid kit containing medications shall be locked. This kit shall include the following:
+a. Adhesive Band-Aids (various sizes)
+b. Sterilegauzesquares
+c. Adhesive tape
+d. Rollofgauzebandages
+e. Antiseptic
+f. Thermometer
+g. Scissors
+h. Disposablegloves
+i. Tweezers
+12. Medicine shall be kept out of the reach of the children when dispensing and shall be stored in a locked area at all other times.
+13. The staff person who administers the medication shall initial the permission slip and record the date, time and dosage administered.
+14. Facilities shall comply with the Clean Indoor Air Act of 2006. Smoking (including e- cigarettes) in a child care center is prohibited at all times. This includes:
+a. All areas of the facility, regardless of whether children are in care (includes time periods such as nights, weekends, holidays, etc., also includes office areas or other areas of the facility that share the same ventilation systems)
+41
+
+b. Outdoorplayarea(s)
+c. Other outdoor areas when children are present
+d. Inanyvehicleusedtotransportchildren,whetherchildrenarepresentinthevehicleor
+not
+15. The facility shall follow any health or medical care plans and/or medical documentation as provided by the child’s physician, parent or guardian.
+16. It is recommended that universal precautions be used when handling and disposing of materials containing bodily secretions such as wet or soiled diapers, fecal matter, etc. Universal precautions shall be used when handling items contaminated by blood. These items shall be disposed of separately and by using rubber gloves that shall be properly disposed of after each use. (Note: hands must be washed even after gloves are used.)
+17. Garbage and soiled diapers shall be kept in closed containers. Garbage and trash shall be removed from the center daily and from the grounds at least once a week.
+18. The facility shall be free of insects, rodents and pests.
+19. There shall be no pets or animals allowed that present a health and safety threat. A licensed veterinarian shall certify that dogs and cats have a current vaccination against rabies.
+20. The communicable diseases listed in Appendix B, whether suspected in a child or adult shall be reported within 24 hours to either the local County Health Unit or the toll free Reporting System (800-482-8888). Immediate notification is recommended for the following:
+a. Hepatitis
+b. Rashillness(includingMeasles&Rubella)
+c. Whooping Cough (Pertussis)
+d. Meningitis
+e. Mumps
+f. Tuberculosis
+g. Salmonellas(includingTyphoid)
+h. E-coli
+21. Reporting data should include:
+a. The reporter’s name, location and phone number
+b. Thenameofthediseasereportedandthedateofonset
+c. The patient’s name, address, phone number, age, sex and race (Please spell the
+patient’s name)
+d. Theattendingphysician’sname,locationandphonenumber
+e. Any pertinent clinical and laboratory information used in the diagnosis (Please give the
+laboratory name)
+f. Any treatment information, if known
+22. A roster shall be maintained on infants and toddlers who have not completed the minimum immunization requirements and parents shall be notified of the needed immunization(s).
+42
+
+23. Within 15 days of enrollment of a child, the child care facility shall verify that the child has been immunized as required by the Arkansas Department of Health and Human Services or the child cannot remain in care (Arkansas Code 20-78-206 as amended by Act 870 of 1997-- a current immunization schedule is provided as an insert in this publication).
+24. It is recommended that all staff members who have direct contact with children receive annual Influenza (flu) immunizations.
+25. It is recommended that all staff members who have direct contact with children receive a one-time Tdap (Diphtheria, Tetanus & Pertussis) immunization.
+26. It is recommended that all staff members who have direct contact with children receive the recommended series of immunizations for chicken pox, mumps, measles and rubella or evidence of immunity.
+27. Children shall be protected from overexposure to the sun. Sunscreen shall be used if needed and as directed by the parent. Suntan lotions and/or sunscreens used for infants/toddlers and preschool children shall be kept out of the children’s reach and shall be administered only with written parental permission. School age children may apply sunscreen to themselves with supervision. Blanket permission may be obtained annually.
+28. It is recommended that the facility have an automated external defibrillator on site and have a staff member(s) on-site who is trained in the proper use of this device.
+1102 Hand Washing
+1. Individual towels, paper towels or forced air dryers shall be within the reach of children.
+2. A liquid soap shall be accessible in the hand washing area and used by caregivers and children.
+3. Running water shall be available in all lavatories.
+4. Caregiver’s and children’s hands shall be washed with soap before meals and snacks, after toileting, after each diaper change, and as needed. The use of hand sanitizer shall not be a replacement for soap and running water.
+5. A wash cloth or towel shall not be used more than one time before laundering.
+1103 Infant & Toddler Hand-Washing
+1. Caregivers’ hands shall be washed with soap upon entering the work area.
+2. There shall be at least one sink in each infant/toddler room for ages under 18 months for diapering. Existing structures licensed prior to implementation of this rule are exempt from this requirement. However, any expansions, additions, rearrangement of classrooms being used or any newly licensed structures shall comply with this requirement.
+1104 Drinking Facilities
+1. The water supply shall be approved by the Arkansas Department of Health.
+43
+
+2. Drinking water shall be provided to the children.
+3. Drinking water shall not be obtained from the hot water supply.
+1105 Toilet Facilities
+1. There shall be 1 toilet and 1 sink available for each group of fifteen (15) children.
+2. Clean clothes shall be available for children who soil themselves.
+3. Each center licensed or approved for more than thirty (30) children over the age of 18 months shall have a separate rest room for staff. Infant and Toddler Center staff and Day Care Center staff may share the same toilet facilities when both programs are located in the same building.
+4. Toilet tissue shall be located within reach of the children when toileting.
+1106 Infant & Toddler Toilet Facilities
+1. For every fifteen (15) children 18 months of age and above, there shall be one toilet and sink.
+2. The child care center shall provide a bathroom that opens directly into the room where toddlers are located.
+3. Potty chairs shall not be counted in lieu of conventional toilets. If potty chairs are used, they shall be placed in the same area with a conventional toilet and sink and shall be emptied and sanitized immediately after each use.
+1107 Diaper Changing
+1. A hand washing sink shall be available for the staff within the diaper change areas. 2. There shall be a safe diaper changing table that meets the following requirements:
+a. Impervious (non-absorbent) smooth surfaces that do not trap soil and are easily disinfected
+b. Thereshallbeachangingpadcapableofbeingsanitizedusedasacushionbetweenthe child and the changing table surface.
+c. The table shall be sturdy and stable to prevent tipping over.
+d. Thetableshallbeaconvenientheightforusebycaregivers/teachers
+e. The table shall be equipped with a raised edge or other provision to help reduce the risk
+of a child rolling off of the table.
+3. Children shall always be attended during diapering.
+4. Soiled or wet diapers shall be removed and replaced with clean, dry diapers. The caregiver shall ensure that children are properly cleaned and dried.
+5. Soiled cloth diapers or clothing shall not be rinsed. If a child's own diapers are used, they
+44
+
+shall be sanitarily bagged to be taken home daily.
+6. Diaper covers or plastic pants shall be handled in the same manner as cloth diapers.
+7. All diapering preparations shall be placed out of the reach of children. The use of all diapering preparations shall be agreed upon by the caregiver and parent.
+1108 Toilet Learning
+1. The caregiver shall assist children in toilet routine and hygiene practices.
+2. The following methods shall not be used in toilet learning:
+a. Placing child on toilet or potty chair for prolonged time periods
+b. Usingharshlanguage
+c. Punishing or berating in any way for soiling clothing
+d. Usingphysicalforcetoplacechildonatoiletorpottychairagainsttheirwill
+e. Leaving a child unsupervised on toilet
+1200 SAFETY
+1201 Safety Requirements
+1. Within 30 days of licensure and within 30 days of any change or modification of the floor plan, the facility shall file a copy of their floor plan with the local Office of Emergency Management including the following (§ 20-78-228 Act 1159 of 2013):
+a. A schematic drawing of the facility and property used by the child care facility including the configuration of rooms, spaces and other physical features of the building
+b. Thelocationorlocationswherechildrenenrolledinchildcarespendtimeregularly
+c. The escape routes approved by the local fire department for the child care facility
+d. Thelicensedcapacityandagesofchildrenperroomatthefacility
+e. The contact information for at least two emergency contacts for the facility
+f. An aerial view of the child care facility and property used by the child care facility shall be included with the floor plan if available
+2. The facility shall have a written plan detailing the procedures to follow in the event of emergencies (fires, floods, tornadoes, utility disruptions, bomb threats, etc.) (Act 801 of 2009). The plan and procedures are required for emergencies that could cause structural damage to the facility, be identified as a threat by the Arkansas Department of Emergency Management or pose a health and/or safety hazard to the children and staff.
+3. The written plan shall include the following information:
+a. Designated relocation site and evacuation route
+b. Proceduresfornotifyingparentsofrelocation
+c. Procedures for ensuring family reunification
+d. Procedurestoaddresstheneedsofindividualchildren,includingchildrenwithspecial
+needs
+e. Procedures and documentation for annual training of staff regarding the plan and
+45
+
+possible reassignment of staff duties in an emergency
+f. Plans to ensure that all staff and volunteers are familiar with the components of the plan
+4. The facility shall coordinate with local emergency management officials to plan for emergencies.
+5. Written procedures and evacuation diagrams for emergency drills shall be posted in each classroom.
+6. Fire and tornado drills shall be practiced as follows:
+a. Monthly
+b. Fireandtornadodrillsshallbepracticedonseparatedaysandatdifferenttimesofthe
+day.
+c. Everyone in the facility, to include all program types (i.e. infant & toddler, preschool,
+school age), at the time of the drill shall participate in the drill
+d. Staff,includingvolunteersandsubstitutes,shallbetrainedinemergencydrillprocedures
+e. During all hours when children are in care (evenings, nights, weekends, etc.)
+f. If applicable, the facility shall provide a crib with evacuation casters or equivalent that
+will provide one (1) bed for every six (6) infants, twelve (12) months and younger, that may be used for the safe evacuation of the infants.
+7. The facility shall maintain a record of emergency drills. This record shall include:
+a. Date of drill
+b. Typeofdrill
+c. Time of day
+d. Numberofchildrenparticipatinginthedrill
+e. Length of time taken to reach safety
+f. Notes regarding any items that need improvement
+8. The facility shall maintain an evacuation pack that shall be taken on all drills and during actual emergency evacuations. The pack shall be easily accessible in an emergency and all staff shall know the location of the pack. The evacuation pack shall include, but is not limited to the following:
+a. List of emergency numbers
+b. Listofallemergencyandcontactinformationforchildren
+c. List of all emergency and contact information for staff
+d. Firstaidkit(requirement1101.6)withextragloves
+e. Kleenex
+f. Battery powered flashlight and extra batteries
+g. Batterypoweredradioandextrabatteries
+h. Handsanitizer
+i. Notepad and pens/pencils
+j. Whistle
+k. Disposable cups
+l. Wet wipes
+m. Emergency survival blanket
+46
+
+9. The facility shall immediately notify the Licensing Unit of any extended utility outages or significant damage to the building and/or grounds. If phone service is not available, notification shall be as soon as service is restored or available.
+10. Child care centers shall maintain a log of all child product recalls and safety notices issued by CPSC or distributed by the Attorney General’s Office and shall post or otherwise make these notices available for parents to review on site. The facility director shall certify, on an annual basis, that these notices have been maintained and reviewed and that any identified items have been removed from the facility. Forms for self-certification will be provided by the Licensing Specialist and shall be submitted annually. (Act 1313 of 2001).
+11. There shall be no alcoholic beverages in any part of the facility during hours of care.
+12. Illegal drugs/paraphernalia shall not be in any part of the facility or on the premises, regardless if children are present or not.
+13. All medications and poisonous substances shall be kept in separately locked areas.
+14. Rescue medications such as inhalers or EpiPens shall be inaccessible to children (kept in a cabinet with a child proof type safety latch or carried by a staff member).
+15. All detergents and cleaning supplies shall be kept out of the reach of children. (This does not include hand soap in children’s or staff bathrooms.)
+16. Supplies used for children’s activities shall be carefully supervised.
+17. All bags belonging to children shall be checked on arrival to eliminate possible hazards.
+18. Purses and bags belonging to staff shall be stored out of reach of children.
+19. Electrical outlets shall be guarded.
+20. Balloon use shall be carefully supervised.
+21. Staff shall be instructed in the use of fire extinguishers.
+22. The facility shall maintain smoke detectors/fire extinguishers as required by the Fire Department. Smoke detectors shall be kept in working order at all times.
+23. Chemicals and toxins shall not be stored in the food storage area.
+1202 Infant & Toddler Safety Requirements
+1. Balloon use shall not be allowed in infant/toddler areas.
+2. Pacifiers, if used, shall not be secured around the neck by a cord or any other means that
+could represent a strangulation hazard.
+1203 Swimming Pools
+1. Swimming pools and natural pools of water may be used for water play for children age 3
+47
+
+and up if the following requirements are met:
+a. Health Department approval where applicable
+b. Writtenparentalpermission
+c. One person present at all times who has current certification in Red Cross Life Saving or
+Y.M.C.A. aquatic instruction
+2. Adult supervision of the children shall be provided at all times, with grouping based on the following staff/child ratio: (Unless children are participating in an authorized swimming instruction program.)
+a. Kindergarten & up 1:8 b. 5years 1:5 c. 4years 1:3 d. 3years 1:2
+3. When children of different ages are swimming in a group, the staff/child ratio shall be based on the youngest child within the group.
+4. Lifeguards, swimming instructors or any other swimming pool staff may be counted in the ratio when the facility’s children are the only occupants of the pool and these persons have completed criminal and child maltreatment background checks and have a current health card.
+5. Swimming pools located within the play area of the center shall be enclosed. The enclosure shall consist of a locked gate and a fence that is at least four feet high.
+1300 TRANSPORTATION
+1301 Transportation Requirements
+1. The requirements in this section apply to all transportation provided by the Licensee, including transportation provided by any person on behalf of the Licensee, regardless of whether the person is employed by the Licensee. Periodic transportation, such as a parent requesting that their child be picked up at school due to the parent’s work schedule or other conflicts, is also covered by these requirements, whether a fee is charged for this service or not.
+2. When children are transported emergency contact information shall be maintained on the vehicle at all times.
+3. Staff transporting children shall meet the following requirements:
+a. Be at least twenty-one (21) years of age or the minimum age required by the Licensee’s commercial auto insurance
+b. Holdacurrentvaliddriver’slicenseorcommercialdriver’slicenseasrequiredbystate law, and a readable copy shall be maintained in the staff’s record
+c. Successfully completed the training course in Driver Safety that is offered or approved by the Division prior to transporting children (Verification of the completed course in
+48
+
+Driver Safety shall be maintained on site in the staff’s record.)
+d. AtleastoneadultonthevehicleshallbecertifiedinCPRandFirstAid.
+4. Thevehicle(s)usedforthetransportationofchildrenshallbeincompliancewithArkansas state laws on transportation of children.
+5. Vehiclesshallbelicensedandmaintainedinproperworkingconditionincludingair conditioning and heating systems.
+6. Commercial insurance coverage shall be maintained for any vehicle used for transportation by the facility. Verification of commercial insurance coverage shall be provided to the Licensing Specialist prior to transportation of children. (Facilities licensed prior to the effective date of these regulations shall obtain required coverage within ninety (90) days.) Required coverage amounts to be maintained are:
+a. Minimum coverage of $100,000 Combined Single Limit (CSL)
+b. Minimumcoverageof$100,000forbothUninsuredMotorist(UM)andUnderInsured
+Motorist (UIM)
+c. Minimum coverage of $5,000 Personal Injury Protection (PIP) for each passenger (based
+on the number of passengers the vehicle is manufactured to transport)
+7. Driver may be counted in staff/child ratio, but shall not be the only adult when more than 12 children over three years of age and older are transported.
+8. For transporting children kindergarten and above only, a ratio of 1:18 shall be maintained. The driver may be counted in the staff/child ratio. Providers licensed prior to the effective date of this rule will have four years from the implementation of this rule to comply.
+9. Any child who is less than 6 years old or weighs less than 60 pounds shall be restrained in a child passenger safety seat. Any child who is at least 6 years or weights at least 60 pounds must be restrained by a safety belt. (Act 470 of 2001). Conventional school busses are exempt from this requirement except for the transportation of infants/toddlers. (See #1302.2) Child passenger safety seats shall be used in accordance with manufacturer’s guidelines.
+10. There shall be a seating space and an individual, appropriate restraint system provided for each child transported.
+11. Rosters listing the date, the names and the ages/dates of birth of all children being transported as well as the name of the driver and any other staff member on the vehicle shall be maintained. These rosters shall be used to check children on and off the vehicle when they are picked up and dropped off at home, school, etc. and when they arrive at and leave the facility. Transportation rosters shall be kept by the facility and available for review for one year.
+Exception: State institutions, political subdivisions or other entities entitled to immunity from
+ liability under 21-9-301, are not required to meet this requirement to be licensed.
+ (Act 23 of 2015)
+ 49
+
+12. To insure that no children are left on the vehicle, the driver or a staff member must walk through the vehicle and physically inspect each seat before leaving the vehicle. The driver or the staff member, who conducted the walk through inspection, must sign the transportation roster to verify that all children have exited the vehicle.
+13. To insure that children have safely arrived in the appropriate classroom, the transportation roster shall be reviewed by the Director or designee and compared with classroom attendance records. The Director or designee shall sign off on the transportation roster to verify that all children have safely transitioned from the vehicle to the classroom.
+14. Any vehicles designed or used to transport more than seven (7) passengers and one (1) driver must have approved child safety alarm devices installed. These devices must be
+properly maintained in working order at all times.
+Vehicles in service at licensed facilities prior to July 1, 2005, shall have the alarm installed by a qualified technician or mechanic no later than December 31, 2005. On or after July 1, 2005, all vehicles at newly licensed facilities and newly acquired vehicles at existing facilities shall have a child safety alarm installed before placing the vehicle in service.
+The Child Care Licensing Unit shall maintain a list of approved alarm systems. Clarification –
+• The alarm system shall be installed so that the driver must walk to the very back of the vehicle to reach the switch that deactivates the alarm. Alarm switches installed in locations that do not require the driver to walk to the back of the vehicle and view
+all seating areas will not be acceptable.
+• The alarm system may be installed by any certified technician or mechanic employed by a recognized electronics or automotive business in accordance with the device manufacturer’s recommendations.
+• The time delay from activation of the alarm until the alarm sounds shall be no longer than one minute. Any of the following three options are acceptable to meet the intent of Act 1979 when children are being delivered at the facility. Other options must be approved by the Licensing Unit.
+Options
+1. Unload all of the children, walk through the vehicle to ensure that no children remain on board and deactivate the alarm. (This option will only work if you are able to unload all children in less than one minute.)
+2. Upon arrival, have one staff member immediately walk through the vehicle to deactivate the alarm system. That staff member will remain near the alarm switch at the back of the vehicle until all children have been unloaded to ensure that no child is left on board. (This option will require at least two staff members, one to supervise the children and one to remain inside the vehicle.)
+ 50
+
+3. Upon arrival, deactivate the alarm and unload the children. Immediately after unloading, start the vehicle and move it to a different location for final parking. (This will reactivate the alarm and require a final walk through.)
+1302 Infant & Toddler Transportation Requirements
+1. In a vehicle transporting infants and toddlers, the driver may be counted in the staff/child ratio but shall not be the only adult. A ratio of one adult for each of the three infants/toddlers shall be maintained.
+2. Infants and toddlers shall not be transported on school buses that are not equipped to accommodate required safety seats.
+1400 SPECIAL NEEDS
+Individuals with Disabilities Education Act (IDEA):
+• It is a law ensuring services to children with disabilities throughout the nation. IDEA governs how states and public agencies provide early intervention, special education and related services to eligible infants, toddlers, children and youth with disabilities.
+• It defines a child with Special Needs as:
+• A child determined eligible for special services under the Individual with Disabilities Education Act (IDEA) for whom a current IFSP (Individual Family Service Plan) or IEP (Individual Education Plan) exists and/or
+• A child whose physical condition has lasted or is expected to last at least two (2) years as diagnosed by a licensed medical or psychological examiner
+• It is specified in Public Law 108-466 §635.16 A-B (IDEA as reauthorized) as:
+• Children with disabilities including children in public or private institutions or other care facilities are educated to the maximum extent appropriate with children who are not disabled.
+• Special classes, separate schooling or other removal of children with disabilities from the regular educational environment occurs only when the nature or severity of the disability of the child is such that the child is not achieving a satisfactory education in a regular class that provides supplementary aids and services.
+All child care facilities are required by IDEA to refer a child with any suspected delays or disabilities to the appropriate lead agency (as determined by the child’s age).
+1401 Special Needs Requirements
+1. All child care facilities shall comply with all applicable provisions as specified in IDEA: a. The facility shall enroll children with special needs without regard to disability.
+(Programs are required to provide space and care for a child who can be
+51
+
+placed in their facility with existing services, as well as added supports from special educational services, and as long as the health and safety of the child can be met.)
+b. Staff shall provide care in the general classroom with children who are not disabled.
+c. The facility shall assist in facilitation of services required to meet the “special needs” of
+children in the center or in the classroom as specified on the individualized education/individual family service plan.
+d. Facility staff (regular classroom staff) shall be a partner in the IFSP/IEP plan process.
+e. The facility shall allow service providers who are representatives of DHS, DDS or ADE
+access to the facility to provide special services as prescribed on the plan to enable the
+plan to be implemented in the classroom (natural/ least restrictive environment).
+f. The facility shall not charge special service providers for space, accept “gratuities”, or
+payment for allowing special service providers to provide services in their facility.
+g. The facility is not required to “displace” children or staff to make space available to
+special service providers.
+h. In order for a special service provider to provide special services in the facility, the
+IFSP/IEP planning team under the authority of the Arkansas Department of Education and/or the Arkansas Department of Human Services, Developmental Disabilities Services, shall identify the needed special services on the IFSP/IEP.
+i. Classroomstaffshallreinforcethespecifiedgoalsandobjectivesaspartofthedaily routine of the classroom.
+1402 Infant & Toddler Special Needs Requirements
+1. To the maximum extent appropriate, children birth to two (2) years of age shall participate in early intervention services provided in “natural environments.”
+2. When infants and toddlers cannot achieve satisfactory results from early intervention services in a natural environment, the provision of early intervention services shall occur in other appropriate settings as determined by the parent and the Individualized Family Service Team.
+PROGRAM SPECIFIC VARIATIONS
+PROGRAM-SPECIFIC VARIATIONS ARE NUMBERED ACCORDING TO THE REGULATION WITH WHICH IT VARIES. UNLESS A VARIANCE IS LISTED BELOW, ALL BASIC REQUIREMENTS APPLY.
+1500 SCHOOL AGE/SUMMER DAY CAMP
+301 Staff/Child Ratio
+1. Kindergartenandabove,1workerper18children.
+401 Program Requirements
+1. The program of activities shall be flexible and shall provide some opportunities for a child to choose how he will spend his time.
+2. The program shall provide a variety of activities suitable to the ages and interests of the
+52
+
+children.
+3. School age children who leave the child care center to participate in other activities shall have written permission from the parents naming the activity, time of leaving and returning and method of transportation.
+4. Children in camp situations shall be under direct supervision of staff at all times.
+604 Children’s Records
+1. Immunization records shall not be required for school age children.
+2. Permission for specialized summer activities shall be maintained.
+3. Emergency information and medical permission sheet shall be maintained at camp site.
+701 Nutrition Requirements
+1. Children arriving for after-school care shall be provided with a nutritious snack.
+2. Mid-morning snacks shall be provided for all children who are in care for more than 3 hours prior to lunch. Midafternoon snacks shall be provided for all children.
+3. Vending machines in school age settings are acceptable provided they are not the only source of snacks and/or beverages.
+4. Milk is not required to be served in rural day camp settings.
+801 Building Requirements
+1. Twenty-five (25) square feet of floor space shall be provided for each school age child.
+2. If a facility utilizes the out of doors as its major program component for school-age children, covered pavilions and other roofed structures shall provide 25 square feet per child.
+3. If preschool children are not present, electrical outlets need not be plugged.
+1002 Sleeping Equipment
+1. Aperiodofquietactivitiesshallbeprovidedwhenchildrenareincareallday.
+1101 Health Requirements
+1. Provisionsshallbemadeforwaterproofcotsormatsifachildbecomesill.
+1102 Hand Washing
+1. Alternativemethodsofhandwashingshallbeprovidedifrunningwaterisnotavailable.
+1104 Drinking Facilities
+53
+
+1. Waterthatistransportedtothecampsitesfordrinkingpurposesshallbeinenclosed containers. Fresh water shall be provided each day.
+1105 Toilet Facilities
+1. There shall be one toilet and one sink for each 30 children. Separate toilet facilities for boys and girls shall be provided.
+1203 Swimming Pools
+1. Lifeguards,swimminginstructorsoranyotherswimmingpoolstaffmaybecountedinthe ratio when the facility’s children are the only occupants of the pool and these persons have completed criminal and child maltreatment background checks and have a current Health card.
+1301 Transportation Requirements
+1. Driver may be counted in staff/child ratio.
+2. There shall be a minimum of two staff members present whenever more than 20 children are transported.
+1600 EVENING & NIGHT CARE VARIATIONS
+Night care is any care provided after midnight.
+301 Staff/Child Ratio
+1. Staffmembersshallbeawakeatalltimesandshallhavechildreninviewatalltimes.
+401 Program Requirements
+1. Eveningquiettimeactivityshallbeprovidedtoeachchildarrivingbeforebedtime.
+701 Nutrition Requirements
+1. Children who are in care overnight shall be provided with a breakfast prior to leaving for school or other activities.
+2. Supper shall be provided to children during evening meal hours.
+3. Snacks meeting the current U.S. Department of Agriculture guidelines shall be provided to children in attendance for more than 2 1⁄2 hours prior to bedtime.
+1002 Sleeping Arrangements
+1. Bedtime schedules shall be established for children in consultation with the child’s parent(s).
+2. Storage space for clothing and personal belongings shall be provided within easy reach of
+54
+
+the children.
+3. Individual beds or cots equipped with comfortable mattresses, sheets, pillows, pillow cases and blankets shall be provided for children in all-night care. Bed linens shall be changed at least once a week or daily when wet or soiled.
+4. Mats may be used for children in evening care.
+5. The upper level of double deck beds shall be allowed for children 10 years or older if a bed rail and safety ladder is provided.
+6. Children shall have clean and comfortable sleeping garments for their individual use.
+1105 Toilet Facilities
+1. There shall be age appropriate bathing facilities available for all children. For children 2 1⁄2 years of age and older in night care (after midnight), there shall be a bathtub or shower available. Bathtubs and showers shall be equipped to prevent slipping.
+2. Bathrooms shall be located near the sleeping areas.
+3. No child under 6 years of age shall be left alone or with another child while in the bathtub or shower.
+1700 PART-TIME PROGRAM VARIATIONS
+401 Program Requirements
+1. A rest period is not required for children who are in care for less than 4 hours per day or arrive shortly after lunch.
+2. Outside play may be scheduled for periods of less than 1 hour daily.
+701 Nutrition Requirements
+1. Facilitiesinoperationformorethan3hoursperdayshallprovideasnackthatmeets current U.S. Department of Agriculture Guidelines.
+1800 SICK CARE COMPONENT
+301 Staff/Child Ratio
+1. The following ratios shall be maintained at all times: a. Infant/Toddler 1:3, Maximum group size =6
+b. Preschool/School Age 1:5, Maximum group size 10
+2. Staff shall be separated in the same manner children are separated to prevent cross infection.
+302 Director
+55
+
+1. If the component is part of a child care facility, the program director shall be accountable to the facility director. If the component is an entity unto itself the program director may also be the facility director.
+2. The program director shall have completed the following training:
+a. Communicable disease control
+b. Recognitionandcareofusualchildhoodillness
+c. CPR certification
+d. FirstAidcertification
+401 Program Requirements
+1. Children shall be provided with quiet activities according to their age and abilities.
+2. Caregivers shall:
+a. Administer medicine according to prescribed instructions.
+b. Taketemperaturefrequentlyorasneeded.
+c. Monitor any changes in condition.
+d. Recordnecessarymedicalorphysiologicaldataorchanges.
+e. Notify parents immediately if their child’s condition changes significantly for the worse,
+especially if the condition meets one of the excludable diseases or symptoms.
+3. The child shall be removed immediately from sick care when his/her condition meets one of the excludable diseases or symptoms.
+4. Children may be returned to regular day care when a doctor’s statement has been obtained or when the child is free of symptoms for 24 hours.
+604 Children’s Records
+1. The record shall contain information on the specific condition or illness placing the child in sick care.
+2. The record shall contain any recommendations for needed medical treatment and/or program or environment modifications that the child needs.
+801 Building Requirements
+1. If located in the same facility as day care, sick care shall be separate with a separate entrance and separate ventilation system.
+2. Children with respiratory illnesses shall be cared for in separate space from children with gastrointestinal illness. Any child with an undiagnosed condition shall be separated from other children to prevent cross infection. A separate area can be defined by curtains; partitions etc. if airborne transmission is not likely.
+56
+
+3. A hand-washing sink shall be available in each room.
+4. To prevent cross contamination, a designated toilet shall be available to each sick care room.
+5. The facility shall be self-contained-i.e. food, water, bedding, toileting (no potty chairs) etc.
+1001 Furniture & Equipment Requirements
+1. No furniture, fixtures, equipment and supplies designated for use in the sick care component shall be used or shared by well children.
+2. All laundry shall be washed each day. The items shall be placed in a plastic bag and labeled “contaminated” so necessary precautions can be taken.
+3. All toys and equipment shall be disinfected after every use.
+1101 General Health Requirements
+TABLES OF COMMUNICABLE DISEASES AND SYMPTOMS THAT EXCLUDE CHILDREN FROM
+SICK CARE: (asterisk denotes reportable diseases)
+1. Communicable Diseases:
+a. RESPIRATORY ILLNESS
+Chicken Pox
+German Measles Hemophilus influenza Measles* Meningococcus* Mumps*
+Strep throat Tuberculosis* Whooping Cough*
+b. GASTROINTESTINAL ILLNESS
+Giardia Lamblia* Hepatitis A* Salmonella* Shigella*
+c. CONTACT
+Impetigo Lice Scabies
+2. SymptomsthatExcludeChildrenfromSickCare:
+A symptom is a condition that indicates an illness that may not be identifiable by one of the above listed names but presents a situation where the child shall not be admitted to or remain in sick care and should be seen by the family physician.
+a. Diarrhea
+• Accompanied by evidence of dehydration for excessive fluid loss
+• Accompanied by history of poor fluid intake and/or marked lethargy
+• With blood or mucous in the stool unless at least one stool culture shows the
+absence of Salmonella, Shigella, Campylobacter or E-Coli
+• That exceeds 5 bowel movements in an 8 hour period of is continued over 3 or 4
+days unless the child is under the supervision of a physician with written
+documentation
+b. Vomitingforovera6hourperiod
+57
+
+c. Difficult or rapid breathing
+d. Severecoughing:episodesofcoughingwhichmayleadtogagging,vomiting,or difficulty breathing
+e. Mucous (phlegm) that is foul smelling, yellow or green and the child has a fever over 102 degrees Fahrenheit
+f. Asthmatics with severe upper respiratory infections who have not been seen by a physician or whose distress is not controlled by medication
+g. Sorethroatandfevergreaterthan103degreesFahrenheitorconfirmedStrepthroat until treated with antibiotics for over 24 hours
+h. Skinconditionsthathavenotbeendiagnosedasnoncontiguousbyaphysician; including but not limited to:
+• Yellow (jaundiced) eyes or skin
+• Child in contagious stages of chicken pox, measles, mumps or rubella
+• Untreated impetigo
+• Untreated scabies or head lice
+• Blood-red rashes and skin conditions with spontaneous bruising
+i. Children who are in the contagious states of Pertussis, diphtheria, or tuberculosis
+j. Pink or red eye(s) which may be swollen with white or yellow discharge until on antibiotics for over 24 hours
+k. Abdominal pain that is intermittent or persistent
+l. Fever over 102 degrees Fahrenheit for greater than 24 hours, or any fever over 103 degrees Fahrenheit unless the child has been evaluated and treated by a physician and does not have other exclusion criteria.
+58
+
+APPENDIX A: DEFINITIONS
+1. "Act" means the Child Care Facility Licensing Act as amended.
+2. "Child Care Center" means any Child Care Facility conducted under public or private auspices on a profit or nonprofit basis providing direct care and protection for children. Any facility that is open more than five (5) hours during any 24 hour period or more than a total of ten (10) hours during a seven (7) day period is considered a Child Care Center and shall be subject to the provisions of the Child Care Facility Licensing Act. Those facilities meeting the above definitions but operating no more than three (3) weeks per calendar year are not required to comply with the licensing requirements, i.e.: Summer Bible Schools and Camps.
+For purposes of determining the need for a license, all care provided at the site of a licensed program is considered a part of the licensed program and therefore subject to licensing requirements. This includes separate buildings located on the same property or any other property under the same ownership. However, Mother’s Day Out and other part time programs serving children not participating in the licensed program are exempt as long as they operate no more than 5 hours per day or 10 hours per week.
+A public or private school which operates a Kindergarten (K5) in conjunction with grades one and above, or for grades one and above only and provides short-term custodial care (not to exceed 20 hours weekly) prior to and/or following classes for those students, is not required to comply with licensing requirements for the short-term custodial care provided.
+3. "Child Care Facility" means any facility defined by Ark. Code Ann. § 20-78-202(4).
+4. "Child Care Licensing Unit" means the unit within the Department of Human Services, Division of Child Care and Early Childhood Education, that inspects and investigates any proposed or operating Child Care Center and any personnel connected with the center to determine if the facility will be or is being operated in accordance with the Child Care Facility Licensing Act and the Licensing Requirements for the Child Care Centers.
+5. "Child Maltreatment Central Registry Check" means a check of the Arkansas Child Maltreatment Central Registry for any record of founded child abuse and neglect or maltreatment.
+6. "Criminal Record Check" means a statewide criminal record check conducted by the Identification Bureau of the Arkansas State Police.
+7. "Criminal FBI Check" means a nationwide criminal record check conducted by the Federal Bureau of Investigation that conforms to the applicable federal standards and includes the taking of fingerprints. Application for a nationwide criminal check shall be made to the Identification Bureau of the Department of the Arkansas State Police.
+8. "Day Care Centers" means child care for children age 2 1/2 or 30 months and above.
+9. "Department" means the Arkansas Department of Human Services.
+59
+
+10. "Division" means the Division of Child Care and Early Childhood Education.
+11. "Employee" or “Staff” means all full or part-time employees or any person(s) who perform services under the direction and control of the Child Care Facility, regardless if they are paid or not. This includes any person(s) that has supervisory or disciplinary control over children, is at any point left alone with children, or is counted in staff/child ratios.
+12. "Evening and Night Care" means child care provided between 7:00 p.m. and 6:00 a.m.
+13. "Infant Center" means child care for children from birth to age 18 months.
+14. "Kindergarten" means a school based program offered for children five (5) years of age ( K 5 ) during the school year prior to their entry into the first grade.
+15. “Medical Home” is the Doctor that you and your child see for routine medical care. This is your “Primary Care Physician” (PCP).
+16. "Operator" means any person or entity exercising any measure of supervision or control over a Child Care Facility.
+17. "Owner" means any person who assumes the legal responsibility for operation of a child care facility.
+18. "Part-time Care" means child care provided no longer than four (4) hours per day or not to exceed a maximum of 20 hours per week. These types of programs may include, but are not limited to, half day kindergarten, mother's day out programs, play schools, and some nursery schools.
+19. "Personnel" is defined as the facility owner or operator, staff or volunteer.
+20. "Program" is defined as all activities that comprise the child's day at the center.
+21. "Toddler Center" means child care for ages 18 to 36 months.
+22. "School Age Care" means child care for children who are in kindergarten (K5) and above. School age child care includes before and after school care and extended care during school holidays and summer day camps. School age programs, which operate with children arriving and leaving voluntarily for scheduled classes, activities, practices, games and meetings, shall not be considered as meeting this definition.
+23. "Sick Care" is defined as a separate service providing care for children who are too sick to attend day care as stated in Section 1000 but who do not exhibit any of the excludable diseases as defined in Section 1500. The primary objective of this service is to insure that children in care receive the required attention necessary for moderately ill children.
+24. “Staff”or"Employee"meansallfullorpart-timeemployees/stafforanyperson(s)who
+60
+
+perform services under the direction and control of the Child Care Facility, regardless if they are paid or not. This includes any person(s) that has supervisory or disciplinary control over children, is at any point left alone with children, or is counted in staff/child ratios.
+25. "Substantial Compliance" means compliance with all essential standards necessary to protect the health, safety and welfare of the children attending the Child Care Center. Essential standards include but are not limited to those relating to issues involving fire, health, safety, nutrition, discipline, staff/child ratio and space.
+26. "Swimming Pool" means any pool of water in excess of 12 inches deep. This does not include natural pools of water such as lakes, ponds and rivers.
+27. "Volunteer" means a person who provides services to a Child Care Facility, but has no supervisory or disciplinary control over children, is not left alone with children, and is not counted in staff/child ratios.
+61
+
+APPENDIX B: LIST OF REPORTABLE DISEASES
+The following are the more common reportable diseases which occur with moderate frequency in Arkansas:
+Salmonellosis (including typhoid) Shigellosis
+Syphilis
+Tuberculosi Mumps
+Gonorrhea
+Hepatitis (A, B, Non-A, Non-B
+Unspecified and results of serologies) Rash illnesses (including
+s*Measles & Rubella) *Whooping Cough (pertussis) Meningitis
+The following are less common reportable diseases that occur with low frequency in Arkansas
+*AIDS (Acquired Immune Deficiency Syndrome)
+Amebiasis
+ANTHRAX
+* Leprosy
+* Leptospirosis * Lyme Disease
+*Aseptic Meningitis Blastomycosis Hemophilus BOTUILISM
+Lymphogranuloma Venereum * Malaria
+* Meningitis,
+*Brucellosis Campylobacter Interitis Chancroid
+CHOLERA Coccidioidomycosis
+Influenza Type B
+* Meningococcal infection
+ *Congenital Rubella Syndrome (Ornithosis) DIPHTHERIA Encephalitis (all types)
+FOOD POISONINGS (all types) Giardiasis
+* POLIOMYELITIS * Psittacosia
+Gonococcal Ophthalmia
+RABIES
+* Relapsing Fever * Reyes Syndrome
+Granuloma Inguinale *Guillain - Barre Syndrome
+Rheumatic Fever
+* Rocky Mountain Spotted Fever
+POX Histoplasmosis
+HIV [Human Immuno Deficiency Syndrome Virus by (name & address)]
+SMALL
+* Tetanus
+* Toxic Shock
+**Influenza *Kawasaki Disease *Legionellosis
+Toxoplasmosis * Trichinosis
+* Tularemia
+TYPHUS FEVER YELLOW FEVER
+*The reporting physician will be contacted for additional information.
+**Individual cases to be reported only when laboratory testing has determined the viral type.
+The diseases in capital letters are to be brought to the immediate attention of the State Epidemiologist when suspected.
+Mumps
+Pesticide Poisoning PLAGUE
+Q Fever
+ Reporting data shall include:
+a. Name and location of reporting person
+b. Diseaseorsuspecteddiseaseanddateofonset
+c. Name, age, sex, address and phone number of patient (please spell patient's
+name)
+d. Name of patient's physician
+The following diseases are also of public health importance and should be reported whenever there is an unusual incidence or outbreak (including seasonal). It is necessary to report 1) the physician's name and location, 2) the suspected disease and 3) the number of cases and interval during which the cases were seen:
+62
+
+Acute respiratory disease
+Chicken pox
+Conjunctivitis
+Dermatophytosis (ringworm) Enteropathogenic E. Coli Diarrhea Epidemic Diarrhea of unknown cause Mycoplasma, viral) Gastroenteritis Infections
+Hospital acquired infections Infectious Mononucleosis Influenza (estimate number) Pediculosis
+Herpangina
+The following occupational diseases also
+Streptococcal-Infections
+Mesothelioma
+Coal Workers Pneumoconiosis
+shall be reported: Asbestosis Silicosis
+Byssinosis
+FOR FURTHER ASSISTANCE CONTACT THE LOCAL COUNTY HEALTH UNIT.
+63
+Pleurodynia Pneumonia (bacterial, Staphylococcal-
+
+APPENDIX C: CHILD CARE MEAL PATTERN
+When children over age one participate in the Program, the total amount of food authorized in the meal pattern set forth below shall be provided in order to qualify for reimbursement. Children age 12 and up may be served adult-size portions based on the greater food needs of older children, but shall be served not less than the minimum quantities specified in this section for children age 6 through 12 years. For purposes of the requirements outlined in this paragraph, a cup means a standard measuring cup.
+Bread, pasta or noodle products, and cereal grains shall be whole grain or enriched; cornbread, biscuits, rolls, muffins, etc. shall be made with whole grain or enriched meal or flour; cereal shall be whole grain or enriched or fortified.
+      Breakfast
+(Select all three components for a reimbursable meal)
+    Food Components and Food Items1
+      Ages 1-2
+    Ages 3-5
+   Ages 6-12
+    Ages 13-182
+(at-risk afterschool programs and emergency shelters)
+ Fluid Milk3
+     4 fluid ounces
+        6 fluid ounces
+     8 fluid ounces
+    8 fluid ounces
+      Vegetables, fruits, or portions of both4
+  1⁄4 cup
+   1⁄2 cup
+   1⁄2 cup
+  1⁄2 cup
+  Grains (oz eq)5,6,7
+          Whole grain-rich or enriched bread
+    1⁄2 slice
+       1⁄2 slice
+     1 slice
+    1 slice
+  Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+    1⁄2 serving
+    1⁄2 serving
+    1 serving
+  1 serving
+  Whole grain-rich, enriched
+or fortified cooked
+breakfast
+cereal8, cereal grain, and/or pasta
+  1⁄4 cup
+  1⁄4 cup
+ 1⁄2 cup
+ 1⁄2 cup
+   Whole grain-rich, enriched
+or fortified ready-to-eat breakfast cereal (dry, cold)8,9
+             Flakes or rounds
+   1⁄2 cup
+   1⁄2 cup
+     1 cup
+  1 cup
+   Puffed cereal
+   3⁄4 cup
+   3⁄4 cup
+     1 1⁄4 cup
+  1 1⁄4 cup
+   Granola
+     1⁄8 cup
+     1⁄8 cup
+        1⁄4 cup
+    1⁄4 cup
+     1 Must serve all three components for a reimbursable meal. Offer versus serve is an option for at-risk afterschool participants.
+2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
+3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk for children six years old and older.
+4 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
+5 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not
+64
+
+count towards meeting the grains requirement.
+6 Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times a week. One ounce of
+meat and meat alternates is equal to one ounce equivalent of grains.
+7 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains.
+8 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+9 Beginning October 1, 2019, the minimum serving size specified in this section for ready-to-eat breakfast cereals must be served.
+Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereals is 1⁄4 cup for children ages 1-2; 1/3 cup for children ages 3-5; and 3⁄4 cup for children ages 6-12.
+CHILD CARE MEAL PATTERN
+   Lunch and Supper
+(Select all five components for a reimbursable meal)
+       Food Components and Food Items1
+      Ages 1-2
+    Ages 3-5
+    Ages 6-12
+    Ages 13-182
+(at-risk afterschool programs and emergency shelters)
+ Fluid Milk3
+   4 fluid ounces
+        6 fluid ounces
+     8 fluid ounces
+      8 fluid ounces
+     Meat/meat alternates
+     Lean meat, poultry, or fish
+     1 ounce
+     1 1⁄2 ounce
+        2 ounces
+     2 ounces
+      Tofu, soy product, or alternate protein products4
+ 1 ounce
+  1 1⁄2 ounce
+ 2 ounces
+ 2 ounces
+Cheese
+     1 ounce
+     1 1⁄2 ounce
+        2 ounces
+     2 ounces
+     Large egg
+ 1⁄2
+ 3⁄4
+  1
+ 1
+ Cooked dry beans or peas
+     1⁄4 cup
+     3⁄8 cup
+        1⁄2 cup
+     1⁄2 cup
+      Peanut butter or soy nut butter or other nut or seed butters
+ 2 tbsp
+  3 tbsp
+ 4 tbsp
+ 4 tbsp
+Yogurt, plain or flavored unsweetened or sweetened5
+     4 ounces or 1⁄2 cup
+     6 ounces or 3⁄4 cup
+        8 ounces or 1 cup
+     8 ounces or 1 cup
+      The following may be used to meet no more than 50% of the requirement:
+Peanuts, soy nuts, tree nuts, or seeds, as listed in program guidance, or an equivalent quantityof any combination of the above meat/meat alternates (1 ounces of nuts/seeds = 1 ounce of
+cooked lean meat, poultry, or fish)
+ 1⁄2 ounce = 50%
+  3⁄4 ounce = 50%
+ 1 ounce = 50%
+ 1 ounce = 50%
+Vegetables6
+     1⁄8 cup
+     1⁄4 cup
+        1⁄2 cup
+     1⁄2 cup
+     Fruits6,7
+   1⁄8 cup
+   1⁄4 cup
+     1⁄4 cup
+   1⁄4 cup
+   65
+
+Grains (oz eq)8,9
+           Whole grain-rich or enriched bread
+       1⁄2 slice
+      1⁄2 slice
+     1 slice
+     1 slice
+  Whole grain-rich or enriched
+bread product, such as biscuit, roll or muffin
+     1⁄2 serving
+    1⁄2 serving
+   1 serving
+   1 serving
+   Whole grain-rich, enriched
+or fortified cooked breakfast cereal10, cereal grain, and/or pasta
+    1⁄4 cup
+    1⁄4 cup
+   1⁄2 cup
+   1⁄2 cup
+  1 Must serve all five components for a reimbursable meal. Offer versus serve is an option for at-risk afterschool participants.
+2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to 3 meet their nutritional needs.
+Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent) or unflavored fat-free
+(skim) milk for children two through five years old. Must be unflavored low-fat (1 percent), unflavored 4 fat-free (skim), or flavored fat-free (skim) milk for children six years old and older.
+Alternate protein products must meet the requirements in Appendix A to Part 226.
+5 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+6 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one 7 meal, including snack, per day.
+A vegetable may be used to meet the entire fruit requirement. When two vegetables are served at lunch or supper, two
+different kinds of vegetables must be served.
+8 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based 9 desserts do not count towards the grains requirement.
+Beginning October 1, 2019, ounce equivalents are used to determine the quantity of the creditable 10 grain.
+Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+CHILD CARE MEAL PATTERN
+Snack
+    (Select two of the five components for a reimbursable snack)
+  Food Components and Food Items1
+   Ages 1-2
+    Ages 3-5
+   Ages 6-12
+     Ages 13-182
+(at-risk afterschool programs and emergency shelters)
+  Fluid Milk3
+   4 fluid ounces
+      4 fluid ounces
+   8 fluid ounces
+     8 fluid ounces
+   Meat/meat alternates
+     Lean meat, poultry, or fish
+     1⁄2 ounce
+     1⁄2 ounce
+      1 ounce
+     1 ounce
+   Tofu, soy product, or alternate protein products4
+  1⁄2 ounce
+  1⁄2 ounce
+ 1 ounce
+ 1 ounce
+Cheese
+     1⁄2 ounce
+     1⁄2 ounce
+       1 ounce
+     1 ounce
+           66
+
+Large egg
+   1⁄2
+    1⁄2
+  1⁄2
+   1⁄2
+  Cooked dry beans or peas
+     1⁄8 cup
+      1⁄8 cup
+   1⁄4 cup
+     1⁄4 cup
+   Peanut butter or soy nut butter or other nut or seed butters
+   1 tbsp
+ 1 tbsp
+ 2 tbsp
+ 2 tbsp
+Yogurt, plain or flavored unsweetened or sweetened5
+     2 ounces or 1⁄4 cup
+      2 ounces or 1⁄4 cup
+   4 ounces or 1⁄2 cup
+     4 ounces or 1⁄2 cup
+   Peanuts, soy nuts, tree nuts, or seeds
+   1⁄2 ounce
+ 1⁄2 ounce
+ 1 ounce
+ 1 ounce
+Vegetables6
+     1⁄2 cup
+      1⁄2 cup
+   3⁄4 cup
+     3⁄4 cup
+   Fruits6
+   1⁄2 cup
+    1⁄2 cup
+  3⁄4 cup
+   3⁄4 cup
+  Grains (oz eq)7,8
+     Whole grain-rich or enriched bread
+       1⁄2 slice
+    1⁄2 slice
+    1 slice
+    1 slice
+ Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+   1⁄2 serving
+ 1⁄2 serving
+ 1 serving
+ 1 serving
+Whole grain-rich, enriched
+or fortified cooked breakfast cereal9, cereal grain, and/or pasta
+         1⁄4 cup
+    1⁄4 cup
+    1⁄2 cup
+    1⁄2 cup
+ Whole grain-rich, enriched
+or fortified ready-to-eat breakfast cereal (dry, cold)9,10
+   Flakes or rounds
+   1⁄2 cup
+    1⁄2 cup
+  1 cup
+   1 cup
+  Puffed cereal
+     3⁄4 cup
+      3⁄4 cup
+   1 1⁄4 cup
+     1 1⁄4 cup
+   Granola
+  1⁄8 cup
+  1⁄8 cup
+ 1⁄4 cup
+  1⁄4 cup
+ 67
+
+APPENDIX D
+Reimbursable meals served to infants, children, or adult participants in the Child and Adult Care Food Program shall contain (as a minimum) the indicated meal pattern quantities and food components.
+INFANT CARE MEAL PATTERN
+Meals served to infants ages birth through 11 months must meet the requirements described in this meal pattern. Foodsincluded intheinfantmealmustbeofatextureandaconsistencythatareappropriateforthe age of the infant being served. Either breast milk or iron-fortified infant formula must be served for the entire first year.
+Breakfast
+       Birth through 5 months
+      6 through 11 months
+    4-6 fluid ounces breastmilk1 or formula2
+   6-8 fluid ounces breastmilk1 or formula2; and
+0-4 tablespoons infant cereal2,3 meat,
+fish, poultry, whole egg,
+cooked dry beans, or cooked dry
+peas; or
+0-2 ounces of cheese; or
+0-4 ounces (volume) of cottage cheese; or 0-4 ounces or 1⁄2cup of yogurt4; or a combination of the above5; and
+0-2 tablespoons vegetable or fruit or a combination of both5,6
+     1 Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
+2 Infant formula and dry infant cereal must be iron-fortified.
+3 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains.
+4 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+5 A serving of this component is required when the infant is developmentally ready to accept it. 6 Fruit and vegetable juices must not be served.
+68
+
+INFANT CARE MEAL PATTERN
+Lunch and Supper
+     Birth through 5 months
+         6 through 11 months
+      4-6 fluid ounces breastmilk1 or formula2
+   6-8 fluid ounces breastmilk1 or formula2; and
+0-4 tablespoons
+infant cereal2,3
+meat,
+fish, poultry,
+whole egg,
+cooked dry beans, or cooked dry peas; or
+0-2 ounces of cheese; or
+0-4 ounces (volume) of cottage cheese; or 0- 4 ounces or 1⁄2cup of yogurt4; or a combination of the above5; and
+0-2 tablespoons vegetable or fruit or a combination of both5,6
+  1 Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
+2 Infant formula and dry infant cereal must be iron-fortified.
+3 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains.
+4 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+5 A serving of this component is required when the infant is developmentally ready to accept it. 6 Fruit and vegetable juices must not be served.
+Snack
+     Birth through 5 months
+         6 through 11 months
+      4-6 fluid ounces breastmilk1 or formula2
+    2-4 fluid ounces breastmilk1 or formula2; and
+0-1⁄2 slice bread3,4; or 0-2 crackers3,4; or
+0-4 tablespoons infant cereal2,3,4 or
+ready-to-eat breakfast cereal3,4,5,6;
+and
+0-2 tablespoons vegetable or
+fruit, or a combination of both6,7
+   1 Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional
+69
+
+breastmilk offered at a later time if the infant will consume more.
+2 Infant formula and dry infant cereal must be iron-fortified.
+3 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains.
+4 A serving of grains must be whole grain-rich, enriched meal, or enriched flour.
+5 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+6 A serving of this component is required when the infant is developmentally ready to accept it.
+7 Fruit and vegetable juices must not be served.
+APPENDIXE: ADULTCAREMEALPATTERN
+ThemealsservedtoadultparticipantsintheChildandAdultCareFoodProgramshallcontainthe indicated mealpattern quantitiesandfoodcomponentsinordertoqualifyforreimbursement. Adultcentersmaychoose toimplementthe“offervs. serve”option(asdescribedonfollowingpage).
+   Breakfast
+(Select all three components for a reimbursable meal)
+   Food Components and Food Items1
+      Minimum Quantities
+         Fluid Milk2
+ 8 fluid ounces
+  Vegetables, fruits, or portions of both3
+   1⁄2 cup
+     Grains (oz eq)4,5,6
+        Whole grain-rich or enriched bread
+     2 slices
+         Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+  2 servings
+Whole grain-rich, enriched or fortified cooked breakfast cereal7, cereal grain, and/or pasta
+          1 cup
+    Whole grain-rich, enriched or fortified ready-to-eat breakfast cereal (dry, cold)7,8
+  Flakes or rounds
+     2 cups
+        Puffed cereal
+   2 1⁄2 cups
+     Granola
+   1⁄2 cup
+     1 Must serve all three components for a reimbursable meal. Offer versus serve is an option for adult participants.
+2 Must be unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim)
+milk. Six
+ounces (weight) or 3⁄4 cup (volume) of yogurt may be used to meet the equivalent of 8
+ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at
+one meal,
+including snack, per day.
+4 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain- based desserts do not count towards meeting the grains requirement.
+5 Meat and meat alternates may be used to meet the entire grains requirement a maximum of
+70
+
+three times
+a week. One ounce of meat and meat alternates is equal to one ounce equivalent of grains.
+6 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of
+creditable grains.
+7 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more
+than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+8 Beginning October 1, 2019, the minimum serving size specified in this section for ready-to-eat
+breakfast
+cereals must be served. Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereals is 1 1⁄2 cups for adults.
+Lunch and Supper
+(Select all five components for a reimbursable meal)
+      Food Components and Food Items1
+    Minimum Quantities
+      Fluid Milk2,3
+   8 fluid ounces
+     Meat/meat alternates
+        Lean meat, poultry, or fish
+     2 ounces
+        Tofu, soy product, or alternate protein product4
+ 2 ounces
+  Cheese
+     2 ounces
+        Large egg
+ 1
+  Cooked dry beans or peas
+     1⁄2 cup
+        Peanut butter or soy nut butter or another nut or seed butter
+   4 tbsp
+Yogurt, plain or flavored, sweetened or unsweetened5
+     8 ounces or 1 cup
+        The following may be used to meet no more than 50% of the requirement:
+Peanuts, soy nuts, tree nuts, or seeds, as listed
+in program guidance, or an equivalent quantity of any combination of the above meat/meat alternates (1 ounces of nuts/seeds = 1 ounce of cooked lean meat, poultry, or fish)
+   1 ounce = 50%
+Vegetables6
+     1⁄2 cup
+        Fruits6,7
+ 1⁄2 cup
+  Grains (oz eq)8,9
+        Whole grain-rich or enriched bread
+     2 slices
+        Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+   2 servings
+Whole grain-rich, enriched or fortified cooked breakfast cereal10, cereal grain, and/or pasta
+         1 cup
+ 1 Must serve all five components for a reimbursable meal. Offer versus serve is an option for adult participants.
+2 Must be unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free
+(skim) milk. Six ounces (weight) or 3⁄4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat
+71
+
+alternate in the same meal.
+3 A serving of fluid milk is optional for suppers served to adult participants.
+4 Alternate protein products must meet the requirements in Appendix A to Part 226.
+5 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+6 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
+7 A vegetable may be used to meet the entire fruit requirement. When two vegetables are
+served at lunch or supper, two different kinds of vegetables must be served.
+8 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based
+desserts
+do not count towards the grains requirement.
+9 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of the creditable grain. 10 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+   Snack
+(Select two of the five components for a reimbursable meal)
+   Food Components and Food Items1
+      Minimum Quantities
+       Fluid Milk2
+ 8 fluid ounces
+  Meat/meat alternates
+       Lean meat, poultry, or fish
+     1 ounce
+      Tofu, soy product, or alternate protein product3
+ 1 ounce
+  Cheese
+     1 ounce
+      Large egg
+ 1⁄2
+  Cooked dry beans or peas
+     1⁄4 cup
+       Peanut butter or soy nut butter or another nut or seed butter
+  2 tbsp
+Yogurt, plain or flavored, sweetened or unsweetened4
+     4 ounces or 1⁄2 cup
+      Peanuts, soy nuts, tree nuts, or seeds
+ 1 ounce
+  Vegetables5
+   1⁄2 cup
+    Fruits5
+   1⁄2 cup
+    Grains (oz eq)6,7
+           Whole grain-rich or enriched bread
+   1 slice
+     Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+  1 serving
+Whole grain-rich, enriched or fortified cooked breakfast cereal8, cereal grain, and/or pasta
+         1⁄2 cup
+   Whole grain-rich, enriched or fortified ready-to-eat breakfast cereal (dry, cold)8,9
+  Flakes or rounds
+     1 cup
+      Puffed cereal
+ 1 1⁄4 cup
+  Granola
+     1⁄4 cup
+       1 Select two of the five components for a reimbursable snack. Only one of the two components
+72
+
+may be a beverage.
+2 Must be unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk. Six
+ounces (weight) or 3⁄4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Alternate protein products must meet the requirements in Appendix A to Part 226.
+4 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+5 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one
+meal, including snack, per day.
+6 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based
+desserts
+do not count towards meeting the grains requirement.
+7 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable
+grains.
+8 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+9 Beginning October 1, 2019, the minimum serving sizes specified in this section for ready-to-eat breakfast
+cereals must be served. Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereals is 1 1⁄2 cups for adults.
+ 73
+
+APPENDIX F: DISASTER/EMERGENCY PREPAREDNESS
+CONTACT/TOWN
+               Little Rock
+                                                                                                        DISASTER/EMERGENCY NUMBERS               TELEPHONE NUMBER AMBULANCE
+APPLIANCE REPAIR
+BUILDING INSPECTOR
+CHILD ABUSE HOT LINE               1-800-482-5964
+CHILD CARE LICENSING UNIT               1-800-445-3316 or 501-682-8590
+CLEANING/MAINTENANCE
+ELECTRIC COMPANY
+ELECTRICIAN
+EMERGENCY CHILD LOCATOR               1-866-908-9572
+FACILITY DIRECTOR
+FIRE DEPARTMENT
+FIRE DEPARTMENT (Non-Emergency)
+GAS COMPANY
+GLASS COMPANY
+HEALTH DEPARTMENT (Local)
+HEATING/AIR CONDITIONING
+INSURANCE AGENT AND POLICY NUMBER
+LICENSING SPECIALIST
+LOCKS
+PLUMBER
+POISON CONTROL               1-800-376-4766 POLICE
+POLICE (Local Non-Emergency)
+RED CROSS (Local)
+SHERIFF
+TRASH REMOVAL
+WATER DEPARTMENT
+                                 NATIONAL EMERGENCY FAMILY                   1-800-588-9822 REGISTRY AND LOCATOR
+                    74
+
+IMMUNIZATION REQUIREMENTS
+Table I:Immunization Requirements for Child Care and Early Childhood Education Facilities
+Instructions for utilizing Table I: Table I is not a recommendation of vaccines to get, but of doses requiredto alreadyhaveatthatage.Todeterminewhatvaccinesarerequiredforachildtoattenda licensed child care facility, refer to Column 1 on the left to see what age range is correct for the child. Then all the vaccines on the same row as the child’s age are required for attendance in a licensed child care facility. Vaccines are required based on the current age of the child. Column 1 is not an age range for when a child can be vaccinated.
+ 75
+
+ *5th DTaP/DTP/DT (Pre-school dose) must be given on/after the child's 4th birthday. Interval between 4th DTaP/DTP/DT and 5th DTaP/DTP/DT should be at least 6 months. If a child is currently ≥49 months of age and does not meet the above criteria or is in process within 15 days, they are not up-to-date and should be scheduled for immunization.
+** For Hib and Pneumococcal, children receiving the first dose of vaccine at age 7 months or older require fewer doses tocomplete theseries.
+*** 3rd dose of hepatitis B should be given at least 8 weeks after the 2nd dose, at least 16 weeks after the 1st dose, and it should not be administered before the child is 24 weeks of age.
+**** Vaccine doses administered up to 4 days before the minimum interval or minimum age can be counted as valid for doses already administered. Exception: The minimum interval between doses of live vaccines (such as MMR and Varicella) must be 28 days.
+*****A medical professional is a medical doctor (MD), advanced practice nurse (APN), doctor of osteopathy (DO), or physician assistant (PA). No self or parental history of disease will be accepted.
+76
+
+Table II: Kindergarten through Grade Twelve Immunization Requirements*
+  77
+
+ 78
+
+ *Doses of vaccine required for school entry may be less than the number of doses required for age-appropriate immunization.
+**An alternative two-dose hepatitis B schedule for 11-15 year-old children may be substituted for the three- dose schedule. Only a FDA-approved alternative regimen vaccine for the two-dose series may be used to meet this requirement. If you are unsure if a particular child’s two-dose schedule is acceptable, please contact the Immunization Section for assistance at 501-661-2169.
+*** 3rd dose of hepatitis B should be given at least 8 weeks after the 2nd dose, at least 16 weeks after the 1st dose, and it should not be administered before the child is 24 weeks (168 days) of age. (All 3rd doses of hepatitis B vaccine given earlier than 6 months of age before 6/21/96 are valid doses and should be counted as valid until 6/21/2014.)
+**** Tdap vaccine can be administered regardless of the interval since the last tetanus and diphtheria toxoid-containing vaccine.
+***** Exception: If a student has previously received two doses of measles, one dose of mumps and one doseofrubellabefore January1,2010,thedoseswillbeacceptedascomplianttoimmunization requirements and 2 MMRs are not required.
+******A medical professional is a medical doctor (MD), advanced practice nurse (APN), doctor of osteopathy (DO), or physician assistant (PA). No self or parental history of disease will be accepted.
+******* For unvaccinated persons 7 years of age and older (including persons who cannot document prior vaccination), the primary series is 3 doses. The first two doses should be separated by at least 4 weeks, and the third dose at least 6 months after the second. One of these doses (preferably the first) should be administered as Tdap and the remaining two doses administered as Td.
+79
+

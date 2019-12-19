@@ -1,0 +1,1536 @@
+  Rules for
+CERTIFIED CHILD CARE CENTERS
+Effective 3/28/19
+Oregon Department of Education Early Learning Division Office of Child Care 503‐947‐1400 • 1‐800‐556‐6616
+   4/16/19
+
+Contents
+GENERAL PROVISIONS ........................................................................................................................... 1 414-300-0000 ApplicabilityofRules......................................................................................................1 414-300-0005 Definitions........................................................................................................................2
+CERTIFICATE ............................................................................................................................................. 9 414-300-0010 Application for a Child Care Certificate .......................................................................... 9 414-300-0015 Issuance of a Child Care Certificate...............................................................................11 414-300-0020 ExceptionstoRules........................................................................................................12
+CENTER MANAGEMENT ....................................................................................................................... 13 414-300-0030 GeneralRequirements....................................................................................................13 414-300-0040 Enrollment......................................................................................................................16 414-300-0050 ArrivalandDeparture.....................................................................................................18 414-300-0060 Record Keeping..............................................................................................................19
+PERSONNEL ............................................................................................................................................. 20 414-300-0070 GeneralRequirements....................................................................................................20 414-300-0080 Director Qualifications and Duties.................................................................................23 414-300-0090 Head Teacher Qualifications and Duties........................................................................25 414-300-0100 Teacher ............................................................................................................................ 27 414-300-0110 TeacherAides.................................................................................................................28 414-300-0115 School-AgeMulti-SitePrograms-AdditionalStaff......................................................29 414-300-0120 StaffTraining.................................................................................................................30 414-300-0130 Staff/ChildRatiosandGroupSize.................................................................................32
+PHYSICAL SETTING ............................................................................................................................... 34 414-300-0140 IndoorSpace...................................................................................................................34 414-300-0150 OutdoorSpace................................................................................................................35 414-300-0160 FireProtection................................................................................................................36 414-300-0170 HazardsandEmergencies..............................................................................................36 414-300-0180 Sanitation........................................................................................................................39 414-300-0190 ToiletFacilities...............................................................................................................42 414-300-0200 Kitchens..........................................................................................................................43 414-300-0205 TestingforLeadinDrinkingWater...............................................................................44 414-300-0210 Furniture .......................................................................................................................... 47 414-300-0215 InfantandToddlerFurnitureandEquipment.................................................................47
+
+HEALTH .................................................................................................................................................... 48 414-300-0220 IllnessorInjury..............................................................................................................48 414-300-0230 Medications....................................................................................................................51 414-300-0240 Animals in the Center.....................................................................................................52 414-300-0250 FoodSelection,Storage,andPreparation.......................................................................53 414-300-0260 Cleaning, Sanitizing, and Storage of Food Service Equipment and Utensils.................55 414-300-0270 Nutrition.........................................................................................................................56 414-300-0280 MealsandSnacks...........................................................................................................57
+PROGRAM OF CARE OF CHILDREN....................................................................................................60 414-300-0290 ProgramPlan..................................................................................................................60 414-300-0295 ProgramofActivitiesforAllChildren...........................................................................60 414-300-0300 Infant and Toddler Program of Activities ......................................................................61 414-300-0310 Preschool-AgeProgramofActivities.............................................................................63 414-300-0320 School-AgeProgramofActivities.................................................................................63 414-300-0330 GuidanceandDiscipline................................................................................................64 414-300-0340 EquipmentandMaterials................................................................................................65 414-300-0350 Transportation................................................................................................................66
+SPECIAL PROGRAMS ............................................................................................................................. 68 414-300-0360 Night Care ....................................................................................................................... 68 414-300-0380 Swimming Activities......................................................................................................70 414-300-0390 Drop-inCare...................................................................................................................75
+SANCTIONS .............................................................................................................................................. 75 414-300-0400 Suspension,DenialandRevocation...............................................................................75 414-300-0415 CivilPenalty...................................................................................................................76
+
+GENERAL PROVISIONS 414-300-0000 Applicability of Rules
+(1) OAR 414‐300‐0000 through 414‐300‐0415 set forth the Office of Child Care’s (OCC) requirements for inspecting and certifying those child care facilities subject to Oregon laws governing child care facilities, ORS 329A.030, 329A.250 through 329A.310, 329A.350 through 329A.460 and 329A.990, that:
+(a) Serve thirteen or more children; or
+(b) Serve twelve or fewer children and are located in a building constructed as other than a single‐family dwelling.
+(2) Individuals who are not enrolled in the Central Background Registry because of removal, denial for cause, or voluntary surrender in lieu of legal action, may only care for their own children or children related within the fourth degree as determined by civil law, pursuant to ORS 329A.252.
+(3) These rules do not apply to child care facilities specifically excluded by law. Excluded facilities are those that:
+(a) Provide care for preschool children that is primarily educational for four hours or less per day and where no preschool age child is present at the facility for more than four hours per day except as provided in 414‐300‐0000(2); or
+(b) Provide care for school‐age children that is primarily a single enrichment activity, for eight hours or less a week; or
+(c) Provide care in which youth development activities are provided to school‐age children during hours that school is not in session and which does not take the place of a parent’s care; or
+(d) Provide care that is primarily an incident of group athletic or social activities sponsored by or under the supervision of an organized club or hobby group; or. This exclusion applies only to the time engaged in the group athletic or social activities and if the children can come and go as they please; or
+(e) Are operated by a school district, political subdivision of this state, or a government agency; or
+(f) Are operated on an occasional basis by a person, sponsor, or organization not ordinarily engaged in providing child care except as provided in 414‐300‐0000(2); or
+(g) Operate as a parent cooperative for no more than four hours a day; or
+1
+
+(h) Provide care while the child's parent remains on the premises and is engaged in an activity offered by the facility or in other nonwork activity; or
+(i) Provide care for three children other than the person’s own children except as provided in 414‐300‐0000(2); or
+(j) Provide care for children from only one family other than the person’s own family except as provided in 414‐300‐0000(2).
+(4) If any court of law finds that any clause, phrase, or provision of these rules is unconstitutional or invalid for any reason whatsoever, this finding shall not affect the validity of the remaining portion of these rules.
+(5) For purposes of these rules, the determination of compliance or noncompliance shall be made by OCC.
+(6) Providers have a right to review any action or decision affecting them. The OCC grievance procedures are available upon request to all applicants for child care certification or operators of centers.
+414-300-0005 Definitions
+The following words and terms, when used in OAR 414‐300‐0000 through 414‐300‐0415, have the following meanings:
+(1) "Activity Area" means the area of the center that is available, during all the hours of operation, for the children's activities. This area excludes kitchens, hallways, toilet rooms, multi‐purpose areas used by all children, lockers, office, storage areas, isolation quarters, staff room, furnace room, and that part of rooms occupied by heating stoves, or stationary equipment not used by children. Additional exclusions may apply for specific age groups.
+(2) "Attendance" means children actually present in the center at any given time.
+(3) "Capacity" means the total number of children allowed in the center at any one time, based on the available indoor and outdoor square footage, the number of toilets in the center and the number of qualified staff.
+(4) "Caregiver" means any person in the child care center who works directly with the children, providing care, supervision, and guidance.
+(5) “Central Background Registry” means OCC’s Registry of individuals who have been approved to be associated with a child care facility in Oregon pursuant to ORS 329A.030 and OAR 414‐061‐0000 through 414‐061‐0120.
+2
+
+(a) “CBR Enrollment” means approval for a 5 year period to be enrolled in the CBR following an Oregon State Police criminal records check, child abuse and neglect records check, checks of adult protective services and foster care certification and an FBI records check.
+(b) “CBR Conditional Enrollment” means temporary approval to be enrolled in the CBR following a Oregon State Police records check and child abuse and neglect records check but prior to receipt by OCC of the results of the required FBI records check.
+(6) "Certificate" means the document that is issued by OCC to a child care center pursuant to ORS 329A.280.
+(7) "Child Care" means the care, supervision, and guidance on a regular basis of a child, unaccompanied by a parent, guardian, or custodian, during a part of the 24 hours of the day, with or without compensation. Child care does not include the care provided:
+(a) In the home of the child;
+(b) By the child's parent or guardian, or person acting in loco parentis;
+(c) By a person related to the child by blood or marriage within the fourth degree as determined by civil law;
+(d) On an occasional basis by a person, sponsor, or organization not ordinarily engaged in providing child care; or
+(e) By providers of medical services.
+(8) "Child Care Area" means that indoor and outdoor area specifically certified for use by the center and includes all activity areas and other areas of the facility used to provide child care, such as kitchen, toilet rooms, offices, storage areas, and rooms used solely for napping or eating. This may be a specific portion or portions of the building and grounds of a larger facility or one or more buildings at the same location.
+(9) "Child Care Child" means any child six weeks of age or older and under 13 years of age, or a child with special needs under the age of 18 who requires a level of care over and above the norm for his/her age, for whom the child care center has supervisory responsibility in the temporary absence of the parent.
+(10) "Child Care Center" or "Center" means a child care facility that is certified to care for thirteen or more children, or a facility that is certified to care for twelve or fewer children and located in a building constructed as other than a single family dwelling.
+(11) “Child with Special Needs” means a child under the age of 18 who requires a level of care over and above the norm for his/her age due to a physical, developmental, behavioral, mental or medical disability.
+3
+
+(12) "Child Care Facility" means any facility that provides child care to children, including a child care center, certified family child care home, and registered family child care home. It includes those known under a descriptive name, such as nursery school, preschool, kindergarten, child play school, before or after school care, or child development center, except those excluded under ORS 329A.250. This term applies to the total child care operation and includes the physical setting, administration, staff, equipment, program, and care of children.
+(13) “Civil Penalty” means a fine imposed by OCC on a facility for violation of these rules.
+(14) "Comparable group care program" means a program which has the following elements:
+(a) Staff are supervised by knowledgeable professionals; (b) Training of staff is provided or required annually;
+(c) Group size is similar to a certified child care facility; (d) Curriculum is age appropriate; and
+(e) The program is not providing uncertified drop‐in care.
+(15) "Contracted services" means activities (e.g., tumbling, music) provided by an organization or program other than the center, where non‐center staff come into the center or the children are transported to another location.
+(16) "Director" means a person who is designated by the operator as director or administrator of the center and who meets the qualifications of director pursuant to OAR 414‐300‐0080.
+(17) "Drop‐in Care" means care provided on an unscheduled, irregular basis, any time of the day or night, exclusively for drop‐in children in a child care center.
+(18) "Enrollment" means all children registered to attend the center.
+(19) "Group" means a specific number of children assigned to specific staff.
+(20) "Guidance and discipline" means the on‐going process of helping children develop self
+control and assume responsibility for their own acts.
+(21) "Head Teacher" means the person(s) who is responsible for the development and implementation of the program of activities for each infant and toddler, preschool age, and school‐age program in the center.
+(22) "Infant" means a child who is a least six weeks of age but is not yet walking alone.
+4
+
+(23) "Infant and Toddler Age Program" means care and education provided in a center, or part of a center, to children between the ages of six weeks and thirty‐six months.
+(24) "Night Care" means care given to children who sleep at the child care center for all or part of the night.
+(25) “Non‐serious Violation” means OCC has made a valid finding when assessing a complaint alleging a violation not listed in OAR 414‐300‐0005(44)
+(26) "OCC" means the Office of Child Care of the Department of Education or the Administrator or staff of the Office of Child Care.
+(27) "Occasional" means infrequently or sporadically, including but not limited to care that is provided during summer or other holiday breaks when children are not attending school, but not to exceed 70 calendar days in a year.
+(28) "Operator" means the person, group, corporation, partnership, governing body, association, or other public or private organization legally responsible for the overall operation of the center and who has the authority to perform the duties necessary to meet certification requirements. If the operator is other than the owner, an individual must be appointed as the operator by the owner.
+(29) "Oregon Registry" means the voluntary registry at the Oregon Center for Career Development in Childhood Care and Education at Portland State University that documents the training, education and experience of individuals who work in childhood care and education.
+(30) "Outbreak of a communicable disease" means two cases from separate households associated with a suspected common source.
+(31) "Owner" means the person, group, corporation, partnership, governing body, association, or other public or private organization which holds the child care center as property and has a major financial stake in the operation of the center. The owner may or may not be active in the operation of the center; the owner may also be the operator.
+(32) "Parent" means parent(s), custodian(s), or guardian(s), exercising physical care and legal custody of the child.
+(33) "Parent cooperative" means a child care program in which:
+(a) Care is provided by parents on a rotating basis; (b) Membership in the cooperative includes parents; (c) There are written policies and procedures; and
+5
+
+(d) A board of directors that includes parents of the children cared for by the cooperative controls the policies and procedures of the program.
+(34) “Premises” means the structure that is identified on the application, including indoors and outdoors and space not directly used for child care under the direct control of the child care facility.
+(35) "Preschool‐Age Child" means a child who is 36 months of age to eligible to attend kindergarten or above in public school.
+(36) "Preschool‐Age Program" means care and education provided in a center, or part of a center, to children 36 months of age to eligible to attend kindergarten.
+(37) "Program" means all activities and care provided for the children during their hours of attendance at the center.
+(38) "Qualifying Teaching Experience" means:
+(a) For infant/toddler and preschool age groups, 1,500 hours, gained with a group of the same age children in at least three‐hour blocks, within a 36‐month period;
+(b) For school‐age groups, 600 hours, gained with a group of the same age children in at least three‐hour blocks, within a 36‐month period. Qualifying teaching experience must be documented. Time spent in a college practicum or practice teaching is considered qualifying teaching experience. The following does not constitute qualifying teaching experience: leader of a scout troop; Sunday school teacher; and coaching.
+(39) "Sanitizing" means using a bactericidal treatment that provides enough heat or concentration of chemicals for enough time to reduce the bacterial count, including disease‐producing organisms, to a safe level on utensils, equipment, and toys.
+(40) "School‐Age Child" means a child eligible to attend kindergarten or above in public school. This includes the months from the end of the prior school year to the start of the kindergarten school year.
+(41) "School‐Age Program" means care and education provided in a center, part of a center, school or other facility to children attending kindergarten or eligible to be enrolled in the first grade or above and, during the months of summer vacation from school, eligible to be enrolled in the first grade or above in the next school year.
+(42) "Serious complaint" means a complaint filed against:
+(a) A certified child care center by a person who has alleged that:
+(A) Children are in imminent danger;
+6
+
+(B) There are more children in care than allowed by certified capacity;
+(C) Corporal punishment is being used;
+(D) Children are not being supervised;
+(E) Multiple or serious fire, health or safety hazards are present in the center; (F) Extreme unsanitary conditions are present in the center; or
+(G) Adults are in the center who are not enrolled in the Central Background Registry; or
+(b) A facility providing child care, as defined ORS 329A.250(3), which is not a certified child care center by a person who has alleged that there are more children in care than allowed by law.
+(43) "Serious Injury or Incident" means any of the following:
+(a) Injury requiring surgery;
+(b) Injury requiring admission to a hospital;
+(c) Injury requiring emergency medical attention;
+(d) Choking and unexpected breathing problems;
+(e) Unconsciousness;
+(f) Concussion;
+(g) Poisoning;
+(h) Medication overdose;
+(i) Broken bone;
+(j) Severe head or neck injury;
+(k) Chemical contact in eyes, mouth, skin, inhalation or ingestion;
+(l) All burns;
+(m)Allergic reaction requiring administration of Epi‐Pen; (n) Severe bleeding or stitches;
+7
+
+(o) Shock or confused state;
+(p) Near‐drowning.
+(44) “Serious Violation” means OCC has made a valid finding when assessing a complaint that alleges:
+(a) Children are in imminent danger;
+(b) There are more children in care than allowed by law;
+(c) Corporal punishment is being used;
+(d) Children are not being supervised;
+(e) Multiple or serious fire, health or safety hazards are present in the center;
+(f) Extreme unsanitary conditions are present in the center;
+(g) Adults are in the center who are not enrolled in the Central Background Registry; or
+(h) A facility is providing child care as defined in ORS 329A.250(4) which is not a certified child care center, by a person who has alleged that there are more children in care than allowed by law.
+(45) "Site Director/Supervisor" means the person in charge of the facility at a site which is part of a larger multi‐site program.
+(46) "Site Coordinator" means the person responsible for coordinating over‐all management and operation of a number of sites in a multi‐site program.
+(47) "Staff" means an individual who is the director, an employee, or a volunteer who is in the center for more than a single activity.
+(48) "Substitute Director" means the person in charge of the center during the hours of operation when the director is not on site.
+(49) "Supervision" means the act of caring for a child or group of children. This includes awareness of and responsibility for the ongoing activity of each child. It requires physical presence, knowledge of program requirements and children's needs, and accountability for their care and well‐being. Supervision also requires that staff be near and have ready access to children in order to intervene when needed.
+(50) "Teacher" means a caregiver who plans and implements daily activities for a designated group of children and who meets the qualifications of teacher pursuant to OAR 414‐300‐ 0100.
+8
+
+(51) "Teacher Aide" means a caregiver who works under the direct supervision of a teacher and who meets the qualifications of Aide I or Aide II pursuant to OAR 414‐300‐0110.
+(52) "Toddler" means a child who is able to walk alone but is under 36 months of age. "Younger toddler" means a child who is able to walk alone but is under 24 months of age; "older toddler" means a child who is 24 months of age but under 36 months of age.
+(53) “Unsupervised Access to Children” means contact with children that provides the person opportunity for personal communication or touch when not under the direct supervision of a child care provider or staff with supervisory authority.
+(54) "Usable Exit" means an unobstructed door or window through which caregivers and children can evacuate the center in case of a fire or emergency. Doors must be able to be opened from the inside without a key, and window openings must be at least 20 inches wide and 22 inches in height, with a net clear opening of 5 square feet and a sill no more than 48 inches above the floor.
+CERTIFICATE
+414-300-0010 Application for a Child Care Certificate
+(1) Unless exempted by Oregon laws governing child care facilities, no person or organization shall operate a child care center without a valid certificate issued by the Office of Child Care.
+(2) Application for a certificate shall be made on forms provided by OCC.
+(3) A completed application is required:
+(a) For the initial certificate;
+(b) For the annual renewal of the certificate; and
+(c) Whenever there is a change of owner, operator or location.
+(4) The applicant shall complete and submit an application to OCC at least:
+(a) 45 days before the planned opening date of a new center; and
+(b) For renewal of certification, 30 days prior to the expiration of the certificate.
+(A) If an application for renewal and payment of the required fee is received by OCC at least 30 days prior to the expiration date of the current certificate, the current
+9
+
+certificate, unless officially revoked, remains in force until OCC has acted on the application for renewal and has given notice of the action taken.
+(B) If an application for renewal and payment of the required fee is not received by OCC at least 30 days prior to the expiration date of the current certificate, the certificate will expire as of the date stated on the certificate and child care must cease at the facility, unless the renewal is completed before the expiration date.
+(5) An application for a certificate shall be accompanied by a non‐refundable filing fee.
+(a) For the initial application, a change of owner/operator, the reopening of a center after a lapse in certification, or a change of location (except when a facility is forced to move due to circumstances beyond the control of the operator), the fee is $100 plus $2 for each certified space (e.g., the fee for a child care center certified to care for 30 children is $60 + $100 = $160).
+(b) For a renewal application, the fee is $2 for each certified space.
+(6) An application for a certificate must be completed by the applicant and approved by OCC within 12 months of submission or the application will be denied. If an application is denied, an applicant must submit a new application for a certificate.
+(7) All civil penalties must be paid in full.
+(8) Floor plans shall be submitted to the environmental health specialist, the fire marshal and the buildings department prior to initial construction or remodel.
+(9) If the facility is located within or attached to a building used for purposes other than child care, the floor plan shall describe the other activities which are carried out in adjoining rooms or buildings.
+(10) If the applicant is a firm, association, corporation, public agency, or governmental entity, the application shall be signed by the chief executive officer or a person designated in writing to have the authority to sign for the applicant. If the applicant is a partnership, the application shall be signed by each partner.
+(11) A management list shall be submitted with the application and updated annually. The list must specify who is responsible for each of the following:
+(a) Financial management; (b) Maintaining records; (c) Budgeting;
+(d) Policy Development;
+10
+
+(e) Staff management, orientation and training;
+(f) Maintenance of building and grounds;
+(g) Meal planning and preparation;
+(h) Transportation of children, if provided; and
+(i) Ensuring the appropriateness of program activities according to age and development of the children.
+(12) An operator shall provide verification to OCC that the center meets all applicable building codes and zoning requirements that apply to child care facilities:
+(a) Before the initial certificate is issued; and
+(b) Whenever the facility is remodeled.
+(13) The center shall be approved by an environmental health specialist registered under ORS chapter 700, or an authorized representative of the Health Division, and by a state or local fire marshal, before a certificate is issued by OCC.
+(a) If structural, emergency or permit problems occur, OCC may request that the operator have the center inspected by the appropriate authority; and
+(b) The operator is responsible for payment of any applicable fees for fire safety and sanitation inspections.
+(14) Upon receipt of a completed application, a representative of OCC shall evaluate the center and all aspects of the proposed operation to determine if the center meets certification requirements (OAR 414‐300‐0000 through 414‐300‐0415).
+414-300-0015 Issuance of a Child Care Certificate
+(1) A certificate shall not be issued by OCC to an applicant who holds a medical marijuana card. A certificate shall not be issued to an applicant who grows marijuana or distributes marijuana.
+(2) A certificate shall be issued by OCC when it has been determined the center is in compliance with OAR 414‐300‐0000 through 414‐300‐0415. There are two types of certifications. These are:
+11
+
+(a) A regular certificate, which, except as provided in OAR 414‐300‐0010(4)(b)(A), is valid for no more than one year; and
+(b) A temporary certificate. A child care center may not operate under a temporary certification for more than 180 days in any 12‐month period. A temporary certificate is issued when:
+(A) The center is in compliance with most requirements;
+(B) There are no deficiencies identified by OCC that are hazardous to children; and (C) The operator demonstrates an effort to be in full compliance.
+(3) A certificate is not transferable to any other location or to another organization or individual.
+(4) Any changes in the conditions of certificate shall be requested in writing to OCC and approved by OCC before the condition(s) of the current certificate may be changed. Changes include, but are not limited to, facility capacity, age range of children, or hours of operation.
+414-300-0020 Exceptions to Rules
+(1) OCC may grant an exception to an individual rule (OAR 414‐300‐0000 through 414‐300‐ 0415) for a specified period of time when:
+(a) A requirement does not apply to the facility; or
+(b) The intent of the requirement can be met by a method not specified in the applicable rule.
+(2) The operator shall request an exception to a rule on a form provided by OCC. The request shall include:
+(a) A justification for the requested exception; and
+(b) An explanation of how the center will meet the intent of the rule.
+(3) No exception to a rule shall be granted:
+(a) If the requirement is established by statute; or
+(b) Unless the health, safety, and well‐being of the children are ensured.
+(4) Exceptions may not be implemented until approval is received from OCC.
+12
+
+(5) The granting of an exception to a rule shall not set a precedent, and each request shall be evaluated on its own merits.
+(6) OCC may withdraw approval of an exception at any time, if deemed necessary to ensure the health, safety and well‐being of the children.
+CENTER MANAGEMENT 414-300-0030 General Requirements
+(1) The operator shall display the following near the entrance, or in some other area of the center, where they may be clearly viewed by parent(s) of children in care:
+(a) The most current certificate issued by OCC;
+(b) Name of the director and/or the substitute director;
+(c) Notice of planned field trips away from the immediate neighborhood, showing the date and place of each excursion;
+(d) The current week's menu for all meals and snacks, if meals are provided by the center. Any substitution shall be recorded on the menu;
+(e) A notice that the items identified in section (2) of this rule are available for review on request;
+(f) Information on how to report a complaint to OCC regarding certification requirements;
+(g) Notice that custodial parents have access to the center during the hours of operation and without advance notice;
+(h) Notice of center closures (vacation days, holidays, etc.);
+(i) The Early Learning Division Website [www.oregonearlylearning.com] and phone number [1‐800‐556‐6616], and a statement advising parents that they can access information about their child care provider on the child care safety portal; and
+(j) Centers must post all serious valid complaints and serious non‐compliance letters for 12 calendar months.
+(2) The certified child care center shall immediately notify all parents of any closure of the active license.
+(3) The operator shall have available for review on request:
+13
+
+(a) A copy of OAR 414‐300‐0000 through 414‐300‐0415, Rules for the Certification of Child Care Centers; and
+(b) The most recent OCC, sanitation, and fire safety inspection reports.
+(4) The operator shall report to OCC:
+(a) Any death of a child while in care, within 24 hours;
+(b) Within 24 hours:
+(A) Any child that is lost or missing from the premises; (B) Any child that is left behind on a facility excursion; (C) Any child that is left unattended on the premises; (D) Any child that is left alone on the playground; or (E) Any child that is left alone in a vehicle.
+(c) Any serious injury or incident, as defined in OAR 414‐300‐0010(43) within 5 calendar days after the occurrence. This does not include:
+(A) Injuries for which a child is evaluated by a professional as a precaution;
+(B) Injuries for which first aid is administered at the center, but no further treatment by a medical professional is warranted: or
+(C) Medical events due to routine, ongoing medical issues, such as asthma or seizures.
+(d) Damage to the building which affects the operator's ability to comply with these requirements, within 48 hours after the occurrence;
+(e) Any animal bites to a child within 48 hours of occurrence; and
+(f) Any change in director prior to the director being on site. Such prior notification must include the replacement person's qualifications for the position and documentation that the person is enrolled in the Central Background Registry. An e‐mail or a phone call, followed by written documentation, or a FAX will serve as notification.
+(5) Information provided to OCC on applications, in records or reports, or any other written or verbal communication, shall be current, complete, and accurate.
+(6) Staff shall report suspected child abuse or neglect immediately, as required by the Child Abuse Reporting Law (ORS 419B.005 through 419B.050), to the Department of Human
+14
+
+Services Child Welfare (DHS) or to a law enforcement agency. By statute, this requirement applies 24 hours per day.
+(7) The child care center shall comply with state and federal laws related to child safety systems and seat belts in vehicles, bicycle safety, civil rights laws, and the Americans With Disabilities Act (ADA).
+(8) The following information shall be in writing and made available to staff, OCC, and to parent(s) at the time of enrollment:
+(a) Name, business address, and business telephone number of the person(s) who have immediate responsibility for the daily operation of the center;
+(b) Guidance and discipline policy;
+(c) Arrival and departure procedures;
+(d) Emergency plan, as specified in OAR 414‐300‐0170(3);
+(e) Procedures for field trips; and
+(f) Information on transportation, when provided by the center;
+(9) Representatives of all agencies involved in certification and custodial parents shall have immediate access to all parts of the center during hours of operation. OCC staff shall have the right to enter and inspect the center, including access to all staff, records of children enrolled in the center, and all records and reports related to the center operation regarding compliance with these rules.
+(10) The center shall comply with the Health Division's administrative rules relating to: (a) Immunization of children (OAR 333‐050‐0010 through 333‐050‐0140);
+(b) Reporting communicable diseases (OAR 333‐018‐0000);
+(c) Child care restrictable diseases (OAR 333‐019‐0010); and
+(d) Dishwashing (OAR 333‐150‐0000).
+(11) Facilities must have parent(s) or guardian(s) of each child enrolled in the center, sign a declaration form approved by the Office of Child Care verifying they have reviewed a copy of the current license certificate. The declaration shall be updated any time there has been an exception or condition added to the license.
+(12) The written emergency plan must be given to parents of children in care.
+15
+
+(13) A center shall have written health policies and procedures approved by the Health Division or the county health department which cover, but are not limited to, the following:
+(a) Storage and handling of food;
+(b) Diaper changing and disposal, if applicable. The diaper changing procedure must be posted in the diaper changing area;
+(c) Bathing infants, if the center cares for infants;
+(d) Care of bed linen;
+(e) Hand washing procedures. The hand washing procedures must be posted at hand washing sinks; and
+(f) Serving formula, storage and handling of bottles, and feeding infants, if the center cares for infants.
+(14) Parental request or permission to waive any of the rules for the certification of child care centers does not give the center permission to do so.
+(15) The Office of Child Care may notify parent(s) or guardian(s) of children under 12 months of age enrolled in the center of any valid non‐compliance with regulations for safe sleep included in OAR 414‐300‐0300(6).
+[Publications: Publications referenced are available from the agency.]
+414-300-0040 Enrollment
+(1) Children shall be admitted only in accordance with the conditions of the certificate, including, but not limited to, capacity, hours of operation, age range, and special conditions.
+(2) All children visiting the center on a regular basis will count in capacity. Children attending with a non‐staff parent do not count as enrolled as long as the parent remains with and is responsible for non‐enrolled children.
+(3) As required by state and federal civil rights laws and the Americans with Disabilities Act (ADA), the center shall not discriminate against any child on the basis of race, religion, color, national origin, gender, marital status of parent, or because of a need for special care.
+(a) Refusal by the operator to care for a child with a need for special care because of lack of related skills and degree of competence, or because of structural barriers in the center, shall not in itself establish a prima facie case of discrimination. The decision to enroll/not enroll a child shall be made on an individual basis after the child's child care needs have been assessed using information from parents and professionals who are
+16
+
+knowledgeable about the specific disability. The operator shall record the assessment that was made for each child with special needs.
+(b) If a child with special needs is enrolled who needs a specific plan for caring for that child, such a plan shall be developed in writing between center staff, parent(s), and if necessary, outside specialists. All staff who come in contact with that child shall be fully aware of the plan.
+(4) The operator shall obtain the following information in writing from parent(s) of each child before admission. The information shall be kept current at all times.
+(a) Name and birth date of child;
+(b) Date child entered care;
+(c) Name(s), home and business address(es) and telephone number(s) of the custodial parent(s);
+(d) The school attended by a school‐age child;
+(e) Name and telephone number of child's medical provider(s) and dentist, if applicable;
+(f) Name and telephone number of person to be called in an emergency if the parent cannot be located;
+(g) Name and telephone number of person(s) to whom the child may be released; and
+(h) Any chronic health problem(s) the child has, including allergies.
+(5) The operator shall obtain the following information in writing from parent(s) of each infant and toddler before admission:
+(a) Schedule of feeding;
+(b) Types of food introduced and timetable for new foods;
+(c) Toilet and diapering schedule;
+(d) Sleep schedule;
+(e) Child's way of communicating and being comforted; and
+(f) Developmental and health history of any problems that could affect the child's participation in child care.
+17
+
+(6) The operator shall obtain the following written authorizations from parent(s) of each child before admission:
+(a) Permission for the center to obtain emergency medical treatment for the child. The emergency medical release shall be:
+(A) On a form accepted by the medical treatment facility used by the operator for emergency medical services; and
+(B) Immediately accessible to all staff.
+(b) Permission for the center to call an ambulance or take a child to an available physician or medical treatment facility; and
+(c) Approval when applicable for:
+(A) Participation in field trips; and
+(B) Participation in swimming or wading activities, both on and off the premises of the center.
+(7) A center shall maintain separate information and authorization forms on each child in care.
+(8) An opportunity shall be given for each child, with his/her parent(s), to have a pre‐placement visit to the center and for the center staff to exchange information with the parent(s).
+(9) No child under six weeks of age shall be enrolled in a center.
+[Publications: Publications referenced are available from the agency.] 414-300-0050 Arrival and Departure
+(1) A center shall require that the person bringing a child to the center remain with the child until the child is accepted by staff.
+(2) A center shall release a child only to a parent or another person named and identified by the parent(s). The operator shall verify the identification of any person, other than the parent, who picks up a child.
+(3) If a school‐age child arrives at or leaves the center without a parent, there shall be arrangements in advance, in writing, from the parent(s) for the arrival and departure times and what to do if a child has not arrived at the center by the expected time.
+18
+
+414-300-0060 Record Keeping
+(1) The operator shall keep all records, except those specified in OAR 414‐300‐0060(1)(d)(F) and 414‐300‐0205(7)(a), for at least two years, and staff and children's records for two years after termination of employment or care. These records shall be available at all times to OCC:
+(a) Complete and current information on each child as required in OAR 414‐300‐0040(4) and (6);
+(b) Records of daily attendance showing:
+(A) The date of employment, time of arrival and departure, and room assignment for each staff; and
+(B) The date, name of each child in attendance, and time of arrival and departure. The record must show the children in attendance at any given time;
+(C) The current day's attendance record shall be maintained in the child's classroom in paper format.
+(c) Personnel record for each staff, which shall include:
+(A) Name, address and telephone number of staff;
+(B) Position in center;
+(C) Written verification (such as transcripts, payroll records, time sheets, documented resumes, notes regarding telephone conversations, etc.) that the person possesses the qualifications for the position;
+(D) Verification that the staff is currently enrolled in the Central Background Registry;
+(E) Statement of the staff's duties;
+(F) Record of current health‐related training, such as CPR, Life Support, Life Saving, and First Aid, and current food handler certifications, as appropriate;
+(G) Driving record, driver's license number and expiration date if the person is to transport children; and
+(H) Documentation of dates and participation in orientation, training, and staff development activities, as required in OAR 414‐300‐0120.
+(d) A written record of:
+19
+
+(A) A death of or injury to a child, as specified in OAR 414‐300‐0030(5)(a);
+(B) Dates and times of the practices of emergency procedures;
+(C) Child abuse reports made to the Department of Human Services Child Welfare (DHS) or a law enforcement agency;
+(D) Authorizations to administer medication to a child, as specified in OAR 414‐300‐ 0230(1)(a);
+(E) Medications dispensed, as specified in OAR 414‐300‐0230(1)(d);
+(F) Meals and snacks provided by the center for the previous three weeks;
+(G) The program of activities for each group of children, as specified in OAR 414‐300‐ 0295; and
+(H) The daily schedule for each group of children, as specified in OAR 414‐300‐0290.
+(2) The operator shall allow custodial parent(s), upon request, to review records and reports, except for child abuse reports, maintained on their own children.
+PERSONNEL
+414-300-0070 General Requirements
+(1) The operator shall establish a system of job descriptions, staff selection, and staff evaluation. All caregivers shall:
+(a) Have competence, sound judgment, and self‐control in working with children;
+(b) Be mentally, physically, and emotionally capable of performing duties related to child care; and
+(c) Have the required training and/or experience for the position for which they are hired.
+(2) There shall be a person or persons on the staff who meet(s) the qualifications of director (OAR 414‐300‐0080) and head teacher (OAR 414‐300‐0090). A person assigned the duties of the position must meet the qualifications of the position.
+(3) Notwithstanding OAR 414‐300‐0120(3), there shall be at least one person in the center at all times who has current certification in first aid and CPR.
+(4) Any staff with evidence of a child care‐restrictable disease, as defined in OAR 333‐019‐0010, symptom of physical illness, as defined in OAR 414‐300‐0220(1), or mental incapacity that poses a threat to the health or safety of children shall be relieved of his/her duties.
+20
+
+(5) If additional information is needed to assess a person's ability to care for children or to have access to children, OCC may require references, an evaluation by a physician, counselor, or other qualified person, or other information.
+(6) No one shall have access to child care children or be in the center during child care hours who has demonstrated behavior that may have a detrimental effect on a child. This includes any individual in the center who has or may have unsupervised access, however brief, to child care children (i.e., the owner, the operator, all child care staff, maintenance staff who work on‐site during hours of operation, volunteers who may be left alone with children, etc.). This does not apply to persons authorized to drop off and pick up a child care child.
+(a) The operator, all child care staff and others as described in section (6) above 18 years of age or older shall be enrolled in OCC’s Central Background Registry prior to the issuance of an initial or renewal certification;
+(b) The facility must receive confirmation from OCC that staff who are 18 years of age or older, are enrolled or conditionally enrolled in the CBR before they may be on‐site of the child care premises during child care hours.
+(c) When a center is notified by OCC that a staff member or other individual has been removed from the Central Background Registry, the center shall not permit the staff member or other individual to have access to child care children;
+(d) If any person listed in section (6) and section (6)(a) of this rule has been charged with, arrested for, or a warrant is out for any of the crimes which OCC has determined indicate behavior which may have a detrimental effect on a child, with final disposition not yet reached, certification will be denied or suspended until the charge, arrest, or warrant has been resolved if the person continues to operate, be employed in, or have access to children in the center;
+(e) If a criminal record check shows that a warrant has been issued for any person checked, OCC will inform the originating law enforcement agency of the person's name, address, and telephone number.
+(7) Staff conditionally enrolled in the CBR may function in their staff position but shall not have unsupervised access to children until the center has confirmed with OCC the individual is enrolled.
+(8) All caregivers and other individuals that are required to be enrolled in the CBR and are on‐ site must maintain current enrollment in the CBR at all times while the center license is active.
+(9) Individuals whose CBR enrollment has been revoked, denied or suspended, may not be on the premises during child care hours; or have contact with child care children.
+21
+
+(10) Any visitor to the center or other adult who is not enrolled in the CBR shall not have unsupervised access to children.
+(11) The center shall have a written plan to ensure that individuals who are not enrolled or conditionally enrolled in the CBR and are on the child care premises shall not have unsupervised access to children.
+(12) The center shall maintain a log of arrival and departure times of all individuals 18 and older who are not enrolled or conditionally enrolled in the CBR and enter the center while child care children are present, excluding persons authorized to drop off and pick up a child care child.
+(13) If additional information is needed to assess a person's ability to care for children or to have access to children, OCC may require references, an evaluation by a physician, counselor, or other qualified person, or other information.
+(14) Alcohol shall not be consumed or stored on the child care center premises during the hours the child care business is conducted or when child care children are present. No one shall be under the influence of alcohol on the child care center premises during the hours the child care business is conducted or when child care children are present.
+(15) No one shall possess, use or store illegal controlled substances on the child care center premises. No one shall be under the influence of illegal controlled substances on the child care center premises.
+(16) No one shall grow or possess marijuana plants or distribute marijuana on the child care center premises. No one shall possess, use or store marijuana on the premises of the child care center unless medically necessary to treat a child care child. No adult shall use or be under the influence of marijuana on the child care center premises.
+(17) Marijuana, derivatives and associated paraphernalia shall not be kept on the child care center premises unless medically necessary to treat a child care child. All associated medical marijuana must be kept in original container if purchased at a dispensary, and together with derivatives and related paraphernalia must be kept under child safety lock.
+(18) Volunteers must meet the following requirements:
+(a) If volunteers are counted in determining the staff/child ratios, they must meet the qualifications of the position they are filling and be enrolled in the Central Background Registry;
+(b) If volunteers may have unsupervised access to children, they must be enrolled in the Central Background Registry;
+(c) If volunteers do not have unsupervised access to children at any time, including during emergencies, the center must have a written policy to this effect, the policy must be
+22
+
+known to all center staff and volunteers, and the volunteers do not have to be enrolled in the Central Background Registry.
+(19) No person shall smoke or carry any lighted smoking instrument, including an e‐cigarette or vaporizer in the certified center or within ten feet of any entrance, exit, or window that opens or any ventilation intake that serves an enclosed area, during child care hours or when child care children are present. No person shall use smokeless tobacco in the certified center during child care hours or when child care children are present. No person shall smoke, carry any lighted smoking instrument, including an e‐cigarette or vaporizer or use smokeless tobacco in motor vehicles while child care children are passengers.
+414-300-0080 Director Qualifications and Duties
+(1) The director shall:
+(a) Be at least 21 years of age; and
+(b) Have:
+(A) At least one year of training and/or experience in management and supervision of adults; and
+(B) Have knowledge of child development for the primary ages served in the center, as evidenced by a combination of professional references, education, experience or training; or
+(C) Documentation of attaining at least step nine in the Oregon Registry, or
+(c) Have:
+(A) One year of training and/or experience in management and supervision of adults OR have knowledge of child development for the primary ages served by the center as evidenced by a combination of professional references, education, experience or training; and
+(B) A plan, approved by OCC, that shows how the missing component in (A) above will be addressed and how the program will be operated until the director has obtained the training, experience or knowledge.
+(2) The director of the center shall be accountable for:
+(a) Administrative functions, including, but not limited to: financial management; maintaining records; budgeting; policy development; ensuring the appropriateness of program activities according to age and developmental levels of children; staff orientation; management and training; maintenance of buildings and grounds; meal planning and preparation; and transportation, if provided; and
+23
+
+(b) Operating the center in compliance with certification requirements (OAR 414‐300‐0000 through 414‐300‐0415).
+(3) If head teacher qualifications (OAR 414‐300‐0090) are met by the director, that person may serve as head teacher for the age range of children for which she/he is qualified if she/he works full‐time in the center:
+(a) If the center is certified for less than 40 children, the director may serve as head teacher and have regular teaching duties, if qualified;
+(b) If the center is certified for 40 or more children, the director may serve as head teacher, but shall have no regular teaching duties.
+(4) A director responsible for a center certified for fewer than 100 children shall be in the center at least one‐third of the hours that the center is in operation. The hours shall be calculated on a weekly basis, except for planned vacations and emergency absences. The time on‐site must include time spent directly observing staff and children.
+(5) A director responsible for a center certified for more than 100 children can be responsible for only one site. The director shall be in the center at least half of the hours that the center is in operation. The hours shall be calculated on a weekly basis, except for planned vacations and emergency absences. The time on‐site must include time spent directly observing staff and children.
+(6) The director, or a substitute director, shall be on the premises during all hours of operation.
+(7) The director must have completed OCC approved health and safety training.
+(8) If the center is certified to care for infants, the director must have completed OCC approved safe sleep training.
+(9) The substitute director shall:
+(a) Meet at least the qualifications of a teacher;
+(b) Be familiar with the certification requirements;
+(c) Be authorized, able, and available to correct a deficiency that might be an immediate threat to children's health or safety; and
+(d) Have on file documentation of an orientation and training in these administrative rules and the functions and duties of a director.
+(10) Whenever a director is absent from the center, the name of the substitute director shall be posted in the center, as required in OAR 414‐300‐0030(1)(b).
+24
+
+414-300-0090 Head Teacher Qualifications and Duties
+(1) For each infant and toddler, preschool age, and school age program in the center, there shall be a qualified person designated as head teacher who is at least 18 years of age.
+(2) The head teacher shall be accountable for:
+(a) The development and implementation of the center's program of activities for that age group or groups; and
+(b) Ensuring the appropriateness of program activities according to the age, interests, and developmental level of the children.
+(3) A head teacher shall meet the qualification requirements of one of the options listed in Table 1 of this rule.
+(4) A person may serve as head teacher for more than one age group as long as the qualifications for head teacher for each age group are met.
+(5) Head teachers shall be in the center at least one‐fourth of the hours, calculated on a weekly basis, that the center is in operation. Table 1.
+(6) Head teachers must have completed OCC approved health and safety training.
+(7) If the center is certified to care for infants, the head teacher must have completed OCC approved safe sleep training.
+25
+
+Qualifications for Head Teacher TABLE 1
+    Option
+   Infant and Toddler Age Program
+ Preschool‐Age Program
+    School‐Age Program
+ (a) Bachelor’s Degree (BS/BA) from college or university with a major in:
+   Early childhood education
+ Child development
+ Early childhood education
+ Child development
+ Elementary education
+ Special education
+   Child development
+ Elementary education
+ Physical education
+ Recreation
+ Special education
+ Early childhood education
+ OR
+(b) Associate’s Degree (AS/AA) from a college with a major in:
+   Early childhood education
+ Child development
+ Early childhood education
+ Child development
+ Or related degree
+   Child development
+ Physical education
+ Recreation
+ Special education
+ Early childhood education
+ Or related degree
+ OR
+(c) A one year state or nationally recognized credential:
+   Related to infant and toddler care
+ Related to preschool‐age care
+   Related to school‐age care
+ OR
+(d) Completion of 20 credits (semester system) or 30 credits (quarter system) of training at a college or university in:
+AND
+At least one year of qualifying teaching experience in a Certified Child Care Center or comparable group care program, in the care of:
+   Early childhood education
+ Child development
+ Infants and/or toddlers
+ Early childhood education
+ Child development
+ Elementary education
+ Special education
+ Preschool‐age children
+   Child development
+ Physical education
+ Elementary education
+ Special education
+ Recreation
+ Early childhood education
+ School‐age children
+ OR
+(e) At least two years of qualifying teaching experience, with at least one year as a teacher, in a Certified Child Care Center or comparable group care program, in the care of:
+   Infants and/or toddlers
+ Preschool‐age children
+   School‐age children
+ OR
+(f) Documentation of attaining at least step 8.5 (eight.five) in the Oregon Registry
+          26
+
+414-300-0100 Teacher
+(1) For each group of children, a person shall be designated as the teacher. This person shall: (a) Be at least 18 years of age;
+(b) Be responsible for and supervise a designated group of children; and
+(c) Supervise the activities of an aide assigned to his/her group.
+(2) A teacher shall meet the qualification requirements of one of the options listed in Table 2 of this section. Table 2.
+(3) Teachers must have completed OCC approved health and safety training.
+(4) If caring for infants, teachers must have completed OCC approved safe sleep training.
+Qualifications for Teacher TABLE 2
+   Option
+   Infant and Toddler Age Program
+  Preschool‐Age Program
+    School‐Age Program
+   (a) Completion of 20 credits (semester system) or 30 credits (quarter system) of training at a college or university in:
+   Early childhood education  Child development
+  Early childhood education  Child development
+ Elementary education
+ Special education
+  Child development
+ Elementary education
+ Physical education
+ Recreation
+ Special education
+ Early childhood education
+ OR
+(b) A one year state or nationally recognized credential:
+   Related to infant and toddler care
+  Related to preschool‐age care
+    Related to school‐age care
+   OR
+(c) At least one year of qualifying teaching experience, with at least one year as a teacher, in a Certified Child Care Center or comparable group care program, in the care of:
+   Infants and/or toddlers
+  Preschool‐age children
+  School‐age children
+   OR
+(d) Completion of 10 credits (semester system) or 15 credits (quarter system) of training at a college or university in:
+AND
+At least six months of qualifying teaching experience in a Certified Child Care Center or comparable group care program, in the care of:
+   Early childhood education  Child development
+ Infants and/or toddlers
+  Early childhood education  Child development
+ Elementary education
+ Special education
+ Preschool‐age children
+  Child development
+ Elementary education
+ Physical education
+ Recreation
+ Special education
+ Early childhood education
+ School‐age children
+ OR
+(f) Documentation of attaining at least step 8 (eight) in the Oregon Registry
+               27
+
+414-300-0110 Teacher Aides
+(1) Aide I shall:
+(a) Be at least 15 years of age;
+(b) Be directly supervised, i.e., within sight and sound of a staff person who meets at least the qualifications of a teacher;
+(c) Have current certification in first aid and pediatric CPR within 90 days of employment.
+(A) CPR training must have practical hands‐on instruction;
+(B) CPR courses that involve an on‐line component with hands‐on instruction may be accepted; and
+(C) Strictly on‐line CPR training is not acceptable.
+(d) Have completed a minimum of 2 hours of training on recognizing and reporting child abuse and neglect that is specific to Oregon law within 30 days of employment;
+(e) Have completed OCC approved health and safety training within 30 days of employment.
+(f) If caring for infants, completed OCC approved safe sleep training within 30 days of employment.
+(2) An Aide II must:
+(a) Have completed a training with a minimum of 2 hours on recognizing and reporting child abuse and neglect that is specific to Oregon law;
+(b) Have completed OCC approved health and safety training; and
+(c) If caring for infants, completed OCC approved safe sleep training.
+(3) Aide II in infant/toddler/preschool‐age programs shall:
+(a) Be at least 18 years of age;
+(b) Have worked at least six months at the center where they are now employed; and
+(c) Have current certification in first aid and CPR. Training must have practical hands‐on instruction; therefore, online training is not acceptable.
+28
+
+(4) Aide II in school‐age programs shall:
+(a) Be at least 18 years of age;
+(b) Have worked at least four months in the school‐age program where they are now employed; and
+(c) Have current certification in first aid and CPR. Training must have practical hands‐on instruction; therefore, online training is not acceptable.
+(5) Staff at Aide II level may, with the approval of the director, be out of sight and sound of a teacher for brief, necessary events, such as taking a child to the bathroom or bringing a child in for minor medical attention.
+(6) An Aide II may not be left alone with a group of children, except as described in OAR 414‐ 300‐0130(2)(a) and 414‐300‐0350(5)(b).
+(7) Staff at Aide II level shall be trained in the policies and procedures appropriate to tasks assigned prior to even brief periods of unsupervised access to children.
+414-300-0115 School-Age Multi-Site Programs - Additional Staff
+(1) In a multi‐site program, the operator shall develop a written plan which shows:
+(a) How the administrative functions in section OAR 414‐300‐0080(2)(a) will be met; and (b) How Head Teacher functions in OAR 414‐300‐0090(2)(a) and (b) will be met.
+(2) All staff of school‐age multi‐site programs shall meet qualifications for the position they hold, as specified in OAR 414‐300‐0080, ‐0090, ‐0100 and ‐0110, unless otherwise specified in this section.
+(3) If the multi‐site program does not have a director, the site coordinator and the site director/supervisor shall jointly perform the functions of director.
+(4) A site coordinator shall:
+(a) Be at least 21 years of age;
+(b) Have at least one year of training and/or experience in management and supervision of adults;
+(c) Be authorized, able and available to correct deficiencies; and
+(d) If acting as a substitute teacher, be teacher qualified.
+29
+
+(5) A site coordinator shall be at each site on a monthly basis during the hours of operation. The time at each site must include time spent directly observing staff and children.
+(6) A site director/supervisor shall:
+(a) Be at least 18 years of age;
+(b) Be at least teacher‐qualified;
+(c) Be authorized, able and available to correct deficiencies; and
+(d) If the facility is certified for 40 or more children, not have teaching duties unless the number of children on site is less than 40.
+(7) A site director/supervisor shall be on site at least one‐half of the hours, calculated on a weekly basis, that the school‐age program is in operation.
+(8) If a school‐age multi‐site program does not have a head teacher at each site, a designated head teacher for the multi‐site program shall observe at each site on a monthly basis during the hours of operation.
+414-300-0120 Staff Training
+(1) All staff shall receive an orientation within the first two weeks of employment and before they can have unsupervised access to children. Orientation shall ensure that staff are familiar with the contents of the orientation, as described below, and shall include, but is not limited to:
+(a) Individual responsibilities in the event:
+(A) The building must be evacuated (e.g., fire);
+(B) An emergency requiring staff and children to remain inside under unusual circumstances (e.g., power outage, environmental hazard); or
+(C) A child or staff is injured or becomes ill;
+(b) These requirements (OAR 414‐300‐0000 through 414‐300‐0415);
+(c) The center policies, as required in OAR 414‐300‐0030; and
+(d) Procedures for reporting suspected child abuse or neglect.
+(2) The operator shall have documentation for each staff person of the date and type of orientation received and the person providing the orientation.
+30
+
+(3) Within the first 90 days of employment, all staff shall complete first aid and Infant and Child CPR training or have current certification in first aid and Infant and Child CPR on file. First aid and Infant and Child CPR training must be kept current during employment at the center. First aid training shall include the following components: bleeding; burns; poisoning; choking; injuries; shock; seizures; sprains and breaks; dental emergencies; and head injuries. CPR training must have practical hands‐on instruction. CPR courses that involve an on‐line component with hands‐on instruction may be accepted. Strictly on‐line CPR training is not acceptable.
+(4) Key people in food preparation must have food handler certification, pursuant to ORS 624.570, within 30 days of employment or have current certification on file. Food handler's training must be kept current during employment at the center. Key people include cooks, kitchen staff who handle food, and classroom staff who serve meals from a communal source.
+(5) The director, head teacher, and all teachers shall participate yearly in at least 15 clock hours of training or education related to child care, of which at least eight clock hours shall be in child development or early childhood education. If an individual has worked in the facility less than a year, the training requirements will be prorated as follows: At least 1.25 clock hours for each month worked in the current license period.
+(a) The following core knowledge categories are accepted for the child development and early childhood education requirement: Diversity (D), Family and Community Systems (FCS), Human Growth and Development (HGD), Health Safety and Nutrition (HSN), Learning Environments and Curriculum (LEC), Observation and Assessment (OA), Special Needs (SN), and Understanding and Guiding Behavior (UGB).
+(b) A head teacher whose qualifications for the position are based solely on work experience shall emphasize training in child development and early childhood education for the first two years of employment;
+(c) Training may include correspondence courses, conferences, workshops, or audiovisual programs.
+(d) An approved planned reading program of professional materials may count for up to six hours of the 15 clock hours of training and must include a written assessment of reading materials completed by each participating staff person.
+(e) OCC will accept duplicate training one additional time if it is a Set 2 (intermediate) or Set 3 (advanced) training or above as described by the Oregon Center for Career Development in Childhood Care and Education; and it is not taken within the same license period.
+(f) The center shall record each person's training showing the subject matter, the date completed, and the number of clock hours of training in each certification year.
+31
+
+(6) During the first year of employment, a staff person may count up to two hours of orientation and their most recent training in first aid and CPR, food handler's training, if applicable, and child abuse and neglect training as part of the 15 clock hours of training required in OAR 414‐300‐0120(5), but may not use these toward the eight hours required in child development or early childhood education.
+(7) During subsequent years of employment, a staff person may count 5 hours of first aid and CPR training or food handler's training as part of the 15 clock hours of training. Duplicate training on recognizing and reporting child abuse and neglect can be accepted again after three years, and every three years thereafter towards the 15 clock hours of staff training required for licensing.
+(8) Staff meetings shall not count as training.
+(9) All staff, with the exception of Aide I's, who count in staff to child ratios must complete OCC approved training on recognizing and reporting child abuse and neglect, and health and safety training, prior to having unsupervised access to children and functioning in their position. Aide I's must complete the training within the first 30 days of employment.
+(10) All infant caregivers, with the exception of Aide I's, must complete OCC approved training on safe sleep, prior to having unsupervised access to children and functioning in their position. Aide I's must complete the training within the first 30 days of employment.
+(11) If certified to care for infants, current infant caregivers must complete OCC approved safe sleep training by January 1, 2019.
+414-300-0130 Staff/Child Ratios and Group Size
+(1) The number of caregivers and group size shall be determined by the number and ages of the children in attendance.
+(2) The maximum number of children in a group and the ratio of caregivers to children specified in Table 3A of this rule shall apply, except that:
+(a) When all toddler, preschool and school‐age children are at rest, the situation permits, and the room is arranged so all children are supervised, there may be one teacher or Aide II supervising the resting room. As children awaken and become active, additional staff shall be added to return ratios to those in Table 3A. Sufficient staff to meet the required ratio shall be in the facility and able to be summoned by the caregiver without leaving the resting room; and
+(b) Maximum group size shall not apply to field trips, outdoor play, planned large group activities, napping and eating. Staff/child ratios shall apply to these activities.
+32
+
+(c) Centers with certification in effect on July 15, 2001, shall comply with age groupings, staff/child ratios and group size in either Table 3A or Table 3B for as long as the facility is continuously used for child care, under the following conditions:
+(A) The center must choose to operate under Table 3A or Table 3B; centers shall not operate under a combination of both;
+(B) If centers wish to change from operating under one set of ratios to operating under the other set of ratios, the change shall occur at the time of certification renewal; and
+(C) Centers may change options only twice.
+TABLE 3A
+    Age of Children
+  Minimum Number of Caregivers to Children
+    Maximum Number of Children in a Group
+ Six Weeks of Age through 23 Months
+ 1:4
+  8
+ 24 Months of Age through 35 Months
+ 1:5
+  10
+ 36 Months of Age to Attending Kindergarten
+ 1:10
+  20
+ Attending Kindergarten and Older
+ 1:15
+   30
+     TABLE 3B
+(3) Children shall at all times have the full attention of the appropriate number of staff. Children shall be within sight and sound of a caregiver at all times, except as specified below.
+(a) School‐age children shall be within sight and/or sound of staff at all times, and staff shall be near enough to children to respond when needed. Children out of direct visual contact shall be monitored regularly and frequently and must be in approved activity areas. A written plan regarding the use and monitoring of these activity areas must be approved by OCC.
+(b) School age programs with toilet facilities or activities off‐site shall have a written plan, approved by OCC, to assure accountability for all children.
+    Age of Children
+  Minimum Number of Caregivers to Children
+    Maximum Number of Children in a Group
+ Six Weeks of Age and Under 30 Months
+ 1:4
+  8
+ 30 Months of Age to Attending Kindergarten
+ 1:10
+  20
+ Attending Kindergarten and Older
+ 1:15
+   30
+    33
+
+(4) At least one caregiver who meets the qualifications of a teacher (OAR 414‐300‐0100) shall supervise each group of children.
+(5) In a mixed group of older toddler, preschool and school‐age children, the number of caregivers shall be determined by the age of the youngest child in the group.
+(6) If there are four or fewer children of any age in care for 45 minutes or less directly after opening or directly before closing, OAR 414‐300‐0300(10) does not apply and infants and younger toddlers may be included with older children. The staff shall be teacher‐qualified in one of the represented age groups and the staff/child ratio must be 1:4.
+(a) Each age group must have age appropriate activities, equipment and toys available for use; and
+(b) If infants or toddlers are part of the multiple age group, a diaper changing area must be located in the room being utilized for care.
+(7) Any time there are children in care,
+(a) There shall be a staff person and one other adult on site. The other adult shall be enrolled in the Central Background Registry and shall be physically available to be called on by staff, if needed; or
+(b) There shall be a written plan, approved by OCC, for a second caregiver to be available within 5 minutes for emergencies. The name and telephone number of the emergency back‐up shall be known to all staff who work alone.
+PHYSICAL SETTING 414-300-0140 Indoor Space
+(1) There shall be a minimum of 35 square feet of indoor activity area per child. Space considered in determining the facility capacity shall be available for use by children at all times, shall be used exclusively for child care during the hours of operation and shall be determined on a room‐by‐room basis. The following shall not be counted as part of the 35 square feet per child requirement: heating units; storage areas; teachers' desks; large permanent equipment; any space not useable by children. Cribs will be counted as useable space if the space underneath the cribs is accessible to children.
+(2) A school‐age program shall have a minimum of 50 square feet of indoor activity area per child or may have a minimum of 35 square feet of indoor activity area per child if:
+(a) The children in care have access to a larger gross motor area, either indoor or outdoor, on a daily basis; or
+34
+
+(b) The center has a plan, approved by OCC, which addresses how the gross motor needs of children in care will be met.
+(3) In a room used by more than one group of children not yet attending kindergarten, the area occupied by each group shall be defined by use of portable or permanent room dividers or program equipment that stand above the eye level of the children who use the area. Rooms used only for large group activities (e.g., eating, napping, large muscle activities) are exempt from this requirement.
+(4) Storage space shall be available for each child's clothing and personal possessions.
+(5) Storage space shall be available for play equipment, teaching equipment and supplies, records and files, cots, mats, and cleaning equipment and supplies.
+414-300-0150 Outdoor Space
+(1) There shall be an outdoor activity area which the children can reach safely. If an outdoor activity area is not next to the center, or not under the control of the center during hours of operation, it cannot be used without the specific approval of OCC.
+(2) There shall be at least 75 square feet of outdoor space for each child using the area at one time. In centers where groups of children are scheduled at different times for outdoor play, there shall be 75 square feet times one‐third of the center's capacity, if permitted by local zoning regulations
+(3) The outside activity area shall:
+(a) Be suitably surfaced. All pieces of playground equipment shall be surrounded by a resilient surface of an acceptable depth or by rubber mats manufactured for such use, according to standards of the US Consumer Product Safety Commission;
+(b) Be well drained;
+(c) Be kept free of litter, solid waste and refuse, ditches, or other conditions presenting a potential hazard; and
+(d) Be equipped to provide age‐appropriate activities for gross motor development.
+(4) The outdoor activity area of a center serving children not yet attending kindergarten shall be enclosed by a barrier (fence, wall, or building) at least four feet high. Centers with certification in effect on July 15, 2001, must comply with a barrier at least three feet high until such time as the existing barrier is replaced. Spacing between vertical slats of a fence shall be no greater than 4 inches. Fences must meet applicable local codes.
+35
+
+414-300-0160 Fire Protection
+(1) The building, occupant load and means of egress, including the number of exits, exiting distances, doors and exit illumination and signs, shall meet the requirements of the Oregon Structural Specialty Code.
+(2) Rooms used for child care shall not be located above or below the ground floor, except as allowed by the Oregon Structural Specialty Code.
+(3) Fire Extinguishers
+(a) There shall be at least one 2A‐10BC‐rated fire extinguisher in the center; (b) Fire extinguisher(s) shall be placed as recommended by the fire marshal.
+(4) Smoke Detectors:
+(a) Smoke detectors shall be installed in all areas where children nap;
+(b) When the center's capacity is 50 or more, an approved manual fire alarm system shall be provided, as required by the Oregon Structural Specialty Code;
+(c) Smoke detectors shall be tested each month.
+(5) Obstructions, including furniture, storage of supplies, or any other items shall not be placed in corridors, stairwells or exit ways.
+(6) Candles or other open flame decorative devices are prohibited, except for the brief use of celebratory candles.
+(7) There shall be written evidence that any wood stove in the building has been inspected and approved for use by the local building official.
+414-300-0170 Hazards and Emergencies
+(1) Protection from Hazards:
+(a) Glass surfaces subject to impact by children shall be of safety glass and marked at a child's eye level or have a protective barrier in place.
+(b) Electrical outlets accessible to children not yet attending kindergarten shall have protective caps or safety devices when not in use.
+(c) All stairways with three steps or more used by children shall have handrails installed a minimum of thirty inches to a maximum of thirty‐four inches above the stair tread.
+36
+
+(d) Protective barriers shall be used in any hazardous location accessible to a child.
+(e) A movable barrier, such as a mesh‐type gate, shall be placed at the top and/or bottom of all stairways accessible to infants and toddlers. Gates and enclosures should have the Juvenile Products Manufacturers Assn. (JPMA) certification seal to ensure safety.
+(f) Lights shall be protected from hazards or breakage by installation of covers or shields.
+(g) All rooms used by staff and children shall have adequate lighting.
+(h) Floors shall be free of splinters, large or unsealed cracks, sliding rugs, and other hazards.
+(i) Items of potential danger to children (e.g., cleaning supplies and equipment, poisonous and toxic materials, paints, plastic bags, aerosols, detergents) shall be:
+(A) Kept in the original container or labeled;
+(B) Secured by a child‐proof lock or latch;
+(C) Stored in an area not used by children; and
+(D) Stored separately from food service equipment and supplies.
+(j) Lead‐based paint or other toxic finishing materials shall not be used on walls, furnishings, toys, or any other equipment, materials or surface which may be used by children or are within their reach.
+(k) The possession and/or storage of firearms and ammunition are prohibited in the center.
+(l) The center must take precautions to protect children from vehicular traffic. The center shall:
+(A) Require drop off and pick up only at the curb or at an off‐street location protected from traffic; and
+(B) Assure that any adult who supervises drop‐off and loading can see and assure that children are clear of the perimeter of all vehicles before any vehicle moves.
+(m) Other hazards observed in the certification process must be corrected. (2) Preparation for Emergencies:
+(a) A portable emergency light source, in working condition, shall be available with each group of children.
+37
+
+(b) Telephone service shall be accessible and available in the center at all times when children are in care.
+(c) The center must have a system in place to ensure that parents can have contact with facility staff at all times when children are in care.
+(d) Telephone numbers for fire, emergency medical care, and poison control shall be posted on or near all telephones. Portable telephones must have emergency numbers on the phone.
+(e) Written instructions for evacuating the building, including a map illustrating exiting, shall be posted in each room children use.
+(3) Emergency Plan:
+(a) The center shall have a written plan for handling emergencies, including, but not limited to, acute illness of a child or staff, floods, natural disasters (e.g. fire, earthquake, etc.), man‐caused events, such as violence at a child care facility and evacuation of the facility. The plan must include:
+(A) How the center will ensure that parents or the parents' emergency contacts can be reached in person;
+(B) Designation of an alternate safe location in the event of evacuation;
+(C) How the center will inform parents where children will be located in the event of evacuation and how children will be reunited with their families;
+(D) An accessible file of emergency contact numbers for children and staff;
+(E) Designation of a staff member(s) to take the emergency contact numbers file to the evacuation site in the event of an evacuation;
+(F) Procedures to address the needs of individual children, including infants and toddlers, children with special needs, and children with chronic medical conditions;
+(G) An acceptable method to ensure that all children in attendance are accounted for;
+(H) Procedures in the event that children must shelter‐in‐place or if the child care center must be locked‐down so that no one can enter or leave; and
+(I) Procedures for maintaining continuity of child care operations.
+(b) All staff shall be familiar with the emergency telephone numbers and emergency procedures.
+38
+
+(c) Fire drills shall be practiced monthly. In addition, one other aspect of the emergency plan shall be practiced every other month.
+(A) The director shall keep a written record of the type, date, time, and duration of the practices.
+(B) If a center has on‐site swimming or is responsible for off‐site swimming, the practices must include pool and swimming safety.
+(d) Fire and other emergency exiting shall not be through a swimming pool area.=
+414-300-0180 Sanitation
+(1) Water Supply:
+(a) The center's water supply shall be continuous in quantity and from a water supply system approved by the Health Division.
+(b) There shall be safe drinking water available to children that is supplied in a sanitary manner. Drinking water for preparing food, infant formula, drinking or cooking shall not be obtained from bathroom sinks or diaper changing sinks.
+(2) Heat and Ventilation:
+(a) The center shall be ventilated, by natural or mechanical means, and shall be free of excessive heat, condensation, and obnoxious odors.
+(b) Room temperature shall be at least 68° F. (20 C.) and not so warm as to be dangerous or unhealthy in the center when children are present.
+(c) After painting or laying carpet, the building must be aired out completely for at least 24 hours with good ventilation before children are allowed to return.
+(3) Insect and Rodent Control:
+(a) The center shall be in such condition as to prevent the infestation of rodents and insects.
+(b) Doors and windows used for ventilation shall be equipped with fine‐meshed screens.
+(c) Automatic insecticide dispensers, vaporizers, or fumigants shall not be used.
+(4) Maintenance:
+(a) The building, toys, equipment, and furniture shall be maintained in a clean and sanitary condition:
+39
+
+(A) Kitchen and toilet rooms shall be cleaned when soiled and at least daily;
+(B) The isolation area shall be thoroughly cleaned after each use and all bedding laundered before it is used again;
+(C) Door knobs and cabinet pulls in toilet rooms and diaper changing areas shall be sanitized daily;
+(D) All clean linen shall be stored in a sanitary manner;
+(E) Soiled bed linen and clothing shall not be stored in food preparation or food storage areas, and shall be inaccessible to children;
+(F) Floors, walls, ceilings, and fixtures of all rooms shall be kept clean and in good repair;
+(G) All food storage areas shall be kept clean and free of food particles, dust, dirt, and other materials;
+(H) Cribs, mats, and cots shall be sanitized with a sanitizing solution at least once a week and upon change of occupant. If visibly soiled, items must be cleaned prior to sanitizing.
+(I) Bedding shall be cleaned when soiled, upon change of occupant and at least once a week;
+(J) Water tables and toys used in water tables shall be emptied and sanitized daily;
+(K) When a chemical, such as chlorine, is used for sanitizing, a test kit that measures the parts per million concentration of the solution shall be used to ensure the proper concentration; and
+(L) Cloths, both single use and multiple use, used for wiping food spills on utensils and food‐contact surfaces shall be kept clean and used for no other purpose. Cloths that are reused shall be stored in a sanitizing solution between uses.
+(b) The center shall be kept hazard‐free, in good repair, and free of litter or rubbish and unused or inoperable equipment and utensils.
+(5) Infant and Toddler Care:
+(a) The following shall be sanitized immediately after each use. If visibly soiled, items must be cleaned prior to sanitizing:
+(A) A bathtub or other receptacle used for bathing a child; (B) A diaper‐changing table;
+40
+
+(C) High chairs, tables and chairs;
+(D) Toys that infants and toddlers put in the mouth; and (E) Toilet training seat inserts.
+(b) Pacifiers must be labeled, stored individually and sanitized after contamination. The health department must approve methods of sanitation.
+(c) A sanitizing solution shall be kept in each diaper changing area ready for immediate use. This solution need not be stored in a locked cabinet but must be out of children's reach.
+(6) Hand washing:
+(a) Staff and children shall wash their hands with soap and warm running water after using the toilet or wiping the nose, and before and after eating.
+(b) Staff shall wash their hands with soap and warm running water before and after changing a diaper, before and after feeding a child or handling food and after assisting a child with toileting or wiping the nose.
+(c) Infants' and children's hands shall be washed with soap and warm running water after diaper changing.
+(d) Commercial products labeled "hand sanitizers" shall not replace hand washing. If hand sanitizers are present in the center, they shall be kept under child‐proof lock and shall not be used by children.
+(e) When hand washing is not possible, e.g. on field trips and on the playground, moist towelettes shall be used.
+(7) Waste Disposal:
+(a) All sewage and liquid wastes shall be collected, treated, and disposed of in compliance with the requirements of the Department of Environmental Quality.
+(b) All garbage, solid waste, and refuse shall be disposed of at least once a week.
+(c) All garbage shall be kept in watertight, non‐absorbent, and easily washable containers with close‐fitting lids.
+(d) Diaper disposal containers shall be approved by the environmental health specialist.
+(e) All garbage storage areas and garbage containers shall be kept clean.
+41
+
+(f) All rubbish and garbage storage shall be inaccessible to children.
+(g) Bio‐contaminants including but not limited to bodily fluids and blood shall be disposed of in a manner that prevents exposure to children.
+414-300-0190 Toilet Facilities
+(1) Toilets:
+(a) Toilet rooms shall have at least one flush toilet for each 15 children in the center 36 months old or older.
+(b) Urinals may be substituted for not more than one‐half the required number of toilets, as long as there is at least one toilet in each toilet room and at least two toilets in the center. Facilities built after July 15, 200l, specifically as child care centers shall not substitute urinals for the required number of toilets.
+(c) Toilet facilities shall provide privacy for school age children.
+(2) Hand washing Sinks:
+(a) There shall be at least one hand washing sink with mixing faucets for every two toilets. Centers with certification in effect on July 15, 2001, shall comply with the requirement for mixing faucets when toilet facilities are remodeled.
+(b) A sink used for hand washing, bathing, or diaper‐changing shall not be used in any way for preparation of food or drinks, or for dish washing.
+(c) Hot and cold running water, as well as soap and paper towels dispensed in a sanitary manner, shall be provided at each hand washing sink. Other hand drying options must be approved by the environmental health specialist.
+(d) Self‐closing metered faucets shall be designed to provide water flow for at least 15 seconds without the need to reactivate the faucet. Centers with certification in effect on July 15, 2001, shall comply with the water flow requirement for self‐closing metered faucets when toilet facilities are remodeled.
+(e) Drinking fountains shall not be installed at sinks. If installed at sinks, the fountains shall not be used as a source of drinking water.
+(3) If toilets or hand washing sinks are adult size, easily‐cleanable steps or blocks shall be provided so that preschool age children can use the toilets and sinks without adult assistance.
+(4) Bathrooms shall have smooth, washable, easily‐cleanable walls and floors.
+42
+
+(5) Infants and Toddlers — In a center serving children under 36 months old, there shall be:
+(a) At least one flush toilet in or adjacent to each older toddler area;
+(b) One toilet with training seat, or child‐size toilet, for every ten older toddlers. Potty chairs are prohibited;
+(c) At least one diaper‐changing table in or adjacent to each activity and sleeping room. Each table shall have a surface that is non‐absorbent and easily cleaned. The diaper‐ changing policy shall be posted above each table;
+(d) A hand‐washing sink in each diaper changing area, except that centers with certification in effect on July 15, 2001, shall comply with this requirement when the diaper changing area is remodeled; and
+(e) A bathtub, bathinette, plastic basin, or similar size shallow sink available for bathing children.
+414-300-0200 Kitchens
+(1) Kitchens shall have facilities for dish washing, storage, and preparation of food. The kitchen shall be separate from any child caring areas.
+(2) If there is no kitchen in the center and if meals or snacks are not catered, the center shall observe the requirements in OAR 414‐300‐0280(8).
+(3) The walls, floors, and floor coverings of all rooms in which food or drink is prepared or stored, or utensils are washed or stored, shall be smooth, washable, and easily cleanable.
+(4) All equipment and utensils used for food service, including plastic ware and food‐contact surfaces, shall be:
+(a) Easily cleanable;
+(b) Durable;
+(c) Nontoxic;
+(d) Nonabsorbent; and
+(e) Maintained in a clean and sanitary condition.
+(5) All equipment used for food preparation shall be installed and maintained in a manner providing ease of cleaning beneath, between, and behind each unit.
+43
+
+(6) A center shall have a:
+(a) Mechanical dishwasher that meets the requirements in the Health Division's administrative rules, OAR 333‐150‐0000; or
+(b) Compartmentalized sink that meets the requirements in the Health Division's administrative rules, OAR 333‐154‐0000.
+(c) Centers with a maximum capacity of 19 children may use a light commercial dishwasher approved by the National Sanitation Foundation.
+(7) There shall be separate sinks in the kitchen designated by the environmental health specialist for hand washing, for food preparation activities, and for dishwashing activities.
+(a) The sink designated for hand washing shall be equipped with soap and paper towels dispensed in a sanitary manner and posted with a hand washing sign.
+(b) In centers in which there is not a sink provided for food preparation, a sink used for dishwashing may be used as long as dishwashing activities do not interfere with sanitary food preparation, and the sink is sanitized before being used for food preparation.
+(c) Sinks in the kitchen shall be used exclusively for food service activities.
+(d) Centers newly constructed or remodeled after July 15, 2001, shall meet the requirements for hand washing sinks established by State Building Code, as defined in ORS chapter 455.
+(8) Children shall not be allowed in the kitchen except for a supervised learning activity.
+414-300-0205 Testing for Lead in Drinking Water
+(1) For purposes of this rule, “drinking water faucet or fixture”
+(a) means any plumbing fixture on the premises used to obtain water for drinking, cooking, preparing infant formula, or preparing food; and
+(b) does not include any plumbing fixture used to obtain water for handwashing, bathing, or diaper changing.
+(2) Water obtained from fixtures identified in subsection (1)(b) of this rule cannot be used for drinking, cooking, preparing infant formula, or preparing food.
+(3) Initial Testing
+(a) Any operator with an active certificate as of September 30, 2018 must test each drinking water faucet or fixture by November 30, 2018.
+44
+
+(b) The following operators must test each drinking water faucet or fixture for lead in the water prior to being eligible to receive a license from OCC:
+(A) Any operator with a pending certificate application as of September 30, 2018; and
+(B) Any operator applying for certificate on or after September 30, 2018, including, but not limited to, initial applications, renewal applications, and reopen applications.
+(c) An operator identified in subsection (3)(a) or (b) does not need to conduct the initial testing if:
+(A) All drinking water faucets or fixtures have been tested within 6 years prior to the effective date of this rule; and
+(B) The testing was conducted in accordance with the requirements of subsection (5) of this rule.
+(d) An operator identified in subsection (3)(a) must submit all test results to OCC no later than November 30, 2018. The test results must be accompanied by a floor plan or map of the facility that identifies the location of each drinking water faucet or fixture tested.
+(e) An operator identified in subsection (3)(b) must submit test results to OCC within 10 calendar days of the operator receiving the results from the laboratory. The test results must be accompanied by a floor plan or map of the facility that identifies the location of each drinking water faucet or fixture tested.
+(4) Ongoing Testing
+(a) After an operator conducts the initial testing under subsection (3) of this rule, the operator must test all drinking water faucets or fixtures at least once every six years from the date of the last test.
+(b) All test results obtained in accordance with subsection (4)(a) of this rule must be submitted to OCC within 10 calendar days of the operator receiving the results from the laboratory. The test results must be accompanied by a floor plan or map of the facility that identifies the location of each drinking water faucet or fixture tested.
+(5) Sampling and Testing
+(a) All sample collection and testing must be in accordance with the Environmental Protection Agency (EPA)’s 3Ts for Reducing Lead in Drinking Water in Schools and Child Care Facilities, Revised Manual from October 2018, adopted by reference.
+(b) All testing must be performed by a laboratory accredited by the Oregon laboratory Accreditation Program according to standards set under OAR chapter 333, division 64 in effect as of September 30, 2018.
+45
+
+(c) If a center does not use any of the on‐site plumbing fixtures to obtain water for drinking, cooking, preparing infant formula, or preparing food, the operator must:
+(A) Submit a written statement to OCC identifying the alternative source of water and confirming that the provider does not use any on‐site plumbing fixtures for drinking, cooking, preparing infant formula, or preparing food; and
+(B) Notify OCC in writing if the alternative source of water changes.
+(6) Results
+(a) If test results show that water from any drinking water faucet or fixture has 15 parts per billion (ppb) or more of lead, the operator must:
+(A) Prevent access to that drinking water faucet or fixture immediately after receiving the test results; and
+(B) Continue to prevent access to that drinking water faucet or fixture until mitigation in completed in accordance with subsection (6)(b) of this rule.
+(b) Following receipt of test results showing that water from any drinking water faucet or fixture has 15 parts per billion (ppb) or more of lead, the operator must:
+(A) Submit a corrective action plan to OCC for approval within 60 days of receiving the test results. The corrective action plan must identify an appropriate mitigation strategy in accordance with Module 6 of the EPA’s 3Ts for Reducing Lead in Drinking Water in Schools and Child Care Facilities, Revised Manual from October 2018, adopted by reference; and
+(B) Implement the mitigation method within 30 days of approval by OCC.
+(7) Recordkeeping and Posting
+(a) The operator must keep a copy of the most recent lead test results on‐site at all times.
+(b) The operator must post the most recent lead test results summary provided by OCC in an area of the facility where the summary can be clearly viewed by parents. The operator must post the lead test results summary immediately after receiving the summary from OCC.
+(8) Certified child care centers must follow the routine practices identified in Module 6 of the EPA’s 3Ts for Reducing Lead in Drinking Water in Schools and Child Care Facilities, Revised Manual from October 2018, adopted by reference, at all times.
+46
+
+414-300-0210 Furniture
+(1) Furniture shall:
+(a) Be durable;
+(b) Have cleanable or non‐absorbent surfaces;
+(c) Be safely constructed, with no sharp, rough, loose, or pointed edges; and (d) Be in good repair.
+(2) Tables and seating shall be scaled to the height and size of a child.
+(3) There shall be a safe, washable cot or rest mat for each toddler and preschool age child in the center at nap time and for each school‐age child who wants to rest.
+(4) Each mat used for napping shall be:
+(a) Covered with a waterproof cover; and (b) At least one inch thick.
+(5) Mats or cots shall be placed at least two feet apart if children are placed head to toe; or three feet apart otherwise. They shall be arranged in a manner that allows for a direct, unobstructed passage to each child.
+(6) Each child who is resting shall have individual bedding consisting of at least a sheet or blanket.
+(7) Mats, cots and bed linen shall be properly stored, as recommended by the environmental health specialist.
+414-300-0215 Infant and Toddler Furniture and Equipment
+(1) Each infant shall have a crib, portable crib, or play pen with a clean, non‐absorbent mattress that meets the following requirements:
+(a) Each crib shall be of sturdy construction with vertical slats no more than 2 3/8" apart;
+(b) Locks and latches on the dropside of a crib shall be safe and secure from accidental release or release by the infant inside the crib;
+(c) Cribs shall not be used with the dropside down;
+(d) Each mattress shall fit snugly;
+47
+
+(e) Each mattress shall be covered by a sheet;
+(f) Crib bumpers, if used, shall be easily cleanable, durable, and not dangerous to children;
+(g) There shall be no restraining devices of any type used unless prescribed by a physician; and
+(h) Wall or stacking cribs shall not be used.
+(2) Sleeping arrangements other than cribs, portable cribs or playpens must be approved by OCC.
+(3) There shall be at least two feet of space between cribs, portable cribs or play pens when in use. They shall be arranged in a manner that allows for a direct, unobstructed passage to each child.
+(4) If high chairs are used, they shall have:
+(a) A broad base to prevent tipping;
+(b) A latch to keep a child from raising the tray; and (c) Straps to prevent a child from sliding out.
+(5) If clip‐on table chairs are used, they shall have straps to prevent a child from sliding out.
+(6) There shall be at least one adult‐sized chair for each group of infants and toddlers.
+(7) Cribs, portable cribs, playpens, and high chairs must meet US Consumer Product Safety Commission or equivalent standards.
+(8) The use of infant walkers is prohibited.
+(9) The use of baby equipment shall not substitute for providing a variety of stimulating experiences.
+HEALTH
+414-300-0220 Illness or Injury (1) Illness:
+(a) A center shall not admit or retain in care, except with the written approval of the local health officer, a child who:
+48
+
+(A) Is diagnosed as having or being a carrier of a child care‐restrictable disease, as defined in Health Division administrative rules, OAR 333‐019‐0010; or
+(B) Has one of the following symptoms, or combination of symptoms, of illness:
+(i) Fever over 100 degrees F taken under the arm;
+(ii) Diarrhea (more than one abnormally loose, runny, watery or bloody stool);
+(iii) Vomiting;
+(iv) Nausea;
+(v) Severe cough;
+(vi) Unusual yellow color to skin or eyes;
+(vii) Skin or eye lesions or rashes that are severe, weeping, or pus‐filled;
+(viii) Stiff neck and headache with one or more of the symptoms listed above; (ix) Difficult breathing or abnormal wheezing; or
+(x) Complaints of severe pain.
+(b) A child who shows signs of illness, as defined in this rule, shall be isolated and the parent(s) notified and asked to remove the child from the center as soon as possible;
+(c) If a child has mild cold symptoms that do not impair his/her functioning, the child may remain in the center and the parent(s) notified when they pick up their child;
+(d) A specific place for isolating a child who becomes ill shall be provided. The isolation area:
+(A) Shall be located where the child can be seen and heard by staff; and
+(B) Shall be equipped with a cot, mat, or bed for each sick child.
+(e) An outbreak of a child care restrictable disease, as defined in OAR 333‐019‐0010, or food poisoning shall be reported immediately to the local health department and posted for the parents of all children who attend the facility.
+(f) If a child with allergies is enrolled who needs a specific plan for caring for that child, such a plan shall be developed in writing between center staff, parents, and if necessary, outside specialists. All staff who come in contact with that child shall be fully aware of the plan.
+49
+
+(2) Injuries:
+(a) All caregivers shall take appropriate precautions to prevent shaken baby syndrome and abusive head trauma.
+(b) The operator shall have written procedures for handling injuries that shall be made known to all staff, including:
+(A) Procedure for taking a child to emergency medical care; (B) Routine for treatment of minor injuries; and
+(C) First aid measures for serious accidents.
+(c) First aid supplies and a chart or handbook of first aid instructions shall be maintained in one identified place away from food and food‐contact surfaces and be available for staff use but kept out of reach of children:
+(A) The first aid supplies shall include Band‐Aids, adhesive tape, sterile gauze pads, soap or sealed antiseptic towelettes or solution to be used as a wound cleaning agent, scissors, disposable plastic gloves for handling blood spills, chlorine bleach for sanitizing after a blood spill, and a sanitary temperature‐taking device;
+(B) Separate first aid supplies and a copy of each child's medical release form shall be taken on all field trips away from the immediate neighborhood.
+(d) Injuries or accidents shall be reported to the child's parent(s) on the day of occurrence:
+(A) A written report of the injury or accident shall be maintained on file;
+(B) The report shall include the date, child's full name, nature of the injury, witnesses, action taken, and the signatures of reporting staff and parent(s).
+(e) The injury to or death of death of a child shall be reported to OCC in accordance with OAR 414‐300‐0030(3)(a) and (b).
+(3) Emergency Medical Care:
+(a) The operator shall identify a licensed physician, hospital, or clinic to be used for emergency medical care;
+(b) In the event of an illness or injury which requires immediate medical care, the director or the substitute director is responsible for securing such care and notifying the parent(s).
+50
+
+414-300-0230 Medications
+(1) No prescription medication or non‐prescription medication, including, but not limited to, pain relievers, sunscreen, cough syrup, diapering and first aid ointments or nose drops, may be given to a child except under the following conditions:
+(a) A signed, dated, written authorization by the parent(s) is on file;
+(b) Prescription medication is in the original container and labeled with the child's name, name of the drug, dosage, directions for administering, date, and physician's name;
+(c) Non‐prescription medication is in the original container, labeled with the child's name, dosage, and directions for administering; and
+(d) A written record of all medications administered listing, as a minimum, the name of the child, type of medication, the signature of the person administering the medication, date, time, and dosage given, shall be kept.
+(2) All medications shall be:
+(a) Secured in a tightly‐covered container with a child‐proof lock or latch; and (b) Stored in an area not used by children.
+(3) Medications requiring refrigeration shall be kept in the refrigerator in a separate tightly‐ covered container, with a child‐proof lock or latch, clearly marked "medication".
+(4) Sunscreen is considered a non‐prescription medication and may be used for child care children under the following conditions:
+(a) Providers must obtain written parental authorization prior to using sunscreen.
+(b) One container of sunscreen may be used for child care children unless a parent supplies an individual container for their child. The sunscreen shall be applied in a manner that prevents contaminating the container.
+(A) Parents must be informed of the type of product and the sun protective factor (SPF).
+(B) Parents must be given the opportunity to inspect the product and active ingredients.
+(c) If sunscreen is supplied for an individual child care child, the sunscreen must be labeled with the child’s first and last name and must be used for only that child.
+(d) Providers must reapply sunscreen every two hours while the child care children are exposed to the sun.
+51
+
+(e) Providers shall use a sunscreen with an SPF of 15 or higher and must be labeled as “Broad Spectrum”.
+(f) Providers shall not use aerosol sunscreens on child care children.
+(g) Sunscreen shall not be used on child care children younger than six months.
+(h) Child care children over six years of age may apply sunscreen to themselves under the direct supervision of the provider or staff member.
+(5) Parent(s) shall be informed daily of medication administered to their child.
+414-300-0240 Animals in the Center
+(1) Animals shall be in good health, show no evidence of carrying any disease, and be a friendly companion for the children.
+(a) When immunizations are required, proof of current compliance signed by a veterinarian shall be on file at the center.
+(b) Dogs and cats shall be maintained on a flea, tick and worm control program. Products toxic to humans are prohibited.
+(c) Animals shall be cared for as recommended by a veterinarian.
+(2) Reptiles (e.g., lizards, turtles, snakes, iguanas), frogs, monkeys, hook‐beaked birds, baby chicks, ferrets, and potentially aggressive animals are prohibited. Educational programs which include prohibited animals and are run by zoos, museums and other professional animal handlers are permitted.
+(3) Parent(s) shall be informed in writing of any animal in the center.
+(4) Animals, except fish, shall not be in classrooms for infants or toddlers.
+(5) The center shall have and follow written procedures for the care and maintenance of the animals in the center.
+(6) Animals shall be kept in an approved cage for the type of animal. Cages shall have removable bottoms and shall be kept clean and sanitary.
+(7) Animal litter boxes shall not be located in areas accessible to children.
+(8) There shall be assigned staff who are responsible for the handling, care and feeding of the animal(s).
+52
+
+(a) The cleaning of cages shall not be done in areas used for food preparation, storage or serving.
+(b) Staff must immediately and thoroughly wash their hands after handling animals or cleaning cages.
+(c) The cleaning of cages shall be scheduled when children are not present.
+(d) Animal food supplies shall be kept out of the reach of children and stored separately from food supplies and equipment. Animal food shall be stored in a manner that does not attract rodents or insects.
+(e) Chemicals related to the care of animals shall be kept under lock.
+(9) Caregivers shall always be present when children are exposed to animals.
+(10) If children are allowed to handle animals, they shall immediately and thoroughly wash their hands after handling.
+414-300-0250 Food Selection, Storage, and Preparation
+(1) All food and drink provided by the center shall be selected, stored, prepared, and served in a sanitary manner.
+(2) Selection:
+(a) All food products served by the center shall be obtained from commercial suppliers, except that:
+(A) Fresh fruits and vegetables and center‐frozen fruits or vegetables may be served;
+(B) Home‐canned or processed food may be served to a child only when supplied by the child's parent(s); and
+(C) The serving of unpasteurized juice is prohibited.
+(b) Only Grade A pasteurized and fortified milk shall be served to children.
+(A) Powdered milk shall be used only in cooking.
+(B) The serving of unpasteurized milk is prohibited.
+(3) Storage:
+(a) A center shall have at least one refrigerator, in good operating condition, that is adequate to store all potentially hazardous foods. "Potentially hazardous food" means
+53
+
+any food or beverage that contains milk or milk products, eggs, meat, fish, shellfish, poultry, cooked rice or beans, and all other previously cooked foods.
+(A) A spirit stem (alcohol filled — usually red) thermometer in working condition shall be affixed to the door, or the front edge of the top shelf, of each refrigerator.
+(B) Refrigerators equipped with a temperature gauge visible from the exterior are acceptable.
+(b) All potentially hazardous food shall, except when being prepared, be kept at 41 degrees Fahrenheit (F) or below, or 140 degrees F or above.
+(A) Foods requiring refrigeration after preparation shall be rapidly cooled to a temperature of 41 degrees F or below.
+(B) Refrigerated storage space at 41 degrees F or less shall be used to store lunches which contain potentially hazardous food that children bring from home.
+(C) A metal stem‐type probe thermometer shall be used to ensure food requiring hot storage is maintained at 140 degrees F or above.
+(D) Foods that have been cooked, and then refrigerated, shall be reheated rapidly to at least 165 degrees F before being served or placed in a hot food storage unit.
+(4) Preparation:
+(a) Food shall be prepared with a minimum of manual contact.
+(b) Raw fruits and vegetables shall be washed in a clean, sanitized sink before being cooked or served.
+(c) Food shall be prepared on food‐contact surfaces and with utensils that are clean and have been sanitized.
+(d) Food‐contact surfaces and utensils shall be cleaned and sanitized after each use and/or whenever there is a change in processing from raw to ready‐to‐eat foods.
+(e) Only approved food additives and preservatives shall be used by the center.
+(5) Service:
+(a) Each child shall be provided with his/her own individual use utensils for eating and drinking. These may be:
+(A) Single service paper and plastic which shall be used once only; or
+54
+
+(B) Multiple use utensils which shall be washed in the prescribed manner between each use (OAR 414‐300‐0260).
+(b) To protect food from contamination:
+(A) A suitable dispensing utensil, that is not used for any other purpose, shall be used to transfer a food item to each child's plate or bowl; and
+(B) A bowl, platter, pitcher, or dispensing utensil used for serving food or drink shall not be refilled or reused without first being washed and sanitized.
+(c) Milk and fluid milk products shall be dispensed from a commercially filled plastic container of not more than one‐gallon capacity, individual half‐pint containers, or from a refrigerated bulk container equipped with an approved dispensing device.
+(A) Milk containers shall be opened immediately before pouring.
+(B) Any unused portions left in the original container shall be returned immediately to refrigeration.
+(C) Unused portions of milk left in a pitcher shall be discarded.
+(a) All food, once removed from the kitchen for service, shall be discarded.
+(b) Leftover prepared food which has not been served shall be labeled and dated, rapidly cooled, and used within 36 hours, or frozen immediately for later use.
+414-300-0260 Cleaning, Sanitizing, and Storage of Food Service Equipment and Utensils
+(1) Tableware and kitchenware (e.g., pots, pans and equipment) shall be washed, rinsed, and sanitized after each use:
+(a) When mechanical cleaning and sanitizing methods are used, the requirements in the Health Division's administrative rules, OAR 333‐150‐0000, Food Sanitation Rules, shall be met;
+(b) When manual washing, rinsing, and sanitizing of dishes and equipment is used, the requirements in the Health Division's administrative rules, OAR 333‐150‐0000, Food Sanitation Rules, shall be met.
+(2) Food‐contact surfaces of equipment shall be washed, rinsed, and sanitized after each use.
+(3) All multi‐use utensils and counters, shelves, tables, refrigeration equipment, sinks, drain boards, dish tables, cutting boards, appliances, and other equipment or utensils used for food preparation shall be kept clean and in good repair.
+(4) After being sanitized, all tableware, equipment, and utensils shall be air dried.
+55
+
+(5) After being cleaned and sanitized, tableware and utensils shall be:
+(a) Stored in a clean, dry place protected from insects, dust, and other contamination; and (b) Handled in a way that protects them from contamination.
+414-300-0270 Nutrition
+(1) An operator shall provide or ensure the availability of adequate and nutritious meals and snacks appropriate for the ages and needs of the children served. USDA guidelines will be used to determine if meals and snacks are adequate and nutritious. Foods of minimal nutritional value (e.g., Jell‐O, popcorn, desserts, potato chips) shall only be served occasionally and not replace nutritious foods.
+(2) Each lunch and dinner served shall equal at least 1/3 of a child's daily nutritional needs. Every meal shall meet USDA guidelines and shall include at least one serving from each of the following groups: fluid milk; breads and grains; meat, fish, poultry or meat alternatives (e.g., dried beans, peanut butter, yogurt or cheese). Each meal shall include two servings of fruits and vegetables. No liquids other than milk and 100% fruit juice shall be counted as part of the daily nutrition.
+(3) Each breakfast served shall meet USDA guidelines and shall include at least one serving each of milk, fruit or vegetable, and bread or grain.
+(4) Snacks (mid‐morning or mid‐afternoon) shall meet USDA guidelines and shall consist of food or beverage from at least two of the following food groups: fluid milk; breads and grains; meat, fish, poultry or meat alternatives (e.g., dried beans, peanut butter, yogurt or cheese); fruits and vegetables. No liquids other than milk and 100% fruit juice shall be counted as part of the daily nutrition. A snack shall not consist of only two beverages.
+(5) No liquids other than milk, formula, water, and 100 percent fruit juices shall be served to the children in care.
+(6) Water shall be freely available to children.
+(7) Nutrient concentrates and supplements (protein powders, liquid proteins, vitamins, minerals, and other nonfood substances) shall not be served to a child without a written statement of parental consent and written instructions from a medical practitioner. Special diets, not including vegetarian diets, shall not be served to a child without written instructions from a registered dietician or medical practitioner and written parental consent.
+56
+
+414-300-0280 Meals and Snacks
+(1) Meals and snacks provided to children shall meet the following requirements:
+(a) Food services hours may be flexible but there shall be no more than 3‐1/2 hours between meals and snacks in any center providing care for the same children 3‐1/2 or more consecutive hours;
+(b) In a center open morning through afternoon, lunch and morning and afternoon snacks shall be served to the children in care. If breakfast is served in the center to all children, a midmorning snack is not required, as long as there is no more than 3‐1/2 hours between meals;
+(c) School age children arriving after school shall be served a snack; and
+(d) When the planned attendance is prior to 7 a.m. or after 6:30 p.m., a child shall be offered a complete meal if it is not provided or arranged for by the parent(s).
+(2) Meals for children shall be: (a) Prepared on‐site;
+(b) Catered; or
+(c) Provided by the parent(s).
+(3) During the service and eating of meals and snacks, the appropriate number of staff to meet staff/child ratios shall be engaged with the children in food‐related activities.
+(4) Proper hand washing, as specified in OAR 414‐300‐0180(6) shall be practiced prior to and after eating meals or snacks.
+(5) When parent(s) provide food for the meal:
+(a) Food shall be brought on a daily basis and be ready to eat;
+(b) All food and beverage containers shall be labeled with the child's name;
+(c) The center shall provide at least one serving of milk to each child at meals and shall provide morning and afternoon snacks;
+(d) Each child's food shall be monitored daily to ensure that the food meets nutritional requirements as defined in OAR 414‐300‐0270;
+(e) The center shall have sufficient food available to supplement any lunch that does not meet nutrition requirements as defined in OAR 414‐300‐0270;
+57
+
+(f) If parents bring food for all the children as snacks or for celebrations, the food shall be commercially prepared and served by the center in an approved manner; and
+(g) There shall be a refrigerator on site to store foods needing refrigeration.
+(6) Catered foods shall be:
+(a) Prepared in a kitchen approved by the State Health Division or a county health department; and
+(b) Delivered in a safe, sanitary manner with food maintained at the required temperature (OAR 414‐300‐0250).
+(c) If meals are catered, the process of receiving, holding and serving food shall be approved by the environmental health specialist.
+(7) To serve family style meals, where food is brought to the table in larger quantities and served to the plates from the table, a center must have a written plan, approved by the environmental health specialist and OCC, which includes at least the following elements:
+(a) Provision for handwashing immediately prior to eating;
+(b) Separate serving portions for each table;
+(c) Serving utensils distinct from eating utensils;
+(d) Table accommodations for group sizes no larger than those stated in OAR 414‐300‐ 0130, Table 3A or Table 3B, for that age group;
+(e) Provision for serving mildly ill children so as to prevent the spread of the illness; and
+(f) The discarding of any food brought to the table and not eaten.
+(8) If there is no kitchen in the center and if meals or snacks are not catered:
+(a) Only single service utensils shall be used;
+(b) Either commercially‐prepared, individually‐packaged, single‐serving foods shall be served or the serving of bulk food shall be approved by the environmental health specialist;
+(c) Utensils that require washing shall not be used or stored on site;
+(d) Food shall be stored in a space used only for food, beverages and single‐service utensils; and
+58
+
+(e) If foods needing refrigeration are served, the center shall have a refrigerator.
+(9) A center serving children under 12 months of age shall comply with the following requirements for those children:
+(a) Each child shall be fed on his/her own feeding schedule;
+(b) When formula is provided by the center, it shall be either the commercially prepared, iron‐enriched, ready‐to‐feed type or shall be prepared from powder or concentrate and diluted according to manufacturers' instructions. When formula is prepared on site, it must be mixed in a kitchen approved by the environmental health specialist, and the program must have a written plan for mixing formula and sanitizing bottles and nipples. The plan must be approved in writing by the environmental health specialist;
+(c) Formula, breast milk, and food provided by the parent(s) shall be clearly marked with the child's name and refrigerated if required;
+(d) Whole milk, skim milk, 1%, and 2% milk shall not be served unless requested in writing by the child's parent(s) and with a medical provider's written permission.
+(e) Any bottles used for feeding liquid must be sterilized at the center by boiling or must come from home labeled by the parent with the child's name. Nipples must be stored in a closed container after sterilizing;
+(f) Solid foods fed to infants shall be selected from the food groups specified in OAR 414‐ 300‐0270(2):
+(A) Solid foods shall not be fed to infants less than four months of age without parental consent;
+(B) Solid food shall not be served directly from the container;
+(C) Leftovers in the serving container shall be discarded; and
+(D) Solid foods, with the exception of finger foods, shall be fed with a spoon.
+(g) Honey or foods containing honey shall not be served to children under 12 months of age; and
+(h) Children who cannot feed themselves shall be held or, if able to sit alone, fed in an upright position.
+(A) Infants up to six months of age shall be held or sitting up in a caregiver’s lap for bottle feeding.
+(B) Bottles shall never be propped. The child or a staff person shall hold the bottle.
+59
+
+(C) Infants no longer being held for feeding shall be fed in a manner that provides safety and comfort.
+(10) Children of any age shall not be laid down with a bottle.
+PROGRAM OF CARE OF CHILDREN
+414-300-0290 Program Plan
+(1) The center shall develop and post a written daily schedule for each group of children, according to their ages, interests and abilities. The schedule shall:
+(a) Cover all hours of operation;
+(b) Include regularity of routine activities such as eating, napping and toileting;
+(c) Include periods of outdoor play each day when weather permits; and
+(d) Include one or more regularly scheduled rest periods. Children who do not sleep after 20–45 minutes of quiet time must be provided with an alternative quiet activity. The activity may be in the same room where children are sleeping if it is not distracting to sleeping children.
+(2) The center shall follow the written daily schedule, allowing
+414-300-0295 Program of Activities for All Children
+(1) All caregivers must give the children’s needs first priority, ensuring that they get adequate care and attention.
+(2) The center shall provide a written program of activities for each group of children according to their developmental ages, interests, and abilities. The program of activities must allow for change and flexibility and show evidence of the preplanning.
+(3) The program of activities shall be planned to provide:
+(a) Positive learning experiences appropriate to the individual developmental needs of children in care;
+(b) Individual and group activities;
+(c) A balance of active and quiet activities;
+(d) Opportunities for free choice by children; and
+60
+
+(e) Daily indoor and outdoor activities in which children use both large and small muscles.
+(4) The center shall follow the written program of activities.
+(5) The center shall inform parents when children are participating in contracted services (e.g., tumbling, music) that the contracted services have not been certified by OCC.
+414-300-0300 Infant and Toddler Program of Activities
+(1) Each infant and toddler shall be:
+(a) Allowed to form and follow his or her own pattern of sleeping and waking periods; and
+(b) Given opportunities during each day to move freely by creeping and crawling in a safe, clean, open, warm, and uncluttered area.
+(2) Throughout the day, each child shall receive physical contact and individual attention (e.g., being held, rocked, talked to, sung to, and taken on walks inside and outside the center).
+(3) Routines relating to activities such as bedtime, feeding, diapering, and toileting shall be used as opportunities for language development, building the child's self esteem, and other learning experiences.
+(4) Children shall be encouraged to play with a variety of safe toys and objects.
+(5) Children shall be given appropriate opportunities to use the five senses through sensory play.
+(6) The following safe sleep practices must be followed:
+(a) Each infant shall sleep in a crib, portable crib, bassinet or playpen with a clean, non‐ absorbent mattress. All cribs, portable cribs, bassinets and playpens must comply with current Consumer Product Safety Commission (CPSC) standards;
+(b) Bassinets may only be used until the infant is able to roll over on their own;
+(c) Each mattress shall:
+(A) Fit snugly; and
+(B) Be covered by a tightly fitting sheet;
+(d) A clean sheet shall be provided for each child;
+(e) Infants must be placed on their backs on a flat surface for sleeping;
+61
+
+(f) While on the child care premises, if an infant falls asleep in a place other than their crib, portable crib, bassinet or playpen, the caregiver must immediately move the infant to an appropriate sleep surface;
+(g) No child shall be routinely left in a crib, portable crib, bassinet or playpen except for sleep or rest;
+(h) There shall be no items in the crib, portable crib, bassinet or playpen with the infant, except a pacifier (e.g. bottles, toys, pillows, stuffed animals, blankets, bumpers);
+(i) Swaddling or other clothing or covering that restricts the child's movement is prohibited;
+(j) Clothing or items that could pose a strangulation hazard (e.g. teething necklaces, pacifier attachments, clothing drawstrings) are prohibited; and
+(k) Car seats are to be used for transportation only. Children who are asleep in a car seat must be removed upon arrival to the center and placed in an appropriate sleep surface.
+(7) Immediate attention shall be given to the emotional and physical needs of children.
+(8) Staff shall encourage the development of self‐help skills (dressing, toileting, washing, eating) as children are ready.
+(9) In addition to those activities specified in OAR 414‐300‐0295(2), toddlers shall be given opportunities to participate in:
+(a) A variety of activities encouraging creative expression through the arts; and
+(b) Running, climbing, and other vigorous physical activities.
+(10) Infants and younger toddlers shall have an activity area not used by older children at the same time.
+(11) The center shall provide the following information to each parent of an infant and toddler on a daily basis:
+(a) Their child's schedule of feeding;
+(b) Their child's toilet and diapering activities; and (c) Their child's sleep schedule.
+62
+
+414-300-0310 Preschool-Age Program of Activities
+In addition to those activities specified in OAR 414‐300‐0295(2), preschool age children shall have opportunities, on a daily basis, to choose from a variety of activities and experiences, which shall include:
+(1) Creative expression through the arts; (2) Dramatic play;
+(3) Gross motor development;
+(4) Fine motor development;
+(5) Music and movement;
+(6) Opportunities to listen and speak;
+(7) Concept development;
+(8) Appropriate sensory play; and
+(9) A supervised nap or rest period.
+414-300-0320 School-Age Program of Activities
+(1) School age programs shall provide an environment where adults' actions demonstrate respect for school age children's changing physical, emotional and intellectual needs.
+(2) School age children shall have the opportunity to take part, on a daily basis, in activities which support their need to practice and build skills in problem‐solving, making responsible choices, cooperation, creativity, and appropriate social interactions.
+(3) In addition to those activities specified in OAR 414‐300‐0295(2), school age children shall have opportunities to choose from a variety of activities, including:
+(a) Creative expression through the arts;
+(b) Individual projects, which may include homework;
+(c) Exposure to individual and team physical activities;
+(d) Opportunities to experience or learn about the tasks of adulthood (e.g., the world of work, taking responsibility, budgeting); and
+63
+
+(e) Opportunities to rest if tired. The center shall provide a space that encourages rest for those children who wish to rest.
+(4) The center shall have age‐appropriate activities and equipment for school age children.
+414-300-0330 Guidance and Discipline
+(1) A center shall have a written policy on guidance and discipline of children. The policy shall be posted in the center.
+(2) All staff, volunteers and parents shall be familiar with the guidance and discipline policy.
+(3) The guidance and discipline policy shall:
+(a) Provide for positive guidance, redirection, and the setting of clear‐cut limits; and
+(b) Be designed to help the child develop self‐control, self‐esteem, and respect for others.
+(4) Only staff, excluding volunteers, shall provide guidance or discipline to a child.
+(5) Guidance and discipline shall be fair, consistently applied, timely, and appropriate to the infraction and the age of the child. Positive statements or redirection of behaviors shall be used.
+(6) Prohibited punishment includes, but is not limited to:
+(a) Hitting, slapping, shaking, striking with hand or instrument, pinching, tying or binding or inflicting any other form of corporal punishment;
+(b) Mental or emotional punishment including, but not limited to, name calling, ridicule, yelling, or threats;
+(c) Non‐prescription chemical restraints used for discipline or to control behavior;
+(d) Confining a child in an enclosed area (e.g., a locked or closed room, closet, box);
+(e) Forcing or withholding meals, snacks, rest, or necessary toilet use; or
+(f) Belittling a child for or forcing a child to clean up after toileting accidents.
+(7) The center shall not accept parental permission to use any form of punishment listed in subsection (6) of this rule.
+64
+
+414-300-0340 Equipment and Materials
+(1) The center shall have play equipment and materials that are:
+(a) Appropriate to the developmental needs and interests of the children;
+(b) Sturdy and free of sharp points or corners, splinters, protruding nails or bolts, loose rusty parts, hazardous small parts, or paint that contains lead or other toxic materials;
+(c) In good condition; and
+(d) Easily accessible to the children.
+(2) The quantity and variety of play materials (i.e., toys, books and games) shall be sufficient to:
+(a) Avoid excessive competition;
+(b) Provide a variety of choices to each child;
+(c) Provide a balance of:
+(A)Active/quiet activities; and
+(B) Individual/group activities;
+(d) Meet the developmental needs of each group of children; and
+(e) Provide the variety of activities required in OAR 414‐300‐0295, 414‐300‐0300, 414‐300‐ 0310, and 414‐300‐0320, as appropriate.
+(3) The center shall have a variety of age‐appropriate toddler, preschool and school age toys, materials and equipment which give children choices from the following:
+(a) Blocks;
+(b) Manipulatives;
+(c) Books;
+(d) Sensory experiences; (e) Gross motor activities; (f) Music;
+(g) Art;
+65
+
+(h) Dramatic play;
+(i) Science and/or exploration; and
+(j) Discovery of nature.
+(4) Infants shall have a variety of appropriate infant toys stimulating to the senses.
+414-300-0350 Transportation
+When transportation is provided by or arranged for by the center, the following requirements shall be met:
+(1) Drivers shall:
+(a) Be at least 18 years of age;
+(b) Hold a current driver's license. If required by the Motor Vehicles Division (DMV), a commercial driver's license shall be obtained; and
+(c) Maintain a safe driving record.
+(d) The provider must take precautions to protect children from vehicular traffic.
+(2) The operator shall obtain a copy of the driving record from DMV for each staff whose job description includes driving duties. The DMV check shall be updated annually.
+(3) The vehicle shall be:
+(a) In compliance with all applicable state and local motor vehicle laws; and (b) Maintained in a safe operating condition.
+(4) If transportation is provided between the center and the child's school or other destination, the center shall have in writing an acknowledgment from the parent(s) that they are aware of the time of day their child is to be picked up and/or delivered by the center. If the pick‐up schedule results in children being unsupervised at school or other location, the center shall notify parents of this fact.
+(5) When transporting children on a regular basis, there shall be sufficient staff to meet the required staff/child ratios (OAR 414‐300‐0130) for each age group of children being transported.
+(a) The driver may count in the staff/child ratios.
+66
+
+(b) Staff shall be teacher‐qualified or Aide II qualified. Aide I qualified staff may count in the staff/child ratios if one other staff is teacher‐qualified.
+(c) If none of the staff is teacher‐qualified, an adult in the vehicle shall be trained in first aid and the vehicle shall be equipped with a cell phone or other communication device.
+(6) When transporting children on field trips, the center shall follow its procedures for field trips as described in OAR 414‐300‐0030(9)(e). The procedures shall include, but not be limited to, requirements regarding drivers and adult supervision.
+(7) When transporting children for any and all purposes:
+(a) Children shall be transported only in sections of vehicles designed for and equipped to carry passengers;
+(b) A seat that fully supports the passenger shall be provided for each child;
+(c) All children, shall be transported in accordance with ORS 811.210. The child safety system and safety belts shall comply with ORS 815.055 and the standards adopted by the Oregon Department of Transportation;
+(d) Infants, toddlers, and preschool age children shall leave the vehicle on the same side of the street as the building they will enter;
+(e) Drivers delivering children to their homes shall not depart until the child has been received by an authorized person; and
+(f) No child shall be left unattended inside or outside a vehicle.
+(8) The center shall maintain a written plan for transportation.
+(9) The following vehicles may be used to transport child care children:
+(a) A vehicle manufactured to carry fewer than ten passengers;
+(b) A school bus or a multi‐function school activity bus;
+(c) A vehicle manufactured to carry ten or more passengers that was manufactured in 2010 or after; or
+(d) A vehicle manufactured to carry ten or more passengers that was manufactured before 2010, with the following conditions:
+(A) Travel speed may not exceed 50 mph; and
+67
+
+(B) The vehicle must have an annual safety inspection by a garage, dealership or auto repair shop. Proof of inspection must be on the form provided by the Early Learning Division or on a form provided by the inspector which contains the same information.
+SPECIAL PROGRAMS 414-300-0360 Night Care
+(1) A center providing night care to children shall meet all the requirements for child care centers contained in OAR 414‐300‐0000 through 414‐300‐0415, except for 414‐300‐0150, 414‐300‐0290 through 414‐300‐0320, and 414‐300‐0340(2)(e). In addition, the center shall comply with the following requirements:
+(a) Staffing:
+(A) During the hours of night care, the required staff/child ratio shall be maintained in the center.
+(B) There shall be at least two staff persons present and awake at all times.
+(C) All sleeping and awake children shall be within sight and sound of staff at all times. Audio and/or video monitoring devices shall not substitute for sight and sound supervision.
+(b) Safety:
+(A) No one shall be allowed to enter except authorized persons including, but not limited to, the child's family, persons authorized by the parent(s), staff, OCC certification representatives, fire safety officials, and environmental health specialists.
+(B) The center shall provide staff training for evacuating sleeping children in an emergency.
+(C) There shall be emergency lighting in each room used by children.
+(c) Activities:
+(A) The center shall provide a program of activities for children according to their ages, interests, and abilities.
+(B) There shall be quiet time activities, such as story‐time, games, arts and crafts, and reading, for each child arriving before bedtime.
+68
+
+(C) There shall be toys and equipment available to meet the needs of children in night care.
+(D) There shall be an activity area away from sleeping children where the awake children may engage in activities.
+(d) Sleeping Arrangements:
+(A) Space shall be arranged so that children may go to sleep at various times, based on their age and need for rest.
+(B) All sleeping rooms used by children shall have two usable exits. A sliding door or window that can be used to evacuate children may be considered a usable exit.
+(C) Each child who spends the majority of his/her sleeping hours per night in night care shall have a bed and mattress, or another sleeping arrangement that provides adequate support to a child's body with a waterproof cover and of a size appropriate to the age of the child.
+(i) Cribs shall comply with OAR 414‐300‐0215(1).
+(ii) The upper level of bunk beds shall not be used for children under 10 years of age
+(iii) The upper level of bunk beds may be used for children 10 years or older if a bed rail and safety ladder are provided.
+(D) Each child who does not spend the majority of his/her sleeping hours in night care shall have a crib, cot, or mat with bedding that complies with OAR 414‐300‐0210 and 414‐300‐0215.
+(E) Children who attend the center for the evening hours, but do not spend the whole night, shall have an opportunity to sleep, if needed.
+(F) No children shall share a bed.
+(G) Each sleeping arrangement occupied by a child shall have sheets, pillows, pillowcases, and blankets.
+(H) Bed linens shall be changed upon change of occupant and at least once a week.
+(e) Personal Hygiene:
+(A) Each child shall have an individual washcloth, towel, toothbrush, comb or brush, and sleepwear.
+(B) Children staying the night shall have the opportunity to bathe and brush their teeth.
+69
+
+(i) There shall be at least one bathtub or shower for each 15 children. Bathtubs and showers shall be equipped to prevent slipping.
+(ii) When bathing, showering, or brushing teeth, children shall be supervised by staff.
+(iii) Privacy between the sexes shall be maintained for school age children.
+(iv) Tubs or showers shall be cleaned after each use. If visibly soiled, tubs and showers must be cleaned prior to sanitizing.
+(v) Glass shower doors or glass tub enclosures shall be constructed of safety glass.
+(f) Meals and Snacks:
+(A) Each child present at the time the evening meal is scheduled shall be served a meal.
+(B) A nutritious nighttime snack (OAR 414‐300‐0270(4)) shall be available to all children in care.
+(C) Each child present at the time breakfast is scheduled shall be served breakfast, unless the parent(s) specifies otherwise.
+414-300-0380 Swimming Activities
+The following requirements apply to swimming/water activities provided on the premises of a child care center, or off premises by another organization, public or private, when part of the center's program.
+(1) Definitions.
+(a) "Beginning swimmer" means a child who has mastered the skills required to:
+(A) Hold his breath with his head submerged;
+(B) Perform a front and back float;
+(C) Perform the flutter kick on his front and back;
+(D) Be able to level off from a vertical entry into a float position; and
+(E) Do a combined stroke (front or back) for at least 20 feet without stopping.
+(b) "Non‐swimmer" means a child who does not meet the definition of beginning swimmer.
+70
+
+(c) "Lifeguard" means a person holding current certification and meeting the requirements of OAR 333‐060‐0015(13).
+(d) "Swimming pool" means a swimming or wading pool licensed by the Oregon Health Division or one of its delegated agents under the requirements of OAR 333‐060‐0005 through 333‐060‐0225.
+(e) "Wading" means water activities in which the water's depth is no higher than the child's knee.
+(2) General Health and Safety:
+(a) Children with diarrhea or who have had diarrhea within the last two weeks shall not use the pool.
+(b) Children who are not toilet trained shall wear swim diapers.
+(c) Children shall use the toilet and shower before entering the pool.
+(d) Proper supervision shall be maintained, as specified in OAR 414‐300‐0380(3)(e), (f) and (g) and 414‐300‐0380(4)(d).
+(e) The pool operator shall maintain water quality as required in OAR 333‐060‐0200 or pool use shall cease until the water quality is restored.
+(f) Children using the pool shall participate in basic water safety instruction based on their ages and developmental levels.
+(g) Recreational swimming is not allowed for non‐swimmers ages 6 weeks to 36 months in swimming pools with water depth 24 inches and over.
+(h) Portable‐style wading pools are not permitted.
+(3) On‐Premises Pool Facilities:
+(a) On‐premises pool facilities shall be licensed by the Oregon Health Division or its delegated agent and shall comply with the requirements in OAR 333‐060‐0005 through 333‐060‐0225.
+(b) On‐premises pool facilities shall have toilets and showers for use by the swimmers.
+(c) All new pools or pools at centers certified after July 15, 200l, shall have dressing areas for each sex, with storage for the childrens' clothes.
+71
+
+(d) All activities occurring in a pool shall be under the direction and direct supervision of lifeguards.
+(e) Center staff/child ratios shall be maintained at all times children are in the pool area, as specified in Table 4 of this rule.
+(A) All adults counted in the staff/child ratios in Table 4 shall be able to swim if the water is more than 48 inches deep and, regardless of the water depth, shall be dressed for swimming.
+(B) For children 6 weeks to 36 months, one of the required staff must be in the water. Other staff may be on deck.
+(f) Lifeguard/child ratios shall be maintained at all times children are in the pool area:
+(A) For children not yet attending kindergarten, there shall be one lifeguard for every 20 children;
+(B) For children attending kindergarten and older, there shall be one lifeguard for every 40 children; and
+(C) For mixed age groups of children, the age of the youngest child shall determine the lifeguard/child ratio.
+(g) During all periods of pool operation, the appropriate number of life guards shall be on duty in the pool area. During periods of recreational swimming, at least one of the required number of life guards shall be stationed on the pool deck.
+(h) Water activities that involve a sprayer or spray feature using potable water that is not re‐circulated or collected may be conducted by the center.
+72
+
+TABLE 4
+Staffing Requirements for Swimming Wading Pools‐ Water Depth under 24 Inches
+       Non‐Swimmer
+  Beginning Swimmer
+ Age of Child
+  Staff/Child Ratio
+Staff/Child Ratio
+   Staff/Child Ratio
+  Staff/Child Ratio
+   Lessons
+ Recreation
+    Lessons
+    Recreation
+   Six Wks – 36 Mo
+  1:1
+1:1
+  1:4
+  1:1
+  36 Mo – Not Yet Attending Kindergarten
+  1:6
+1:6
+  1:8
+ 1:8
+ Attending Kindergarten +
+  1:10
+ 1:10
+    1:10
+   1:15
+      Swimming Pools‐ Water Depth from 24 – 48 Inches
+      Non‐Swimmer
+  Beginning Swimmer
+ Age of Child
+  Staff/Child Ratio
+Staff/Child Ratio
+   Staff/Child Ratio
+  Staff/Child Ratio
+   Lessons
+ Recreation
+    Lessons
+    Recreation
+   Six Wks – 36 Mo
+  1:1
+Not Allowed
+  1:4
+  1:1
+  36 Mo – Not Yet Attending Kindergarten
+  1:5
+1:2
+  1:7
+ 1:7
+ Attending Kindergarten +
+  1:10
+ 1:10
+    1:10
+   1:15
+      Swimming Pools‐ Water Depth over 48 Inches
+      Non‐Swimmer
+  Beginning Swimmer
+ Age of Child
+  Staff/Child Ratio
+Staff/Child Ratio
+   Staff/Child Ratio
+  Staff/Child Ratio
+   Lessons
+ Recreation
+    Lessons
+    Recreation
+   Six Wks – 36 Mo
+  1:1
+Not Allowed
+  1:4
+  1:1
+  36 Mo – Not Yet Attending Kindergarten
+  1:4
+Not Allowed
+  1:6
+  1:6
+  Attending Kindergarten +
+  1:5
+ 1:5
+   1:10
+  1:15
+      73
+
+(i) A written plan for pool emergencies shall be available to all staff. The plan shall cover procedures for medical emergencies, chemical emergencies and severe weather.
+(A) Staff shall be familiar with emergency procedures, the use of safety equipment and emergency contacts.
+(B) The center shall provide in‐service training and/or drills of the emergency procedures for the pool at least every six months. The director shall keep a written record of the type, date, time and duration of the training/drills.
+(C) Emergency telephone numbers shall be posted near the telephone in the pool area and near a centrally‐located and accessible telephone in the center.
+(j) Safety equipment shall be provided and comply with OAR 333‐060‐0005 through 333‐ 060‐0225. In addition:
+(A) All pools shall have an emergency telephone located in the pool area. The telephone shall be able to dial directly for emergency assistance, unless otherwise approved by the Oregon Health Division.
+(B) A bodily‐fluid spill clean‐up kit shall be provided in the pool area. The kit shall consist, at a minimum, of protective gloves, disinfectant, clean‐up materials (e.g., bucket, sponge, paper towels), and a biohazard waste bag, be stored in a complete condition, and be replaced or restocked immediately after use.
+(C) A rescue tube, of the type required by the lifeguard certifying agency, shall be provided for each lifeguard on duty.
+(4) Off‐Premises Pool Facilities:
+(a) Off‐premises pool facilities used by the center shall be licensed by the Oregon Health Division as public swimming pools.
+(b) The off‐premises pool management shall be made aware of the child care center rules regarding swimming activities.
+(c) Center staff and children shall comply with the rules and regulations of the public swimming pool.
+(d) Center staff shall comply with the staff/child ratios in Table 4 of this rule. Lifeguard/child ratios shall be determined by the public swimming pool.
+(e) Children shall be within sight and sound of center staff at all times.
+(f) First aid supplies and a copy of each child's medical release form shall be taken to off‐ premises pool facilities.
+74
+
+(5) Natural Bathing Areas:
+(a) The center shall not conduct swimming activities in areas with flowing water.
+(b) Wading is the only water activity permitted in shallow surf, lakes, rivers and streams.
+414-300-0390 Drop-in Care
+(1) A Drop‐In Center shall meet all the requirements for child care centers contained in OAR 414‐300‐0000 through 414‐300‐0415, except for 414‐300‐0150.
+(2) The center shall comply with the following requirements which apply to Drop‐In Care provided exclusively for drop‐in children as a single primary service or as a separate component of a child care center.
+(a) The child care area used for Drop‐In Care shall not be used by the children from any other component of the center.
+(b) Staff assigned to provide Drop‐In Care shall not be responsible for children from any other component of the center at the same time.
+(c) The planned attendance for a child in Drop‐In Care shall not exceed two and one half full days per week, or twenty‐five hours per week.
+SANCTIONS
+414-300-0400 Suspension, Denial and Revocation
+(1) The Office of Child Care may immediately, and without prior notice, suspend the child care certification when, in the opinion of OCC, such action is necessary to protect the children from physical or mental abuse or a substantial threat to health, safety or well‐being. Such action may be taken before an investigation is completed.
+(2) A center whose certification has been suspended must immediately notify, verbally or in writing, all parents of the suspension.
+(3) A center whose certification has been suspended must immediately provide OCC with all names, work and home telephone numbers and addresses of the parent(s) or legal guardian(s) for each child.
+(4) A center whose certification has been suspended must post the suspension on the main entry door where it can be viewed by parents and others for the duration of the suspension.
+(5) If necessary to protect children, OCC may give public notice of denial, suspension or revocation action taken. The type of notice will depend on individual circumstances.
+75
+
+(6) If the center does not request a hearing and the conditions which resulted in suspension have not been corrected, the certification shall be revoked.
+(7) Certification may be denied or revoked if the center fails to meet requirements, provide OCC with information requested, allow an inspection, correct deficiencies, or is operated or maintained in a manner which is harmful to the health, safety or wellbeing of children in care.
+(8) A center whose certification has been denied or revoked must immediately notify all parents of the closure and shall post a notice of the closure where it can be viewed by parents and others. The notice shall remain posted for a minimum of 2 weeks.
+(9) The center has the right to appeal any decision to suspend, deny or revoke the certification, subject to the provisions of chapter 183, Oregon Revised Statutes.
+(10) Any action taken by OCC to deny, suspend, or revoke certification may be reported to the Department of Human Services, USDA Child Care Food Programs, child care resource and referral system.
+(11) A center whose certification has been denied for cause (e.g. health and safety concerns, criminal activity or child protective services involvement) or revoked shall not be eligible to reapply for five years after the effective date of the closure.
+(12) If any person, who is enrolled in the CBR, has been charged with, arrested for, or a warrant is out for any of the crimes which OCC has determined indicate behavior which may have a detrimental effect on a child, with final disposition not yet reached, certification may be denied or suspended or revoked until the charge, arrest, or warrant has been resolved if the person continues to operate, be employed in or reside in the center, or have access to children in the center.
+(13) Certification may be denied, suspended or revoked if an individual listed in OAR 414‐350‐ 0080(5) has a child protective services history or an open child protective services or law enforcement case that would disqualify the individual from the CBR.
+414-300-0415 Civil Penalty
+(1) Violations of these rules or terms and conditions of certification under these rules may be subject to a civil penalty up to $2500 per violation.
+(2) Whenever the Office of Child Care (OCC) investigates an alleged complaint at a certified facility, or a facility that may be operating in violation of the requirements of ORS 329A.250 through 329A.450, OCC shall:
+(a) Provide technical assistance as appropriate;
+76
+
+(b) Send written notice of the complaint visit to the facility with a finding of valid, unable to substantiate, or invalid; and
+(c) OCC shall assess whether additional legal actions are appropriate, including but not limited to civil penalties, denials, revocations or suspensions, depending upon:
+(A) Numbers of previous violations of the same rule; or
+(B) Circumstances surrounding the rule violation.
+(3) For a serious violation, as defined in OAR 414‐300‐0005(44), a center may be subject to a civil penalty not to exceed $2500 for each violation.
+(4) For a non‐serious violation, a center may be subject to a civil penalty of $800 for each violation.
+(5) Each day that a child care facility is operating in violation of any of the rules and conditions of certification is a separate violation of the rules.
+(6) An individual or entity that provides child care subject to licensing in a home or facility that is not certified with the Office of Child Care, may be subject to a civil penalty not to exceed $1,500 per day of operation of the uncertified facility.
+(7) Notwithstanding the Office of Child Care’s (OCC) decision to impose a civil penalty for one or more rule violations, OCC may also take action to deny, suspend or revoke a certification for the same rule violation or violations.
+(8) The facility has the right to appeal any decision to impose a civil penalty, subject to the provisions of chapter 183, Oregon Revised Statutes.
+(9) Failure to pay a civil penalty in which the Office of Child Care has issued a final order by default or a final order after a contested case hearing shall be grounds for denial or revocation of the facility’s certification.
+77
+

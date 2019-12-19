@@ -1,0 +1,1826 @@
+ARIZONA DEPARTMENT OF HEALTH SERVICES BUREAU OF CHILD CARE LICENSING http://www.azdhs.gov/licensing/childcare-facilities/index.php
+ARIZONA ADMINISTRATIVE RULES, AND ARIZONA REVISED STATUTES FOR CHILD CARE GROUP HOMES
+ Mission Statement
+“To monitor the health, safety and well being
+of children in child care centers and child care
+group homes throughout Arizona by regulating, establishing and enforcing appropriate rules, and by
+providing technical assistance and training
+to caregivers, and by providing consumer education.”
+Effective date 9/30/11
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+(This page is intentionally left blank)
+2
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________ TITLE 9. HEALTH SERVICES
+CHAPTER 3. DEPARTMENT OF HEALTH SERVICES –
+ARTICLE 1. Section
+R9-3-101. R9-3-102.
+Table 1.1 R9-3-103.
+CHILD CARE GROUP HOMES
+TABLE OF CONTENTS
+GENERAL .................................................................................................................................... 5
+Definitions ...................................................................................................................................... 5 Time-frames.......................................................................................................8 Time-frames (in days)..........................................................................................10 Individuals to Act for Applicant or Certificate Holder........................................................10
+ARTICLE 2. CERTIFICATION ........................................................................................................................... 10
+Section
+R9-3-201. R9-3-202. R9-3-203. R9-3-204. R9-3-205. R9-3-206. R9-3-207.
+Application for a Certificate ......................................................................................................... 10 FingerprintingRequirements .......................................................................................................11 Certification Fees .......................................................................................................................... 12 InvalidCertificate ........................................................................................................................12 Changes Affecting a Certificate ................................................................................................... 13 Inspections; Investigations ........................................................................................................... 13 Denial, Revocation, or Suspension of a Certificate....................................................................... 14
+ARTICLE 3. OPERATING A CHILD CARE GROUP HOME ........................................................................ 14
+Section
+R9-3-301. R9-3-302. R9-3-303. R9-3-304. R9-3-305. R9-3-306. R9-3-307. R9-3-308. R9-3-309. R9-3-310.
+ARTICLE 4. Section
+R9-3-401. R9-3-402. R9-3-403. R9-3-404. R9-3-405. R9-3-406.
+Table 4.1.
+Table 4.2. R9-3-407. R9-3-408.
+Certificate Holder and Provider Responsibilities ......................................................................... 14 Staff Training ................................................................................................................................. 7 Enrollment of Children ................................................................................................................ 18 Enrolled Child Immunization Requirements ................................................................................ 18 Admission and Release of Enrolled Children .............................................................................. 19 Pesticides ...................................................................................................................................... 19 Illness and Infestation .................................................................................................................. 20 Suspected Abuse or Neglect of an Enrolled Child ....................................................................... 20 Medications .................................................................................................................................. 20 Accident and Emergency Procedures ........................................................................................... 22
+PROGRAM AND EQUIPMENT STANDARDS .................................................................... 22
+General Program, Equipment, and Health and Safety Standards ................................................. 22 Supplemental Standards for Napping or Sleeping ....................................................................... 23 Supplemental Standards for Care of an Enrolled Infant or One- or Two-Year-Old Child ........... 24 Supplemental Standards for Care of an Enrolled Child with Special Needs ................................ 25 Discipline and Guidance .............................................................................................................. 26 General Nutrition and Menu Standards ........................................................................................ 26 Meals and Snacks Required to Be Served to Enrolled Children .................................................. 27 Meal Pattern Requirements for Children ..................................................................................... 27 General Food Service and Food Handling Standards ................................................................... 28 Field Trips and Other Trips Away from the Child Care Group Home ......................................... 30
+3
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+ARTICLE 5. PHYSICAL ENVIRONMENT STANDARDS 31
+Section
+R9-3-501. R9-3-502. R9-3-503. R9-3-504. R9-3-505. R9-3-506. R9-3-507. R9-3-508.
+General Physical Environment Standards .................................................................................... 31 Outdoor Activity Area Standards ................................................................................................. 31 Swimming Pool Standards ........................................................................................................... 32 Fire Safety, Gas Safety, and Emergency Standards ..................................................................... 33 General Safety Standards ............................................................................................................. 35 General Cleaning and Sanitation Standards ................................................................................. 36 Diaper-Changing Standards ......................................................................................................... 36 Pet and Animal Standards ............................................................................................................ 37
+4
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+R9-3-101. Definitions
+TITLE 9. HEALTH SERVICES
+CHAPTER 3. DEPARTMENT OF HEALTH SERVICES –
+CHILD CARE GROUP HOMES ARTICLE 1. GENERAL
+ In addition to the definitions in A.R.S. § 36-897 and unless the context indicates otherwise, the following definitions apply in this Chapter:
+1. “Abuse” has the meaning in A.R.S. § 8-201.
+2. “Accident” means an unexpected occurrence that:
+a. Causes physical injury to an enrolled child, and
+b. May or may not be an emergency. 3. “Accredited” means approved by the:
+a. New England Association of Schools and Colleges,
+b. Middle States Association of Colleges and Secondary Schools, c. North Central Association of Colleges and Schools,
+d. Northwest Association of Schools and Colleges,
+e. Southern Association of Colleges and Schools, or
+f. Western Association of Colleges and Schools.
+4. “Activity” means an action planned by a certificate holder or staff member and performed by an enrolled child while supervised by a staff member.
+5. “Adaptive device” means equipment used to augment an individual's use of the individual's arms, legs, sight, hearing, or other physical part or function.
+6. “Adult” means an individual 18 years of age or older.
+7. “Age-appropriate” means consistent with a child's age and age-related stage of physical growth
+and mental development.
+8. “Applicant” means an individual or business organization requesting one of the following:
+a. A certificate under R9-3-201, or
+b. Approval of a change affecting a certificate under R9-3-205.
+9. “Application” means the documents that an applicant is required to submit to the Department to
+request a certificate or approval of a request for a change affecting a certificate.
+10. “Business organization” has the same meaning as “entity” in A.R.S. § 10-140.
+11. “Capacity” means the maximum number of enrolled children authorized by the Department to be
+present at a child care group home during hours of operation.
+12. “Certificate” means the written authorization issued by the Department to operate a child care
+group home in Arizona.
+13. “Certificate holder” means a person to whom the Department has issued a certificate.
+14. “Change in ownership” means a transfer of controlling legal or controlling equitable interest and
+authority in the operation of a child care group home.
+15. “Child” means any individual younger than 13 years of age.
+16. “Child care experience” means an individual’s documented work with children in:
+a. A child care facility or a child care group home that was licensed, certified, or approved by a state in the United States or by one of the Uniformed Services of the United States;
+b. A public school, a charter school, a private school, or an accommodation school; or
+c. A public or private educational institution authorized under the laws of another state where instruction was provided for any grade or combination of grades between pre-
+kindergarten and grade 12.
+17. “Child care services” means the range of activities and programs provided by a certificate holder
+to an enrolled child, including personal care, supervision, education, guidance, and transportation. 18. “Child with special needs” means:
+5
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+a. A child with a diagnosis from a physician, physician assistant, or registered nurse practitioner and a record of a physical or mental condition that substantially limits the child in providing self-care or performing manual tasks or any other major life function such as walking, seeing, hearing, speaking, breathing, or learning;
+b. A child with a “developmental disability” as defined in A.R.S. § 36-551; or
+c. A “child with a disability” as defined in A.R.S. § 15-761.
+19. “Clean” means:
+a. To remove dirt or debris by methods such as washing with soap and water, vacuuming, wiping, dusting, or sweeping; or
+b. Free of dirt and debris.
+20. “Communicable disease” has the meaning in A.A.C. R9-6-101.
+21. “Compensation” means money or other consideration, including goods, services, vouchers, time,
+government or public expenditures, government or public funding, or another benefit, that is
+received as payment.
+22. “Controlling person” has the meaning in A.R.S. § 36-881.
+23. “Corporal punishment” means any physical act used to discipline a child that inflicts pain to the
+body of the child, or that may result in physical injury to the child.
+24. “CPR” means cardiopulmonary resuscitation.
+25. “Credit hour” means an academic unit earned through an accredited college or university for
+completing the equivalent of one hour of class time each week during a semester or equivalent
+shorter course term, as designated by the accredited college or university.
+26. “Days” means calendar days, not including the day of the act, event, or default from which a
+designated period of time begins to run, but including the last day of the period unless it is a Saturday, Sunday, or state holiday, in which case the period runs until the end of the next day that is not a Saturday, Sunday, or state holiday.
+27. “Designated agent” means an individual who is authorized by an applicant or certificate holder to receive communications from the Department, including legal service of process, and to file or sign documents on behalf of the applicant or certificate holder.
+28. “Developmentally appropriate” means consistent with a child's physical, emotional, social, cultural, and cognitive development, based on the child's age and family background and the child's personality, learning style, and pattern and timing of growth.
+29. “Discipline” means the on-going process of helping a child develop self control and assume responsibility for the child’s own actions.
+30. “Documentation” means information in written, photographic, electronic, or other permanent form.
+31. “Emergency” means a potentially life-threatening occurrence involving an enrolled child or staff member that requires an immediate response or medical treatment.
+32. “Endanger” means to expose an individual to a situation where physical or mental injury to the individual may occur.
+33. “Enrolled child” means a child:
+a. Who is not a resident; and
+b. Who has been placed by a parent, who may be a staff member, to receive child care services at the child care group home.
+34. “Fall zone” means the surface under and around a piece of equipment onto which a child falling from or exiting from the equipment would be expected to land.
+35. “Field trip” means travel for a specific activity to a location away from an area of the child care group home approved for providing child care services
+36. “Food” means a raw, cooked, or processed edible substance or ingredient, including a beverage, used or intended for use in whole or in part for human consumption.
+37. “Guidance” means the ongoing direction, counseling, teaching, or modeling of generally accepted social behavior through which a child learns to develop and maintain the self-control, self- reliance, and self-esteem necessary to assume responsibilities, make daily living decisions, and live according to generally accepted social behavior.
+38. “Hazard” means a source of endangerment.
+39. “High school equivalency diploma” means:
+6
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+a. A document issued by the Arizona Department of Education under A.R.S. § 15-702 to an individual who passes a general educational development test or meets the requirements of A.R.S. § 15-702(B);
+b. A document issued by another state to an individual who passes a general educational development test or meets the requirements of a state statute equivalent to A.R.S. § 15- 702(B); or
+c. A document issued by another country to an individual who has completed that country's equivalent of a 12th grade education, as determined by the Department based upon information obtained from American or foreign consulates or embassies or other governmental entities.
+40. “Hours of operation” means the specific days of the week and time period during a day when a certificate holder provides child care services on a regular basis.
+41. “Illness” means physical manifestation or signs of sickness such as pain, vomiting, rash, fever, discharge, or diarrhea.
+42. “Immediate” means without restriction, delay, or hesitation.
+43. “Inaccessible” means:
+a. Out of an enrolled child’s reach, or
+b. Locked.
+44. “Infant” means a child 12 months of age or younger.
+45. “Infestation” means the presence of lice, pinworms, scabies, or other parasites.
+46. “Mat” means a foam pad that has a waterproof cover.
+47. “Mechanical restraint” means a device, article, or garment attached or adjacent to a child's body
+that the child cannot easily remove and that restricts the child's freedom of movement or normal access to the child's body, but does not include a device, article, or garment:
+a. Used for orthopedic purposes, or
+b. Necessary to allow a child to heal from a medical condition.
+48. “Medication” means a substance prescribed by a physician, physician assistant, or registered nurse practitioner or that is available without a prescription for the treatment or prevention of illness or infestation.
+49. “Menu” means a written description of food that a child care group home provides and serves as a meal or snack.
+50. “Motor vehicle” has the meaning in A.R.S. § 28-101.
+51. “Neglect” has the meaning in A.R.S. § 8-201.
+52. “Outbreak” has the meaning in A.A.C. R9-6-101.
+53. “Parent” means:
+a. A natural or adoptive mother or father,
+b. A legal guardian appointed by a court of competent jurisdiction, or c. A “custodian” as defined in A.R.S. § 8-201.
+54. “Perishable food” means food that becomes unfit for human consumption if not stored to prevent spoilage.
+55. “Person” has the meaning in A.R.S. § 1-215.
+56. “Personal items” means those articles of property that belong to an enrolled child and are brought
+to the child care group home for that enrolled child's exclusive use, such as clothing, a blanket, a
+sheet, a toothbrush, a pacifier, a hairbrush, a comb, a washcloth, or a towel.
+57. “Physician” means an individual licensed as a doctor of:
+a. Allopathic medicine under A.R.S. Title 32, Chapter 13;
+b. Naturopathic medicine under A.R.S. Title 32, Chapter 14;
+c. Osteopathic medicine under A.R.S. Title 32, Chapter 17;
+d. Homeopathic medicine under A.R.S. Title 32, Chapter 29; or
+e. Allopathic, naturopathic, osteopathic, or homeopathic medicine under the laws of another
+state.
+58. “Physician assistant” means:
+a. The same as in A.R.S. § 32-2501, or
+b. An individual licensed as a physician assistant under the laws of another state.
+7
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+59. “Premises” means a child care group home's residence and the surrounding property, including any structures on the property, that can be enclosed by a single unbroken boundary line that does not encompass property owned or leased by another person.
+60. “Registered nurse practitioner” means:
+a. The same as in A.R.S. § 32-1601, or
+b. An individual licensed as a registered nurse practitioner under the laws of another state.
+61. “Regular basis” means at recurring, fixed, or uniform intervals.
+62. “Residence” means a dwelling, such as a house, used for human habitation.
+63. “Resident” means an individual who uses a child care group home as the individual's principal
+place of habitation for 30 days or more during the calendar year.
+64. “Sanitize” means to use heat, a chemical agent, or a germicidal solution to disinfect and reduce
+pathogen counts, including bacteria, viruses, mold, and fungi.
+65. “School-age child” means a child who attends:
+a. A public school, as defined for “school” in A.R.S. § 15-101; or
+b. A private school, as defined in A.R.S. § 15-101.
+66. “Separate” means to exclude a child from and have the child physically move away from other
+children, while keeping the child under supervision.
+67. “Signed” means affixed with an individual's signature or, if the individual is unable to write the
+individual's name, with a symbol representing the individual's signature.
+68. “Sippy cup” means a lidded drinking container that is designed to be leak proof or leak-resistant
+and from which a child drinks through a spout or straw.
+69. “Space utilization” means the designated use of specific areas on the premises for providing child
+care services.
+70. “Staff member” means an individual who works at a child care group home providing child care
+services, regardless of whether compensation is received by the individual in return for providing
+child care services, and includes a provider.
+71. “Supervision” means:
+a. For a child who is awake, knowledge of and accountability for the actions and whereabouts of the child, including the ability to see or hear the child at all times, to interact with the child, and to provide guidance to the child;
+b. For a child who is asleep, knowledge of and accountability for the actions and whereabouts of the child, including the ability to see or hear the child at all times and to respond to the child;
+c. For a staff member who is not an adult, knowledge of and accountability for the actions and whereabouts of the staff member and the ability to interact with and provide guidance to the staff member; or
+d. For an individual other than a child or staff member, knowledge of and accountability for the actions and whereabouts of the individual, including the ability to see and hear the individual when the individual is in the presence of an enrolled child and the ability to intervene in the individual’s actions to prevent harm to enrolled children.
+72. “Swimming pool” has the meaning in A.A.C. R18-5-201.
+73. “Training” means instruction received through:
+a. Completion of a live or computerized conference, seminar, lecture, workshop, class, or course; or
+b. Watching a video presentation and completing a Department-provided form to document the video instruction.
+74. “Week” means a seven-day period beginning on Sunday at 12:00 a.m. and ending on Saturday at 11:59 p.m.
+75. “Working day” means the period between 8:00 a.m. and 5:00 p.m. on a Monday, Tuesday, Wednesday, Thursday, or Friday that is not a state holiday.
+R9-3-102. Time-frames
+A. The overall time-frame described in A.R.S. § 41-1072 for each type of approval granted by the Department
+under this Chapter is set forth in Table 1. The applicant and the Department may agree in writing to extend the substantive review time-frame and the overall time-frame. An extension of the substantive review time- frame and the overall time-frame may not exceed 25% of the overall time-frame.
+ 8
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+B. The administrative completeness review time-frame described in A.R.S. § 41-1072 for each type of
+approval granted by the Department under this Chapter is set forth in Table 1 and begins on the date that the Department receives an application.
+1. The Department shall send a notice of administrative completeness or deficiencies to the applicant
+within the administrative completeness review time-frame.
+a. A notice of deficiencies shall list each deficiency and the information or items needed to
+complete the application.
+b. The administrative completeness review time-frame and the overall time-frame are
+suspended from the date that the notice of deficiencies is sent until the date that the
+Department receives all of the missing information or items from the applicant.
+c. If an applicant fails to submit to the Department all of the information or items listed in
+the notice of deficiencies within 180 days after the date that the Department sent the
+notice of deficiencies, the Department shall consider the application withdrawn.
+2. If the Department issues a certificate or other approval to the applicant during the administrative
+completeness review time-frame, the Department shall not issue a separate written notice of
+administrative completeness.
+C. The substantive review time-frame described in A.R.S. § 41-1072 is set forth in Table 1 and begins on the
+date of the notice of administrative completeness.
+1. As part of the substantive review for an application for a certificate, the Department shall conduct
+an inspection that may require more than one visit to the child care group home or premises.
+2. As part of the substantive review for a request for approval of a change affecting a certificate that
+requires a change in the use of physical space at a child care group home, the Department shall
+conduct an inspection that may require more than one visit to the child care group home.
+3. The Department shall send a certificate or a written notice of approval or denial of a certificate or
+other request for approval to an applicant within the substantive review time-frame.
+4. During the substantive review time-frame, the Department may make one comprehensive written
+request for additional information, unless the Department and the applicant have agreed in writing to allow the Department to submit supplemental requests for information.
+a. If the Department determines that an applicant, a child care group home, or the
+premises are not in substantial compliance with A.R.S. Title 36, Chapter 7.1, Article 4 and this Chapter, the Department shall send a comprehensive written request for additional information that includes a written statement of deficiencies stating each statute and rule upon which noncompliance is based.
+b. An applicant shall submit to the Department all of the information requested in a comprehensive written request for additional information or a supplemental request for information, including, if applicable, documentation of the corrections required in a statement of deficiencies, within 30 days after the date of the comprehensive written request for additional information or the supplemental request for information.
+c. The substantive review time-frame and the overall time-frame are suspended from the date that the Department sends a comprehensive written request for additional information or a supplemental request for information until the date that the Department receives all of the information requested, including, if applicable, documentation of corrections required in a statement of deficiencies.
+d. If an applicant fails to submit to the Department all of the information requested in a comprehensive written request for additional information or a supplemental request for information, including, if applicable, documentation of corrections required in a statement of deficiencies, within the time prescribed in subsection (C)(4)(b), the Department shall deny the application.
+5. The Department shall issue a certificate or approval if the Department determines that the applicant and the child care group home or premises are in substantial compliance with A.R.S. Title 36, Chapter 7.1, Article 4 and this Chapter, and the applicant submits documentation of corrections, which is acceptable to the Department, for any deficiencies.
+6. If the Department denies a certificate or approval, the Department shall send to the applicant a written notice of denial setting forth the reasons for denial and all other information required by A.R.S. § 41-1076.
+9
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________ Table 1.1 Time-frames (in days)
+  Type of Approval
+   Statutory Authority
+     Overall Time- frame
+ Administrative Completeness Review Time-frame
+    Substantive Review Time-frame
+  Certificate under R9- 3-201
+    A.R.S. § 36- 897.01
+       150
+    30
+     120
+   Approval of Change Affecting Certificate under R9-3-205(B)
+  A.R.S. §§ 36- 897.01 and 36- 897.02
+    75
+   30
+   45
+  R9-3-103. Individuals to Act for Applicant or Certificate Holder
+When an applicant or certificate holder is required by this Chapter to provide information on or sign an application form or other document, hold a fingerprint clearance card, or complete Department-provided orientation, the following shall satisfy the requirement on behalf of the applicant or certificate holder:
+1. If the applicant or certificate holder is an individual, the individual; and
+2. If the applicant or certificate holder is a business organization, the designated agent who:
+a. Is a controlling person of the business organization, b. Is a U.S. citizen or legal resident, and
+c. Has an Arizona address.
+ARTICLE 2. CERTIFICATION
+R9-3-201. Application for a Certificate
+An applicant for a certificate shall:
+1. Be at least 21 years of age; and
+2. Submit to the Department an application packet containing:
+a. An application on a form provided by the Department that contains: i. The applicant's name and date of birth;
+ii. The name to be used for the child care group home, if any; iii. The address and telephone number of the residence;
+iv. The mailing address of the applicant, if different from the address of the residence;
+v. The applicant’s contact telephone number if different from the telephone number of the residence;
+vi. The applicant’s e-mail address;
+vii. The name of the provider, if different from the applicant;
+viii. The requested capacity for the child care group home;
+ix. The anticipated hours of operation for the child care group home;
+x. Whether the applicant agrees to allow the Department to submit supplemental
+requests for information;
+xi. Whether the applicant or any controlling person has been denied a certificate or
+license to operate a child care group home or child care facility in this state or another state or has had a certificate or license to operate a child care group home or child care facility revoked in this state or another state and, if so:
+(1) The name of the individual who had the certificate or license denied or
+revoked,
+(2) The reason for the denial or revocation,
+(3) The date of the denial or revocation, and
+(4) The name and address of the certifying or licensing agency that denied
+or revoked the certificate or license;
+xii. A statement that the applicant has read and will comply with A.R.S. Title 36,
+Chapter 7.1, Article 4 and this Chapter;
+xiii. A statement that the applicant has sufficient financial resources to comply with
+A.R.S. Title 36, Chapter 7.1, Article 4 and this Chapter; 10
+  
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+xiv. A statement that the information provided in the application packet is accurate and complete; and
+xv. The applicant’s signature and date the applicant signed the application;
+b. A copy of the applicant’s:
+i. U.S. passport,
+ii. Birth certificate,
+iii. Naturalization documents, or
+iv. Documentation of legal resident alien status;
+c. A copy of the applicant’s valid fingerprint clearance card issued according to A.R.S. Title 41, Chapter 12, Article 3.1;
+d. A copy of the form required in A.R.S. § 36-897.03(B) for the applicant;
+e. A document issued by the Department showing that the applicant has completed Department-provided orientation training that included the Department’s role in
+certifying and regulating child care group homes under A.R.S. Title 36, Chapter 7.1,
+Article 4, and this Chapter;
+f. A floor plan of the residence where child care services will be provided, showing:
+i. The location and dimensions of each room in the residence, with designation of the rooms to be used for providing child care services;
+ii. The location of each exit from the residence;
+iii. The location of each sink and toilet available for use by enrolled children;
+iv. The location of each smoke detector in the residence; and
+v. The location of each fire extinguisher in the residence;
+g. A site plan of the premises showing:
+i. The location and dimensions of the outdoor activity area;
+ii. The height of the fence around the outdoor activity area;
+iii. The location of each exit from the outdoor activity area;
+iv. The location of the residence;
+v. The location of each swimming pool, if applicable;
+vi. The location and height of the fence around each swimming pool, if applicable;
+and
+vii. The location and dimensions of any other building or structure on the premises,
+if applicable;
+h. If the child care group home is located within one-fourth of a mile of agricultural land:
+i. The names and addresses of the owners or lessees of each parcel of agricultural land located within one-fourth mile of the child care group home, and
+ii. A copy of an agreement complying with A.R.S. § 36-897.01(B) for each parcel
+of agricultural land;
+i. The applicable fee in R9-3-203; and
+j. If the applicant is a business organization, a form provided by the Department that contains:
+i. The name, street address, city, state, and zip code of the business organization; ii. The type of business organization;
+iii. The name, date of birth, title, street address, city, state, and zip code of the
+designated agent;
+iv. The name, date of birth, title, street address, city, state, and zip code of each
+other controlling person;
+v. A copy of the business organization’s articles of incorporation, articles of
+organization, partnership documents, or joint venture documents, if applicable;
+and
+vi. Documentation of good standing issued by the Arizona Corporation
+Commission and dated no earlier than three months before the date of the application, if applicable.
+R9-3-202.
+A. A certificate holder shall ensure that:
+Fingerprinting Requirements and Central Registry Background Check Requirements
+  11
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+1. A staff member completes, signs, dates, and submits to the certificate holder before the staff member’s starting date of employment or volunteer service:
+a. The form required in A.R.S. § 36-897.03(B); and
+b. If required by A.R.S. § 8-804, the form in A.R.S. § 8-804(I); and
+2. An adult resident completes, signs, dates, and submits to the certificate holder before the resident’s starting date of residency or the date of certification of the child care group home the form required in A.R.S. § 36-897.03(B).
+B. A certificate holder shall maintain documentation of a valid fingerprint clearance card issued under A.R.S. § 41-1758.03.
+C. Except as provided in A.R.S. § 41-1758.03, a certificate holder shall ensure that a staff member or adult resident submits to the certificate holder a copy of:
+1. The staff member’s or adult resident’s valid fingerprint clearance card issued under A.R.S. Title
+41, Chapter 12, Article 3.1; or
+2. The fingerprint clearance card application that staff member or adult resident submitted to the
+Department of Public Safety under A.R.S. § 41-1758.02:
+a. For the staff member, within seven working days after the staff member’s starting date of
+employment or volunteer service; and
+b. For the adult resident, within seven working days after the resident’s starting date of
+residency or the date of certification of the child care group home.
+D. A certificate holder shall ensure that each individual who is a staff member or an adult resident submits to
+the certificate holder a copy of the individual’s valid fingerprint clearance card each time the fingerprint
+clearance card is issued or renewed.
+E. If a staff member or resident possesses a fingerprint clearance card that was issued before the staff member
+or resident became a staff member or resident at the child care group home, a certificate holder shall:
+1. Contact the Department of Public Safety within seven working days after the individual becomes a
+staff member or resident to determine whether the fingerprint clearance card is valid; and
+2. Document this determination, including the name of the staff member or resident, the date of
+contact with the Department of Public Safety, and whether the fingerprint clearance card is valid.
+F. If required by A.R.S. § 8-804, before an individual’s starting date of employment or volunteer service, a
+certificate holder shall comply with the submission requirements in A.R.S. § 8-804(C) for the individual.
+G. A certificate holder shall not allow an adult individual to be a staff member or a resident if the individual:
+1. Has been denied a fingerprint clearance card under A.R.S. Title 41, Chapter 12, Article 3.1, and has not received an interim approval under A.R.S. § 41-619.55;
+2. Receives an interim approval under A.R.S. § 41-619.55 but is subsequently denied a good cause exception under A.R.S. § 41-619.55 and a fingerprint clearance card under A.R.S. Title 41, Chapter 12, Article 3.1;
+3. Is a parent or guardian of a child adjudicated to be a dependent child as defined in A.R.S. § 8-201;
+4. Has been denied a certificate to operate a child care group home or a license to operate a child care
+facility for the care of children in this state or another state;
+5. Has had a license to operate a child care facility or certificate to operate a child care group home
+in this state or another state revoked for reasons related to the endangerment of the health and
+safety of children;
+6. If applicable, has stated on the form required in A.R.S. § 8-804(I) that the individual is currently
+under investigation for an allegation of abuse or neglect or has a substantiated allegation of abuse or neglect and has not subsequently received a central registry exception according to A.R.S. § 41- 619.57; or
+7. If applicable, is disqualified from employment or volunteer service as a staff member according to A.R.S. § 8-804 and has not subsequently received a central registry exception according to A.R.S. § 41-619.57.
+R9-3-203. Certification Fees
+A. Except as provided in subsection (B), the certification fee for a certificate holder is $1,000.
+B. If a certificate holder participates in a Department-approved program, the Department may discount the
+certification fee, based on available funding.
+C. A certificate holder shall submit to the Department, every three years and no more than 60 days before the
+anniversary date of the child care group home’s certificate: 12
+ 
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+1. A form provided by the Department that contains: a. The certificate holder’s name,
+b. The child care group home’s name, if applicable, and certificate number, and c. Whether the certificate holder intends to submit the applicable fee:
+i. With the form, or
+ii. According to the payment plan in subsection (C)(2)(b); and
+2. Either:
+a. The applicable fee in subsection (A) or (B), or
+b. One-half of the applicable fee in subsection (A) or (B) with the form and the remainder of
+R9-3-204.
+the applicable fee due no later than 120 days after the anniversary date of the child care group home’s certificate.
+Invalid Certificate
+ If a certificate holder does not submit the certification fee as required in R9-3-203(C)(2), the certificate to operate a child care group home is no longer valid, and the child care group home is operating without a certificate.
+R9-3-205. Changes Affecting a Certificate
+A. For an intended change in a certificate holder’s name or the name of a child care group home:
+1. The certificate holder shall send the Department written notice of the name change at least 30 days before the intended date of the name change; and
+2. Upon receipt of the written notice required in subsection (A)(1), the Department shall issue an amended certificate that incorporates the name change but retains the anniversary date of the certificate.
+B. At least 30 days before the date of an intended change in a child care group home's space utilization or capacity, a certificate holder shall submit to the Department a written request for approval of the intended change that includes:
+1. The certificate holder's name;
+2. The child care group home's name, if applicable;
+3. The name, telephone number, e-mail address, and fax number of a point of contact for the request; 4. The child care group home's certificate number;
+5. The type of change intended:
+a. Space utilization, or
+b. Capacity;
+6. A narrative description of the intended change; and 7. The following additional information, as applicable:
+a. If requesting a change in capacity, the square footage of the outdoor activity area and the square footage of the indoor areas where child care services will be provided;
+b. If requesting a change that involves a modification of the residence that requires a building permit, a copy of the building permit;
+c. If requesting a change in space utilization that affects individual rooms:
+i. A floor plan of the residence that complies with R9-3-201(2)(f) and shows the
+intended changes, and
+ii. The square footage of each affected room; and
+d. If requesting a change in space utilization that affects the outdoor activity area:
+i. A site plan of the premises that complies with R9-3-201(2)(g) and shows the
+intended changes, and
+ii. The square footage of the intended outdoor activity area.
+C. The Department shall review a request submitted under subsection (B) according to R9-3-102. If the intended change is in compliance with A.R.S. Title 36, Chapter 7.1, Article 4 and this Chapter, the Department shall send the certificate holder an approval of the request and, if necessary, an amended certificate that incorporates the change but retains the anniversary date of the current certificate.
+D. A certificate holder shall not implement any change in subsection (B) until the Department issues an approval or amended certificate.
+E. At least 30 days before the date of a change in ownership, a certificate holder shall send the Department written notice of the change in ownership.
+ 13
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+F. A person planning to assume operation of a child care group home shall obtain a new certificate as
+prescribed in R9-3-201 before beginning operation of the child care group home.
+G. A certificate holder changing a child care group home's location shall:
+1. Apply for a new certificate as prescribed in R9-3-201, and
+2. Obtain a new certificate from the Department before beginning operation of the child care group
+home at the new location.
+H. Within 30 days after the date of a change in the business organization information provided under R9-3-
+201(5)(j), other than a change in ownership, a certificate holder that is a business organization shall send the Department written notice of the change.
+R9-3-206. Inspections; Investigations
+A. An applicant, certificate holder, or provider shall allow the Department immediate access to all areas of the
+premises that may affect the health, safety, or welfare of an enrolled child or to which an enrolled child
+may have access during hours of operation.
+B. A certificate holder or provider shall permit the Department to interview each staff member or enrolled
+child outside of the presence of others as part of an investigation.
+R9-3-207. Denial, Revocation, or Suspension of a Certificate
+A. The Department may deny, revoke, or suspend a certificate to operate a child care group home if an
+applicant or certificate holder:
+1. Provides false or misleading information to the Department;
+2. Is the parent or guardian of a child adjudicated to be a dependent child as defined in A.R.S. § 8-
+201;
+3. Has been denied a certificate or license to operate a child care group home or child care facility in
+any state, unless the denial was based on the individual’s failure to complete the certification or
+licensing process according to a required time-frame;
+4. Has had a certificate or license to operate a child care group home or child care facility revoked or
+suspended in any state for reasons that relate to endangerment of the health and safety of children; 5. Has been denied a fingerprint clearance card or has had a fingerprint clearance card suspended or
+revoked under A.R.S. Title 41, Chapter 12, Article 3.1; or
+6. Fails to substantially comply with any provision in A.R.S. Title 36, Chapter 7.1, Article 4 or this
+Chapter.
+B. In determining whether to deny, suspend, or revoke a certificate, the Department shall consider the threat to
+the health and safety of enrolled children at a child care group home based on the factors listed in A.R.S. § 36-897.06.
+ARTICLE 3. OPERATING A CHILD CARE GROUP HOME
+R9-3-301. Certificate Holder and Provider Responsibilities A. A certificate holder shall:
+1. Designate a provider who:
+a. Lives in the residence;
+b. Is 21 years of age or older;
+c. Has a high school diploma, high school equivalency diploma, associate degree, or
+bachelor degree;
+d. Meets one of the following:
+(1) Has completed at least three credit hours in child growth and development, nutrition, psychology, or early childhood education;
+(2) Has completed at least 60 hours of training in child growth and development, nutrition, psychology, early childhood education, or management of a child care business; or
+(3) Has at least 12 months of child care experience; and
+e. Has completed Department-provided orientation training that includes the Department's
+role in certifying and regulating child care group homes under A.R.S. Title 36, Chapter
+7.1, Article 4 and this Chapter;
+2. Ensure that each staff member is 16 years of age or older;
+   14
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+3. Ensure that each resident 12 years of age or older and each staff member submits, on or before the starting date of residency, employment, or volunteer services, one of the following as evidence of freedom from infectious active tuberculosis:
+a. Documentation of a negative Mantoux skin test or other tuberculosis screening test
+recommended by the U.S. Centers for Disease Control and Prevention, administered within 12 months before the starting date of residency, employment, or volunteer service, that includes the date and the type of tuberculosis screening test; or
+b. If the resident or staff member has had a positive Mantoux skin test or other tuberculosis screening test, a written statement that the resident or staff member is free from infectious active tuberculosis that is signed and dated by a physician, physician assistant, or registered nurse practitioner within six months before the starting date of residency, employment, or volunteer service; and
+4. Ensure that the provider:
+a. Supervises or assigns an adult staff member to supervise each staff member who is not an
+adult;
+b. Maintains on the premises a file for each staff member, for 12 months after the date the
+staff member last worked at the child care group home, containing:
+i. The staff member’s name, date of birth, home address, and telephone number; ii. The staff member’s starting date of employment or volunteer service;
+iii. The staff member’s ending date of employment or volunteer service, if
+applicable;
+iv. The staff member’s written statement attesting to current immunity against
+measles, rubella, diphtheria, mumps, and pertussis;
+v. The form required in A.R.S. § 36-897.03(B);
+vi. For an adult staff member, a copy of the staff member’s valid fingerprint
+clearance card issued under A.R.S. Title 41, Chapter 12, Article 3.1; vii. Documents required by subsection (A)(3);
+viii. Documentation of the requirements in A.R.S. § 36-897.03(C);
+ix. If applicable:
+(1) The form required in A.R.S. § 8-804(I);
+(2) Documentation of the submission required in A.R.S. § 8-804(C) and
+the information received as a result of the submission; and
+(3) Documentation of the completion of the Department-provided
+orientation training specified in subsection (A)(1)(e), if applicable; x. Documentation of the training required in R9-3-302; and
+xi. Documentation of a high school diploma, high school equivalency diploma, associate degree, or bachelor degree, if applicable;
+c. Maintains on the premises a file for each resident, for 12 months after the date the resident last resided at the child care group home, containing:
+i. The resident’s name and date of birth;
+ii. The resident’s relationship to the provider;
+iii. The date the resident began residing at the child care group home;
+iv. The date the resident last resided at the child care group home, if applicable; v. A written statement by the resident or, if the resident is a minor, the provider
+attesting to the resident’s current immunity against measles, rubella, diphtheria,
+mumps, and pertussis;
+vi. If the resident is an adult, the form required in A.R.S. § 36-897.03(B);
+vii. If the resident is an adult, the documents required by R9-3-202(C)(2) or R9-3-
+202(D); and
+viii. If the resident is 12 years of age or older, the documents required by subsection
+(A)(3);
+d. Prepares a dated attendance record for each day and ensures that each staff member
+records on the attendance record the staff member’s start time and end time of providing
+child care services for the child care group home;
+e. Maintains on the premises the dated attendance record required in subsection (A)(4)(d)
+for 12 months after the date on the attendance record; 15
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+f. Except as specified in R9-3-408, provides child care services only in areas:
+i. Designated as provided in R9-3-201(2)(f)(i) or R9-3-201(2)(g)(i), or ii. Approved under R9-3-205(C);
+g. Does not engage in outside employment during hours of operation or operate another business at or out of the residence during hours of operation;
+h. Does not allow another staff member to engage in or operate another business at or out of the residence during the staff member’s assigned work hours at the child care group home;
+i. Does not allow the operation of another business on the premises during hours of operation unless the operation of the business does not involve persons coming onto the premises during hours of operation because of the business; and
+j. Does not allow the cultivation of medical marijuana on the premises.
+B. A certificate holder shall ensure that all of the records required to be maintained by this Chapter either are
+written in English or, if written in a language other than English, include an English translation.
+C. A certificate holder shall:
+1. Secure and maintain general liability insurance of at least $100,000 for the child care group home; and
+2. Maintain on the premises documentation of the insurance coverage required in subsection (C)(1).
+D. A certificate holder shall ensure that:
+1. An adult staff member with one of the following is on the premises and acting on behalf of the certificate holder when the provider is not present at the child care group home:
+a. At least six months of child care experience;
+b. Two or more credit hours in child growth and development, nutrition, psychology, or
+early childhood education; or
+c. At least 30 hours of training in child growth and development, nutrition, psychology, or
+early childhood education; and
+2. At least one adult staff member, in addition to the provider or the staff member specified in
+subsection (D)(1), is on the premises when six or more enrolled children are at the child care
+group home.
+E. A certificate holder shall ensure that a parent of an enrolled child or an individual designated in writing by
+the parent of an enrolled child is allowed immediate access during hours of operation to the areas of the
+premises where the enrolled child is receiving child care services.
+F. A certificate holder shall:
+1. Prepare a document that includes the following information:
+a. The name and contact telephone number of the provider;
+b. The hours of operation of the child care group home;
+c. Charges, fees, and payment requirements for child care services;
+d. Whether medications are administered at the child care group home and, if so, a
+description of what the parent is required to give to the child care group home;
+e. Whether enrolled children go on field trips under the supervision of a staff member; f. Whether the child care group home provides transportation for enrolled children to or
+from school, a school bus stop, or other locations;
+g. The mechanism by which a staff member will verify that an individual contacting the
+child care group home by telephone claiming to be the parent of an enrolled child is the
+enrolled child’s parent;
+h. A statement that a parent has access to the areas on the premises where the parent’s
+enrolled child is receiving child care services;
+i. A statement that inspection reports for the child care group home are available for review
+at the child care group home; and
+j. The local address and contact telephone number for the Department; and
+2. Ensure that a staff member provides the document required in subsection (F)(1) to a parent of an enrolled child.
+G. A certificate holder shall ensure that a staff member posts in a place that can be conspicuously viewed by individuals entering or leaving the child care group home:
+1. The child care group home certificate;
+2. The name of the provider;
+16
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+3. The name of the staff member designated to act on behalf of the certificate holder when the provider is not present at the child care group home;
+4. The hours of operation for the child care group home;
+5. The weekly activity schedule required in R9-3-401(B)(4)(b);
+6. The amount of time in minutes enrolled children may watch television, videos, or DVDs at the
+child care group home; and
+7. The weekly menu, required in R9-3-406(F), before the first meal or snack of the week.
+H. A certificate holder shall ensure that a staff member supervises any individual who is not a staff member and is on the premises where enrolled children are present.
+I. A certificate holder shall ensure that a staff member who has current training in first aid and CPR is present during hours of operation when an enrolled child is on the premises or on a trip away from the premises under the supervision of a staff member.
+J. A certificate holder shall ensure that if a staff member or resident lacks documentation of immunization or evidence of immunity that complies with A.A.C. R9-6-704 for a communicable disease listed in A.A.C. R9-6-702(A):
+1. The staff member or resident is excluded from the child care group home between the start and
+end of an outbreak of the communicable disease at the child care group home; or
+2. The child care group home is closed until the end of an outbreak at the child care group home.
+K. Within 72 hours after changing a provider, a certificate holder shall send the Department written notice of the change, including the name of the new provider.
+L. Except as provided in subsections (M) and (N), a certificate holder shall notify the Department in writing of a planned change in a child care group home’s hours of operation at least three days before the date of the planned change, including:
+1. The certificate holder's name;
+2. The child care group home's certificate number; and
+3. The current and intended hours of operation.
+M. A certificate holder is not required to notify the Department of a change in a child care group home’s hours
+of operation when the change in the child care group home’s hours of operation is due to the occurrence of a state or federal holiday on a day of the week the child care group home regularly provides child care services.
+N. When the premises of a child care group home are left unoccupied during hours of operation or the child care group home is temporarily closed due to an unexpected event, a certificate holder shall ensure that a staff member notifies the Department before leaving the child care group home unoccupied or closing the child care group home, stating the period of time during which the child care group home will be unoccupied or closed.
+R9-3-302. Staff Training
+A. Within 10 days after the starting date of employment or volunteer service, a certificate holder shall provide,
+and each staff member shall complete, training for new staff members that includes all of the following: 1. Names, ages, and developmental stages of enrolled children;
+2. Health needs, nutritional requirements, any known allergies, and information about adaptive
+devices of enrolled children;
+3. Guiding and disciplining children;
+4. Hand washing techniques;
+5. Diapering techniques and toileting, if any enrolled children are in diapers or require assistance in
+using the toilet;
+6. Sudden infant death syndrome awareness, if child care services are provided to an infant or a one-
+year-old child;
+7. Preparing, serving, and storing food;
+8. Preparing, handling, and storing infant formula and breast milk, if any enrolled children are fed
+infant formula or breast milk;
+9. Recognizing signs of illness and infestation;
+10. Detecting, preventing, and reporting child abuse or neglect;
+11. Responding to accidents and emergencies;
+12. Sun safety;
+13. Procedures for trips away from the child care group home, if applicable; and
+ 17
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+14. Staff responsibilities as required by A.R.S. Title 36, Chapter 7.1, Article 4 and this Chapter.
+B. A certificate holder shall ensure that a staff member’s completion of the training required by subsection (A)
+is documented and signed by the provider, including the date of completion of the training.
+C. A certificate holder shall ensure that each staff member completes a total of 12 or more actual hours of
+training every 12 months after becoming a staff member in two or more of the following:
+1. Child growth and development, which may include sudden infant death prevention;
+2. Developmentally appropriate activities;
+3. Nutrition and developmentally appropriate eating habits;
+4. Responding to accidents and emergencies, including CPR and first aid for infants and children; 5. Recognizing signs of illness and infestation;
+6. Detecting, preventing, and reporting child abuse or neglect;
+7. Guiding and disciplining children; and
+8. Availability of community services and resources, including those available to children with
+special needs.
+D. A certificate holder shall ensure that a staff member submits to the certificate holder documentation of
+training received as required by subsection (C) as the training is completed.
+E. A certificate holder shall ensure that a staff member required by R9-3-301(I) meets all of the following:
+1. The staff member obtains first aid training specific to infants and children;
+2. The staff member obtains CPR training specific to infants and children, which includes a
+demonstration of the staff member’s ability to perform CPR;
+3. The staff member maintains current training in first aid and CPR; and
+4. The staff member provides the certificate holder with a copy of the front and back of the current
+card issued by the agency or instructor as proof of completion of the requirements of this subsection.
+R9-3-303. Enrollment of Children
+A. A certificate holder shall require that a child be enrolled by the child's parent or by an individual authorized
+in writing by the child's parent.
+B. Except as required in A.R.S. § 36-3009, before a child receives child care services at a child care group
+home, a certificate holder shall require the individual enrolling the child to complete a Department- provided Emergency, Information, and Immunization Record card containing:
+1. The child's name, home address, city, state, zip code, sex, and date of birth;
+2. The date of the child’s enrollment;
+3. The name, home address, city, state, zip code, and contact telephone number of each parent of the child;
+4. The name and contact telephone number of at least two individuals authorized by the child’s parent to collect the child from the child care group home or to be contacted if the child’s parent cannot be contacted;
+5. The name and contact telephone number of the child’s physician, physician assistant, or registered nurse practitioner;
+6. Written authorization for emergency medical care of the child;
+7. The name of the individual to be contacted in case of injury or sudden illness of the child;
+8. A written description provided by a child’s parent of the nutritional and dietary needs of the child; 9. A written description provided by the child’s parent noting the child’s susceptibility to illness,
+physical conditions of which a staff member should be aware, and any individual requirements for
+health maintenance; and
+10. The dated signature of the individual completing the Emergency, Information, and Immunization
+Record card.
+C. A certificate holder shall maintain a current Emergency, Information, and Immunization Record card for
+each enrolled child on the premises in a place that provides a staff member ready access to the card in the
+event of an emergency at, or evacuation of, the child care group home.
+D. When a child is disenrolled from a child care group home, the certificate holder shall ensure that a staff
+member:
+1. Enters the date of disenrollment on the child’s Emergency, Information, and Immunization Record
+card; and
+ 18
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+2. Maintains the records in subsection (D)(1) for 12 months after the date of disenrollment on the premises in a place separate from the current Emergency, Information, and Immunization Record cards.
+R9-3-304. Enrolled Child Immunization Requirements
+A. A certificate holder shall not permit an enrolled child to receive child care services at a child care group
+home until the child care group home receives:
+1. An immunization record for the enrolled child with the information required in 9 A.A.C. 6, Article
+7, stating that the enrolled child has received all current, age-appropriate immunizations required under 9 A.A.C. 6, Article 7, that is:
+a. Provided by a physician, physician assistant, registered nurse practitioner, or another
+individual authorized by state law to administer immunizations; or
+b. Generated from the Arizona State Immunization Information System, which is the
+Department’s child immunization reporting system established in A.R.S. § 36-135; or
+2. An exemption affidavit for the enrolled child provided by the enrolled child’s parent that contains:
+a. A statement, signed by the enrolled child’s physician, physician assistant, or registered nurse practitioner, that the immunizations required by 9 A.A.C. 6, Article 7 would endanger the enrolled child’s health or medical condition; or
+b. A statement, signed by the enrolled child’s parent, that the enrolled child is being raised in a religion whose teachings are in opposition to immunization.
+B. A certificate holder shall ensure that a staff member attaches an enrolled child’s written immunization record or exemption affidavit, required in subsection (A), to the enrolled child’s Emergency, Information, and Immunization Record card, required in R9-3-303(B).
+C. A certificate holder shall ensure that a staff member updates an enrolled child’s written immunization record required in subsection (A)(1)(a) each time the enrolled child’s parent provides the child care group home with a written statement from the enrolled child’s physician, physician assistant, or registered nurse practitioner that the enrolled child has received an age-appropriate immunization required by 9 A.A.C. 6, Article 7.
+D. If an enrolled child’s immunization record indicates that the enrolled child has not received an age- appropriate immunization required by 9 A.A.C. 6, Article 7, a certificate holder shall ensure that a staff member:
+1. Notifies the enrolled child’s parent in writing that the enrolled child may attend the child care
+group home for not more than 15 days after the date of the notification unless the enrolled child’s
+parent complies with the immunization requirements in 9 A.A.C. 6, Article 7; and
+2. Documents on the enrolled child’s Emergency, Information, and Immunization Record card the
+date on which the enrolled child’s parent is notified of an immunization required by the
+Department.
+E. For an outbreak of a disease listed in A.A.C. R9-6-702(A) at a child care group home, a certificate holder
+shall:
+1. Not allow an enrolled child to attend the child care group home between the start and end of the
+outbreak if the enrolled child lacks documentation of immunization or evidence of immunity to
+the disease that complies with A.A.C. R9-6-704, and
+2. Permit the enrolled child to attend the child care group home if a parent of the enrolled child
+provides any of the documents in A.A.C. R9-6-704 for the enrolled child.
+R9-3-305. Admission and Release of Enrolled Children A. A certificate holder shall ensure that:
+1. An enrolled child is signed into and signed out from the child care group home by:
+a. The enrolled child's parent;
+b. An individual authorized in writing or by telephone by the enrolled child's parent; or c. The enrolled child, if the enrolled child is a school-age child and the enrolled child's
+parent has given written permission for the enrolled child to self-admit or self-release;
+2. The individual signing the enrolled child into or out from the child care group home:
+a. Records the time of the enrolled child's arrival or departure, and
+b. Signs the attendance record with at least the first initial of the individual’s first name and
+the individual’s last name; and 19
+  
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+3. The attendance record is maintained on the premises for 12 months from the date of the attendance record.
+B. If an enrolled child gives a staff member written permission for the enrolled child to self-admit or self- release, the certificate holder shall ensure that the staff member verifies permission with the enrolled child’s parent before the enrolled child is allowed to self-admit or self-release.
+C. If an individual who is unknown to a staff member present comes to sign out an enrolled child, the certificate holder shall ensure that before releasing the child to the individual the staff member reviews:
+1. The enrolled child's Emergency Information and Immunization Record card to verify that the
+enrolled child's parent has authorized the individual to sign out the child; and
+2. A driver’s license or other picture identification to verify the individual's identity.
+R9-3-306. Pesticides
+Except as prescribed by A.R.S. § 36-898(C), a certificate holder shall ensure that a staff member makes the following pesticide information available in writing to the parent of an enrolled child, upon the parent’s request, at least 48 hours before a pesticide application occurs on the premises:
+1. The brand, concentration, rate of application, and any use restrictions required by the label of the herbicide or specific pesticide;
+2. The date and time of the pesticide application;
+3. The pesticide label and the material safety data sheet; and
+4. The name and telephone number of the pesticide business licensee and the name of the licensed
+applicator.
+R9-3-307. Illness and Infestation
+A. A certificate holder shall ensure that an enrolled child is excluded from the child care group home when:
+1. A staff member determines that the enrolled child’s illness:
+a. Prevents the enrolled child from participating in activities without experiencing
+discomfort or aggravation of symptoms; or
+b. Results in a greater need for care than staff members can provide without compromising
+the health or safety of other enrolled children; or
+2. The child's exclusion is required under 9 A.A.C. 6, Article 3.
+B. If an enrolled child exhibits signs of illness or infestation that require exclusion from the child care group home under subsection (A), certificate holder shall ensure that a staff member:
+1. Immediately separates the enrolled child from other enrolled children;
+2. Notifies the individual designated by the parent on the enrolled child’s Emergency, Information,
+and Immunization Record card to be contacted in case of the enrolled child’s injury or illness that
+the enrolled child needs to be picked up from the child care group home; and
+3. Makes a written record of the notification and places it in the enrolled child's file.
+C. A certificate holder shall ensure that a staff member or resident who has signs or symptoms of illness or infestation is excluded from the child care group home when required under 9 A.A.C. 6, Article 3.
+D. If a certificate holder is notified that an enrolled child, staff member, or resident has an infestation or a communicable disease, other than human immunodeficiency virus or a sexually transmitted disease, the certificate holder shall:
+1. Provide written notice of potential exposure to each staff member and to a parent of each enrolled
+child within 24 hours after the certificate holder receives notice of the communicable disease or
+infestation;
+2. Maintain the written notice required in subsection (D)(1) on the premises for 12 months after the
+written notice is provided; and
+3. Provide notice to the local health agency if required under 9 A.A.C.6, Article 2.
+R9-3-308. Suspected Abuse or Neglect of an Enrolled Child
+A certificate holder shall ensure that:
+1. The certificate holder or a staff member immediately reports suspected abuse or neglect of an
+enrolled child to Child Protective Services, established within the Arizona Department of Economic Security under A.R.S. Title 8, Chapter 10, Article 1, or to a local law enforcement agency, as required by A.R.S. § 13-3620;
+   20
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+2. If a staff member or resident is suspected of abuse or neglect of an enrolled child, the certificate holder also reports the suspected abuse or neglect to the Department; and
+3. Documentation of a report required in subsection (1) or (2) is maintained on the premises for 12 months after the report.
+R9-3-309. Medications
+A. A certificate holder shall ensure that a document is prepared and maintained on the premises that specifies:
+1. Whether prescription or nonprescription medications are administered to enrolled children; and
+2. If prescription or nonprescription medications are administered, the requirements in subsection (B)
+for administering the prescription or nonprescription medications.
+B. If prescription or nonprescription medications are administered at a child care group home, a certificate
+holder shall ensure that:
+1. The provider or another staff member designated in writing by the provider is responsible for:
+a. Administering medications at the child care group home, b. Storing medications at the child care group home,
+c. Supervising the ingestion of medications, and
+d. Documenting the administration of medications;
+2. At any given time, only one designated staff member at the child care group home is responsible for the duties described in subsection (B)(1);
+3. The designated staff member does not administer a medication to an enrolled child unless the child care group home receives written authorization on a completed Department-provided authorization form that includes:
+a. The child's first and last names;
+b. The name of the medication;
+c. The prescription number, if any;
+d. Instructions for administration specifying:
+i. The dosage,
+ii. The route of administration,
+iii. The first and last dates that the medication is to be administered, and iv. The times and frequency of administration;
+e. The reason for the medication;
+f. The signature of the child's parent; and g. The date of signature; and
+4. The designated staff member:
+a. Measures liquid medications for oral administration using a measuring cup, spoon, or
+dropper specifically made for measuring liquid medication;
+b. Administers prescription medications provided by an enrolled child’s parent to the
+enrolled child only from a container dispensed by a pharmacy and accompanied by a pharmacy-generated prescription label that includes the child's first and last names and administration instructions;
+c. Administers nonprescription medications provided by an enrolled child’s parent to the enrolled child only from an original manufacturer's container labeled with the enrolled child's first and last names;
+d. Does not administer a medication that has been transferred from one container to another;
+e. Does not administer a nonprescription medication to an enrolled child inconsistent with
+the instructions on the nonprescription medication’s label, unless the child care group home receives written administration instructions from the enrolled child’s physician, physician assistant, or registered nurse practitioner;
+f. Documents each administration of medication to an enrolled child on the Department- provided form required in subsection (B)(3) including:
+i. The name of the enrolled child;
+ii. The name and amount of medication administered and the prescription number,
+if any;
+iii. The date and time the medication was administered; and
+iv. The signature of the staff member who administered the medication to the
+enrolled child; and
+21
+ 
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+g. Maintains the record on the premises for 12 months after the date the medication is administered.
+C. A certificate holder shall allow an enrolled child to receive an injection at the child care group home only after obtaining written authorization from a physician, physician assistant, or registered nurse practitioner. The certificate holder shall maintain the written authorization on the premises for 12 months after the date of the last injection.
+D. An individual authorized by state law to give injections may give an injection to an enrolled child. In an emergency, an individual may give an injection to an enrolled child according to A.R.S. §§ 32-1421(A)(1) and 32-1631(2).
+E. A certificate holder shall return unused prescription or nonprescription medication to a parent when the medication is no longer being administered to the enrolled child or has expired, whichever comes first or dispose of the medication according to state and federal laws, if the child is no longer enrolled at the child care group home and the certificate holder is unable to locate the child's parent.
+F. Except as provided in subsection (G), a certificate holder shall ensure that:
+1. Medication belonging to an enrolled child is stored in a locked, leak-proof storage cabinet or
+container that is used only for storing medications belonging to enrolled children and
+2. Medication belonging to a staff member or resident is stored in a locked, leak-proof storage
+cabinet or container that is separate from the storage container for enrolled children’s medications.
+G. A certificate holder shall ensure that a staff member’s or enrolled child’s prescription medication necessary
+to treat life-threatening symptoms is kept in a location inaccessible to enrolled children except when the
+prescription medication is administered to treat the life-threatening symptoms.
+H. A certificate holder shall ensure that a child care group home does not stock a supply of prescription or
+nonprescription medications for administration to enrolled children.
+R9-3-310. Accident and Emergency Procedures
+A. A certificate holder shall ensure that a child care group home has a first-aid kit on the premises that
+contains at least the following items, in a quantity sufficient to meet the needs of the enrolled children at the child care group home:
+1. Sterile bandages including:
+a. Adhesive bandages of assorted sizes, b. Sterile gauze pads, and
+c. Sterile gauze rolls;
+2. Antiseptic solution or sealed antiseptic wipes;
+3. Single-use non-porous gloves;
+4. Reclosable plastic bags of at least one-gallon size;
+5. Scissors; and
+6. Adhesive or self-adhering tape.
+B. A certificate holder shall ensure that the first aid kit required in subsection (A) is accessible to staff members but inaccessible to enrolled children.
+C. If, while receiving child care services at a child care group home, an enrolled child has an accident, injury, or emergency that, based on an evaluation by a staff member, does not require medical treatment by a physician, physician assistant, or registered nurse practitioner, the certificate holder shall ensure that first aid treatment as needed is provided to the enrolled child by an individual with current training in first aid.
+D. If, while receiving child care services at a child care group home, an enrolled child has an accident, injury, or emergency that, based on an evaluation by a staff member, requires medical treatment by a physician, physician assistant, or registered nurse practitioner, a certificate holder shall ensure that a staff member:
+1. Within 30 minutes after the accident, injury, or emergency, notifies the individual designated by
+the parent on the enrolled child’s Emergency, Information, and Immunization Record card to be
+contacted in case of the enrolled child’s injury or illness;
+2. Documents:
+a. A description of the accident, injury, or emergency, including the date, time, and location of the accident, injury, or emergency;
+b. The method used to notify the designated individual; and
+c. The time the designated individual was notified; and
+3. Maintains documentation required in subsection (D)(2) on the premises for 12 months after the
+date of the child’s disenrollment.
+22
+ 
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________ E. A certificate holder shall notify the Department orally or in writing within 24 hours after an enrolled child’s
+death at the child care group home during hours of operation.
+ARTICLE 4. PROGRAM AND EQUIPMENT STANDARDS
+R9-3-401. General Program, Equipment, and Health and Safety Standards
+A. In addition to complying with the requirements in this Chapter, a certificate holder shall ensure that the
+health, safety, or welfare of an enrolled child is not placed at risk of harm.
+B. A certificate holder shall ensure that:
+1. A staff member:
+a. Supervises each enrolled child at all times,
+b. Plays and communicates with an enrolled child throughout the day, and c. Responds immediately to the distress signals of an enrolled child;
+2. The areas of the child care group home approved for providing child care services are maintained free from hazards;
+3. The toys, materials, and equipment for use by enrolled children:
+a. Include, as appropriate to the ages of the enrolled children at the child care group home:
+i. Arts supplies,
+ii. Manipulatives to enhance small motor development,
+iii. Indoor and outdoor equipment to enhance large motor development, iv. Creative play materials,
+v. Books, and
+v. Musical instruments;
+b. Are sufficient in number and type to meet the needs of the enrolled children in attendance at the child care group home;
+c. Are accessible to enrolled children; and
+d. Are maintained free from hazards and in a condition that allows the toys, materials, and
+equipment to be used for their original purpose;
+4. The activities at the child care group home are:
+a. Structured to meet the age and developmental level of each enrolled child; and b. Based upon a written weekly schedule that includes:
+i. Routines, such as meals, snacks, and rest periods, that follow a familiar and consistent pattern;
+ii. If weather and air quality permit, outdoor activities to enhance large muscle development;
+iii. Stories, music, dancing, singing, and reading;
+iv. Listening and talking opportunities; and
+v. Creative activities such as water play, cutting and pasting, painting, coloring,
+dramatic play, and playing with blocks;
+5. Clean clothing is available to an enrolled child; and
+6. Drinking water is available to enrolled infants and one- or two-year-old children and is accessible
+ to older enrolled children at all times. certificate holder shall ensure that a staff member:
+C. A
+1. Monitors an enrolled child for overheating or overexposure to the sun and, if an enrolled child
+exhibits signs of overheating or overexposure to the sun, notifies a staff member who has current
+training in first aid to evaluate the enrolled child; 2. When an enrolled child’s clothing is wet or soiled:
+a. Except for an enrolled child who can change the enrolled child’s own clothing, changes the enrolled child’s wet or soiled clothing;
+b. If the clothing is soiled with feces, empties the feces into a flush toilet without rinsing the clothing;
+c. Stores the enrolled child’s wet or soiled clothing in a sealed plastic bag labeled with an identifier that is specific to the enrolled child; and
+d. Sends the enrolled child’s wet or soiled clothing home with the enrolled child or the enrolled child’s parent;
+23
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+3. Bathes an enrolled child at the child care group home only if the child care group home has received written permission from the enrolled child’s parent;
+4. Except as specified in subsection (C)(5), labels the personal items of an enrolled child with an identifier that is specific to the enrolled child and stores the personal items separately from the personal items of other enrolled children and residents;
+5. Stores diapering products in a location that is inaccessible to enrolled children but accessible for diaper changing; and
+6. If a parent of an enrolled child permits or asks a staff member to apply sunscreen, diapering products, or other substances to the skin of an enrolled child, obtains:
+a. The sunscreen, diapering products, or other substances from the enrolled child’s parent;
+or
+b. If the child care group home supplies the sunscreen, diapering products, or other
+substances, written permission from the enrolled child’s parent for the application of the specific sunscreen, diapering products, or other substances.
+R9-3-402. Supplemental Standards for Napping or Sleeping A. A certificate holder shall ensure that:
+ 1.
+2. 3.
+4.
+5.
+B. A 1. 2. 3.
+C. A 1. 2.
+3. 4.
+Each enrolled child who naps or sleeps at the child care group home is furnished with a bed, cot, mat, or crib that accommodates the enrolled child’s height and weight;
+The bed, cot, mat, or crib is not used by another individual while in use by the enrolled child;
+The cot, mat, or bed’s mattress is covered with a clean sheet that is laundered when soiled, at least once every seven days, and before use by a different enrolled child;
+The crib mattress is covered with a clean fitted-sheet designed for the crib mattress size that is laundered when soiled, at least once every 24 hours, and before use by a different enrolled child; and
+A clean blanket or sheet is available for each enrolled child.
+certificate holder shall not allow an enrolled child to use: A waterbed,
+The upper bed of a bunk bed, or
+A stacked crib.
+certificate holder shall ensure that a crib used by an enrolled child:
+Has bars or openings spaced no more than 2 3/8 inches apart;
+Has a crib mattress that is:
+a. Measured to fit not more than 1/2 inch from the crib side, and
+b. Commercially waterproofed or covered with a waterproof crib mattress cover;
+Is cleaned and sanitized when soiled; and
+Does not contain bumper pads, pillows, comforters, sheepskins, stuffed toys, or other soft products when an enrolled child is in the crib.
+D. When enrolled children are present at a child care group home during hours of operation, a certificate holder shall ensure that a staff member:
+1. Remains awake until all enrolled children are asleep, and
+2. Is allowed to sleep only:
+a. During the hours of 8:00 p.m. to 5:00 a.m., and
+b. If the staff member can hear and respond to an enrolled child waking from sleep.
+R9-3-403. Supplemental Standards for Care of an Enrolled Infant or One- or Two-Year-Old A. A certificate holder shall ensure that:
+1. A staff member:
+a. Does not allow an enrolled infant or one- or two-year-old child to spend more than 30
+consecutive minutes of time while awake in a crib, playpen, swing, feeding chair, infant
+seat, or other confining piece of equipment;
+b. Allows each enrolled infant to maintain an individual pattern of sleeping, waking, and
+eating, unless the enrolled infant's parent has instructed otherwise;
+c. If providing a bottle or sippy cup to an enrolled infant or one- or two-year-old child
+before the enrolled infant or child naps or sleeps: 24
+ 
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+i. Ensures that only water is in the bottle or sippy cup unless the written instructions required by subsection (A)(3)(b) state otherwise;
+ii. Removes the used bottle or sippy cup from the enrolled infant’s or one- or two- year-old child’s crib, bed, cot, or mat as soon as the enrolled infant or child finishes drinking or falls asleep; and
+iii. Cleans the used bottle or sippy cup before the bottle or sippy cup is reused;
+d. Checks the diaper of each enrolled infant or one- or two-year-old child throughout the
+day and changes a diaper as soon as it is wet or soiled;
+e. Ensures that toys provided for an infant or one- or two-year-old child are too large to
+swallow; and
+f. Does not permit an infant to use a walker;
+2. When putting an enrolled infant to sleep, a staff member:
+a. Places the enrolled infant on the enrolled infant's back to sleep, unless the enrolled
+infant's physician, physician assistant, or registered nurse practitioner has instructed
+otherwise in writing;
+b. Does not use a positioning device that restricts movement, unless the enrolled infant's
+physician, physician assistant, or registered nurse practitioner has instructed otherwise in
+writing; and
+c. Does not use a mechanical restraint on the enrolled infant in a crib;
+3. When feeding an enrolled infant, a staff member:
+a. Prepares and stores the enrolled infant's formula, breast milk, or other food according to
+written instructions from the enrolled infant's parent;
+b. Feeds formula, breast milk, or other food to the enrolled infant according to current
+written instructions from the enrolled infant's parent; and
+c. If the enrolled infant is younger than 6 months of age or cannot hold a bottle for feeding,
+holds the enrolled infant for feeding; and
+4. When feeding an enrolled infant who is no longer being held for feeding or an enrolled one or
+B. A 1. 2. 3. 4.
+two-year-old child, a staff member:
+a. Seats the enrolled infant or one- or two-year-old child in a feeding chair or at a table with
+a chair that allows the enrolled infant or one- or two-year-old child to reach food while
+sitting; and
+b. If the feeding chair is manufactured with a safety strap, fastens the safety strap around the
+enrolled infant or one- or two-year-old child while the enrolled infant or one- or two-
+year-old child is seated in the feeding chair.
+certificate holder shall ensure that a staff member:
+Consults with an enrolled child’s parent to establish a plan for toilet training for the enrolled child, Implements the toilet training plan,
+Provides the parent with information about the enrolled child’s progress in toilet training, and Ensures that toilet training is not forced on the enrolled child.
+Supplemental Standards for Care of an Enrolled Child with Special Needs
+R9-3-404.
+A. Before an enrolled child with special needs receives child care services at a child care group home, the
+ 1. 2. 3. 4. 5. 6. 7.
+B. A 1.
+A medication schedule,
+Nutrition and feeding instructions,
+Instructions for medical equipment or adaptive devices used by the enrolled child, Emergency instructions,
+Toileting and personal hygiene instructions,
+Identification of specific child care services to be provided at the child care group home, and Instructions for fire and emergency evacuation drills.
+certificate holder shall ensure that:
+At least one staff member receives instructions from the parent of an enrolled child with special needs that enables the staff member to interact with, feed, and care for the enrolled child with special needs;
+certificate holder shall ensure that the child care group home obtains from the enrolled child's parent written instructions for providing care for the enrolled child, including as applicable for the enrolled child:
+25
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+2. Documentation of the instructions required in subsection (B)(1) is maintained on the premises for 12 months after the child is disenrolled;
+3. When tube feeding an enrolled child, a staff member only uses:
+a. Commercially prepackaged formula in a ready-to-use use state, stored according to
+directions on the package;
+b. Formula prepared by the enrolled child’s parent and brought to the child care group home
+in an unbreakable container; or
+c. Breast milk brought to the child care group home in an unbreakable container;
+4. Only a staff member who received the instructions required in subsection (B)(1):
+a. Feeds an enrolled child who requires tube feeding using the enrolled child’s tube-feeding
+apparatus, and
+b. Cleans the enrolled child’s tube-feeding apparatus; and
+5. A staff member:
+a. Assists an enrolled child with special needs to enable the enrolled child to participate in
+activities at the child care group home; and
+b. Ensures that the enrolled child is provided with developmentally appropriate toys,
+materials, and equipment.
+C. In addition to complying with the requirements in R9-3-408, a certificate holder shall ensure that a staff
+member transporting an enrolled child with special needs in a wheelchair in a motor vehicle operated by the child care group home ensures that:
+1. The enrolled child’s wheelchair is manufactured to be secured in a motor vehicle;
+2. The enrolled child’s wheelchair is secured in the motor vehicle using a minimum of four
+anchorages attached to the motor vehicle floor, and four securement devices, such as straps or
+webbing that have buckles and fasteners, that attach the wheelchair to the anchorages;
+3. The enrolled child is secured in the wheelchair by means of a wheelchair restraint that is a
+combination of pelvic and upper body belts intended to secure a passenger in a wheelchair; and 4. The enrolled child’s wheelchair is placed in a position in the motor vehicle that does not prevent
+access to the enrolled child in the wheelchair or passage to the front and rear in the motor vehicle.
+R9-3-405. Discipline and Guidance
+A. A certificate holder shall ensure that a staff member:
+ 1.
+2. 3.
+4.
+B. A 1. 2. 3.
+from other children for unacceptable behavior according to the following:
+1. A separation period may not last longer than three minutes after the enrolled child has regained
+control or composure, and
+2. A staff member may not allow an enrolled child to be separated for longer than 10 minutes
+without the staff member interacting with the enrolled child. 26
+Establishes and maintains reasonable guidelines and limits for enrolled children's behavior and applies them consistently;
+Teaches, models, and encourages orderly conduct, self-control, and age-appropriate behavior; When disciplining an enrolled child:
+a. Explains to the enrolled child why the particular behavior is not allowed,
+b. Suggests an alternate behavior to the enrolled child, and
+c. Assists the enrolled child to become engaged in an alternate activity; and
+If an enrolled child's behavior may result in harm to self or others, holds the enrolled child without undue force until the enrolled child regains self-control or composure.
+certificate holder shall ensure that a staff member does not use or allow:
+A method of discipline that could cause harm to the health, safety, or welfare of an enrolled child; Corporal punishment;
+Discipline associated with:
+a. Eating, napping, sleeping, or toileting;
+b. Medication;
+c. Mechanical restraint;
+d. Humiliation; or
+e. Fear; or
+Discipline administered to an enrolled child by an individual who is not a staff member.
+4.
+C. A certificate holder may allow a staff member to separate an enrolled child older than two years of age
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________ D. A staff member may not discipline the staff member's own child in a manner inconsistent with subsections
+(A) through (C) during hours of operation.
+R9-3-406. General Nutrition and Menu Standards
+A. This Section does not apply to infants.
+B. A certificate holder shall ensure that meals and snacks are served to enrolled children in compliance with
+Table 4.1.
+C. When a child care group home provides food for enrolled children, the certificate holder shall ensure that:
+1. Each meal or snack is prepared and served according to the meal pattern requirements in Table 4 4.2;
+2. Second servings of food are served to each enrolled child at meal time and snack time, if requested by the enrolled child;
+3. The same food item, other than milk, is not served more than once in a single day;
+4. During each week, meals include a variety of foods from each food category in the meal pattern
+requirements in Table 4 4.2;
+5. Unless an enrolled child’s parent requests otherwise, milk served to the enrolled child is:
+a. Fat-free or 1% low-fat milk for an enrolled child older than two years of age; and
+b. Whole milk for an enrolled child two years of age or younger;
+6. Only pasteurized milk is served;
+7. Reconstituted dry milk is not served to meet the fluid milk requirement;
+8. Juice served to enrolled children for a meal or snack is pasteurized full-strength 100% vegetable
+juice, fruit juice, or fruit and vegetable juice combination from an original, commercially filled
+container or reconstituted from a concentrate according to manufacturer directions;
+9. A beverage sweetened with any kind of sugar product is not provided by the child care group
+home; and
+10. High fat or high sugar food items such as muffins, brownies, donuts, pastries, croissants, cakes, or
+cookies are served to satisfy a meal or snack category no more than twice each week.
+D. If a parent who provides food for the parent's enrolled child does not provide milk or juice for the enrolled
+child, the certificate holder shall provide milk or juice to the enrolled child unless doing so would be inconsistent with a modified diet prescribed for the enrolled child by the child's parent, physician, physician assistant, or registered nurse practitioner.
+E. A certificate holder shall ensure that a staff member maintains a supply of food sufficient to serve the meals and snacks required by this Section to be served to each enrolled child attending the child care group home in a single day.
+F. A certificate holder shall ensure that a staff member:
+1. Prepares a weekly menu specifying the foods to be served at each meal and snack on each day, 2. Dates each menu, and
+3. Writes food substitutions on a posted menu no later than the morning of the day of the meal or
+snack to which the substitution applies.
+   27
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________ Table 4.1. Meals and Snacks Required to Be Served to Enrolled Children
+   Times Enrolled Child Is at Child Care Group Home
+     Child Required to Be Served
+   Before 8:00 a.m.
+     Breakfast, if requested by parent or child
+   Between 8:00 a.m. and 11:00 a.m.
+     At least one snack
+   Between 11:00 a.m. and 1:00 p.m.
+     Lunch
+   Between 1:00 p.m. and 5:00 p.m.
+     At least one snack
+   Between 5:00 p.m. and 7:00 p.m., if staying beyond 7:00 p.m.
+     Dinner
+   Between 7:00 p.m. and 9:00 p.m., if staying beyond 9:00 p.m.
+       At least one snack
+   Table 4.2. Meal Pattern Requirements for Children
+   Food Components
+    Ages 1 through 2 years
+     Ages 3 through 5 years
+      Ages 6 and Older
+   Breakfast:
+1. Milk, fluid
+2. Vegetable, fruit, or full-strength juice
+3. Bread and bread alternates (whole grain or enriched):
+Bread
+or cornbread, rolls, muffins, or biscuits
+or cold dry cereal (volume or weight, whichever is less) or cooked cereal, pasta, noodle products, or cereal grains
+   1/2 cup 1/4 cup
+1/2 slice 1/2 serving 1/4 cup 1/4 cup
+   3/4 cup 1/2 cup
+1/2 slice 1/2 serving 1/3 cup 1/4 cup
+     1 cup 1/2 cup
+1 slice
+1 serving 3/4 cup 1/2 cup
+   Lunch or Supper:
+1. Milk, fluid
+2. Vegetable and/or fruit (2 or more kinds)
+3. Bread and bread alternates (whole grain or enriched):
+Bread
+or cornbread, rolls, muffins, or biscuits
+or cold dry cereal (volume or weight, whichever is less) or cooked cereal, pasta, noodle products, or cereal grains
+4. Meat or meat alternates:
+Lean meat, fish, or poultry (edible portion as served)
+or cheese
+or egg
+or cooked dry beans or peas*
+or peanut butter, soy nut butter, or other nut or seed butter or peanuts, soy nuts, tree nuts, or seeds
+or an equivalent quantity of any combination of the
+above meat/meat alternates or yogurt
+   1/2 cup
+1/4 cup total
+1/2 slice 1/2 serving 1/4 cup 1/4 cup
+1 oz.
+1 oz.
+1/2 egg 1/4 cup
+2 tbsp** 1/2 oz.**
+4 oz.
+  3/4 cup
+1/2 cup total
+1/2 slice 1/2 serving 1/3 cup 1/4 cup
+1 1/2 oz. 1 1/2 oz. 3/4 egg 3/8 cup
+3 tbsp** 3/4 oz.**
+6 oz.
+     1 cup
+3/4 cup total
+1 slice
+1 serving 3/4 cup 1/2 cup
+2 oz.
+2 oz.
+1 egg 1/2 cup 4 tbsp** 1 oz.**
+8 oz.
+28
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+   Snack: (select 2 of these 4 components)***
+1. Milk, fluid
+2. Vegetable, fruit, or full-strength juice
+3. Bread and bread alternates (whole grain or enriched):
+Bread
+or cornbread, rolls, muffins, or biscuits
+or cold dry cereal (volume or weight, whichever is less) or cooked cereal, pasta, noodle products, or cereal grains
+4. Meat or meat alternates:
+Lean meat, fish, or poultry (edible portion as served)
+or cheese
+or egg
+or cooked dry beans or peas*
+or peanut butter, soy nut butter, or other nut or seed butter or peanuts, soy nuts, tree nuts, or seeds
+or an equivalent quantity of any combination of the
+above meat/meat alternates or yogurt
+   1/2 cup 1/2 cup
+1/2 slice 1/2 serving 1/4 cup 1/4 cup
+1/2 oz. 1/2 oz. 1/2 egg 1/8 cup 1 tbsp 1/2 oz.
+2 oz.
+     1/2 cup 1/2 cup
+1/2 slice 1/2 serving 1/3 cup 1/4 cup
+1/2 oz. 1/2 oz. 1/2 egg 1/8 cup 1 tbsp 1/2 oz.
+2 oz.
+       1 cup 3/4 cup
+1 slice
+1 serving 3/4 cup 1/2 cup
+1 oz.
+1 oz. 1/2 egg 1/4 cup 2 tbsp 1 oz.
+4 oz.
+      * In the same meal service, dried beans or dried peas may be used as a meat alternate or as a vegetable; however, such use does not satisfy the requirement for both components.
+** At lunch and supper, no more than 50% of the requirement shall be met with nuts, seeds, or nut butters. Nuts, seeds, or nut butters shall be combined with another meat or meat alternative to fulfill the requirement. Two tablespoons of nut butter or one ounce of nuts or seeds equals one ounce of meat.
+*** Juice may not be served when milk is served as the only other component.
+   R9-3-407. General Food Service and Food Handling Standards A. A certificate holder shall ensure that:
+1. Except as provided in subsection (B), each staff member washes the staff member's hands with soap and running water before handling food, after handling potentially hazardous food, and before serving food;
+2. Except as provided in subsection (B), enrolled children, except infants and children with special needs who cannot wash their own hands, wash their hands with soap and running water before and after handling or eating food;
+3. A staff member:
+a. Washes with a washcloth, paper towel, disposable wipe, or soap and running water the
+hands of an enrolled infant or child with special needs who cannot wash the child's own hands before and after the enrolled infant or child with special needs handles or eats food, and
+b. If using a washcloth, paper towel, or disposable wipes, uses each washcloth, paper towel, or disposable wipe only once before it is laundered or discarded;
+4. A staff member:
+a. Encourages, but never forces, an enrolled child to eat;
+b. Assists each enrolled child who needs assistance with eating; and
+c. Teaches self-feeding skills and habits of good nutrition to each enrolled child as
+necessary;
+5. Food served to an enrolled child younger than five years of age is prepared so as not to present a
+choking hazard;
+6. Each enrolled child is supplied with drinking and eating utensils for the child's own use;
+7. Each enrolled child's bottle or sippy cup is marked with an identifier that is specific to the enrolled
+child;
+8. An enrolled child is not allowed to drink from the bottle, sippy cup, cup, or glass of another
+individual;
+ 29
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+9. An enrolled child is not allowed to eat food directly off the floor, carpet, or ground;
+10. An enrolled child's parent is notified when the child consistently refuses to eat or exhibits unusual
+eating behavior;
+11. Each staff member is informed of a modified diet prescribed for an enrolled child by the child's
+parent, physician, physician assistant, or registered nurse practitioner;
+12. The food served to an enrolled child is consistent with a modified diet prescribed for the child by
+the child's parent, physician, physician assistant, or registered nurse practitioner;
+13. After each use, non-single-use utensils and equipment used in preparing, eating, or drinking food
+are:
+a. Washed in an automatic dishwasher and air dried or heat dried; or
+b. Washed in hot soapy water, rinsed in clean water, and air dried or heat dried;
+14. Single-use utensils and equipment are disposed of after being used;
+15. Perishable foods are covered and stored in a refrigerator;
+16. A refrigerator at the child care group home maintains a temperature of 41° F or below, as shown
+by a thermometer kept in the refrigerator at all times;
+17. A freezer at the child care group home maintains a temperature of 0° F or below, as shown by a
+thermometer kept in the freezer at all times;
+18. Foods are prepared as close as possible to serving time and, if prepared in advance, are either:
+a. Cold held at a temperature of 45° F or below or hot held at a temperature of 130° F or above until served; or
+b. Cold held at a temperature of 45° F or below and then reheated to a temperature of at least 165° F before being served;
+19. Fresh milk is served from the original, commercially filled container to a container used for meal service or a cup, and unused portions are not returned to the original container;
+20. Food leftover from a meal where enrolled children pass a serving container from individual to individual or from the provider's family meal is not served to an enrolled child; and
+21. A food is not served past its expiration date or after it has begun to spoil.
+B. If soap and running water are not available at the location where food is served, such as on a field trip, a
+staff member may use disposable wipes or hand sanitizer as a substitute for washing hands with soap and running water.
+R9-3-408. Field Trips and Other Trips Away from the Child Care Group Home
+A. A certificate holder shall only allow a staff member to take an enrolled child away from an area of the child
+care group home approved for providing child care services during hours of operation with written permission from the enrolled child's parent as follows:
+1. For a trip to drop off the enrolled child at or pick up the enrolled child from the enrolled child’s
+school, bus stop, or another location, the written permission shall include:
+a. The enrolled child’s name;
+b. The location where the enrolled child will be dropped off or picked up;
+c. The time at which the enrolled child will be dropped off or picked up;
+d. The time period, not to exceed 12 months, during which the permission is given; and e. The dated signature of the enrolled child’s parent;
+2. For a field trip, the written permission shall include: a. The enrolled child's name;
+b. A description of the field trip;
+c. The name of the field trip destination, if applicable;
+d. The street address and, if available, the telephone number of the field trip destination, if
+applicable; e. Either:
+i. The date or dates of the field trip; or
+ii. The time period, not to exceed 12 months, during which the permission is given;
+f. The projected time of departure from the child care group home;
+g. The projected time of arrival back at the child care group home; and h. The dated signature of the enrolled child’s parent.
+B. A certificate holder shall ensure that a staff member maintains a copy of the written permission required in subsection (A) for 12 months after:
+ 30
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+1. For a trip under subsection (A)(1), the date of the last trip; and
+2. For a trip under subsection (A)(2), the last date for which permission was given. C. A certificate holder shall ensure that:
+1. Each motor vehicle used by an individual to transport an enrolled child:
+a. Is maintained in a mechanically safe condition;
+b. Is free from hazards;
+c. Is registered by the Arizona Department of Transportation as required by A.R.S. Title 28,
+Chapter 7;
+d. Has documentation of current motor vehicle insurance coverage maintained inside the
+motor vehicle;
+e. Has an operational heating system;
+f. Has an operational air-conditioning system; and g. Is equipped with:
+i. A first-aid kit that meets the requirements in R9-3-310; and
+ii. Two large, clean towels or blankets;
+2. An enrolled child is not transported in a truck bed, camper, or trailer attached to a motor vehicle;
+and
+3. The Department is notified by telephone or other equally expeditious means within 24 hours after
+a motor vehicle accident that involves a motor vehicle transporting an enrolled child, including a
+description of the accident.
+D. A certificate holder shall ensure that an individual who drives a motor vehicle used to transport an enrolled
+child: 1.
+2.
+E. A 1.
+2. 3.
+4. 5.
+6. 7.
+8.
+9.
+F. A 1.
+2.
+Is 18 years of age or older, and
+Holds a valid driver’s license.
+certificate holder shall ensure that an individual transporting an enrolled child in a motor vehicle:
+Requires that each door be locked before the motor vehicle is set in motion and keeps the doors locked while the motor vehicle is in motion;
+Does not permit an enrolled child to be seated in front of a motor vehicle’s air bag;
+Requires that each enrolled child remain seated and entirely inside the motor vehicle while the motor vehicle is in motion;
+Requires that each enrolled child younger than five years of age is secured in a child passenger restraint system, as required under A.R.S. § 28-907, before the motor vehicle is set in motion and while the motor vehicle is in motion;
+Requires that each enrolled child who is five years of age or older is secured with an individual adjustable lap belt or an individual integrated lap and shoulder belt, as required under A.R.S. § 28- 909, before the motor vehicle is set in motion and while the motor vehicle is in motion;
+Does not permit an enrolled child to open or close a door or window in the motor vehicle;
+Sets the emergency parking brake and removes the ignition keys from the motor vehicle before exiting the motor vehicle;
+Ensures that each enrolled child is loaded into or unloaded from the motor vehicle away from moving traffic at curbside or in a driveway, parking lot, or other location designated for this purpose; and
+Does not use audio headphones or a telephone while the motor vehicle is in motion.
+certificate holder shall ensure that a staff member taking enrolled children off the premises: Carries the following:
+a. A copy of the Emergency, Information, and Immunization Record card, including the attached immunization record, for each enrolled child accompanying the staff member; and
+b. Drinking water in an amount sufficient to meet the needs of each individual going off the premises and sufficient cups or other drinking receptacles so that each individual can drink from a different cup or receptacle; and
+Accounts for each enrolled child while the enrolled child is off the premises.
+ARTICLE 5. PHYSICAL ENVIRONMENT STANDARDS
+31
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+R9-3-501. General Physical Environment Standards
+A. A certificate holder shall ensure that a child care group home has:
+1. At least 30 square feet of floor space in indoor areas of the child care group home approved for providing child care services for each enrolled child, not including the following:
+a. A kitchen,
+b. A bathroom,
+c. A laundry room,
+d. A workshop room,
+e. A hallway, or
+f. A garage that has not been converted into living space;
+2. If there are up to 10 enrolled children at the child care group home, excluding enrolled children who are in diapers, indoor bathroom facilities with at least one working toilet and one working sink available for use by enrolled children;
+3. If there are more than 10 enrolled children at the child care group home, excluding enrolled children who are in diapers, indoor bathroom facilities with at least two working toilets and two working sinks available for use by enrolled children;
+4. At least two unobstructed, usable exits to the outside available for use by enrolled children; and
+5. An outdoor activity area.
+B. A certificate holder shall ensure that each indoor area of the child care group home approved for providing
+child care services is maintained at a temperature between 68° F and 82° F during hours of operation.
+C. A certificate holder shall ensure that the lighting in each indoor area of the child care group home approved
+for providing child care services is sufficient to enable a staff member to see each enrolled child in the indoor area.
+R9-3-502. Outdoor Activity Area Standards
+A. Except as provided in subsection (B), a certificate holder shall ensure that the child care group home has an
+outdoor activity area that:
+1. Is on the premises;
+2. Is at least 500 square feet in size;
+3. Is adjacent to the residence;
+4. Includes shaded areas large enough to accommodate all enrolled children occupying the outdoor
+activity area at any time; and
+5. Except as provided in subsection (D), is enclosed by a fence that:
+a. Is at least four feet high;
+b. Is secured to the ground;
+c. Does not have any vertical or horizontal open space that exceeds four inches at any point,
+including any space on a gate; and
+d. Has a gate from which an individual may exit the outdoor activity area.
+B. The outdoor activity area of a child care group home may be less than 500 square feet if: 1. The outdoor activity area is at least 375 square feet in size; and
+2. The certificate for the child care group home was issued:
+a. Before September 30, 2011, and the size of the outdoor activity area is not less than the size of the outdoor activity area on September 29, 2011; and
+b. On or after September 30, 2011, and the capacity of the child care group home is limited so that the outdoor activity area provides at least 50 square feet per each enrolled child.
+C. A certificate holder shall ensure that:
+1. A staff member:
+a. Keeps the gate in the fence surrounding an outdoor activity area closed while enrolled children are in the outdoor activity area, and
+b. Arranges play equipment in an outdoor activity area to eliminate hazards and to minimize conflict between children using the play equipment;
+2. If a child can fall more than 48 inches from a climbing structure, swing, or slide in an outdoor activity area to the ground below, the climbing structure, swing, or slide:
+a. Has one of the following covering the fall zone of the climbing structure, swing, or slide:
+i. At least six inches of fine loose sand, pea gravel, wood fiber product, or other resilient material; or
+  32
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+ii. A shock-absorbing unitary surfacing material manufactured for such use in outdoor activity areas; and
+b. Unless manufactured to be tip-resistant, as stated in the manufacturer’s description of the climbing structure, swing, or slide, is anchored securely to the ground with anchors that are installed below the ground and are covered by the resilient material required in subsection (C)(2)(a)(i) or (C)(2)(a)(ii); and
+3. If a child can fall between 24 and 48 inches from a climbing structure, swing, or slide in an outdoor activity area to the ground below, the climbing structure, swing, or slide has covering the fall zone of the climbing structure, swing, or slide non-dormant, growing grass or the resilient material required in subsection (C)(2)(a)(i) or (C)(2)(a)(ii).
+D. If the property adjoining an outdoor activity area has a swimming pool that is not enclosed by a fence that complies with the requirements of R9-3-503(B), the certificate holder shall ensure that the fence around the outdoor activity area complies with the requirements of R9-3-503(B).
+R9-3-503. Swimming Pool Standards
+A. A certificate holder shall ensure that a swimming pool used by an enrolled child at a child care group home:
+1. Contains water that meets one of the following chemical disinfection standards:
+ a. b. c.
+2. Is a.
+b. c.
+A free chlorine residual between 1.0 and 3.0 ppm as measured by the N, N-Diethyl-p- phenylenediamine test;
+A free bromine residual between 2.0 and 4.0 ppm as measured by the N, N-Diethyl-p- phenylenediamine test; or
+An oxidation-reduction potential equal to or greater than 650 millivolts; and equipped with the following:
+An operational water circulation system that clarifies and disinfects the swimming pool water continuously and that includes at least:
+i. A removable strainer,
+ii. Two swimming pool inlets located on opposite sides of the swimming pool, and iii. A drain located at the swimming pool's lowest point and covered by a grating
+that cannot be removed without using tools;
+An operational vacuum cleaning system; and
+The following items, which shall be accessible whenever the swimming pool is in use: i. A ring buoy attached to a 1/2 inch diameter rope at least 25 feet in length, and ii. A shepherd's crook.
+B. A certificate holder shall ensure that a swimming pool at the child care group home is totally enclosed by a fence that:
+1. Separates the swimming pool from all other outdoor activity areas; 2. Is secured to the ground;
+3. Is at least five feet high;
+4. Has a self-closing, self-latching, lockable gate; and
+5. Does not have any vertical or horizontal open space that exceeds four inches at any point, including any space on a gate.
+C. A certificate holder shall ensure that:
+1. On each day an enrolled child uses a swimming pool at the child care group home, a staff member
+tests the swimming pool's water quality at least once for compliance with subsection (A)(1), and
+records the results of the water quality tests in a log that includes each testing date and test result; 2. A swimming pool is not used by an enrolled child if a water quality test shows that the swimming
+pool water does not comply with subsection (A)(1);
+3. Each gate on a fence around a swimming pool on the premises is locked whenever the swimming
+pool is not in use;
+4. Swimming pool chemicals are kept in a locked storage area; and
+5. Swimming pool machinery, including a vacuum cleaning system, is inaccessible to enrolled
+children.
+D. A certificate holder shall ensure that a staff member does not allow an enrolled child to use or have access
+to a wading pool.
+E. Before an enrolled child is allowed to swim at the child care group home, a certificate holder shall ensure
+that:
+33
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+B. A 1. 2. 3. 4.
+C. A 1. 2.
+enrolled children.
+certificate holder shall ensure that a staff member:
+Tests the battery for each smoke detector required under subsection (A)(2) each month, Makes a record of each test performed,
+Replaces a smoke detector battery that is no longer charged, and
+Maintains the record of the test on the premises for 12 months after the date of the test.
+certificate holder shall:
+Replace a disposable fire extinguisher when its indicator reaches the red zone; and Ensure that each rechargeable fire extinguisher in the child care group home's residence:
+1. 2.
+The enrolled child's parent has given written permission for swimming; and
+An individual who has current lifeguard certification that includes a demonstration of the individual’s ability to perform CPR is stationed at the swimming pool in a location that enables the individual to see clearly all parts of the swimming pool, including the bottom, at all times while enrolled children are using the swimming pool.
+R9-3-504.
+A. A certificate holder shall ensure that:
+Fire Safety, Gas Safety, and Emergency Standards
+ 1. The house number of the child care group home's residence is painted or posted on the premises so that it is visible from the street;
+2. A smoke detector is installed in each indoor area of the child care group home approved for providing child care services and in each hallway of the child care group home's residence;
+3. Each smoke detector required under subsection (A)(2):
+a. Is maintained in an operable condition; and
+b. Is either battery operated or, if hard-wired into the electrical system of the child care
+group home's residence, has a back-up battery;
+4. The child care group home's residence has at least two portable fire extinguishers:
+a. One of which is labeled as rated at least 1A-10-BC by the Underwriters Laboratories and is mounted and maintained in the kitchen, and
+b. One of which is labeled as rated at least 2A-10-BC by the Underwriters Laboratories and is maintained in a location accessible to staff members in an area of the child care group home approved for providing child care services;
+5. Each electrical outlet in an area of the child care group home approved for providing child care services is covered with a safety plug cover or insert when not in use;
+6. An appliance, light, or other device with a frayed or spliced electrical cord is not used at the child care group home;
+7. An electrical cord, including an extension cord, is not run under a rug or carpeting, over a nail, or from one room to another at the child care group home;
+8. Each electrical, cable, or telephone outlet at the child care group home is covered with a face plate;
+9. A wood-burning stove, the interior of a fireplace, or a chiminea is inaccessible to enrolled children when in use;
+10. An unvented space heater or open-flame space heater is not used in the child care group home's residence during hours of operation;
+11. An electric portable heater is not used in the child care group home's residence during hours of operation unless the electric portable heater:
+a. Has:
+i. Either a non-porous casing or a grill with a mesh small enough to prevent cloth or a child’s finger from entering the casing,
+ii. A tilt switch that shuts off power to the electric portable heater if the electric portable heater tips over,
+iii. An automatic shutoff control to prevent overheating, and
+iv. A thermostat control; and
+b. Is plugged directly into a wall outlet;
+12. A candle or incense is not burned in the child care group home's residence during hours of operation; and
+13. Smoking is not permitted in the residence during hours of operation or in the presence or sight of
+  34
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+a. Is serviced at least once every 12 months; and
+b. Has a tag attached to the fire extinguisher that specifies the date of the last servicing and
+the identification of the person who serviced the fire extinguisher.
+there are gas pipes that run from a gas meter to an appliance or location on the premises:
+D. If
+1. Before an applicant for a child care group home is issued a certificate by the Department, the
+applicant shall obtain a gas inspection report by a licensed plumber or individual authorized by the local jurisdiction that verifies there are no gas leaks in the gas pipes that run from the gas meter to any appliance or location on the premises; and
+2. A certificate holder shall ensure that:
+a. Each unused natural gas outlet at the child care group home has its valves removed by
+and is capped at the wall or floor by a licensed plumber or individual authorized by the
+local jurisdiction;
+b. A licensed plumber or individual authorized by the local jurisdiction conducts a gas
+inspection that verifies there are no gas leaks in the gas pipes that run from the gas meter to any appliance or location on the premises at least once every 12 months after the date of the certificate; and
+c. A copy of a current gas inspection report, including documentation of any repairs or corrections required by the gas inspection report, is maintained on the premises.
+E. A
+1. Prepare a fire and emergency plan, consisting of:
+a. The child care group home's address and telephone number;
+b. A list of emergency telephone numbers, including 9-1-1 and a poison control center;
+c. A document or documents that include the contact telephone number for a parent of each
+enrolled child; and
+d. An evacuation plan for the child care group home, including a floor plan of the child care
+group home's residence on which lines have been drawn showing the evacuation path
+from each area of the child care group home approved for providing child care services;
+2. Maintain the fire and emergency plan in a location accessible to staff members; and
+3. Post a copy of the floor plan showing the evacuation paths from the residence in each indoor area
+certificate holder shall:
+of the child care group home approved for providing child care services. certificate holder shall ensure that:
+An unannounced fire and emergency evacuation drill is conducted at least once each month; During the fire and emergency evacuation drill, each staff member and enrolled child at the child care group home is evacuated from the child care group home according to the evacuation plan; Each fire and emergency evacuation drill is conducted at a different time of day than the previous fire and emergency evacuation drill;
+A record is made of each fire and emergency evacuation drill, including:
+a. The date of the fire and emergency evacuation drill, and
+b. The time of the fire and emergency evacuation drill; and
+The record of the fire and emergency evacuation drill is maintained on the premises for 12 months after the date of the fire and emergency evacuation drill.
+R9-3-505.
+A. A certificate holder shall ensure that the following are cared for only on the ground floor of the child care
+group home's residence:
+1. An enrolled infant,
+2. An enrolled child younger than five years of age, and
+3. An enrolled child who uses a wheelchair or is not able to walk.
+B. Except as provided in subsection (A)(3), a certificate holder may allow a staff member to care for an enrolled child five years of age or older on a floor above or below the ground floor of the child care group home's residence if one of the two unobstructed, usable exits to the outside required in R9-3-501(A)(4) from the floor on which child care services are provided leads to the ground level outside without passing through the ground floor.
+C. If the residence of a child care group home is a mobile home, a manufactured home, or a factory-built building, as defined in A.R.S. §41-2142, the certificate holder shall ensure that:
+F. A 1. 2.
+3. 4.
+5.
+General Safety Standards
+ 35
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+1. The skirting around the mobile home, manufactured home, or factory-built building is permanently attached and surrounds the entire perimeter of the residence; and
+2. Each stairway or ramp to the mobile home, manufactured home, or factory-built building has
+D. A 1.
+2.
+3.
+4. 5.
+6.
+7. 8. 9.
+R9-3-506.
+railings.
+certificate holder shall ensure that:
+A stairway that leads to a floor or room outside of the areas of the child care group home approved for providing child care services is separated from the areas of the child care group home approved for providing child care services by either a door or gate that is kept closed during hours of operation;
+A glass window, mirror, or other glass surface that is located lower than 36 inches above the floor, a sliding glass door, or another type of glass partition that is located lower than 36 inches above the floor:
+a. Is made of safety glass that has been manufactured, fabricated, or treated to prevent the
+glass from shattering or flying when struck or broken;
+b. Is shielded by a barrier to prevent impact by or physical injury to a enrolled child; or
+c. Has conspicuous markings located at a child's eye level;
+Firearms kept at the child care group home are unloaded, out of the view of enrolled children, and stored in separate locked areas, locked cabinets, or locked containers away from the locked areas, locked cabinets, or locked containers in which ammunition is stored;
+The child care group home has at least one operable telephone available for use by a staff member; Except as provided in R9-3-503(C)(4) and subsection (D)(6)(d), the following are stored in a labeled container separate from food storage areas and are inaccessible to an enrolled child:
+a. Materials and chemicals labeled as a toxic substance, and
+b. Substances that have a child warning label and may be a hazard to a child;
+Flammable liquids are stored:
+a. In an original container;
+b. Separate from food storage areas;
+c. Away from any heat-producing appliance or equipment, such as a water heater or
+furnace; and
+d. Except for hand sanitizers being provided for use, in a location inaccessible to enrolled
+children;
+Each window blind cord or curtain cord at the child care group home is anchored to a wall or inaccessible to an enrolled child;
+Each fan in an area of the child care group home approved for providing child care services is inaccessible to an enrolled child; and
+An enrolled child does not have access to the following on the premises:
+a. Lawn mowers, ladders, toilet brushes, plungers, and other equipment that may be a
+hazard to a child;
+b. An air conditioner, evaporative cooler, heat pump, or furnace;
+c. A hot tub or spa;
+d. A pond or fountain;
+e. An irrigation ditch, abandoned mine, or well; or
+f. A trampoline.
+General Cleaning and Sanitation Standards
+ A certificate holder shall ensure that:
+1. All areas of the child care group home approved for providing child care services and the
+furnishings, equipment, supplies, materials, utensils, and toys in those areas are kept clean and free
+of insects and vermin;
+2. All equipment, materials, and toys used by or accessible to enrolled children are cleaned and
+disinfected as often as necessary to maintain them in a clean and disinfected condition and, for
+items used by infants or one- or two-year-old children, at least once every 24 hours;
+3. All plumbing fixtures at the child care group home are maintained in operating condition;
+4. The plumbing at the child care group home supplies sufficient water pressure to meet the child
+care group home's toileting and cleaning needs; 36
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+5. Each bathroom used by an enrolled child at the child care group home has the following within the reach of enrolled children:
+a. Mounted toilet tissue,
+b. Soap contained in a dispenser, and c. Singly dispensed paper towels;
+6. A staff member washes the staff member's hands with soap and running water after toileting;
+7. An enrolled child other than an enrolled child with special needs who cannot wash the enrolled
+child's own hands washes the enrolled child's hands with soap and running water after toileting;
+8. After an enrolled child with special needs who cannot wash the enrolled child's own hands uses
+the toilet, a staff member washes the enrolled child's hands with a washcloth, paper towel or disposable wipes, using each washcloth, paper towel or disposable wipe on only one enrolled child and only one time before it is laundered or discarded;
+9. Each toilet bowl and sink in a child care group home available for use by enrolled children is cleaned and disinfected daily or, if necessary, more often;
+10. A bathtub is cleaned and disinfected before being used to bathe an enrolled child and, if used to bathe more than one enrolled child in one day, between each use;
+11. Food waste at the child care group home is stored in a covered waterproof container that is clean and lined with a plastic bag; and
+12. Food waste and other refuse is removed from the residence daily or, if necessary, more often.
+R9-3-507. Diaper-Changing Standards
+A. A certificate holder shall ensure that a staff member changes diapers only on a nonabsorbent, sanitizable
+diaper changing surface that:
+ 1. 2.
+3. B. A 1.
+Is kept clear of items not required for diaper changing;
+Is in an area of the child care group home approved for providing child care services, but not in a kitchen or eating area; and
+Provides access to running water and dispensed soap within 15 feet.
+certificate holder shall ensure that: A staff member:
+a. Cleans, sanitizes, and dries a diaper-changing surface using a single-use paper towel before and after each diaper change;
+b. Washes the staff member's hands with soap and running water before and after each diaper change;
+c. Wears single-use non-porous gloves during each diaper change;
+d. Washes an enrolled child's hands with soap and running water or with a washcloth or
+disposable wipe after the enrolled child's diaper is changed and uses each washcloth or disposable wipe on only one child and only one time before it is laundered or discarded; and
+e. Documents the daily diaper changes for each enrolled child in a dated diaper-changing log after changing the enrolled child’s diaper;
+The diaper-changing log is maintained on the premises for 12 months after the date of the last diaper change recorded in the diaper-changing log;
+Soiled cloth diapers or plastic pants from an enrolled child are:
+a. If soiled with feces, emptied into a flush toilet without rinsing the cloth diapers or plastic
+pants;
+b. Placed in a plastic bag labeled with an identifier that is specific to the enrolled child;
+c. Stored in a waterproof container that is tightly covered and lined with a plastic bag; and
+d. Sent home with the enrolled child’s parent; and
+Soiled disposable diapers and disposable training pants are:
+a. Stored in a waterproof container that is tightly covered and lined with a plastic bag; and b. Removed from the diaper-changing area and discarded in an outside waste receptacle
+once daily or, if necessary, more often.
+Pet and Animal Standards
+ 2. 3.
+4.
+R9-3-508.
+ A certificate holder shall ensure that:
+1. Each dog, cat, or ferret at the child care group home has a current vaccination against rabies;
+37
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+2. Documentation of current vaccination against rabies, required in subsection (1), is maintained on the premises;
+3. All pet and animal habitats at the child care group home are kept clean;
+4. When kept in an area of the child care group home approved for providing child care services, a
+bird is:
+a. Kept in a cage during hours of operation, and
+b. Not kept in the kitchen or an eating area of the child care group home;
+5. Pets and animals are controlled so that the cleanliness of the child care group home is maintained and no enrolled child, staff member, or other individual at the child care group home is endangered;
+6. All animals, except cats and dogs, are kept in enclosures that are inaccessible to enrolled children, except as an activity, during hours of operation;
+7. A reptile in a child care group home is:
+a. Kept in a tank, container, or other enclosure that is:
+i. Inaccessible to enrolled children,
+ii. Not located in an area of the child care group home approved for providing child
+care services, and
+iii. Not brought into or through areas of the child care group home approved for
+providing child care services;
+b. Not taken out of the tank, container or other enclosure at any time during hours of
+operation;
+c. Not brought into areas of the child care group home approved for providing child care
+services at any time; and
+d. Not used as part of an activity;
+8. Each pet dish is inaccessible to enrolled children during hours of operation;
+9. Receptacles for pet feces and urine, such as litter boxes, are inaccessible to enrolled children;
+10. Pet feces in an outdoor activity area are cleaned up before enrolled children are permitted in the
+outdoor activity area; and
+11. Enrolled children and staff members wash their hands with soap and running water after an
+activity involving animals.
+38
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________ (This page is intentionally left blank)
+39
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+36-897. 36-897.01. 36-897.02. 36-897.03.
+36-897.04. 36-897.05. 36-897.06. 36-897.07. 36-897.08. 36-897.09.
+36-897.10. 36-897.11. 36-897.12.
+ARIZONA DEPARTMENT OF HEALTH SERVICES OFFICE OF CHILD CARE LICENSURE
+ARIZONA REVISED STATUTES
+TITLE 36, CHAPTER 7.1, ARTICLE 4. CHILD CARE GROUP HOMES TABLE OF CONTENTS
+DEFINITIONS ................................................................................................................................. 41 CERTIFICATION; APPLICATION; FEES; RULES; FINGERPRINTING; RENEWAL ............. 41 STANDARDS OF CARE; MONITORING .................................................................................... 41 CHILD CARE GROUP HOMES; CHILD CARE PERSONNEL; FINGERPRINTS;
+DEFINITION ...................................................................................................................................42
+EXEMPTIONS ................................................................................................................................ 43
+INSPECTION OF CHILD CARE GROUP HOMES ...................................................................... 43
+CIVIL PENALTY; COLLECTION ................................................................................................. 43
+TRAINING PROGRAM .................................................................................................................. 44
+INTERMEDIATE SANCTIONS; NOTIFICATION OF COMPLIANCE; HEARING .................. 44
+OPERATING WITHOUT A CERTIFICATE; NOTICE; HEARING; VIOLATION; CLASSIFICATION .........................................................................................................................44
+PENDING ACTION OR SALE; EFFECT ON LICENSURE ......................................................... 45 INJUNCTIONS; DEFINITION ....................................................................................................... 45 INSPECTION OF RECORDS ......................................................................................................... 45
+40
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+ARTICLE 4. CHILD CARE GROUP HOMES
+36-897. Definitions
+In this article, unless the context otherwise requires:
+1. "Child care group home" means a residential facility in which child care is regularly provided for compensation for periods of less than twenty-four hours per day for not less than five children but no more than ten children through the age of twelve years.
+2. "Department" means the department of health services.
+3. "Provider" means the certificate holder or a person the certificate holder designates in writing who, pursuant to applicable statutes and rules, is to be responsible for direct daily supervision, operation and maintenance of the child care group home.
+4. "Substantial compliance" means that the nature or number of violations revealed by any type of inspection or investigation of an applicant for certification as a child care group home or a certified child care group home does not pose a direct risk to the life, health or safety of children.
+36-897.01. Certification; application; fees; rules; fingerprinting; renewal
+A. A child care group home shall be certified by the department. An application for a certificate shall be made on a written or electronic form prescribed by the department and shall contain all information required by the department.
+B. If a child care group home is within one-fourth mile of agriculture land, the application shall include the names and addresses of the owners and lessees of any agricultural land within one-fourth mile of the facility. Within ten days after receipt of an application for a certificate, the department shall notify the owners and lessees of agricultural land as listed on the application. The department shall deny a certificate that affects agricultural land regulated pursuant to section 3-365, except that the owner of the agricultural land may agree to comply with the buffer zone requirements of section 3-365. If the owner agrees in writing to comply with the buffer zone requirements and records the agreement in the office of the county recorder as a restrictive covenant running with the title to the land, the department may issue a certificate to the child care group home to be located within the affected buffer zone. The agreement may include any stipulations regarding the child care group home, including conditions for future expansion of the facility and changes in the operational status of the facility that will result in a breach of the agreement. This subsection applies to the renewal of a certificate for a child care group home located in the same location if the child care group home certificate was not previously issued under this subsection.
+C. The director, by rule, may establish and collect nonrefundable fees for child care group homes for initial and renewal certificate applications and for late filing fees. Beginning January 1, 2010, ninety per cent of the fees collected pursuant to this section shall be deposited, pursuant to sections 35-146 and 35-147, in the health services licensing fund established by section 36-414 and ten per cent of the fees collected pursuant to this section shall be deposited, pursuant to sections 35-146 and 35-147, in the state general fund.
+D. Pursuant to available funding the department shall collect annual fees.
+E. Beginning January 1, 2010, subject to the availability of monies, the department may establish a discount program for certification fees paid by child care group homes, including a public health discount program.
+F. The department shall issue an initial certificate if the department determines that the applicant and the applicant's child care group home are in substantial compliance with the requirements of this article and department rules and the facility agrees to carry out a plan acceptable to the director to eliminate any deficiencies.
+G. A certificate is valid unless it is revoked or suspended or the licensee does not pay the licensure fee and may be renewed by submitting the certification fee as prescribed by the department pursuant to subsection C of this
+section.
+H. In order to ensure that the equipment and services of a child care group home and the good character of
+an applicant are conducive to the welfare of children, the department by rule shall establish the criteria for granting, denying, suspending and revoking a certificate.
+I. The director shall adopt rules and prescribe forms as may be necessary for the proper administration and enforcement of this article.
+J. The certificate shall be conspicuously posted in the child care group home for viewing by parents and the public.
+41
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+K. Current department inspection reports shall be kept at the child care group home and shall be made available to parents on request.
+L. A certificate is not transferable and is valid only for the location occupied at the time it is issued. M. An application for an initial certificate shall include:
+1. The form that is required pursuant to section 36-897.03, subsection B and that is completed by the
+applicant.
+2. A copy of a valid fingerprint clearance card issued to the applicant pursuant to section 41-1758.07.
+N. The department of health services shall notify the department of public safety if the department of health
+services receives credible evidence that a person who possesses a valid fingerprint clearance card either:
+1. Is arrested for or charged with an offense listed in section 41-1758.07, subsection B.
+2. Falsified information on any form required by section 36-897.03.
+O. Certificate holders may pay fees by installment payments based on procedures established by the
+department.
+P. The department shall review its actual costs to administer this article at least once every two years. If the
+department determines that its administrative costs are lower than the fees it has collected pursuant to this section, it shall adjust fees.
+Q. If the department lowers fees, the department may refund or credit fees to licensees. R. Fee reductions are exempt from the rule making requirements of title 41, chapter 6.
+36-897.02. Standards of care; monitoring
+A. The department by rule shall establish standards of care for child care group homes. These rules shall include minimum programmatic, personnel, supervision of children, training, physical environment and financial stability standards.
+B. At least two adults shall be present in the child care group home when six to ten children are cared for in the home.
+C. For purposes of certification of the child care group home, the provider's own children shall not be
+counted.
+D. The total number of children present in a child care group home at any given time for whom
+compensation is received shall not exceed ten.
+E. The total number of children present in a child care group home at any given time, including children
+related to the provider, shall not exceed fifteen.
+F. The department shall monitor the operation of a child care group home at least two times each year to
+ensure that the child care group home is meeting department standards of care.
+36-897.03. Child care group homes; child care personnel; fingerprints; definition
+A. Child care personnel, including volunteers, shall submit the form prescribed in subsection B of this section to the employer and shall have valid fingerprint clearance cards issued pursuant to section 41-1758.07 or shall apply for a fingerprint clearance card within seven working days of employment or beginning volunteer work.
+B. Applicants, certificate holders and child care personnel shall attest on forms that are provided by the department that:
+1. They are not awaiting trial on or have never been convicted of or admitted in open court or pursuant to a plea agreement committing any of the offenses listed in section 41-1758.07, subsection B or C in this state or similar offenses in another state or jurisdiction.
+2. They are not parents or guardians of a child adjudicated to be a dependent child as defined in section
+8-201.
+3. They have not been denied a certificate to operate a child care group home or a license to operate a child
+care facility for the care of children in this state or another state or had a license to operate a child care facility or a certificate to operate a child care group home revoked for reasons that relate to the endangerment of the health and safety of children.
+C. The provider shall make documented, good faith efforts to contact previous employers of child care personnel to obtain information or recommendations that may be relevant to an individual's fitness to work in a certified child care group home.
+D. The director may adopt rules prescribing the exclusion from child care group homes of individuals whose presence may be detrimental to the welfare of children.
+E. The forms required by subsection B of this section are confidential. 42
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+F. A person who is awaiting trial on or who has been convicted of or who has admitted in open court or pursuant to a plea agreement to committing a criminal offense listed in section 41-1758.07, subsection B or subsection B, paragraph 2 or 3 of this section is prohibited from being employed in any capacity in a child care group home.
+G. A person who is awaiting trial on or who has been convicted of or who has admitted in open court or pursuant to a plea agreement to committing a criminal offense listed in section 41-1758.07, subsection C shall not work in a child care group home without direct visual supervision unless the person has applied for and received the required fingerprint clearance card pursuant to section 41-1758 and is registered as child care personnel. A person who is subject to this subsection shall not be employed in any capacity in a child care group home if that person is denied the required fingerprint clearance card.
+H. The employer shall notify the department of public safety if the employer receives credible evidence that any child care personnel either:
+1. Is arrested for or charged with an offense listed in section 41-1758.07, subsection B.
+2. Falsified information on the form required by subsection B of this section.
+I. For the purposes of this section, "child care personnel" means all employees of and persons who are
+eighteen years of age or older and who reside in a child care group home that is certified by the department.
+36-897.04. Exemptions
+A. This article does not apply to the care given to children by or in:
+1. The homes of their own parents.
+2. A religious institution conducting a nursery in conjunction with its religious services.
+3. A unit of the public school system.
+4. A regularly organized private school engaged in an educational program which may be attended in
+substitution for public school pursuant to section 15-802.
+5. Any facility that provides training only in specific subjects, including dancing, drama, music,
+self-defense or religion.
+6. Any facility that provides only recreational or instructional activity to school age children who may
+come to and go from that facility at their own volition.
+B. If regularly organized private schools exempt under subsection A, paragraph 4 of this section provide
+child care beyond public school hours or for children who are not regularly enrolled in kindergarten programs or grades one through twelve, that portion of the school providing this care shall be considered a child care group home and is subject to this article.
+36-897.05. Inspection of child care group homes
+A. The department or designated local health departments or its agents may at any time visit, during hours of operation, and inspect a child care group home in order to determine whether it is certified and is being conducted in compliance with applicable law, this article and rules adopted pursuant to this article.
+B. The department shall visit each child care group home as often as necessary to assure continued compliance with this article and the rules adopted pursuant to this article. At least one unannounced visit shall be made annually.
+36-897.06. Civil penalty; collection
+A. The director may impose a civil penalty on a person who violates this article or rules adopted pursuant to this article in an amount of not more than one hundred dollars for each violation. Each day that a violation occurs constitutes a separate violation. The director may issue a notice that includes the proposed amount of the civil penalty assessment. A person may appeal the assessment by requesting an administrative hearing. If a person requests a hearing to appeal an assessment, the director shall not take further action to enforce and collect the assessment until the hearing process is complete. The director shall impose a civil penalty only for those days on which the violation has been documented by the department.
+B. In determining the civil penalty pursuant to subsection A, the department shall consider the following: 1. Repeated violations of statutes or rules.
+2. Patterns of noncompliance.
+3. Types of violations.
+4. Severity of violations.
+5. Potential for and occurrences of actual harm. 6. Threats to health and safety.
+43
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+7. Number of children affected by the violations. 8. Number of violations.
+9. Size of the facility.
+10. Length of time during which violations have been occurring.
+C. If a civil penalty imposed pursuant to subsection A of this section is not paid, the attorney general or a
+county attorney shall file an action to collect the civil penalty in a justice court or the superior court in the county in which the violation occurred.
+D. Civil penalties collected pursuant to subsection A of this section shall be deposited, pursuant to sections 35-146 and 35-147, in the state general fund.
+E. The department shall develop an instrument that documents compliance and noncompliance of child care group homes according to the criteria prescribed in its rules governing child care group home certification. Blank copies of the instrument, which shall be in standardized form, shall be made available to the public.
+36-897.07. Training program
+The director shall establish a training program to provide training for child care group homes and users of child care group home services, technical assistance materials for child care group homes and information to enhance consumer awareness.
+36-897.08. Intermediate sanctions; notification of compliance; hearing
+A. If the director has reasonable cause to believe that a child care group home is in violation of this article or a rule adopted pursuant to this article and that the health or safety of the children is endangered, on written notice to the child care group home the director may impose one or more of the following intermediate sanctions until the child care group home is in substantial compliance:
+1. Immediately restrict admissions to the child care group home.
+2. Terminate specific services that the child care group home may offer.
+3. Reduce the child care group home's capacity.
+B. A child care group home sanctioned pursuant to this section shall notify the department in writing when
+it is in substantial compliance. On receipt of notification the department shall conduct an inspection. If the department determines that the child care group home is in substantial compliance the director shall immediately rescind the sanctions. If the department determines that the child care group home is not in substantial compliance the sanctions remain in effect. The child care group home may then notify the department of substantial compliance not sooner than fourteen days after the date of that inspection. If the department determines on the return inspection that the child care group home is still not in substantial compliance the sanctions remain in effect. Thereafter, a child care group home may notify the department of substantial compliance not sooner than thirty days after the date of the last inspection. A child care group home shall make all notifications of substantial compliance by certified mail. The department shall conduct all inspections required pursuant to this subsection within fourteen days after receipt of notification of substantial compliance. If the department does not conduct an inspection within this time period, the sanctions have no further effect.
+C. On written request by a person who has been sanctioned pursuant to this section the director or the director's designee shall conduct a hearing to review the sanctions. A request for a hearing shall be made by certified mail within ten days after receipt of notice of the sanctions. The office of administrative hearings shall conduct an administrative hearing within seven business days after the notice of appeal has been filed with the office of administrative hearings.
+D. A hearing conducted pursuant to this section shall comply with the requirements of title 41, chapter 6, article 10.
+36-897.09. Operating without a certificate; notice; hearing; violation; classification
+A. If the department has reasonable cause to believe that a person is operating a child care group home without a certificate, it shall notify that person to cease operation within ten days of receiving the notice. The department shall give notice either by certified mail or by personal service. The notice shall state that the person may make a written request for a hearing before the director or the director's designee pursuant to title 41, chapter 6, article 10.
+B. If a person fails to cease operation, the department may request that the county attorney of the county in which the home is located enforce this article. The department may also notify the attorney general who shall immediately seek a restraining order and an injunction against the home.
+44
+
+Arizona Administrative Rules – Title 9, Chapter 3
+Department of Health Services – Child Care Group Homes
+_____________________________________________________________________________________________
+C. A person who continues to operate a child care group home without certification ten days after receiving notice pursuant to this section is guilty of a class 1 misdemeanor.
+36-897.10. Pending action or sale; effect on licensure
+A. The department shall not act on an application for certification of a currently certified child care group home while any enforcement or court action related to child care group home certification is pending against that group home's current certificate holder.
+B. The director may continue to pursue any court, administrative or enforcement action against the certificate holder even if the group home is in the process of being sold or transferred to a new owner.
+C. The department shall not approve a change in group home ownership unless it determines that there has been a transfer of legal and equitable interests, control and authority in the group home so that persons other than the transferring certificate holder, that certificate holder's agent or other parties exercising authority or supervision over the group home's daily operations or staff are responsible for and have control over the group home.
+36-897.11. Injunctions; definition
+A. If the department believes that a child care group home is operating under conditions that may cause serious harm to children, the department shall notify the attorney general or the county attorney of the county in which the child care group home is located who shall immediately seek a restraining order and injunction against the home.
+B. For the purposes of this section, "serious harm" means a substantial physical injury.
+36-897.12. Inspection of records
+A. Records maintained by the department for child care group homes are available to the public for review and copying.
+B. Personally identifiable information that relates to a child, parent or guardian is confidential. The department shall disclose this information only as follows:
+1. Pursuant to a court order.
+2. Pursuant to a written consent signed by the parent or guardian.
+3. To a law enforcement officer who requires it for official purposes.
+4. To an official of a governmental agency who requires it for official purposes.
+C. The department shall enter into the child care group home's case file, contiguous to the form containing
+the reported violations, those documents that verify correction of reported violations.
+Updated as of 1/14 (effective 8/13)
+45
+

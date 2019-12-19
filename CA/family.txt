@@ -1,0 +1,1566 @@
+Manual of Policies and Procedures COMMUNITY CARE LICENSING DIVISION
+FAMILY CHILD CARE HOMES
+Title 22 Division 12 Chapter 3
+STATE OF CALIFORNIA HEALTH AND HUMAN SERVICES AGENCY DEPARTMENT OF SOCIAL SERVICES
+Distributed Under the Library Distribution Act
+ 
+This page is intentionally left blank.
+
+ FAMILY CHILD CARE HOMES
+ TABLE OF CONTENTS
+TITLE 22, DIVISION 12 CHAPTER 3. FAMILY CHILD CARE HOMES Article 1. General Requirements and Definitions
+Specific Exemption ........................................................................................................................ Definitions.......................................................................................................................................
+Article 2. Licensing
+Operation Without a License........................................................................................................... License Exemptions ........................................................................................................................ Advertisements and License Number ..............................................................................................
+Article 3. Application Procedures
+License ............................................................................................................................................ Application for Initial License......................................................................................................... Criminal Record Clearance ............................................................................................................. Criminal Record Exemptions .......................................................................................................... Child Abuse Central Index .............................................................................................................. Fire Safety Clearance ...................................................................................................................... Term of a License............................................................................................................................ Licensing Fees.................................................................................................................................
+Article 4. Enforcement Provisions
+Inspection Authority of the Department .......................................................................................... Site Visits ........................................................................................................................................ Unlicensed Facility Penalties........................................................................................................... Unlicensed Facility Administrative Appeal..................................................................................... Penalties ...........................................................................................................................................
+Article 5. Administrative Actions
+Denial of a License.......................................................................................................................... Revocation or Suspension of a License or Registration................................................................... Denial or Revocation of License for Failure to Pay Civil Penalties.................................................. Licensee Complaints .......................................................................................................................
+Section
+  CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective
+102351.1 102352
+102357
+102358
+102359
+102368 102369 102370 102370.1 102370.2 102371 102383 102384
+102391
+102392
+102393
+102394
+102395
+102401 102402 102402.1 102403
+4/1/16
+ Page 1
+
+ FAMILY CHILD CARE HOMES Article 6. Continuing Requirements
+Personnel Requirements .................................................................................................................. Personnel Records ........................................................................................................................... Reporting Requirements.................................................................................................................. Alterations to Existing Building or Grounds ................................................................................... Staffing Ratio and Capacity............................................................................................................. Operation of a Family Child Care Home......................................................................................... Immunizations ................................................................................................................................. Admission Procedure and Parental and Authorized Representative’s Rights.................................. Child's Records................................................................................................................................ Personal Rights................................................................................................................................ Smoking Prohibition .......................................................................................................................
+Article 7. Physical Environment (Reserved)
+Section
+ 102416 102416.1 102416.2 102416.3 102416.5 102417 102418 102419 102421 102423 102424
+    CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective
+4/1/16
+ Page 2
+
+ FAMILY CHILD CARE HOMES
+ This Users' Manual is issued as an operational tool. This Manual contains:
+a) Regulations adopted by the California Department of Social Services (CDSS) for the governance of its agents, licensees, and/or beneficiaries
+b) Regulations adopted by other State Departments affecting CDSS programs
+c) Statutes from appropriate Codes which govern CDSS programs; and
+d) Court decisions
+e) Operational standards by which CDSS staff will evaluate performance within CDSS programs.
+Regulations of CDSS are printed in gothic type as is this sentence.
+Handbook material, which includes reprinted statutory material, other department's regulations and examples, is separated from the regulations by double lines and the phrases "HANDBOOK BEGINS HERE", "HANDBOOK CONTINUES", and "HANDBOOK ENDS HERE" in bold print. Please note that both other department's regulations and statutes are mandatory, not optional.
+In addition, please note that as a result of the changes to a new computer system revised language in this manual letter and subsequent community care licensing manual letters will now be identified by a vertical line in the left margin.
+Questions relative to this Users' Manual should be directed to your usual program policy office.
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 3
+
+This page is intentionally left blank.
+
+ Regulations FAMILY CHILD CARE HOMES 102352 (Cont.) Article 1. GENERAL REQUIREMENTS AND DEFINITIONS
+ 102351.1 SPECIFIC EXEMPTION
+The provisions of Chapter 1, General Requirements, shall not apply to family child care homes.
+102351.1
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.72, 1596.73 and 1596.81, Health and Safety Code.
+102352 DEFINITIONS 102352
+(a) (1)
+"Adult" or "Substitute Adult" means a person who is 18 years of age or older.
+(2) "Applicant" means any person or persons making an application for a license to operate a family child care home.
+(3) "Assistant Provider" means a person at least 14 years of age who is primarily involved in caring for children during the hours that the home provides care.
+(b) (Reserved)
+ (c) (1)
+"California Clearance" means an individual has no felony or misdemeanor convictions reported by the California Department of Justice. However, the individual may have been arrested with no criminal conviction, convicted of a minor traffic offense or adjudicated as a juvenile.
+   (2) "Capacity" means the maximum number of children for whom care is authorized at any one time.
+(3) "Child" means a person, including an infant, who has not yet reached his or her eighteenth birthday.
+(4) "Child Abuse Central Index" means the California Department of Justice maintained statewide, multi-jurisdictional, centralized index of child abuse investigation reports. These reports pertain to alleged incidents of physical abuse, sexual abuse, mental/emotional abuse and/or severe neglect. Each child protection agency (police, sheriff, county welfare and probation departments) is required by law to forward to the California Department of Justice a report of every child abuse incident it investigates, unless an incident is determined to be unfounded.
+   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-04-17
+Effective 8/20/04
+ Page 4
+
+ 102352 (Cont.) FAMILY CHILD CARE HOMES Regulations 102352 DEFINITIONS (Continued) 102352
+(5) "Child Abuse Central Index Clearance" means that the California Department of Justice has conducted a name search of the index and the search did not result in a match or the search resulted in a match but the California Department of Social Services determined after an investigation that the allegation of child abuse or neglect was not substantiated.
+(6) "Completed Application" means that all required information and documentation has been provided to the Department, including the completed application form and, for a large family child care home, a fire clearance; and that a home visit has been completed.
+(7) "Conviction" means:
+(A) A criminal conviction in California, or
+(B) Any criminal conviction of another state, federal, military or other jurisdiction, which if committed or attempted in California, would have been punishable as a crime in California.
+(8) "Criminal Record Clearance" means an individual has a California clearance and an FBI clearance.
+ (d) (1)
+"Deficiency" means any failure to comply with any provision of the California Child Day Care Act (Health and Safety Code, Section 1596.70 et seq.) and/or regulations adopted by the Department pursuant to the Act.
+(2) "Department" means the State Department of Social Services. This term supersedes the term "Licensing agency" as used in previous regulations.
+(3) "Director" means the Director of Social Services.
+(e) (Reserved)
+(f) (1)
+"Family Day Care" or "Family Child Care" means regularly provided care, protection and supervision of children, in the care giver's own home, for periods of less than 24 hours per day, while the parents or authorized representatives are away. The term "Family Child Care" supersedes the term "Family Day Care" as used in previous regulations.
+(A) "Small Family Child Care Home" means a home that provides family child care for up to six children, or for up to eight children if the criteria in Section 102416.5(b) are met. These capacities include children under age 10 who reside at the licensee's home.
+(B) "Large Family Child Care Home" means a home that provides family child care for up to 12 children, or for up to 14 children if the criteria in Section 102416.5(d) are met. These capacities include children under age 10 who reside at the licensee's home and the assistant provider's children under age 10.
+    CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective 4/1/16
+ Page 5
+
+ Regulations 102352
+(2)
+FAMILY CHILD CARE HOMES 102352 (Cont.)
+DEFINITIONS (Continued) 102352
+"Federal Bureau of Investigation (FBI) Clearance" means an individual has no felony or misdemeanor convictions reported by the FBI. The individual may also have been arrested with no criminal conviction, convicted of a minor traffic offense or adjudicated as a juvenile.
+     (g) (Reserved)
+ (h) (1)
+"Home" means the licensee's residence as defined by Government Code Section 244.
+HANDBOOK BEGINS HERE
+Government Code Section 224 states:
+In determining the place of residence the following rules shall be observed:
+(a) It is the place where one remains when not called elsewhere for labor or other special or temporary purpose, and to which he or she returns in seasons of repose.
+(b) There can only be one residence.
+(c) A residence cannot be lost until another is gained.
+(d) The residence of the parent with whom an unmarried minor child maintains his or her place of abode is the residence of such unmarried minor child.
+(e) The residence of an unmarried minor who has a parent living cannot be changed by his or her own act.
+(f) The residence can be changed only by the union of act and intent.
+(g) A married person shall have the right to retain his or her legal residence in the State of California notwithstanding the legal residence or domicile of his or her spouse.
+HANDBOOK ENDS HERE
+"Infant" means a child who has not yet reached his or her second birthday.
+     (i) (1)
+ (j) (Reserved)
+(k) (Reserved)
+(l) (1) "License" means a written authorization by the Department or licensing agency to operate a family
+  day care home.
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-03-07
+Effective 07/16/03
+  Page 6
+
+ 102352 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102352 DEFINITIONS (Continued) 102352
+(2) "Licensee" means an adult licensed to operate a Family Day Care Home and who is primarily involved in providing care for the children during the hours that the home provides care.
+(3) "Licensing agency" See definition for Department.
+(m) (1)
+"Medical Professional" means an individual who is licensed or certified in California to perform the necessary medical procedures within his/her scope of practice. This includes, but is not limited to, Medical Doctor (MD), Registered Nurse (RN) and Licensed Vocational Nurse (LVN).
+(n) (Reserved)
+(o) (Reserved)
+(p) (1) "Parent" or "Authorized Representative" means any person or entity authorized by law to act on behalf of any child. Such person or entity may include but not be limited to a minor's parent, a legal guardian, a conservator or a public placement agency.
+(2) "Provider" means anyone providing care to children as authorized by these regulations and includes the licensee, assistant provider or substitute adult.
+(q) (Reserved)
+ (r) (1)
+"Rehabilitation" means the effort to reestablish good character since the date of the last conviction, including, but not limited to, education, counseling or therapy, training, stable employment, restitution, remorse, changes in lifestyle, or community service.
+  (s) (1)
+"Simplified Exemption" means an exemption granted on the Department's own motion, as authorized in Health and Safety Code Section 1596.871(c)(3), if the individual's criminal history meets specific criteria established by Department regulation.
+(2) "Relative" means spouse, parent, stepparent, son, daughter, brother, sister, stepbrother, stepsister, half-brother, half-sister, uncle, aunt, niece, nephew, first cousin or any such person denoted by the prefix "grand" or "great" or the spouse of any of the persons specified in this definition, even after the marriage has been terminated by death or dissolution.
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-04-17
+Effective 8/20/04
+ Page 7
+
+ Regulations FAMILY CHILD CARE HOMES 102352 DEFINITIONS (Continued)
+(t) (Reserved)
+(u) (Reserved)
+(v) (Reserved)
+(w) (Reserved)
+(x) (Reserved)
+(y) (Reserved)
+(z) (Reserved)
+102352 102352
+ NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.74, 1596.75, 1596.77, 1596.770, 1596.78, 1596.791, 1597.44, and 1597.465, Health and Safety Code; and Section 244, Government Code.
+  CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective 4/1/16
+ Page 7.1
+
+This page is intentionally left blank.
+
+ Regulations FAMILY CHILD CARE HOMES 102357 (Cont.)
+ Article 2. LICENSING
+102357 OPERATION WITHOUT A LICENSE 102357
+(a) If the Department has reason to believe that family child care is being provided without a license, the licensing agency shall:
+(1) Conduct a site visit to:
+(A) Determine whether the home is operating without a license.
+(B) Determine whether continued operation of the facility will be dangerous to the health and safety of the children in care.
+(2) Notify the unlicensed provider in writing of the requirements for such licensure.
+(3) Issue a Notice of Operation in Violation of Law if it is found and documented that continued operation of the family child care home will be dangerous to the health and safety of the children. Situations endangering the health and safety of the children shall include, but not be limited to:
+(A) Evidence of physical or mental abuse.
+(B) Children left unattended or left with a minor.
+(C) Clear evidence of unsanitary conditions.
+(D) Fire safety/fire hazards.
+(E) Unfenced or accessible pools or other bodies of water.
+(F) Hazardous physical plant.
+(4) Issue a Notice of Operation in Violation of Law if the unlicensed provider does not apply for a license within 15 working days from the date of notification.
+   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 8
+
+ 102357 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102357 OPERATION WITHOUT A LICENSE (Continued) 102357
+(b) The Department shall have the authority to issue an immediate civil penalty pursuant to Section 102393 and Section 1596.891 of the Health and Safety Code which provides:
+(1) A person who violates Section 1596.80 of the Health and Safety Code may be liable for an immediate assessment of civil penalties in the amount of two hundred dollars ($200) per day.
+(2) The penalty specified in Section 102357(b)(1) shall be imposed if the operator of an unlicensed facility refuses to seek licensure or the operator seeks licensure and is denied but continues to operate.
+(c) Section 102357 shall be applied pursuant to Section 1596.892 of the Health and Safety Code.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.80, 1596.81(b), 1596.890, 1596.891, 1596.892 and 1597.61, Health and Safety Code.
+  CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 9
+
+ Regulations FAMILY CHILD CARE HOMES 102358
+ 102358 LICENSE EXEMPTIONS 102358
+(a) Licensure is required before family child care is provided except in the following situations relative to family child care homes as specified in Health and Safety Code Section 1596.792:
+HANDBOOK BEGINS HERE
+Health and Safety Code Section 1596.792 provides in pertinent part:
+(1) Any family day care home providing care for the children of only one family in addition to the operator's own children.
+(2) Any cooperative arrangement between parents for the care of their children where no payment is involved and the arrangement meets all of the following conditions:
+(A) In a cooperative arrangement, parents shall combine their efforts so that each parent, or set of parents, rotates as the responsible care giver with respect to all the children in the cooperative.
+(B) Any person caring for children shall be a parent, legal guardian, stepparent, grandparent, aunt, uncle, or adult sibling of at least one of the children in the cooperative.
+(C) There can be no payment of money or receipt of in-kind income in exchange for the provision of care. This does not prohibit in-kind contributions of snacks, games, toys, blankets for napping, pillows, and other materials parents deem appropriate for their children. It is not the intent of this paragraph to prohibit payment for outside activities, the amount of that may not exceed the actual cost of the activity.
+(D) No more than 12 children are receiving care in the same place at the same time.
+(3) Any arrangement for the receiving and care of children by a relative.
+(4) Any child day care program that operates only one day per week for no more than four hours on that one day.
+HANDBOOK ENDS HERE
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.792 and 1596.81(b), Health and Safety Code.
+      CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 10
+
+ 102359 FAMILY CHILD CARE HOMES Regulations
+ 102359 ADVERTISEMENTS AND LICENSE NUMBER 102359
+(a) Licensees shall reveal each facility license number in all advertisements, publications, or announcements made with the intent to attract clients.
+(1) Advertisements, publications, or announcements subject to the requirements of Section 102359(a) include, but are not limited to, those contained in the following:
+(A) Newspaper or magazine.
+(B) Consumer report.
+(C) Announcement of intent to commence business.
+(D) Telephone directory yellow pages.
+(E) Professional or service directory.
+(F) Radio or television commercial.
+(b) Correspondence shall be considered a form of advertisement if the intent is to attract clients.
+NOTE: Authority cited: Section 1596.81(a), Health and Safety Code. Reference: Section 1596.861, Health and Safety Code.
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 11
+
+ Regulations FAMILY CHILD CARE HOMES 102368
+ Article 3. APPLICATION PROCEDURES
+102368 LICENSE 102368
+(a) The license shall be available in the facility upon request.
+(b) The license shall not be transferred to other individuals or locations.
+(c) Any person 18 years of age or over may apply for a license regardless of age, sex, race, religion, color, political affiliation, national origin, disabilities, marital status, actual or perceived sexual orientation, or ancestry.
+(d) As a condition of licensure, the licensee shall comply with the requirements for training in preventive health practices, including pediatric cardiopulmonary resuscitation and pediatric first aid, as specified in Health and Safety Code Section 1596.866.
+HANDBOOK BEGINS HERE
+(1) Health and Safety Code Section 1596.866 provides in part:
+(a) In addition to any other required training... each family day care home licensee who provides care shall have at least 15 hours of training on preventive health practices. The training shall include pediatric cardiopulmonary resuscitation, pediatric first aid, recognition, management, and prevention of infectious diseases, including immunizations, and prevention of childhood injuries. The training may include training in sanitary food handling, child nutrition, emergency preparedness and evacuation, caring for children with special needs, and identification and reporting of signs and symptoms of child abuse....
+(c) All personnel and licensees described in subdivision (a) shall complete 15 hours of preventive health practices training as described in subdivision (a) on or before January 1, 1995, and completion of the health training shall be a condition of licensure.
+(1) The department shall issue a provisional license for otherwise qualified applicants who are not in compliance with this section. This provisional license shall expire 90 days after the date of issuance and shall not be extended....
+HANDBOOK ENDS HERE
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.81(b), 1596.866, and 1597.57, Health and Safety Code; and Section 51, Civil Code.
+        CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-04-09
+Effective 1/9/04
+ Page 12
+
+ 102369 FAMILY CHILD CARE HOMES Regulations
+ 102369 APPLICATION FOR INITIAL LICENSE 102369
+(a) To apply for a license to operate a family child care home, an applicant shall file a written application with the Department, on forms provided or approved by the Department.
+(b) The applicant shall provide all of the following information at the time of submission of the application:
+(1) Name, address, telephone number and confirmation that the applicant is 18 years of age or over.
+(2) Age and number of children to whom care will be provided.
+(3) Name and age of every person residing in the home where care is to be provided.
+(4) A statement that the applicant will comply with all regulations and laws governing family child care homes.
+(5) When applying for a license as a large family child care home, substantiation that the provider has at least one year of experience as a regulated small family child care home operator; or one year of experience as an administrator or director of, or as a teacher at, a licensed child care center.
+(A) Waiver of this requirement shall be considered by the director upon finding that the applicant has sufficient qualifying experience.
+(6) A brief statement confirming that the applicant is financially secure to operate a family child care home for children. The Department shall not require any other specific or detailed financial disclosure.
+(7) Evidence that the small family child care home contains a fire extinguisher and smoke detector device which meet standards established by the State Fire Marshal under Section 1597.45(d) of the Health and Safety Code or evidence that the large family child care home meets the standards established by the State Fire Marshal under Section 1597.46(d) of the Health and Safety Code.
+(8) Pursuant to Section 102370(a), the fingerprints of any applicant for a family day care home license, and the following adults:
+         (A) Any person, other than a child, residing in the facility.
+(B) Any person who provides care and supervision to the children.
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective
+11/5/97
+ Page 13
+
+ Regulations FAMILY CHILD CARE HOMES 102369 (Cont.)
+ 102369 APPLICATION FOR INITIAL LICENSE (Continued)
+(C) Any staff person or employee who has contact with the children.
+(D) Repealed by CDSS Manual Letter No. CCL-00-10, effective 5/18/00.
+HANDBOOK BEGINS HERE
+1. Section 1596.871(f) of the Health and Safety Code provides in part:
+102369
+    No fee shall be charged by the Department of Justice or the department for the fingerprinting of an applicant who will serve six or fewer children or any family day care applicant for a license, or for obtaining a criminal record of an applicant pursuant to this section.
+2. Section 1596.871(b)(2) of the Health and Safety Code provides in part: Any person, other than a child, residing in the facility.
+3. Section 1596.871(c)(3) of the Health and Safety Code provides in part:
+Except for persons specified in paragraph (2) of subdivision (b), the licensee shall endeavor to ascertain the previous employment history of persons required to be fingerprinted under this subdivision.
+HANDBOOK ENDS HERE
+(9) Evidence of a current tuberculosis clearance, not more than one year prior to or seven days after initial presence in the home, for any adult in the home during the time that children are under care.
+(10) Name, address and telephone number of the city or county fire department, the district providing fire protection services, or the State Fire Marshal's Office having jurisdiction where the family day care home is located.
+   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-00-10
+Effective 5/18/00
+ Page 14
+
+ 102369 (Cont.) FAMILY CHILD CARE HOMES Regulations 102369 APPLICATION FOR INITIAL LICENSE (Continued) 102369 (c) Prior to filing an application, the applicant shall attend an orientation provided by the licensing agency.
+(1) The orientation shall cover, but not be limited to, the following areas:
+(A) Completion of the application for license.
+(B) Scope of operation subject to regulation by the Department.
+(d) Repealed by CDSS Manual Letter No. CCL-00-10, effective 5/18/00.
+HANDBOOK BEGINS HERE
+(1) Section 1596.877 of the Health and Safety Code provides in part:
+(A) Prior to granting a license to any individual to or otherwise approving, any family day care home, the department shall check the child abuse and neglect complaint records of the child protective services agency of the county in which the applicant has resided for the two years preceding the application.
+(B) Prior to granting a license to or otherwise approving any individual to care for children in either a family day care home or a day care center, the department shall check the Child Abuse Registry pursuant to paragraph (3) of subdivision (b) of Section 11170 of the Penal Code.
+(C) The department shall investigate any reports received from the Child Abuse Registry and investigate any information received from the county child protective services agency. However, child protective services agency information arising from a report designated as "unfounded," as defined pursuant to subdivision (a) of Section 11165.12 of the Penal Code, shall not be included in the investigation. The investigation shall include, but not be limited to, the review of the investigation report and file prepared by the child protective services agency that investigated the child abuse report. The department shall not deny a license based upon a report from the Child Abuse Registry or based on child abuse and neglect complaint records of the county child protective services agency unless child abuse is substantiated.
+HANDBOOK ENDS HERE
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.877, 1597.45, 1597.46, 1597.54, and 1597.57, Health and Safety Code.
+       CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-00-10
+Effective 5/18/00
+ Page 15
+
+ Regulations FAMILY CHILD CARE HOMES 102370 (Cont.)
+ 102370 CRIMINAL RECORD CLEARANCE 102370
+(a) Prior to the Department issuing a license, the applicant(s) and all adults residing in the home shall obtain a California criminal record clearance or exemption.
+HANDBOOK BEGINS HERE
+(1) Section 1596.871(a)(5) of the Health and Safety Code states in part:
+An applicant and any person specified in subdivision (b) shall submit a second set of fingerprints to the Department of Justice, for the purpose of searching the records of the Federal Bureau of Investigation, in addition to the search required by subdivision (a). If an applicant meets all other conditions for licensure, except receipt of the Federal Bureau of Investigation’s criminal history information for the applicant and persons listed in subdivision (b), the department may issue a license if the applicant and each person described in subdivision (b) has signed and submitted a statement that he or she has never been convicted of a crime in the United States, other than a traffic infraction, as defined in paragraph (1) of subdivision (a) of Section 42001 of the Vehicle Code. If, after licensure, the department determines that the licensee or person specified in subdivision (b) has a criminal record, the license may be revoked pursuant to Health and Safety Code Section 1596.885. The department may also suspend the license pending an administrative hearing pursuant to Health and Safety Code Section 1596.886.
+HANDBOOK ENDS HERE
+(b) The following individuals are exempt from the requirement to submit fingerprints:
+(1) A volunteer who is a relative, legal guardian, or foster parent of a child in the facility.
+(2) A volunteer that provides time-limited specialized services if all of the following apply:
+(A) The volunteer is directly supervised by the licensee or a facility employee with a criminal record clearance or exemption.
+(B) The volunteer spends no more than 16 hours per week at the facility.
+(C) The volunteer is not left alone with children in care.
+(3) A student who is enrolled or participating at an accredited educational institution if all of the following apply:
+(A) The student is directly supervised by the licensee or a facility employee with a criminal record clearance or exemption.
+(B) The facility has an agreement with the educational institution concerning the placement of the student.
+                         CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-03-07
+Effective 7/16/03
+ Page 16
+
+ 102370 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102370 CRIMINAL RECORD CLEARANCE (Continued)
+(C) The student spends no more than 16 hours per week at the facility. (D) The student is not left alone with the children in care.
+(4) A third-party repair person, or similar retained contractor, if all of the following apply:
+(A) The individual is hired for a defined, time-limited job.
+(B) The individual is not left alone with children.
+102370
+          (C) When children are present in the room in which the repairperson or contractor is working, a staff person who has a criminal record clearance or exemption is also present.
+(5) A medical professional, as defined in Section 102352(m)(1), who holds a valid license or certification from the individual's governing California medical care regulatory entity if all of the following apply:
+(A) The criminal record of the individual has been cleared as a condition of licensure or certification by the individual's California medical care regulatory entity.
+(B) The individual is providing time-limited specialized clinical care or services.
+(C) The individual is providing care or services within the individual's scope of practice.
+(D) The individual is not a community care facility licensee and is not employed, retained, or contracted by the licensee.
+(6) Employees of a licensed home health agency who have a contract with a child’s parent or guardian and are in the facility at the request of that parent or guardian.
+(A) The exemption shall not apply to an individual who is employed, retained or contracted by the licensee.
+(7) An attendant or facilitator for a child with a developmental disability who is visiting the client or providing direct care and supervision to the child.
+(A) The exemption shall not apply to an individual who is employed, retained or contracted by the licensee.
+(c) All individuals subject to a criminal record review shall be fingerprinted and sign a Criminal Record Statement (LIC 508 [Rev. 1/03]) under penalty of perjury.
+                              (1) A person signing the LIC 508 must:
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-03-07
+Effective 7/16/03
+  Page 16.1
+
+ Regulations 102370
+(2)
+FAMILY CHILD CARE HOMES 102370 (Cont.) CRIMINAL RECORD CLEARANCE (Continued) 102370
+(A) Declare whether he/she has been convicted of a crime, other than a minor traffic violation as specified in Section 102370(g) regardless of whether the individual was granted a pardon for the conviction, received an expungement pursuant to Penal Code 1203.4 or the individual’s record was sealed as a result of a court order.
+(B) If convicted of a crime other than a minor traffic violation as specified in Section 102370(g), provide information regarding the conviction.
+The licensee shall submit these fingerprints to the California Department of Justice along with a second set of fingerprints for the purpose of searching the records of the Federal Bureau of Investigation, or comply with Section 102370(j) prior to the individual's employment, residence, or initial presence in the child care home.
+(A) Fingerprints shall be submitted to the California Department of Justice by the licensee or sent by electronic transmission to the California Department of Justice by a fingerprinting entity approved by the California Department of Social Services.
+(B) A licensee or an applicant for a license may not submit, or enable another to submit under the licensee's or the applicant's authority, the fingerprints of any person who does not, or whom the licensee or applicant reasonably believes will not reside, provide care and supervision to, or have contact with clients at the licensee’s or applicant's facility.
+1. If the Department determines that the licensee or applicant has violated Section 102370(c)(2)(B), the Department may immediately cease processing criminal record and Child Abuse Central Index clearances for the facility until the licensee or applicant complies with this section or a disciplinary proceeding is completed.
+ (d) All individuals subject to a criminal record review pursuant to Health and Safety Code Section 1596.871 shall prior to working, residing or volunteering in a licensed facility:
+(1) Obtain a California clearance or a criminal record exemption as required by the Department or
+(2) Request a transfer of a criminal record clearance as specified in Section 102370(j) or
+(3) Request and be approved for a transfer of a criminal record exemption, as specified in Section 102370.1(p), unless, upon request for a transfer, the Department permits the individual to be employed, reside or be present at the facility.
+(e) Violation of Section 102370(d) will result in a citation of a deficiency and an immediate assessment of civil penalties of one hundred dollars ($100) per violation per day for a maximum of five (5) days by the Department.
+  CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 16.2
+
+ 102370 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102370 CRIMINAL RECORD CLEARANCE (Continued) 102370
+(1) Subsequent violations within a twelve (12) month period will result in a civil penalty of one hundred dollars ($100) per violation per day for a maximum of thirty (30) days.
+(2) The Department may assess civil penalties for continued violations as permitted by Health and Safety Code Section 1596.99.
+(f) Violation of Section 102370(d) may result in a denial of the license application or suspension and/or revocation of the license.
+(g) If the criminal record transcript of any individuals specified in the Health and Safety Code Section 1596.871(b) discloses a plea or verdict of guilty or a conviction following a plea of nolo contendere for a crime other than a minor traffic violation for which the fine was less than $300, and an exemption pursuant to Section 102370.1(a) has not been granted, the Department shall take the following actions:
+(1) For initial applicants, denial of the application.
+(2) For current licensees, the Department may institute an administrative action, including, but not limited to, revocation of the license.
+(3) For current employees, exclude the affected individual pursuant to Health and Safety Code Section 1596.8897, and deny the application or revoke of the license, if the individual continues to provide services and/or reside at the facility.
+(4) For individuals residing in the facility, licensee or employee, exclusion of the affected individual pursuant to Health and Safety Code Section 1596.8897, and denial of the application or revocation of the license, if the individual continues to provide services and/or reside in the facility.
+(h) If the conviction was for another crime, except a minor traffic violation, the Department shall determine if the person shall be allowed to remain in the facility until a decision on the exemption is rendered.
+(i) A licensee or applicant for a license may request a transfer of a criminal records clearance from one state licensed facility to another, or from TrustLine to a state licensed facility by providing the following documents to the Department:
+    (1) A signed Criminal Backgroud Clearance Transfer Request, LIC 9182 (Rev. 4/02).
+(2) A copy of the individual's:
+(A) Driver's license, or
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective
+8/10/06
+  Page 17
+
+ Regulations FAMILY CHILD CARE HOMES 102370 (Cont.)
+ 102370 CRIMINAL RECORD CLEARANCE (Continued)
+(B) Valid identification card issued by the Department of Motor Vehicles, or
+102370
+(C) Valid photo identification issued by another state or the United States government if the
+individual is not a California resident.
+(3) Any other documentation required by the Department (e.g., LIC 508, Criminal Record Statement [Rev. 1/03] and job description).
+HANDBOOK BEGINS HERE
+(4) Section 1596.871(h)(2) of the Health and Safety Code states:
+The California Department of Social Services shall hold criminal records clearances in its active files for a minimum of two years after an employee is no longer employed at a licensed facility in order for the criminal records clearances to be transferred.
+HANDBOOK ENDS HERE
+(j) A criminal record clearance may be transferred between state and county licensing agencies or between county licensing agencies provided:
+(1) The transfer is to the same facility type.
+(2) The individual and the licensing agency that processed the clearance submit a Substitute Agency Notification Request (BCII 9002) to the receiving licensing agency.
+(3) The receiving licensing agency submits the Substitute Agency Notification Request (BCII 9002) to the Department of Justice.
+(4) The Department of Justice approves the request and returns a completed BCII 9002 to the receiving agency.
+(k) The licensee shall maintain documentation of criminal record clearances or criminal record exemptions of employees, volunteers that require fingerprinting and non-client adults residing in the facility.
+(1) Documentation shall be available for inspection by the Department.
+(l) The Department may seek verification from a law enforcement agency or court of an individual’s criminal record as reported to the Department from any member of the public or affected individual.
+(1) Upon obtaining confirmation from a law enforcement agency or court of the offense, the Department shall proceed as if this criminal record information was provided by the California Department of Justice.
+            (m) (Reserved)
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-05
+Effective 8/10/06
+  Page 18
+
+ 102370 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102370 CRIMINAL RECORD CLEARANCE (Continued) 102370
+(n) If the Department determines that any licensee or individual specified in Health and Safety Code Section 1596.871(b) is arrested for a crime for which, if convicted, an individual is not eligible, by law, to receive an exemption, pending completion of its investigation into the facts underlying the arrest, the Department may take the following actions as it deems necessary:
+(1) If the arrested individual is a licensee, the Department may notify the licensee, by telephone or in writing, to immediately cease operation for up to 30 days.
+(2) If the individual arrested is not a licensee, the Department may notify the licensee and the individual associated with the facility, by telephone or in writing, that the individual may not be resent in the facility for up to 30 days.
+(3) If the individual arrested is the licensee's spouse or a dependent adult that resides in the licensee's home, the Department may notify the licensee, by telephone or in writing, to immediately cease operation for up to 30 days.
+(o) After the Department notifies the licensee, pursuant to Section 102370(n)(1) or (n)(3), or the individual pursuant to Section 102370(n)(2), he or she may present a written appeal that:
+(1) he or she is not the individual who was arrested,
+(2) he or she has not been arrested for a crime that by law an individual is not eligible to receive an exemption, or
+(3) he or she was arrested for a crime that by law an individual is not eligible to receive an exemption but the charges have been dropped or reduced to a crime that by law an individual would be eligible to receive an exemption.
+The appeal shall contain the licensee's or individual's current address and telephone number. After the Department receives the appeal and any supporting documentation, it shall review the appeal and notify the licensee or individual of its decision within five (5) working days.
+(p) Should the Department determine at any time during the 30 days referred to in Sections 102370(n)(1), (n)(2), and (n)(3) that the criminal charges have been dropped or reduced to a charge for a crime that by law an individual would be eligible to receive an exemption, the Department shall immediately rescind the notice.
+(q) Nothing in this section shall be interpreted to supercede the Department's authority under Sections 1596.886 and 1596.8897 of the Health and Safety Code.
+NOTE: Authority cited: Section 1596.81 and 1596.98(c), Health and Safety Code. Reference: Sections 1596.871, 1596.99, and 1597.59, Health and Safety Code.
+   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 18.1
+
+ Regulations FAMILY CHILD CARE HOMES 102370.1 (Cont.)
+ 102370.1 CRIMINAL RECORD EXEMPTIONS 102370.1
+(a) The Department will notify a licensee to act immediately to remove from the facility or bar from entering the facility any person described in Sections 102370.1(a)(1) through (5) below while the Department considers granting or denying an exemption. Upon notification, the licensee shall comply with the notice.
+(1) Any person who has been convicted of, or is awaiting trial for, a sex offense against a minor;
+(2) Any person who has been convicted of a felony;
+(3) Any person who has been convicted of an offense specified in Sections 243.4, 273a, 273d, 273g, or 368 of the Penal Code or any other crime specified in Health and Safety Code Section 1596.871(c)(2);
+(4) Any person who has been convicted of any crime specified below:
+(A) Battery
+(B) Shooting at Inhabited Dwelling
+(C) Corporal Injury on Spouse/Cohabitant
+(D) Discharging Firearm with Gross Negligence
+(E) Exhibiting Weapon/Firearm
+(F) Threat to Commit a Crime Resulting in Gross Bodily Injury or Death
+(G) Criminal Threat to Harm or Injure Another Person
+(H) Cruelty to Animals
+(I) Willful Harm or Injury to Child; or
+(5) Any other person ordered to be removed by the Department.
+(6) The Department may assess a civil penalty of $50 per day for failure to comply with Section 102370.1(a).
+                                    CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-03-07
+Effective 7/16/03
+ Page 19
+
+ 102370.1 (Cont.) FAMILY CHILD CARE HOMES Regulations 102370.1 CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1 (b) In addition to the requirements of Section 102370.1(a), the licensee must:
+(1) Return the confirmation of removal form that is sent by the Department, within five (5) days of the date of the form, that confirms under penalty of perjury that the individual has been removed from the facility.
+(A) Confirmation must be made on either a Removal Confirmation – Exemption Needed, LIC 300A (Rev. 9/03), Removal Confirmation - Denial, LIC 300B (Rev. 9/03), Removal Confirmation - Rescinded, LIC 300C (Rev. 9/03), or Removal Confirmation - Nonexemptible, LIC 300D (Rev. 9/03).
+(B) The Department may assess a civil penalty of $50 per day for failure to comply with Section 102370.1(b).
+(2) Provide a copy of the Addendum to Notification of Parent's Rights (Regarding Removal/Exclusion) (LIC 995B Rev. 05/03) to one parent or authorized representative of every child currently in care within one day of receipt of the addendum from the Department.
+(A) Upon notice from the Department that the individual may return to the facility, provide a copy of the Addendum to Notification of Parent’s Rights (Regarding Reinstatement) (LIC 995C Rev. 03/01) to one parent or authorized representative of every child in care within one day of receipt of the notice and addendum from the Department.
+(3) Obtain a signed and dated receipt from one parent or authorized representative that acknowledges that he/she was given a copy of the addendum specified in 102370.1(b)(2) and (2)(A).
+(4) Maintain copies of the signed and dated receipt required in Section 102370.1(b)(3) in each child's file. Copies shall be made available to the Department upon request.
+(c) Ifitis found that the applicant or any other person residing at or regularly in the home during the hours of care, has ever been convicted of a crime other than a minor traffic infraction as specified in Section 102370.1(b), the application for licensure shall be denied or the license shall be revoked, unless the following apply:
+(1) Such person has been granted a full and unconditional pardon for the offense, by the governor.
+(2) After a review of the criminal record transcript, the Department may grant an exemption from Section 102370(d) if:
+(A) The applicant/licensee requests an exemption for himself or herself, or
+      CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-04-17
+Effective 8/20/04
+ Page 19.1
+
+ Regulations 102370.1
+FAMILY CHILD CARE HOMES 102370.1 (Cont.)
+CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+(B) The applicant/licensee requests an exemption in writing for a individual associated with the facility, or
+(C) The applicant/licensee chooses not to seek an exemption on the affected individual’s behalf, and the affected individual requests an individual exemption in writing, and
+(D) The affected individual presents substantial and convincing evidence satisfactory to the Department that he/she has been rehabilitated and presently is of such good character as to justify being issued or maintaining a license, employment or residence in a licensed facility.
+The Department shall consider factors, including, but not limited to, the following, as evidence of good character and rehabilitation:
+(A) The nature of the offense committed including, but not limited to, whether it involved violence or a threat of violence to others.
+(B) Time elapsed since the offense committed, and the number of offenses.
+(C) Circumstances surrounding the commission of the crime that would demonstrate the unlikelihood of repetition.
+(D) Activities since conviction, such as employment, education, or participation in therapy, that would indicate rehabilitation.
+(E) Character references.
+1. All character references shall be on a Reference Request form (LIC 301E - Exemptions [Rev. 7/03]).
+(F) A Certificate of Rehabilitation from a Superior Court.
+(G) Evidence of honesty and truthfulness as revealed in exemption application documents.
+1. Documents include, but are not limited to:
+a. A Criminal Record Statement (LIC 508, Criminal Record Statement [Rev. 1/03]) and
+b. The individual's written statement/explanation of the conviction and the circumstances about the arrest.
+ (3)
+  CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-04-17
+Effective 8/20/04
+ Page 19.2
+
+ 102370.1 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102370.1 CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+(H) Evidence of honesty and truthfulness as revealed in exemption application interviews and conversations with the Department.
+(4) The Department shall also consider the following factors in evaluating a request for an exemption:
+(A) Facility and type of association.
+(B) The individual's age at the time the crime was committed.
+(d) To request a criminal record exemption, licensee or license applicants must submit information that indicates that the individual meets the requirements of Section 102370.1(c)(2)(D). The Department will notify the licensee or license applicant and the affected individual, in concurrent, separate notices, that the affected individual has a criminal conviction and needs to obtain a criminal record exemption.
+(1) The notice to the affected individual shall include a list of the conviction(s) that the Department is aware of at the time the notice is sent that must be addressed in an exemption request.
+(2) The notice will list the information that must be submitted to request a criminal record exemption.
+(3) The information must be submitted within forty-five (45) days of the date of the Department's notice.
+(A) Individuals who submit a criminal record exemption request shall cooperate with the Department by providing the information required by Section 102370.1(c)(2)(D) and any information requested by the Department, including, but not limited to, police reports and certified court documents to process the exemption request, pursuant to Section 102370.1(c)(3).
+(B) If the individual for whom the criminal record exemption is requested is an employee or resident other than a spouse or dependent family member and the licensee/license applicant does not submit the information listed in the Department's written notice within 45 days of the date of the notice, the Department may cease processing the exemption request and close the case.
+(C) If the individual for whom the criminal record exemption is requested is an applicant, licensee, spouse or dependent family member and the licensee/license applicant does not submit the information listed in the Department’s written notice within 45 days of the date of the notice, the Department may deny the exemption request.
+          CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 19.3
+
+ Regulations 102370.1
+FAMILY CHILD CARE HOMES 102370.1 (Cont.)
+CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+(D) Individuals may request a criminal record exemption on their own behalf if the licensee or license applicant:
+1. Chooses not to request the exemption and
+2. Chooses not to employ or terminates the individual’s employment after receiving notice of the individual’s criminal history, or
+3. Removes the individual who resides in the facility after receiving notice of the individual’s criminal history.
+     (e) The Department may deny an exemption request if:
+(1) The licensee and/or the affected individual fails to provide documents requested by the Department or
+(2) The licensee and/or the affected individual fails to cooperate with the Department in the exemption process.
+(f) The reasons for any exemption granted or denied shall be in writing and kept by the Department.
+(g) The Department has the authority to grant a criminal record exemption that places conditions on the individual's continued licensure, and employment or presence in a licensed facility.
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 19.4
+
+This page is intentionally left blank.
+
+ Regulations FAMILY CHILD CARE HOMES 102370.1 (Cont.)
+ 102370.1 CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+(h) It shall be conclusive evidence that the individual is not of such good character as to justify issuance of an exemption if the individual:
+(1) Makes a knowingly false or misleading statement regarding:
+(A) Material relevant to their application for a criminal record clearance or exemption,
+(B) His or her criminal record clearance or exemption status to obtain employment or permission to be present in a licensed facility, after the Department has ordered that they be excluded from any or all licensed facilities, or
+(C) His or her criminal record clearance or exemption status in order to obtain a position with duties that are prohibited to him/her by a conditional exemption; or
+(2) Is on probation or parole.
+(A) If the individual is currently on probation, and provides sufficient proof that the probationary period(s) is informal, unsupervised and no probation officer is assigned, the Department may, in its discretion, grant a criminal record exemption notwithstanding Section 102370.1(h)(2).
+(i) The Department shall consider granting a criminal record exemption for an individual when the individual's criminal record history meets all of the applicable criteria specified in Sections 102370.1(i)(1) through (6) and the individual provides the Department with substantial and convincing evidence of good behavior as specified in Section 102370.1(c)(2)(D). For purposes of this section, a violent crime is a crime that, upon evaluation of the code section violated and/or the reports regarding the underlying offense, presents a risk of harm or violence.
+(1) The individual has been convicted of one nonviolent misdemeanor, and one year has lapsed since completing the most recent period of incarceration or probation.
+(2) The individual has been convicted of two or more nonviolent misdemeanors and four consecutive years have lapsed since completing the most recent period of incarceration, probation or parole, whichever is latest.
+(3) The individual has been convicted of one or more violent misdemeanors and 15 consecutive years have lapsed since completing the most recent period of incarceration, probation or parole, whichever is latest.
+(4) The individual has been convicted of one nonviolent felony and four consecutive years have lapsed since completing the most recent period of incarceration, probation or parole, whichever is latest.
+                                          CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-03-07
+Effective 7/16/03
+ Page 20
+
+ 102370.1 (Cont.) FAMILY CHILD CARE HOMES Regulations 102370.1 CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+(5) The individual has been convicted of two or more nonviolent felonies and ten consecutive years have lapsed since completing the most recent period of incarceration, probation or parole, whichever is latest.
+(6) The individual has not been convicted of a violent felony.
+(7) If the individual is currently on probation, and provides sufficient proof that the probationary period(s) is informal, unsupervised and no probation officer is assigned, the period of lapsed time required in Sections 102370.1(i)(1) through (5) above shall begin from the last date of conviction(s).
+(j) It shall be a rebuttable presumption that an individual is not of such good character as to justify the issuance of an exemption if the individual fails to meet the requirements specified in Sections 102370.1(i)(1) through (6).
+(k) The Department shall not grant an exemption if the individual has a conviction for any offense specified un Section 1596.871(f) of the Health and Safety Code.
+HANDBOOK BEGINS HERE
+Health and Safety Code Section 1596.871(f) provides that no exemption shall be granted if an individual
+has been convicted of any of the following offenses:
+(1) Penal Code Sections 136.1 and 186.22 – Gang related/Intimidation of witnesses or victims.
+(2) Penal Code Sections 187, 190 through 190.4 and 192(a) – Any murder/Attempted murder/Voluntary manslaughter.
+(3) Penal Code Section 203 – Any mayhem.
+(4) Penal Code Section 206 - Felony torture.
+(5) Penal Code Sections 207, 208, 209, 209.5, 210 – Kidnapping.
+(6) Penal Code Sections 211, 212.5, 213, 214 – Any robbery.
+(7) Penal Code Section 215 – Carjacking.
+(8) Penal Code Section 220 – Assault with intent to commit mayhem, rape, sodomy or oral copulation.
+                                            HANDBOOK CONTINUES
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-03-07
+Effective 7/16/03
+    Page 20.1
+
+ Regulations
+102370.1 CRIMINAL RECORD EXEMPTIONS (Continued)
+HANDBOOK CONTINUES
+(9) Penal Code Section 243.4 – Sexual battery.
+(10) Penal Code Section 261(a), (a)(1), (2), (3), (4) or (6) – Rape.
+(11) Penal Code Section 262(a)(1) or (4) – Rape of a spouse.
+(12) Penal Code Section 264.1 – Rape in concert.
+(13) Penal Code Section 266 – Enticing a minor into prostitution.
+102370.1 (Cont.) 102370.1
+FAMILY CHILD CARE HOMES
+                (14) Penal Code Section 266c – Induce to sexual intercourse, etc. by fear or consent through fraud.
+(15) Penal Code Section 266h(b) – Pimping a minor.
+(16) Penal Code Section 266i(b) – Pandering a minor.
+(17) Penal Code Section 266j – Providing a minor under 16 for lewd or lascivious act.
+(18) Penal Code Section 267 – Abduction for prostitution.
+(19) Penal Code Section 269 – Aggravated assault of a child.
+(20) Penal Code Section 272 – Contributing to the delinquency of a minor (must involve lewd or lascivious conduct).
+(21) Penal Code Sections 273a(a) [or 273a(1) if the conviction was prior to January 1, 1994] – Willfully causing or permitting any child to suffer under circumstances or conditions likely to produce great bodily harm or death.
+(22) Penal Code Section 273d – Willfully inflicting any cruel or inhuman corporal punishment or injury on a child.
+                      (23) Penal Code Section 285 – Incest.
+(24) Penal Code Section 286 – Sodomy.
+(25) Penal Code Section 288 – Lewd or lascivious act upon a child under 14.
+HANDBOOK CONTINUES
+CALIFORNIA-DSS-MANUAL-CCL
+MANUAL LETTER NO. CCL-03-07
+Effective
+7/16/03
+         Page 20.2
+
+ 102370.1 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102370.1
+CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+HANDBOOK CONTINUES
+      (26) Penal Code Section 288a – Oral copulation.
+(27) Penal Code Section 288.2 – Felony conviction for distributing lewd material to children.
+(28) Penal Code Section 288.5(a) – Continuous sexual abuse of a child.
+(29) Penal Code Section 289 – Genital or anal penetration or abuse by any foreign or unknown object.
+(30) Penal Code Section 290(a) – All crimes for which one must register as a sex offender including attempts and not guilty by insanity.
+(31) Penal Code Section 311.2(b), (c) or (d) – Transporting or distributing child-related pornography.
+(32) Penal Code Section 311.3 – Sexual exploitation of a child.
+(33) Penal Code Section 311.4 – Using a minor to assist in making or distributing child pornography.
+(34) Penal Code Section 311.10 – Advertising or distributing child pornography.
+(35) Penal Code Section 311.11 – Possessing child pornography.
+(36) Penal Code Sections 314 paragraphs 1 or 2 – Lewd or obscene exposure of private parts.
+(37) Penal Code Section 347(a) – Poisoning or adulterating food, drink, medicine, pharmaceutical products, spring, well, reservoir or public water supply.
+(38) Penal Code Section 368 – Elder or dependent adult abuse.
+(39) Penal Code Section 417(b) – Drawing, exhibiting or using a loaded firearm.
+(40) Penal Code Section 451(a) or (b) – Arson.
+(41) Penal Code Section 460(a) – First degree burglary if it is charged and proved that a non- accomplice was present in the residence during the burglary.
+(42) Penal Code Sections 186.22 and 518 – Gang related/Extortion.
+(43) Penal Code Section 647.6 or prior to 1988 former Section 647a – Annoy or molest a child under 18.
+                                        HANDBOOK CONTINUES
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-03-07
+Effective 7/16/03
+    Page 20.3
+
+ Regulations 102370.1
+(44) (45) (46)
+(47) (48)
+(49) (50)
+(51) (52)
+FAMILY CHILD CARE HOMES 102370.1 (Cont.) CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+HANDBOOK CONTINUES
+Penal Code Section 653f(c) – Solicit another to commit rape, sodomy, etc. Penal Code Sections 664/187 – Any attempted murder.
+Penal Code Section 667.5(c)(7) – Any felony punishable by death or imprisonment in the state prison for life.
+Penal Code Section 667.5(c)(8) – Enhancement for any felony which inflicts great bodily injury.
+Penal Code Section 667.5(c)(13) – Enhancement for violation of Penal Code Section 12308, 12309 or 12310 – Exploding or igniting or attempting to explode or ignite any destructive device or explosive with intent to commit murder.
+Penal Code Section 667.5(c)(14) - Any kidnapping – Penal Code Sections 207, 208, 209, 209.5 and 210.
+Penal Code Section 667.5(c)(22) - Any violation of Penal Code Section 12022.53 – Enhancement for listed felonies where use of a firearm.
+Penal Code Section 667.5(c)(23) – Use of weapon of mass destruction.
+Business and Professions Code Section 729 – Felony sexual exploitation by a physician, psychotherapist, counselor, etc.
+HANDBOOK ENDS HERE
+                                 (l) The
+criminal history profile outlined in Sections 102370.1(l)(1) through (4) below:
+(1) The individual does not have a demonstrated pattern of criminal activity;
+(2) The individual has no more than one conviction;
+(3) The conviction is a misdemeanor and is a crime that is nonviolent and does not pose a risk of harm to an individual; and
+(4) It has been at least five consecutive years since the completion of the most recent period of incarceration or supervised probation.
+Department shall consider granting a simplified criminal record exemption if the individual has the
+           CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-03-07
+Effective 7/16/03
+ Page 20.4
+
+ 102370.1 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102370.1 CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+(m) At the Department's discretion, an individual who is otherwise eligible for a simplified exemption may be required to go through the standard exemption process if the Department determines such action will help to protect the health and safety of clients.
+(n) If the Department denies or cannot grant a criminal record exemption the Department will:
+(1) For initial applicants, deny the application.
+(2) For current licensees, the Department may institute an administrative action, including, but not limited to, revocation of the license.
+(3) For current employees, exclude the affected individual pursuant to Health and Safety Code Section 1596.8897, deny the application or revoke the license, if the individual continues to provide services and/or reside at the facility.
+(4) For individuals residing in the facility, or the licensee, exclude the affected individual pursuant to Health and Safety Code Section 1596.8897, deny the application or revoke the license, if the individual continues to provide services and/or reside at the facility.
+(5) Exemption denial notices shall specify the reason the exemption was denied.
+(o) If a request for an exemption has been denied, the individual shall be excluded for a period of two years unless the individual has been convicted of a crime for which no exemption may be granted pursuant to Section 102370.1(m). If a request for an exemption has been denied based on a conviction of a crime for which no exemption may be granted, the individual shall be excluded for the remainder of the individual's life.
+(1) If the Department determines during the review of an exemption request, that the individual was denied an exemption for a conviction of a crime for which an exemption may be granted within the preceding two years, the Department shall cease any further review of the request until two years have elapsed from the date of the denial. In cases where the individual requested a hearing on an exemption denial, the Department shall cease review of the request for an exemption until two years from the effective date of the decision and order of the Department upholding the denial. In cases where the individual submitted a petition for reinstatement or reduction in penalty pursuant to Government Code Section 11522 that was denied, the Department shall cease review of the request for an exemption until two years from the effective date of the decision and order of the Department denying the petition.
+(2) An exclusion order based solely upon a denied exemption shall remain in effect and the individual shall not be employed in or present in a licensed facility or certified home, unless either a petition or an exemption is granted.
+  CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 21
+
+ Regulations
+102370.1 CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+(3) If an individual who has previously been denied an exemption re-applies after the relevant time period described in Section 102370.1(o)(1) above, the Department may, in accordance with the provisions in Section 102370.1 et seq., grant or deny the subsequent request for an exemption.
+(4) If an individual submits a petition pursuant to Government Code Section 11522 for reinstatement or reduction of penalty for an exclusion, an individual must submit his/her fingerprints through an electronic fingerprinting system approved by the Department and submit to the Department a statement of the reason why the individual should be permitted to work or be present in a facility, along with all information required of an individual requesting a criminal record exemption as provided in Section 102370.1. If it is determined, based upon information provided by the Department of Justice, that the individual has been convicted of a crime for which no exemption may be granted, the petition shall be denied. An individual’s failure to submit fingerprints or other information as requested by the Department, shall be grounds for denial of the petition. The burden shall be on the petitioner to prove sufficient rehabilitation and good character to justify the granting of the petition.
+(p) A licensee or applicant for a license may request a transfer of a criminal record exemption from one state licensed facility to another by providing the following documents to the Department:
+(1) A signed Criminal Record Exemption Transfer Request, LIC 9188 (Rev. 9/03).
+(2) A copy of the individual’s:
+(A) Driver’s license, or
+(B) Valid identification card issued by the Department of Motor Vehicles, or
+(C) Valid photo identification issued by another state or the United States Government if the individual is not a California resident.
+(3) Any other documentation required by the Department (e.g., LIC 508, Criminal Record Statement [Rev. 1/03] and job description).
+(q) The Department may consider factors including, but not limited to, the following in determining whether or not to approve the transfer of an exemption from one facility to another:
+FAMILY CHILD CARE HOMES 102370.1 (Cont.)
+    (1) The basis on which the Department granted the exemption;
+(2) The nature and frequency of client contact in the new position;
+(3) The category of facility where the individual wishes to transfer;
+CALIFORNIA-DSS-MANUAL-CCL
+MANUAL LETTER NO. CCL-04-17
+Effective
+8/20/04
+  Page 21.1
+
+ 102370.1 (Cont.) FAMILY CHILD CARE HOMES Regulations 102370.1 CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+(4) The type of clients in the facility where the individual wishes to transfer;
+(5) Whether the exemption was appropriately evaluated and granted in accordance with existing exemption laws or regulations; or
+(6) Whether the exemption meets current exemption laws or regulations.
+(r) If the Department denies the individual’s request to transfer a criminal record exemption, the Department shall provide the individual and the licensee with written notification that states the Department's decision and informs the affected individual of their right to an administrative hearing to contest the Department’s decision.
+(s) A criminal record exemption may be transferred between state and county licensing agencies or between county licensing agencies provided:
+(1) The transfer is to the same facility type.
+(2) The individual and the licensing agency that processed the exemption submit a Substitute Agency Notification Request (BCII 9002) to the Department of Justice.
+(3) The receiving licensing agency submits the Substitute Agency Notification Request (BCII 9002) to the receiving agency.
+(4) The Department of Justice approves the request and returns a completed BCII 9002 to the receiving agency.
+(5) The licensing agency approves the exemption transfer after considering the following:
+(A) The basis on which the licensing agency granted the exemption.
+(B) Whether the exemption was appropriately evaluated and granted.
+(t) At the Department’s discretion, an exemption may be rescinded if it is determined that:
+(1) The exemption was granted in error or
+(2) The exemption does not meet current exemption laws or regulations or
+(3) The conviction for which an exemption was granted subsequently becomes non-exemptible by law.
+               CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 21.2
+
+ Regulations FAMILY CHILD CARE HOMES 102370.2 (Cont.)
+ 102370.1 CRIMINAL RECORD EXEMPTIONS (Continued) 102370.1
+(u) The Department may rescind an individual’s criminal record exemption if the Department obtains evidence showing that the individual engaged in conduct which is inconsistent with the good character requirement of a criminal record exemption, as evidenced by factors including, but not limited to, the following:
+(1) Violations of licensing laws or regulations;
+(2) Any conduct by the individual that indicates that the individual may pose a risk to the health and safety of any individual who is or may be a client;
+(3) Nondisclosure of a conviction or evidence of lack of rehabilitation that the individual failed to disclose to the Department, even if it occurred before the exemption was issued; or
+(4) The individual is convicted of a subsequent crime.
+(v) If the Department rescinds an exemption the Department shall:
+(1) Notify the licensee and the affected individual in writing; and
+(2) Initiate an administrative action.
+(w) If the Department learns that an individual has been convicted of a crime after obtaining a criminal record clearance or exemption, the Department, at its sole discretion, may initiate an administrative action to protect the health and safety of clients.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.871, 1596.885, 1596.8897, and 1597.59(b), Health and Safety Code; and Gresher v. Anderson (2005) 127 Cal. App. 4th 88.
+102370.2 CHILD ABUSE CENTRAL INDEX 102370.2
+(a) Prior to issuing a license for a family child care home, the Department shall check the Child Abuse Central Index (CACI) pursuant to Health and Safety Code Section 1596.877 and Penal Code Section 11170(b)(3). The Department shall check the CACI for the applicant(s) and all individuals subject to a criminal record review pursuant to Health and Safety Code Section 1596.871(a) and shall have the authority to approve or deny a facility license, employment, residence or presence in the facility based on the results of the review.
+(1) The applicant shall submit the Child Abuse Central Index checks (LIC 198A [3/99] for state licensed facilities and LIC 198 [4/99] for county licensed facilities) for all individuals required to be checked directly to the California Department of Justice at the same time that the individual's fingerprints are submitted for a criminal background check as required by Section 102369(b)(8).
+        CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 22
+
+This page is intentionally left blank.
+
+ Regulations 102370.2
+(2)
+FAMILY CHILD CARE HOMES 102370.2 CHILD ABUSE CENTRAL INDEX (Continued) 102370.2
+(A) Individuals who have submitted the Child Abuse Central Index check (LIC 198A [3/99]) for state licensed facilities and LIC 198 [4/99] for county licensed facilities) with fingerprints on or after January 1, 1999 need not submit a new check if the individual can transfer their criminal record clearance or exemption pursuant to Section 80019(e) or Section 80019.1(f).
+The Department shall investigate any reports received from the CACI. The investigation shall include, but not be limited to, the review of the investigation report and file prepared by the child protective agency that investigated the child abuse report. The Department shall not deny a license based upon a report from the CACI unless the Department substantiates the allegation of child abuse.
+ (b) Subsequent to licensure, all individuals subject to a criminal record review, pursuant to Health and Safety Code Section 1596.871 shall complete a Child Abuse Central Index check (LIC 198A [3/99]) for state licensed facilities and LIC 198 [02/01] for county licensed facilities), prior to employment, residence or initial presence in the family child care home.
+(1) The licensee shall submit the Child Abuse Central Index checks (LIC 198A [3/99] for state licensed facilities and LIC 198 [02/01] for county licensed facilities) directly to the California Department of Justice at the same time that the individual's fingerprints are submitted for a criminal background check as required by Section 102370(c)(2).
+(A) Individuals who have submitted the Child Abuse Central Index check (LIC 198A [3/99]) for state licensed facilities and LIC 198 [4/99] for county licensed facilities) with fingerprints on or after January 1, 1999 need not submit a new check if the individual can transfer their criminal record clearance or exemption pursuant to Section 80019(e) or Section 80019.1(f).
+(2) The Department shall check the Child Abuse Central Index (CACI) pursuant to Penal Code Section 11170(b)(3). The Department shall investigate any reports received from the CACI. The investigation shall include, but not be limited to, the review of the investigation report and file prepared by the child protective agency that investigated the child abuse report. The Department shall not deny a license or take any other administrative action based upon a report from the CACI unless the Department substantiates the allegation of child abuse.
+(3) The Department shall investigate any subsequent reports received from the CACI. The investigation shall include, but not be limited to, the review of the investigation report and file prepared by the child protective agency that investigated the child abuse report. The Department shall not revoke a license or take any other administrative action based upon a report from the CACI unless the Department substantiates the allegation of child abuse.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.81(b) and 1596.871, Health and Safety Code.
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 22.1
+
+ 102371 FAMILY CHILD CARE HOMES Regulations
+ 102371 FIRE SAFETY CLEARANCE 102371
+(a) A fire safety clearance approved by the city or county fire department, the district providing fire protection services, or the State Fire Marshal shall be required for a large family child care home.
+(1) For purposes of Section 102371, "nonambulatory persons" includes the following persons who would be unable to leave a building unassisted under emergency conditions:
+(A) Any person who is unable, or likely to be unable, to physically and mentally respond to a sensory signal approved by the State Fire Marshal, or an oral instruction relating to fire danger; and
+(B) Persons who depend upon mechanical aids such as crutches, walkers, and wheelchairs.
+(2) The Director of Social Services or his/her designated representative, in consultation with the Director of Developmental Services or his/her designated representative, shall determine the ambulatory or nonambulatory status of persons with developmental disabilities.
+(3) The Director of Social Services or his/her designated representative shall determine the ambulatory or nonambulatory status of all other disabled persons placed after January 1, 1984, who are not developmentally disabled.
+(b) A fire clearance shall not be required for a small family child care home.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.78, 1596.81(b), 1597.44, 1597.45, 1597.465, 13131, 13131.3 and 13143, Health and Safety Code.
+     CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 23
+
+ Regulations FAMILY CHILD CARE HOMES 102384 (Cont.)
+ 102383 TERM OF A LICENSE
+(a) Except as specified in Section 102368, a license remains in effect until it is:
+(1) Forfeited or surrendered as specified in Health and Safety Code Section 1596.858.
+(2) Suspended or revoked as specified in Section 102393.
+102383
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Section 1596.858, Health and Safety Code.
+102384 LICENSING FEES 102384
+(a) An applicant or licensee shall be charged fees as specified in Health and Safety Code Section 1596.803:
+HANDBOOK BEGINS HERE
+Health and Safety Code Section 1596.803 provides:
+(a) (1) An application fee adjusted by facility and capacity shall be charged by the department for the issuance of a license to operate a child day care facility. After initial licensure, a fee shall be charged by the department annually, on each anniversary of the effective date of the license. The fees are for the purpose of financing activities specified in this chapter. Fees shall be assessed as follows, subject to paragraph (2):
+        Facility Type Family Day Care
+Day Care Centers
+Fee Schedule
+Original Annual Capacity Application Fee
+  1-8 $73 9-14 $140
+1-30 $484 31-60 $968 61-75 $1,210 76-90 $1,452 91-120 $1,936 121+ $2,420
+$73 $140
+  $242
+  $484
+  $605
+  $726
+  $968
+$1,210
+          (2)(A) The Legislature finds that all revenues generated by
+this section and used for the purposes for which they were imposed are not subject to Article XIII B of the California Constitution.
+fees for licenses computed under
+  HANDBOOK CONTINUES
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-15-10
+Effective 5/18/15
+    Page 24
+
+ 102384 (Cont.) FAMILY CHILD CARE HOMES Regulations 102384 LICENSING FEES (Continued) 102384 HANDBOOK CONTINUES
+(B) Thedepartment,atleasteveryfiveyears,shallanalyzeinitialapplicationfeesandannual fees issued by it to ensure the appropriate fee amounts are charged. The department shall recommend to the Legislature that fees established by the Legislature be adjusted as necessary to ensure that the amounts are appropriate.
+(b) (1) In addition to fees set forth in subdivision (a), the department shall charge the following fees:
+(A) A fee that represents 50 percent of an established application fee when an existing licensee moves the facility to a new physical address.
+(B) A fee that represents 50 percent of the established application fee when a corporate licensee changes who has the authority to select a majority of the board of directors.
+(C) A fee of twenty-five dollars ($25) when an existing licensee seeks to either increase or decrease the licensed capacity of the facility.
+(D) An orientation fee of twenty-five dollars ($25) for attendance by any individual at a department-sponsored family child day care home orientation session, and a fifty dollar ($50) orientation fee for attendance by any individual at a department-sponsored child day care center orientation session.
+(E) A probation monitoring fee equal to the current annual fee, in addition to the current annual fee for that category and capacity for each year a license has been placed on probation as a result of a stipulation or decision and order pursuant to the administrative adjudication procedures of the Administrative Procedure Act (Chapter 4.5 (commencing with Section 11400) and Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code).
+(F) A late fee that represents an additional 50 percent of the established current annual fee when any licensee fails to pay the current annual licensing fee on or before the due date as indicated by postmark on the payment.
+      HANDBOOK CONTINUES
+   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-15-10
+Effective 5/18/15
+ Page 24.1
+
+ Regulations 102384
+FAMILY CHILD CARE HOMES 102384 (Cont.) LICENSING FEES (Continued) 102384
+HANDBOOK CONTINUES
+(G) A fee to cover any costs incurred by the department for processing payments including, but not limited to, bounced check charges, charges for credit and debit transactions, and postage due charges.
+(H) A plan of correction fee of two hundred dollars ($200) when any licensee does not implement a plan of correction on or prior to the date specified in the plan.
+(2) No local jurisdiction shall impose any business license, fee, or tax for the privilege of operating a small family day care home licensed under this act.
+(c) (1) The revenues collected from licensing fees pursuant to this section shall be utilized by the department for the purpose of ensuring the health and safety of all individuals provided care and supervision by licensees, and to support the activities of the licensing program, including, but not limited to, monitoring facilities for compliance with licensing laws and regulations pursuant to this act, and other administrative activities in support of the licensing program, when appropriated for these purposes. The revenues collected shall be used in addition to any other funds appropriated in the annual Budget Act in support of the licensing program. The department shall adjust the fees collected pursuant to this section as necessary to ensure they do not exceed the costs described in this paragraph.
+     HANDBOOK CONTINUES
+   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-15-10
+Effective 5/18/15
+ Page 25
+
+This page is intentionally left blank.
+
+ Regulations 102384
+FAMILY CHILD CARE HOMES 102384 LICENSING FEES (Continued) 102384
+HANDBOOK CONTINUES
+(2) The department shall not utilize any portion of these revenues sooner than 30 days after notification in writing of the purpose and use, as approved by the Department of Finance, to the Chairperson of the Joint Legislative Budget Committee, and the chairpersons of the committee in each house that considers appropriations for each fiscal year. The department shall submit a budget change proposal to justify any positions or any other related support costs on an ongoing basis.
+(d) A child day care facility may use a bona fide business or personal check to pay the license fee required under this section.
+(e) The failure of an applicant for licensure or a licensee to pay all applicable and accrued fees and civil penalties shall constitute grounds for denial or forfeiture of a license.
+HANDBOOK ENDS HERE
+                (b) When a licensee moves a facility from one location to another, the relocation fee shall be as specified in Health and Safety Code Section 1596.803(b)(1)(A).
+(1) To qualify for the relocation fee, the following shall apply:
+(A) The licensee has notified the Department before actually relocating the facility.
+(B) The facility category remains the same when relocating the facility.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.72, 1596.73, and 1596.803, Health and Safety Code.
+      CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-09-08
+Effective 11/1/09
+ Page 25.1
+
+This page is intentionally left blank
+
+ Regulations FAMILY CHILD CARE HOMES 102391 (Cont.)
+  Article 4. ENFORCEMENT PROVISIONS
+102391 INSPECTION AUTHORITY OF THE DEPARTMENT 102391
+(a) Any duly authorized officer, employee, or agent of the Department shall, upon presentation of proper identification, enter and inspect any place providing personal care, supervision, and services at any time, with or without advance notice, to secure compliance with, or to prevent a violation of, the regulations adopted by the Department governing family child care homes, and in accordance with Section 102396.
+(b) The licensee shall permit the Department to inspect the family child care home, and to privately interview children or staff, to determine compliance with or to prevent violations of family child care laws or regulations. The Department shall exercise this authority as specified in Health and Safety Code Section 1596.8535(a).
+HANDBOOK BEGINS HERE
+(1) Health and Safety Code Section 1596.8535(a) provides:
+"Notwithstanding any other provision of law, the department shall conduct any authorized inspection, announced site visit, or unannounced site visit of any child daycare facility only during the period beginning one hour before and ending one hour after the facility's normal business hours or at any time childcare services are being provided. This subdivision shall not apply to the investigation of any complaint received by the department if the department determines that an inspection or site visit outside the time period beginning one hour before, and ending one hour after, the facility's normal operating hours is necessary to protect the health or safety of any child in the facility."
+HANDBOOK ENDS HERE
+(c) The licensee shall permit the Department to inspect any part of the family child care home in which family child care services are provided or to which children have access.
+(d) The licensee shall permit the Department to inspect, audit, and copy children's records or other family child care home records upon demand during normal business hours. Records may be removed if necessary for copying. Removal of records shall be subject to the following requirements:
+(1) Licensing representatives shall not remove the following current records unless the same information is otherwise readily available in another document or format:
+(A) Current emergency information cards for current children in care as specified in Section 102417(g)(7).
+(B) The current roster of children in care as specified in Section 102417(g)(8).
+(C) Children's immunization records as specified in Section 102418(g).
+                                   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-05-09
+Effective
+6/8/05
+ Page 26
+
+ 102391 (Cont.) FAMILY CHILD CARE HOMES Regulations 102391 INSPECTION AUTHORITY OF THE DEPARTMENT 102391
+(Continued)
+(D) Documentation of completion of health and safety training by the licensee and other personnel as specified in Sections 102368(d) and 102416(c).
+(E) Any other records containing current emergency or health-related information for current children in care or staff.
+(2) Prior to removing any records, a licensing representative shall prepare a list of the records to be removed, sign and date the list upon removal of the records, and leave a copy of the list with the licensee or designated substitute.
+(3) Licensing representatives shall return the records undamaged and in good order within three business days following the date the records were removed.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.72, 1596.73, 1596.852, 1597.55a and 1597.55b, Health and Safety Code; Rush v. Obledo, (9th Cir. 1985) 756F.2d 713, and Golden Day Schools, Inc. v. Pirillo (C.D. Cal. 2000) 118 F. Supp. 2nd 1037.
+102392 SITE VISITS 102392
+(a) Site visits to family child care homes shall be conducted as specified in Health and Safety Code Sections 1596.8535(a) [as referenced in Section 102391(b)] and 1597.55a.
+HANDBOOK BEGINS HERE
+Health and Safety Code Section 1597.55a provides in part:
+"Every family day care home shall be subject to unannounced visits by the department as provided in this section. The department shall visit these facilities as often as necessary to ensure the quality of care provided.
+"(a) The department shall conduct an announced site visit prior to the initial licensing of the applicant.
+"(b) The department shall conduct an annual unannounced visit to a facility under any of the following circumstances:
+                                    "(1) When a license is on probation.
+HANDBOOK CONTINUES
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-05-09
+Effective
+6/8/05
+    Page 26.1
+
+ Regulations FAMILY CHILD CARE HOMES 102392
+ 102392 SITE VISITS (Continued) 102392
+HANDBOOK CONTINUES
+"(2) When the terms of agreement in a facility compliance plan require an annual evaluation.
+"(3) When an accusation against a licensee is pending.
+"(4) In order to verify that a person who has been ordered out of a family day care home by the department is no longer at the facility.
+"(c) The department shall conduct [random] annual unannounced visits to no less than 10 percent of facilities not subject to an evaluation under subdivision (b)...
+"(d) Under no circumstance shall the department visit a licensed family day care home less often than once every five years.
+"(e) A public agency under contract with the department may make spot checks if it does not result in any cost to the state. However, spot checks shall not be required by the department.
+"(f) The department or licensing agency shall make an unannounced site visit on the basis of a complaint and a followup visit as provided in Section 1596.853.
+"(g) An unannounced site visit shall adhere to both of the following conditions:
+"(1) The visit shall take place only during the facility's normal business hours or at any time family day care services are being provided.
+"(2) The inspection of the facility shall be limited to those parts of the facility in which family day care services are provided or to which the children have access.
+"(h) The department shall implement this section during periods that Section 1597.55b is not being implemented in accordance with Section 18285.5 of the Welfare and Institutions Code [which provides, in part, that additional licensing visits be conducted if sufficient funds are available through the "Have a Heart, Be a Star, Help Our Kids" license plate program].
+HANDBOOK ENDS HERE
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.81(b), 1596.852, 1597.55a, and 1597.55b, Health and Safety Code; and Section 18285.5, Welfare and Institutions Code.
+                                      CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-05-09
+Effective 6/8/05
+ Page 26.2
+
+ 102393 FAMILY CHILD CARE HOMES Regulations
+ 102393 UNLICENSED FACILITY PENALTIES 102393
+(a) A penalty of $200 per day shall be assessed for the operation of an unlicensed facility under either of the following conditions:
+(1) The operator has not submitted a completed application for licensure within 15 calendar days of issuance of a Notice of Operation in Violation of Law pursuant to Section 102357 and continues to operate.
+(A) For purposes of this section, an application shall be deemed completed if it includes the information required in Section 102359.
+(B) The completed application shall be deemed to be submitted when received by the licensing agency.
+(2) Unlicensed operation continues after denial of the initial application.
+(A) Notwithstanding any appeal action, facility operation must cease within 10 calendar days of the mailing of the notice of denial or upon receipt of the denial notice by the operator, whichever occurs first.
+(b) The $200 per day penalty shall be assessed for the continued operation of an unlicensed facility as follows:
+(1) On the 16th calendar day after the operator has been issued the Notice of Operation in Violation of Law, and has not submitted a completed application as required.
+(A) The $200 per day penalty shall continue until the operator ceases operation or submits a completed application pursuant to Section 102393(a)(1)(A) and (B).
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-05-09
+Effective 6/8/05
+ Page 27
+
+ Regulations 102393
+(2)
+FAMILY CHILD CARE CENTERS 102393
+UNLICENSED FACILITY PENALTIES (Continued) 102393
+Within 10 calendar days of the mailing of the notice of denial or upon receipt of the denial notice by the operator, whichever occurs first.
+(A) The $200 per day penalty shall continue until the operator ceases operation.
+   (c) If the unlicensed operator or his/her representative reports to the Department that unlicensed operation has ceased, the penalty shall cease as of the day the Department receives the notification.
+(1) A site visit shall be made immediately or within five working days to verify that the unlicensed facility operation has ceased.
+(2) Notwithstanding (c) above, if the unlicensed facility operation has not ceased, penalties shall continue to accrue without interruption from the date of initial penalty assessment.
+(d) All penalties shall be due and payable upon receipt of the Notice for Payment from the licensing agency, and shall be paid only by check or money order made payable to the agency indicated in the notice.
+(e) The Department shall have the authority to file a claim in a court of competent jurisdiction or to take other appropriate action for failure to pay penalties as specified in (d) above.
+HANDBOOK BEGINS HERE
+(f) Repealed by Manual Letter No. CCL-92-08, effective 5/7/92.
+HANDBOOK ENDS HERE
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.80, 1596.891 and 1596.892, Health and Safety Code.
+       CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 28
+
+ 102394 FAMILY CHILD CARE HOMES Regulations
+ 102394 UNLICENSED FACILITY ADMINISTRATIVE APPEAL 102394
+(a) An unlicensed facility operator or his/her representative shall have the right to appeal the penalty assessment within 10 working days after service of the penalty assessment.
+(1) If the unlicensed facility operation has not ceased, the $200 per day penalty shall continue to accrue during the appeal process.
+(b) The appeal review shall be conducted by a higher level staff person than the evaluator who issued the penalty.
+(c) If the reviewer of the appeal determines that the penalty assessment was not issued in accordance with applicable statutes and regulations of the Department, he/she shall have the authority to amend or dismiss the penalty assessment.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.80, 1596.891 and 1596.893, Health and Safety Code.
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 29
+
+ Regulations FAMILY CHILD CARE HOMES 102395 (Cont.)
+ 102395 PENALTIES 102395
+(a) An immediate penalty of $100 per cited violation per day for a maximum of five (5) days shall be assessed for the following:
+(1) Failure to obtain a California clearance or criminal record exemption, request a transfer of a criminal record clearance or request and be approved for a transfer of an exemption as specified in Section 102370(d) for any individual required to be fingerprinted under Health and Safety Code Section 1596.871 prior to allowing the individual to work, reside or volunteer in the facility.
+(A) Subsequent violations within a twelve (12) month period will result in a civil penalty of one hundred dollars ($100) per violation per day for a maximum of thirty (30) days.
+(B) The Department may assess civil penalties for continued violations as permitted by Health and Safety Code Section 1596.99.
+(2) Failure to provide a copy of the "Addendum to Notification of Parent's Rights Regarding Exclusion" of an individual from the home, to one parent or authorized representative of every child in care.
+(A) The requirement to provide a copy shall include the parent of each new child enrolled as long as the exclusion is in effect.
+(B) The copy shall be provided on the next day that the child receives care.
+(3) Failure to provide a copy of the "Addendum to Notification of Parent's Rights Regarding Reinstatement" permitting an individual to return to the home, to every parent or authorized representative who received a copy of the "Addendum to Notification of Parent's Rights Regarding Exclusion" and whose child is still in care.
+(4) Failure to obtain, and keep in the home, a parent's or authorized representative's signature indicating that he/she has been provided with each Addendum.
+(A) This section shall be cited only if there is evidence that the parent or authorized representative was notified, but a signature was not obtained or was not maintained.
+(5) Failure to provide signed addenda to the Department, when requested.
+(b) For purposes of Sections 102395(a)(2), (3) and (4) above, a violation shall be cited for each parent or authorized representative that has not been notified or has not signed the form acknowledging receipt of the notice.
+     CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 29.1
+
+ 102395 (Cont.) FAMILY CHILD CARE HOMES Regulations 102395 PENALTIES (Continued) 102395 HANDBOOK BEGINS HERE
+For example:
+If a home has 5 children from 5 different families enrolled and records indicate that the parents of 4 of the children have been notified, that will be one violation.
+If a home has 5 children from 4 different families enrolled and records indicate that at least one parent of each of the children has been notified (4 parents), there is no violation.
+HANDBOOK ENDS HERE
+(c) Progressive civil penalties specified in Health and Safety Code Section 1596.99 shall not apply to penalties assessed for violation of Sections 102395(a)(1) through (5) above.
+(d) Unless otherwise provided, all penalties are due and payable upon receipt of notice for payment, and shall be paid only by check or money order made payable to the agency indicated in the notice.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.871, 1596.8712(d) and 1596.99, Health and Safety Code.
+       CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 8/10/06
+ Page 29.2
+
+ Regulations FAMILY CHILD CARE HOMES 102401 (Cont.)
+ Article 5. ADMINISTRATIVE ACTIONS
+102401 DENIAL OF A LICENSE 102401
+(a) When the requirements for licensure are not met, the Department shall deny the application within 30 days after receipt of a completed application.
+(b) The Department shall have the authority to deny an application for initial license, if the applicant has failed to pay any civil penalty assessments pursuant to Section 102393, and in accordance with a final judgment issued by a court of competent jurisdiction, unless payment arrangements acceptable to the Department have been made.
+(c) Immediately upon the denial of any application for a license, the Department shall notify the applicant in writing. Within 15 days after the Department mails the notice, the applicant may present his or her written petition for a hearing to the Department. Upon receipt by the Department of the petition, the petition shall be set for hearing. The hearing shall be conducted in accordance with Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code.
+(d) An application for licensure shall not be denied solely on the basis that the applicant is a parent who has administered or will continue to administer corporal punishment, not constituting child abuse, on his/her own child(ren).
+(1) For the purposes of Section 102401(d), child abuse means a situation in which a child suffers from one or more of the following:
+(A) Physical injury which is inflicted by other than accidental means on a child by another person.
+(B) Sexual assault of a child or any act or omission described in Sections 102370(c)(4) and (5).
+(C) Neglect of a child or abuse in out-of-home care.
+(D) Serious physical injury inflicted upon the child by other than accidental means.
+(E) Harm by reason of intentional neglect or malnutrition or sexual abuse.
+(F) Going without necessary and basic physical care.
+        CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective
+11/5/97
+ Page 30
+
+ 102401 (Cont.) FAMILY CHILD CARE HOMES Regulations 102401 DENIAL OF A LICENSE (Continued) 102401
+(G) Willful mental injury, negligent treatment, or maltreatment of a child under the age of 18 by a person who is responsible for the child's welfare under circumstances which indicate that the child's health or welfare is harmed or threatened thereby, as determined in accordance with regulations prescribed by the Director of Social Services.
+(H) Any condition which results in the violation of the rights or physical, mental, or moral welfare of a child or jeopardizes the child's present or future health, opportunity for normal development, or capacity for independence.
+(e) No limitation shall be imposed on the licensee or printed on the license solely on the basis of a written or oral admission by the licensee to the use of corporal punishment, not constituting child abuse pursuant to Section 102401(d)(1), on his/her own child(ren).
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1531.5, 1596.81(b), 1596.856, 1596.891 and 1597.59, Health and Safety Code.
+     CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 31
+
+ Regulations FAMILY CHILD CARE HOMES 102402 (Cont.) 102402 REVOCATION OR SUSPENSION OF A LICENSE OR REGISTRATION 102402
+(a) The Department shall have the authority to suspend or revoke any license for the following reasons:
+(1) Violation by the licensee of any of the laws, rules and regulations governing family child care homes.
+(2) Aiding, abetting, or permitting the violation of any of the laws, rules and regulations governing family child care homes.
+(3) Conduct in the operation or maintenance of a family day care home which is inimical to the health, morals, welfare, or safety of either an individual in or receiving services from the facility or the people of the State of California.
+(4) The conviction of a licensee, or other person specified in Section 102369(b)(8), at any time during licensure, of a crime as defined in Sections 102370(b) and (c).
+(5) Failure to comply with the requirements for training in preventive health practices, including pediatric cardiopulmonary resuscitation and pediatric first aid, as specified in Health and Safety Code Section 1596.866.
+(b) The Director may temporarily suspend any license prior to any hearing when, in the opinion of the Director, the action is necessary to protect any child in a family child care home from physical or mental abuse, abandonment or any other substantial threat to health or safety.
+(c) The Director shall notify the licensee of the temporary suspension and the effective date thereof and at the same time shall serve the provider with an accusation.
+(1) Upon receipt of a notice of defense to the accusation by the licensee, the Director shall, within 15 days, set the matter for hearing, and the hearing shall be held as soon as possible, but no later than 30 days after receipt of the notice.
+         CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 32
+
+ 102402 (Cont.) FAMILY CHILD CARE HOMES Regulations 102402 REVOCATION OR SUSPENSION OF A LICENSE OR REGISTRATION 102402
+(Continued)
+(d) The temporary suspension shall remain in effect until such time as the hearing is completed and the Director has made a final determination on the merits.
+(1) The temporary suspension shall be deemed vacated if the Director fails to make a final determination of the merits within 30 days after the original hearing has been completed.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.885 and 1596.886, Health and Safety Code.
+102402.1 DENIAL OR REVOCATION OF LICENSE FOR 102402.1 FAILURE TO PAY CIVIL PENALTIES
+(a) The licensee shall be responsible for paying civil penalties.
+(1) Unless otherwise provided, the transfer, surrender, forfeiture or revocation of a license shall not affect the licensee's responsibility for paying any civil penalties accrued while the license was in effect.
+(b) The Department shall have the authority to deny or revoke any license for failure to pay civil penalty assessments.
+(1) The Department shall have the authority to approve payment arrangements acceptable to the Department.
+(2) The Department shall have the authority to approve the form of payment.
+(3) The licensee's failure to pay civil penalty assessments pursuant to a payment plan approved by the Department may result in the denial or revocation of any license, and/or any other appropriate action.
+(c) Any denial or revocation of the license for failure to pay civil penalties may be appealed as provided by Health and Safety Code Section 1596.887.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.871 and 1596.99, Health and Safety Code.
+                    CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-01-19
+Effective 8/26/01
+ Page 33
+
+ Regulations FAMILY CHILD CARE HOMES 102403
+ 102403 LICENSEE COMPLAINTS 102403
+(a) Each licensee shall have the right, without prejudice or risk of discriminatory treatment by the Department, to bring to the attention of the Department any action or behavior by the departmental representative that he/she believes is a wrongful application of these regulations, or capricious enforcement of them.
+(b) The licensee shall have the right to complain to the Department regarding a review of any disputed issues.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.81(b) and 1597.56, Health and Safety Code.
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-01-19
+Effective 8/26/01
+ Page 33.1
+
+This page is intentionally left blank.
+
+ Regulations FAMILY CHILD CARE HOMES 102416 (Cont.)
+ Article 6. CONTINUING REQUIREMENTS
+102416 PERSONNEL REQUIREMENTS 102416
+(a) The licensee shall provide each employee with a copy of the Notice of Employee Rights (LIC 9052 (4/88)) form furnished by the Department.
+(1) Each employee shall be requested to sign and date the notice form acknowledging receipt.
+(2) A copy of the signed notice form shall be retained in the employee's personnel record.
+(3) If the employee refuses to sign the notice form, a dated notation to that effect shall be retained in the employee's personnel record.
+(b) A claim by the employee alleging the violation by the licensee of Section 102416(a) shall be presented to the licensee within 45 days after the action as to which complaint is made and presented to the Division of Labor Standards Enforcement not later than 90 days after the action as to which complaint is made.
+(c) The licensee and other personnel as specified shall complete training on preventive health practices, including pediatric cardiopulmonary resuscitation and pediatric first aid, pursuant to Health and Safety Code Section 1596.866.
+HANDBOOK BEGINS HERE
+(1) Health and Safety Code Section 1596.866 provides in part:
+(a) In addition to any other required training... each family day care home licensee who provides care shall have at least 15 hours of training on preventive health practices. The training shall include pediatric cardiopulmonary resuscitation, pediatric first aid, recognition, management, and prevention of infectious diseases, including immunizations, and prevention of childhood injuries. The training may include training on sanitary food handling, child nutrition, emergency preparedness and evacuation, caring for children with special needs, and identification and reporting of signs and symptoms of child abuse....
+(b) ...a licensee of a large family day care home shall ensure that at least one person who has a current certificate in pediatric first aid and pediatric cardiopulmonary resuscitation shall be available at all times when children are present at the facility, or when children are off-site of the facility for facility activities....
+                 HANDBOOK CONTINUES
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+    Page 34
+
+ 102416 (Cont.) FAMILY CHILD CARE HOMES Regulations 102416 PERSONNEL REQUIREMENTS 102416
+(Continued)
+HANDBOOK CONTINUES
+(d) Completion of the training required pursuant to subdivisions (a) and (b) shall be demonstrated, upon request of the licensing agency, by the following:
+(1) A current pediatric cardiopulmonary resuscitation card issued either by the American Red Cross or the American Heart Association, or by a training program that has been approved by the Emergency Medical Services Authority pursuant to Section 1797.191.
+(2) A current pediatric first aid card issued either by the American Red Cross or by a training program that has been approved by the Emergency Medical Services Authority pursuant to Section 1797.191.
+(3) A certificate of completion of a course or courses in preventive health practices as defined in subdivision (a) or certified copies of transcripts that identify the number of hours and the specific course or courses taken for training in preventive health practices as defined in subdivision (a).
+(e) The training required under subdivision (a) shall not be provided by a home study course. This training may be provided through on-the-job training, workshops, or classes....
+HANDBOOK ENDS HERE
+(d) Prior to employment or initial presence in the child care home, all employees and volunteers subject to a criminal record review shall:
+(1) Obtain a California clearance or a criminal record exemption as required by law or Department regulations or
+(2) Request a transfer of a criminal record clearance as specified in Section 102370(j) or
+(3) Request and be approved for a transfer of a criminal record exemption, as specified in Section 102370.1(p), unless, upon request for a transfer, the Department permits the individual to be employed, reside or be present at the facility.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.866, 1596.880, 1596.881, and 1596.882, Health and Safety Code.
+       CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-04-17
+Effective 8/20/04
+ Page 35
+
+ Regulations FAMILY CHILD CARE HOMES 102416.1 (Cont.) 102416.1 PERSONNEL RECORDS 102416.1
+(a) Personnel records shall be maintained on each employee and shall contain the following information:
+(1) Employee's full name.
+(2) Driver's license number if the employee is to transport children.
+(3) Date of employment.
+(4) Date of birth.
+(5) Current home address and phone number.
+(6) Documentation of completion of training on preventative health practices as required by Section 102416(c).
+(7) Past experience, including types of employment and former employers.
+(8) Duties of the employee.
+(9) Termination date if no longer employed.
+(10) A signed and dated copy of the Notice of Employee Rights [LIC 9052, (Rev. 03/03)] as required by Section 102416(a) and Section 102417.
+(11) A signed statement regarding their criminal record history as required by Section 102370(c).
+(12) Documentation of either a criminal record clearance or a criminal record exemption as required by Section 102370(d).
+(b) Personnel records shall be maintained for all volunteers and shall contain the following:
+(1) For volunteers that are required to be fingerprinted pursuant to Section 102370:
+(A) A signed statement regarding their criminal record history as required by Section 102370(c).
+(B) Documentation of either a criminal record clearance or a criminal record exemption as required by Section 102370(d).
+                                       CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-03-07
+Effective 7/16/03
+ Page 35.1
+
+ 102416.1 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102416.1 PERSONNEL RECORDS (Continued) 102416.1
+(c) All personnel records shall be kept for at least three years following termination of employment/volunteer work.
+(d) All personnel records shall be maintained at the child care home and shall be available to the licensing agency for review.
+NOTE: Authority cited: Sections 1596.81 and 1596.871, Health and Safety Code. Reference: Sections 1596.81, 1596.871, 1596.885 and 1596.8897, Health and Safety Code.
+102416.2 REPORTING REQUIREMENTS 102416.2
+(a) The licensee shall report the following information the Department by telephone or fax within the Department's next business day and during normal working hours (8am to 5pm).
+(1) If the applicant or licensee operates a foster family home as defined in Health and Safety Code Section 1502(a)(5) or a certified family home as defined in Health and Safety Code Section 1506(d).
+(2) Any change in household composition including adults moving in or out of the home and anyone living in the home who reaches his or her 18th birthday.
+(b) The licensee shall report to the Department any of the events as specified in Health and Safety Code Sections 1597.467(b)(1)(A) through (b)(1)(C) that occur during the operation of the family child care home.
+(1) Medical treatment means treatment by a medical professional, as defined in Section 101152(m).
+(2) Any child absence means any instance where a child in care is missing. For example, any child in care who wanders away from the Family Child Care Home, is lost during an outing, or does not return from school, shall be reported even if the child is later found safe.
+HANDBOOK BEGINS HERE
+(3) Health and Safety Code Section 1597.467(b)(1) provides in part:
+"A report shall be made to the Department...following the occurrence during the operation of a family day care home of any of the following events:
+(A) Death of any child from any cause.
+(B) Any injury to any child that requires medical treatment.
+(C) Any unusual incident or child absence that threatens the physical or emotional health or safety of any child."
+                                   HANDBOOK ENDS HERE
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-07
+Effective 9/10/06
+    Page 35.2
+
+ Regulations FAMILY CHILD CARE HOMES 102416.2 (Cont.)
+ 102416.2 REPORTING REQUIREMENTS (Continued) 102416.2
+(c) In addition to the events specified in Health and Safety Code Sections 1597.467(b)(1)(A) through (b)(1)(C), the licensee shall report the following events to the Department:
+(1) Any suspected child abuse or neglect, as defined in Penal Code Section 11165.6, of any child in care, in addition to reporting requirements pursuant to Penal Code Section 11166.
+(2) Fires or explosions occurring in or on the premises of the family child care home.
+(A) Within 24 hours, the licensee additionally shall report to the local fire authority, or in areas not having organized fire services, to the State Fire Marshal.
+(3) A communicable disease outbreak when determined by the local health authority.
+(4) Poisonings.
+(d) The licensee shall report to the Department as provided by Health and Safety Code Sections 1597.467(b)(1) and (2).
+HANDBOOK BEGINS HERE
+(1) Health and Safety Code Section 1597.467(b)(1) provides in part:
+"A report shall be made to the department by telephone or fax during the department's normal business hours before the close of the next working day following the occurrence during the operation of family day care home of...the...events."
+(2) Health and Safety Code Section 1597.467(b)(2) provides:
+"In addition to the report required pursuant to paragraph (1), a written report shall be submitted to the department within seven days following the occurrence of any events specified in paragraph (1). The report shall contain all of the following information:
+(A) Child's name, age, sex and date of admission.
+                                (B) Date and nature of the event.
+(C) Attending physician's name and findings and treatment, if any.
+(D) Disposition of the case."
+HANDBOOK ENDS HERE
+       CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-07
+Effective
+9/10/06
+ Page 35.3
+
+ 102416.2 (Cont.) FAMILY CHILD CARE HOMES Regulations
+  102416.2 REPORTING REQUIREMENTS (Continued) 102416.2
+(e) The written report shall be either Form LIC 624B (8/06) Unusual Incident/Injury report-Family Child Care Home, or a letter that includes the following information, in addition to that required by Health and Safety Code Sections 1597.467(b)(2)(A) through (b)(2)(D):
+(1) Child's date of birth.
+(2) Child's or parent's primary language, (e.g., English, Spanish, Chinese, Russian).
+(3) Time the incident or injury happened.
+(4) Date that the parent or authorized representative was notified their child was injured or subjected to any act of violence.
+(5) Description of how the incident or injury happened and name of the child(ren) or adult(s) that may have been involved as well as any steps taken to prevent the incident or injury from recurring.
+(6) Name and telephone number of any physician or other health care provider that examined the child.
+(7) Any agency notified, person contacted, date of the contact, and the telephone or fax number of that agency or person.
+                    (f) As
+authorized representative regardless of the injuries or acts that affect that child as specified in Health and Safety Code Section 1597.467(a).
+soon as possible but no later then the same business day, the licensee shall notify a child's parent or
+   (1) Any injury suffered by a child in care shall be reported to that child's parent or authorized representative regardless of treatment by a medical professional.
+(2) Reportable acts of violence include, but are not limited to, those that occur whenever any child in care is a victim of, or subjected to witnessing, others' use of great physical force resulting in bodily harm, or dangerous activity, such as illegal drug use or gunfire.
+HANDBOOK BEGINS HERE
+(3) Health and Safety Code Section 1597.467(a) provides in part:
+"Whenever any licensee...has reasonable cause to believe that a child in his or her care has suffered any injury or has been subjected to any act of violence while under the licensee's care, the licensee shall, as soon as possible, report that injury or act of violence to the parent, parents, or guardian of that child."
+            HANDBOOK ENDS HERE
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-07
+Effective 9/10/06
+    Page 35.4
+
+Regulations FAMILY CHILD CARE HOMES 102416.2
+ 102416.2 REPORTING REQUIREMENTS (Continued) 102416.2
+(g) In addition to the requirements of Health and Safety Code Section 1597.467(a), no later than the same business day, the licensee shall notify a child's parent or authorized representative of the events to be reported to the Department pursuant to Sections 102416.2(b) and (c) that affect that child.
+(h) The licensee shall keep a copy of the letter or completed LIC 624B (8/06) (Unusual Incident/Injury Report - Family Child Care Home) in the child's record for the time period specified in Section 102421(a)(1).
+NOTE: Authority cited: Sections 1596.81, Health and Safety Code. Reference: Sections.1502, 1506, 1596.72, 1596.73, and 1597.467, Health and Safety Code; Sections 11165.6 and 11166, Penal Code.
+            CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-07
+Effective 9/10/06
+ Page 35.5
+
+ 102416.3 (Cont.) FAMILY CHILD CARE HOMES Regulations 102416.3 ALTERATIONS TO EXISTING BUILDING OR GROUNDS 102416.3
+(a) Prior to making alterations or additions to a family child care home or grounds, the licensee shall notify the Department of the proposed changed, including, but not limited to, the following:
+(1) Conversion of a garage (either attached or detached) into a "child care" room.
+(2) Room additions to the family child care home.
+(3) Installation of in-ground or above-ground swimming pools, spas, fish ponds, decorative water feature, fountains or other bodies of water.
+(4) Construction of exterior decks or porches.
+(5) Construction of play equipment including swing sets/climbing structures.
+(6) Any change from an area of the family child care home previously identified as "off limits" to an area where care and supervision will be provided to children in care.
+(b) The licensee shall provide the Department with a copy of an inspection report when an inspection is required by the local building inspector as a result of the alteration, addition or construction.
+NOTE: Authority cited: Sections 1596.81, Health and Safety Code. Reference: Sections 1596.72 and 1596.73, Health and Safety Code.
+                         CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-07
+Effective 9/10/06
+ Page 35.6
+
+ Regulations FAMILY CHILD CARE HOMES 102416.5 (Cont.)
+ 102416.5 STAFFING RATIO AND CAPACITY 102416.5
+(a) The capacity specified on the license shall be the maximum number of children for whom care may be provided at any one time.
+(b) For a Small Family Child Care Home, the maximum number of children for whom care may be provided at any one time, including children under age 10 who reside at the licensee's home, shall be one of the following:
+(1) Four infants; or
+(2) Six children, no more than three of whom may be infants; or
+(3) More than six and up to eight children, without an additional adult attendant, only if the criteria in Section 1597.44 of the Health and Safety Code are met.
+HANDBOOK BEGINS HERE
+Health and Safety Code section 1597.44 states:
+"A small family day care home may provide care for more than six and up to eight children, without an additional adult attendant, if all of the following conditions are met:
+(a) At least one child is enrolled in and attending kindergarten or elementary school and a second child is at least six years of age.
+(b) No more than two infants are cared for during any time when more than six children are cared for.
+(c) The licensee notifies each parent that the facility is caring for two additional schoolage children and that there may be up to seven or eight children in the home at one time.
+(d) The licensee obtains the written consent of the property owner when the family day care home is operated on property that is leased or rented."
+HANDBOOK ENDS HERE
+(c) The total licensed capacity for a Small Family Child Care Home shall not exceed eight children.
+(d) For a Large Family Child Care Home, the maximum number of children for whom care may be provided at any one time when there is an assistant provider in the home, including children under age 10 who reside at the licensee's home and the assistant provider's children under age 10, shall be either:
+(1) Twelve children, no more than four of whom may be infants; or
+(2) More than twelve and up to fourteen children only if the criteria in Section 1597.465 of the Health and Safety Code are met.
+                       CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective 4/1/16
+ Page 36
+
+ 102416.5 (Cont.) FAMILY CHILD CARE HOMES Regulations
+ 102416.5
+STAFFING RATIO AND CAPACITY 102416.5
+(Continued)
+HANDBOOK BEGINS HERE
+Health and Safety Code section 1597.465 states:
+"A large family day care home may provide care for more than 12 children and up to and including 14 children, if all of the following conditions are met:
+(a) At least one child is enrolled in and attending kindergarten or elementary school and a second child is at least six years of age.
+(b) No more than three infants are cared for during any time when more than 12 children are being cared for.
+(c) The licensee notifies a parent that the facility is caring for two additional schoolage children and that there may be up to 13 or 14 children in the home at one time.
+(d) The licensee obtains the written consent of the property owner when the family day care home is operated on property that is leased or rented."
+HANDBOOK ENDS HERE
+             (e) If no assistant provider is present at a Large Family Child Care Home, then the licensee shall comply with the capacity requirements for a Small Family Child Care Home as specified in subsections (b) and (c).
+(f) The total licensed capacity for a Large Family Child Care Home shall not exceed fourteen children.
+(g) For the purpose of meeting the criteria in Sections 1597.44 and 1597.465 of the Health and Safety Code, for a school age child who is under age six, the licensee shall maintain documentation verifying the child’s enrollment and attendance at kindergarten, including transitional kindergarten, or elementary school.
+(1) The documentation requirement shall be met by either of the following:
+(A) Documentation from the school in which the child is enrolled and attending verifying the child’s enrollment and attendance, or
+(B) A signed and dated statement from the child’s authorized representative verifying the child’s enrollment and attendance.
+(2) The documentation and statement described in paragraph (1) shall include the name of the child, the name of the school the child is enrolled in and attending, the date of the child’s enrollment and the date the child started attending the school.
+                      CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective 4/1/16
+ Page 36.1
+
+ Regulations
+102416.5 STAFFING RATIO AND CAPACITY 102416.5
+(Continued)
+(3) The licensee shall obtain the documentation or statement described in paragraph (1) at the beginning of each school year, no later than 30 calendar days from the date the child begins attending school, until the child is six years of age. If a child enrolls in and begins attending school after the school year has commenced, then the licensee shall obtain the documentation or statement described in paragraph (1) upon enrollment or within 30 calendar days following the child’s enrollment.
+(4) The documentation or statement described in paragraph (1) shall be maintained in the child’s record pursuant to Section 102421.
+(h) For a Family Child Care Home that meets the criteria in Sections 1597.44 or 1597.465 of the Health and Safety Code to care for up to two additional children, the licensee shall maintain proof of parent notification in the child’s record pursuant to Section 102421.
+(1) For a Small Family Child Care Home that meets the criteria to care for up to two additional children, the licensee shall maintain proof of parent notification as specified in Section 1597.44(c) of the Health and Safety Code.
+(2) For a Large Family Child Care Home that meets the criteria to care for up to two additional children, the licensee shall maintain proof of parent notification as specified in Section 1597.465(c) of the Health and Safety Code.
+(i) For the purpose of meeting the criteria in Sections 1597.44 and 1597.465 of the Health and Safety Code "school age child" means a child who meets one of the following criteria:
+(1) Is enrolled in and attending kindergarten, including transitional kindergarten, or elementary school; or
+(2) Is at least six years of age.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.78, 1597.44, and 1597.465, Health and Safety Code.
+102417 OPERATION OF A FAMILY CHILD CARE HOME 102417
+(a) The licensee shall be present in the home and shall ensure that children in care are supervised at all times. When circumstances require the licensee to be temporarily absent from the home, the licensee shall arrange for a substitute adult to care for and supervise the children during his/her absence. Temporary absences shall not exceed 20 percent of the hours that the facility is providing care per day.
+(b) The home shall be kept clean and orderly, with heating and ventilation for safety and comfort.
+(c) The home shall maintain telephone service.
+(d) The home shall provide safe toys, play equipment and materials.
+FAMILY CHILD CARE HOMES 102416.5 (Cont.)
+                                 CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective
+4/1/16
+ Page 37
+
+To page is intentionally left blank.
+
+ Regulations FAMILY CHILD CARE HOMES 102417 (Cont.)
+  102417 OPERATION OF A FAMILY CHILD CARE HOME (Continued) 102417
+(e) When a child shows signs of illness he/she shall be separated from other children and the nature of the illness determined. If it is a communicable disease he/she shall be separated from other children until the infectious stage is over.
+(f) If food is brought from the children's homes, the container shall be labeled with the child's name and properly stored or refrigerated.
+(g) The home shall be free from defects or conditions which might endanger a child. Safety precautions shall include but not be limited to:
+(1) Fireplaces and open-face heaters shall be screened to prevent access by children. The home shall contain a fire extinguisher and smoke detector device which meet standards established by the State Fire Marshal.
+(2) Gas heaters shall be properly vented and permanently installed.
+(3) Where children less than five years old are in care, stairs shall be fenced or barricaded.
+(4) Poisons, detergents, cleaning compounds, medicines, firearms and other items which could pose a danger if readily available to children shall be stored where they are inaccessible to children.
+(A) Storage areas for poisons, firearms and other dangerous weapons shall be locked.
+(B) In lieu of locked storage of firearms, the licensee may use trigger locks or remove the firing pin.
+1. Firing pins shall be stored and locked separately from firearms. (C) Ammunition shall be stored and locked separately from firearms.
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective
+11/5/97
+ Page 38
+
+ 102417 (Cont.) FAMILY CHILD CARE HOMES Regulations 102417 OPERATION OF A FAMILY CHILD CARE HOME (Continued) 102417
+(5) All licensees shall ensure the inaccessibility of pools (in-ground and above-ground), fixed-in-place wading pools, hot tubs, spas, fish ponds and similar bodies of water through a pool cover or by surrounding the pool with a fence.
+(A) Fences shall be at least five feet high and shall be constructed so that the fence does not obscure the pool from view. The bottom and sides of the fence shall comply with Division 1, Appendix Chapter 4 of the 1994 Uniform Building Code. In addition to meeting all of the aforementioned requirements for fences, gates shall swing away from the pool, self-close and have a self-latching device located no more than six inches from the top of the gate. Pool covers shall be strong enough to completely support the weight of an adult and shall be placed on the pool and locked while the pool is not in use.
+1. If licensed prior to June 1, 1995, facilities with existing pool fencing shall be exempt from the fencing requirements specified in Section 102417(g)(5)(A) until such fence is replaced or structurally altered. If the licensee replaces or alters the fence, it shall be required to meet these requirements.
+(B) Where an above-ground pool structure is used as the fence or where the fence is mounted on top of the pool structure, the pool shall be made inaccessible when not in use by removing or making the ladder inaccessible or erecting a barricade to prevent access to decking. If a barricade is used, the barricade shall meet the requirements of Section 102417(g)(5)(A).
+(6) Outdoor play areas shall be either fenced, or outdoor play areas shall be supervised by the licensee or care giver.
+(A) Outdoor play areas shall not include any area made inaccessible by fencing pursuant to Section 102417(g)(5).
+(B) Where natural or man-made hazards such as canals, cliffs, condemned buildings, creeks, ditches, lakes, ocean fronts, mines, power lines, quarries, rivers, ravines, swamps, watercourses, and areas subject to flooding lie on or adjacent to the facility premises, the outdoor play area shall be inaccessible to such hazards.
+1. Where a fence or wall is used to make the outdoor play area inaccessible, the requirements of Section 102417(5)(A) shall be met.
+(7) An emergency information card shall be maintained for each child and shall include the child's full name, telephone number and location of a parent or other responsible adult to be contacted in an emergency, the name and telephone number of the child's physician and the parent's authorization for the licensee or registrant to consent to emergency medical care.
+   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 39
+
+ Regulations FAMILY CHILD CARE HOMES 102417 (Cont.)
+  102417 OPERATION OF A FAMILY CHILD CARE HOME (Continued) 102417
+(8) Each family child care home shall have a current roster of children as specified in Health and Safety Code Section 1596.841.
+HANDBOOK BEGINS HERE
+(A) Health and Safety Code Section 1596.841 states:
+Each child day care facility shall maintain a current roster of children who are provided care in the facility. The roster shall include the name, address, and daytime telephone number of the child's parent or guardian, and the name and telephone number of the child's physician. This roster shall be available to the licensing agency upon request.
+HANDBOOK ENDS HERE
+(9) Each family child care home shall have a written disaster plan of action prepared on a form approved by the Department. All children, age and ability permitting, and the provider, the assistant provider, and other members of the household, shall be instructed in their duties under the disaster plan. As their age and ability permit, newly enrolled children shall be informed promptly of their duties as required in the plan.
+(A) Each family child care home shall conduct fire drills and disaster drills at least once every six months.
+1. The licensee shall document the drills, including the date and time of each drill. This documentation shall be kept at the family child care home.
+(10) A baby walker shall not be allowed on the premises of a family child care home in accordance with Health and Safety Code Sections 1596.846(b) and (c).
+HANDBOOK BEGINS HERE
+Health and Safety Code Sections 1596.846(b) and (c) state:
+(b) A baby walker shall not be kept or used on the premises of a child day care facility.
+(c) A "baby walker" means any article described in paragraph (4) of subdivision (a) of
+Section 1500.86 of Part 1500 of Title 16 of the Code of Federal Regulations.
+                           HANDBOOK ENDS HERE
+CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+    Page 40
+
+ 102417 (Cont.) FAMILY CHILD CARE HOMES Regulations
+  102417 OPERATION OF A FAMILY CHILD CARE HOME (Continued) 102417
+(h) Only drivers licensed for the type of vehicle to be operated shall be permitted to transport children in care.
+(i) The manufacturer's rated seating capacity of the vehicle shall not be exceeded.
+(j) Motor vehicles used to transport children in care shall be maintained in safe operating condition.
+(k) All vehicle occupants must be secured in an appropriate restraint system.
+(1) Children shall not be left in parked vehicles.
+(l) When transporting infants in any motor vehicle, the licensee shall secure the infants in a car seat, designed for infants, which is secured in the vehicle in accordance with manufacturer's instructions.
+(m) The licensee or registrant shall maintain one of the following:
+(1) Liability insurance kept in force covering injury to clients and guests in the amount of at least one hundred thousand dollars ($100,000) per occurrence and three hundred thousand dollars ($300,000) in the total annual aggregate, sustained on account of the negligence of the licensee or its employees.
+(2) A bond in the aggregate amount of three hundred thousand dollars ($300,000).
+(3) A file of affidavits signed by each parent with a child enrolled in the home. The affidavit shall state that the parent has been informed that the family child care home does not carry liability insurance or a bond according to standards established by the state.
+(A) If the provider does not own the premises used as the family child care home, the affidavit shall also state that the parent has been informed that the liability insurance, if any, of the owner of the property or the homeowners' association, as appropriate, may not provide coverage for losses arising out of, or in connection with, the operation of the family child care home, except to the extent that the losses are caused by, or result from, an act or omission by the owner of the property or the homeowners' association, for which the owner of the property or the homeowners' association would otherwise be liable under the law.
+(B) These affidavits shall be on a form provided by the Department and shall be reviewed at each licensing inspection.
+(C) For purposes of Sections 102417(m) and (n), "homeowners' association" is an association of a common interest development, as defined in Section 1351 of the Civil Code.
+     CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 41
+
+  Regulations FAMILY CHILD CARE HOMES 102417 (Cont.)
+ 102417 OPERATION OF A FAMILY CHILD CARE HOME (Continued) 102417
+(n) A family child care home that maintains liability insurance or a bond pursuant to Section 102417(m)(1) or (2), and that provides care in premises that are rented or leased or uses premises which share common space governed by a homeowners' association, shall name the owner of the property or the homeowners' association, as appropriate, as an additional insured party on the liability insurance policy or bond if all of the following conditions are met:
+(1) The owner of the property or governing body of the homeowners' association makes a written request to be added as an additional insured party.
+(2) The addition of the owner of the property or the homeowners' association does not result in cancellation or nonrenewal of the insurance policy or bond carried by the family day care home.
+(3) Any additional premium assessed for this coverage is paid by the owner of the property or the homeowners' association.
+(o) The licensee shall maintain documentation of proof of control of property at the Family Child Care Home for review by the Department.
+(1) If the licensee owns or is buying the home, "proof of control of property" is a copy of the property deed, the property tax statement, or a payment coupon from the mortgage company or bank.
+(2) If the licensee is operating on rented or leased property, "proof of control of property" is a copy of the rental agreement or lease.
+(p) A prospective Family Child Care Home licensee who resides in a rental property shall provide written notice of intent to operate a Family Child Care Home to the landlord or owner of the rental property prior to the commencement of operation of the Family Child Care Home in accordance with Section 1597.40(d) of the Health and Safety Code. The licensee shall maintain proof of this notification at the Family Child Care Home for review by the Department.
+(1) The licensee shall provide the landlord or owner of the rental property with a completed LIC 9151 (Rev. 8/14) Property Owner/Landlord Notification, which is incorporated by reference, for this purpose and maintain a copy of the completed form at the Family Child Care Home for review by the Department.
+               CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective 4/1/16
+ Page 41.1
+
+ 102417 (Cont.) FAMILY CHILD CARE HOMES Regulations 102417 OPERATION OF A FAMILY CHILD CARE HOME (Continued) 102417
+HANDBOOK BEGINS HERE
+Health and Safety Code section 1597.40(d) states:
+"(1) A prospective family day care home provider, who resides in a rental property, shall provide 30 days' written notice to the landlord or owner of the rental property prior to the commencement of operation of the family day care home.
+(2) For family day care home providers who have relocated an existing licensed family day care home program to a rental property on or after January 1, 1997, less than 30 days' written notice may be provided in cases where the department approves the operation of the new location of the family day care home in less than 30 days, or the home is licensed in less than 30 days, in order that service to the children served in the former location not be interrupted.
+(3) A family day care home provider in operation on rental or leased property as of January 1, 1997, shall notify the landlord or property owner in writing at the time of the annual license fee renewal, or by March 31, 1997, whichever occurs later.
+(4) Notwithstanding any other provision of law, upon commencement of, or knowledge of, the operation of a family day care home on his or her property, the landlord or property owner may require the family day care home provider to pay an increased security deposit for operation of the family day care home. The increase in deposit may be required notwithstanding that a lesser amount is required of tenants who do not operate family day care homes. In no event, however, shall the total security deposit charged exceed the maximum allowable under existing law.
+(5) Section 1596.890 shall not apply to this subdivision."
+HANDBOOK ENDS HERE
+(q) A licensee who operates on rented or leased property, and who wishes to increase the capacity of the Family Child Care Home as specified in Section 102416.5(b)(3) or Section 102416.5(d)(2), shall obtain the written consent of the property owner/landlord to increase the home's capacity to eight or 14 children.
+(1) The licensee shall maintain the original of the completed and signed LIC 9149 (Rev. 8/14) Property Owner/Landlord Consent, which is incorporated by reference, attached to the Family Child Care Home's license on file in the home.
+(r) A signed and dated copy of LIC 9052 (4/88), Notice of Employee Rights, shall be maintained in the employee's personnel record.
+                                        CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective 4/1/16
+ Page 41.2
+
+ Regulations FAMILY CHILD CARE HOMES 102417
+ 102417 OPERATION OF A FAMILY CHILD CARE HOME (Continued) 102417
+(s) Upon notice from the Department to remove an individual from the home, pursuant to Health and Safety Code Section 1596.871(c)(2), or to exclude an individual from the home, pursuant to Health and Safety Code Section 1596.8897, the licensee shall;
+(1) Immediately remove the individual and prevent the individual from returning to the home or having contact with children in care.
+(2) Provide a copy of the Addendum to Notification of Parent’s Rights (Regarding Removal/Exclusion) (LIC 995B, Rev. 05/03) to one parent or authorized representative of every child currently in care within one day of receipt of the notice and addendum from the Department.
+(A) Upon notice from the Department that the individual may return to the home, provide a copy of the Addendum to Notification of Parent’s Rights (Regarding Reinstatement) (LIC 995C, Rev. 03/01) to one parent or authorized representative of every child currently in care within one day of receipt of the notice and addendum from the Department.
+(3) Obtain a signed and dated receipt from one parent or authorized representative that acknowledges that he/she was given a copy of the addendum specified in Section 102417(s)(2).
+(4) Maintain copies of the signed and dated receipt required in Section 102417(s)(3) in each child’s file. Copies shall be made available to the Department upon request.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.78, 1596.841, 1596.846(b) and (c), 1596.871(c)(2), 1596.880, 1596.881, 1596.882, 1596.8897, 1597.30, 1597.40, 1597.44, 1597.45, 1597.46, 1597.465, 1597.531 and 1597.54(b)(2), Health and Safety Code.
+       CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective 4/1/16
+ Page 42
+
+This page is intentionally left blank.
+
+ Regulations FAMILY CHILD CARE HOMES 102418
+  102418 IMMUNIZATIONS 102418
+(a) Prior to admission to a family day care home, children shall be immunized against diseases as required by the California Code of Regulations, Title 17, beginning with Section 6000.
+HANDBOOK BEGINS HERE
+(b) California Code of Regulations, Title 17, Sections 6000 and 6015, reads in pertinent part as follows:
+"Admission" means a pupil's first entry in a family day care home. "Admission" also denotes a pupil's re-entry after withdrawing from a previous enrollment.
+"Pupil" means a person under age 18 years admitted to or seeking admission to any family day care home.
+(c) California Code of Regulations, Title 17, Section 6020, as summarized, requires that children receive vaccines as follows:
+            AGE WHEN ENROLLING 2 - 3 months
+4 - 5 months
+6 - 14 months
+15 - 17 months
+18 months - 5 years
+IMMUNIZATIONS (SHOTS) NEEDED 1 each of Polio, DTP, Hib, Hep B
+2 each of Polio, DTP, Hib, Hep B
+3 DTP
+2 each of Polio, Hib and Hep B
+3 each of Polio and DTP
+2 Hep B
+1 MMR; must be on or after the first birthday At least 1 Hib given on or after the first birthday
+(regardless of any doses given before the first birthday)
+3 each of Polio and Hep B
+4 DTP
+1 MMR; must be on or after the first birthday At least 1 Hib given on or after the first birthday
+(regardless of any doses given before the first birthday)
+                HANDBOOK CONTINUES
+   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-16
+Effective 11/22/97
+ Page 42.1
+
+ 102418 (Cont.) FAMILY CHILD CARE HOMES Regulations 102418 IMMUNIZATIONS 102418
+  (Continued)
+  HANDBOOK CONTINUES
+Diptheria, tetanus and pertussis combined vaccine. Record may show DTP, DT, or DTaP. Haemophilus influenzae type B vaccine; not required for children older than 4-1/2 years of age.
+Measles, mumps and rubella combined vaccine.
+Hepatitis B
+(d) California Code of Regulations, Title 17, Section 6035(a), as summarized, requires that:
+You may admit a child who lacks documentation of having received all the shots required in Section 6020, and who does not have a permanent medical exemption or personal beliefs exemption to immunization in accordance with Section 6051, if:
+He or she has not received all the shots required for his or her age group and he or she has started receiving doses of all required vaccines as follows:
+WHEN NEXT SHOTS ARE DUE
+ DTP: Hib:
+   MMR: Hep B:
+         Polio #2
+Polio #3
+DTP #2 and #3 Hib #2
+DTP #4
+Hep B #2
+Hep B #3
+2 months after first dose
+2-12 months after 2nd dose
+2 months after previous dose
+2 months after first dose
+6-12 months after previous dose
+1-2 months after first dose
+Under age 18 months: 2-12 months after 2nd dose. Age 18 months and older: 2-6 months after 2nd dose.
+       HANDBOOK ENDS HERE
+(e) The licensee shall be permitted to exempt a child from this requirement provided that one of the following requirements is met and the documentation is kept in the child's file:
+(1) A physician provides a written statement that an immunization(s) should not be given to the child and specifies how long this exemption is expected to be needed.
+       CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-16
+Effective 11/22/97
+ Page 42.2
+
+ Regulations 102418
+(2)
+FAMILY CHILD CARE HOMES 102418 IMMUNIZATIONS 102418
+(Continued)
+The parents or guardians sign and date the back of the California School Immunization Record, PM 286 (6/95), which is also used for family day care homes, under the "Personal Beliefs Affidavit."
+      (f) As required by the California Code of Regulations, Title 17, Section 6035(b), a child who does not meet any of the requirements in Sections 102418(c), (d), or (e), shall not be admitted to a family day care home.
+(g) The licensee shall document each child's immunizations as required by the California Code of Regulations, Title 17, Section 6070, and shall maintain such documentation for as long as the child is enrolled.
+(1) This requirement includes updating each child's PM 286 (6/95) when the child is due to receive required immunizations after enrollment in the family day care home.
+HANDBOOK BEGINS HERE
+(h) California Code of Regulations, Title 17, Section 6070, specifies in pertinent part that:
+(1) The family day care home shall record each pupil's immunization on the California School Immunization Record, PM 286 (6/95).
+(i) California Code of Regulations, Title 17, Section 6075, specifies in pertinent part that each family day care home licensee report annually to the Department of Health Services as follows:
+(1) The family day care home shall file a report with the state and local health departments on the immunization status of new entrants annually or when needed to determine immunization status such as during an epidemic or potential epidemic. The form to be used for this report is:
+(A) Family day care homes: ANNUAL FAMILY DAY CARE HOME IMMUNIZATION SURVEY [DHS 8529 (1/96)].
+HANDBOOK ENDS HERE
+(j) The licensee shall not be required to document immunizations of children also enrolled in a public or private elementary school.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.72, 1596.73, 1596.81, 1596.813, 1597.05, 1597.541, and 120325 - 120380, Health and Safety Code; Sections 6000-6075, California Code of Regulations, Title 17.
+                           CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-07
+Effective 09/10/06
+ Page 42.3
+
+ 102419 FAMILY CHILD CARE HOMES Regulations
+ 102419 ADMISSION PROCEDURES AND PARENTAL AND AUTHORIZED 102419 REPRESENTATIVE’S RIGHTS
+(a) The licensee shall inform parents or authorized representatives of children in care of their rights, which include, but are not limited to, the following:
+(1) To enter and inspect the family child care home in accordance with Health and Safety Code Section 1596.857.
+(2) To file a complaint against the licensee with the local licensing office in accordance with Health and Safety Code Section 1596.853.
+(3) To review the family child care home’s public file kept by the local licensing office in accordance with Health and Safety Code Section 1596.859.
+(4) To review at the family child care home, reports of licensing visits and substantiated complaints against the licensee made during the last three years in accordance with Health and Safety Code Section 1596.859.
+(5) To complain to the local licensing office and inspect the family child care home without discrimination or retaliation in accordance with Health and Safety Code Section 1596.857.
+(6) To request in writing that a parent not be allowed to visit a child or take a child from the family child care home, provided the custodial parent has shown a certified copy of a court order pursuant to Health and Safety Code Section 1596.857.
+(7) To receive from the licensee the name, address and telephone number of the local licensing office in accordance with Section 1596.874.
+(8) To be informed by the licensee, upon request, of the name and type of association to the family child care home for any adult who has been granted a criminal record exemption, and that the name of the person may also be obtained by contacting the local licensing office.
+(b) The licensee shall post the PUB 394 (8/02), Family Child Care Home Notification of Parents’ Rights Poster in a prominent, publicly accessible area in the family child care home at all times children are in care.
+(c) The licensee shall provide to the parent or authorized representative the LIC 995E (6/05), Caregiver Background Check Process form.
+(d) At the time of acceptance of each child into care, the licensee shall provide the child's parent or authorized representative with a copy of the notice Family Child Care Home Notification of Parent's Rights, LIC 995A (8/06), the Caregiver Background Check Process, LIC 995E (6/05), and the Family child Care Consumer Awareness Information, LIC 9212 (10/05).
+      CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-07
+Effective 9/10/06
+ Page 42.4
+
+ Regulations FAMILY CHILD CARE HOMES 102419 (Cont.) 102419 ADMISSION PROCEDURES AND PARENTAL AND AUTHORIZED 102419
+REPRESENTATIVE’S RIGHTS (Continued)
+(1) The licensee shall request the child's parent or authorized representative to sign and date the bottom portion of the notice form LIC 995A (8/06), which acknowledges that the parent or authorized representative has received and read the LIC 995A. The bottom portion of this form must be kept in the child’s file as proof that the parent or authorized representative has been notified of his or her rights and received a copy of the Caregiver background Check Process, LIC 995E (6/05), and the Family Child Care Consumer Awareness Information, LIC 9212 (10/05).
+(2) Whenever a parent or authorized representative makes a request pursuant to Section 102419(a)(8), the licensee shall note, date, and initial the request in the child’s file. The licensee shall request that the parent or authorized representative also initial the notation documenting the request.
+(3) Reserved
+(A) Upon a finding of noncompliance with a plan of correction for violation of Sections 102419(a)(8), (b), (c), (d), (d)(1), or (d)(2), the Department shall impose a civil penalty of fifty dollars ($50) per day until the deficiency is corrected.
+(B) Regardless of whether the licensee complies with an initial plan of correction in the time allotted, if the licensee subsequently violates any provision of Sections 102419(a)(8), (b), (c), (d), (d)(1), or (d)(2) within 12 months of the initial citation, the Department shall assess a civil penalty of $150 plus an assessment of $50 per day until the deficiency is corrected.
+(C) Regardless of whether the licensee complies with the deficiency in Section 102419(b)(3)(B), if the licensee subsequently violates any provision of Sections 102419(a)(8), (b), (c), (d), (d)(1), or (d)(2) within 12 months of the citation and assessment in Section 102419(b)(3)(B), the Department shall assess a civil penalty of $150 plus an assessment of $150 per day until the deficiency is corrected.
+(e) Upon presenting identification, the parent or authorized representative of a child in care has the right to enter and inspect the family child care home without advance notice during the family child care home's normal operating hours.
+(1) When inspecting the family child care home, the parent or authorized representatives shall be respectful of the children's routines and programmed activities.
+(f) No family child care home shall discriminate or retaliate against any child or any child's parent or authorized representative because the parent or authorized representative has exercised his or her right to inspect the family child care home or has lodged a complaint with the Department against the family child care home.
+     CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-07
+Effective 9/10/06
+ Page 43
+
+This page is intentionally left blank.
+
+  Regulations FAMILY CHILD CARE HOMES 102419 102419 ADMISSION PROCEDURES AND PARENTAL AND AUTHORIZED 102419
+REPRESENTATIVE’S RIGHTS (Continued)
+(1) If the licensee denies a parent or authorized representative the right to enter and inspect the family child care home or retaliates against any child or any child’s parent or authorized representative, the Department shall issue the licensee a warning citation.
+(2) For any subsequent violation of this right, the Department shall take appropriate action including, but not limited to, license revocation and imposition of a civil penalty upon the home of fifty dollars ($50) per violation.
+(3) The person present who is in charge of the family child care home shall determine whether to deny access to the following:
+(A) An adult whose behavior presents a risk to children present in the home; and
+(B) A parent who is subject to a court order denying him/her contact with the child if so requested by the child's parent or authorized representative.
+(g) If a child's parent or authorized representative refuses to sign the LIC 995A (8/06), a dated notation to that effect, containing the parent or authorized representative's name and telephone number, shall be kept in the child's record.
+(h) The licensee shall provide a copy of the Department Issued Addendum to Notification of Parent's Rights (Regarding Removal/Exclusion) (LIC 995B Rev. 05/03) sent by the Department, that is still in effect, to one parent or authorized representative of every child when the parent or authorized representative arranges for child care services or on the first day the child receives care, whichever is first.
+(1) Upon notice from the Department that the excluded/removed individual may return to the facility, the licensee shall provide a copy of the Addendum to Notification of Parent's Rights (Regarding Reinstatement) (LIC 995C Rev. 03/01) to one parent or authorized representative of every child in Care within one day of receipt of the notice and addendum from the Department.
+(2) The licensee may provide the parent or authorized representative with the Family Child Care Home Explanation of Removals/Exclusions and Reinstatement, LIC 995D (5/03).
+(i) The licensee shall obtain a signed and dated receipt from one parent or authorized representative that acknowledges that he/she was given a copy of the addendum specified in Sections 102419(h) and (h)(1) and maintain copies of the receipt in each child's record for the time period specified in Section 102421(a)(1).
+(j) Copies of the signed receipt shall be available to the Department as provided in Section 102391(d).
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.72, 1596.73, 1596.853, 1596.857, 1596.859, 1596.874, 1597.07, 1597.30, and 1597.56, Health and Safety Code.
+          CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-06-06
+Effective 9/10/06
+ Page 44
+
+ 102421 FAMILY CHILD CARE HOMES Regulations
+ 102421 CHILD'S RECORDS 102421
+(a) The licensee shall maintain, in each child's record, the signed and dated notice form required in Section 102419(d).
+(1) The licensee shall keep the signed and dated notice form for at least three years following termination of service to the child.
+(b) The licensee shall maintain, in each child's record, a copy of the emergency information card as required in Section 102417(g)(7).
+(c) In any case in which the licensee cares for an additional child pursuant to Section 102416.5(b) for a Small Family Child Care Home or Section 102416.5(d) for a Large Family Child Care Home, the licensee shall maintain, in the child’s record, a copy of documentation verifying the child’s enrollment and attendance at kindergarten, including transitional kindergarten, or elementary school as required in Section 102416.5(g).
+(d) In any case in which the licensee cares for an additional child pursuant to Section 102416.5(b) for a Small Family Child Care Home or Section 102416.5(d) for a Large Family Child Care Home, the licensee shall maintain, in the child’s record, proof of parent notification that the facility is caring for an additional child as required in Section 102416.5(h).
+(1) The licensee shall maintain a completed and signed LIC 9150 (Rev. 8/14) Parental Notification Additional Children in Care, which is incorporated by reference, for this purpose.
+(e) In any case in which a licensee releases a minor to a peace officer pursuant to Section 305 of the Welfare and Institutions Code, the licensee shall provide the peace officer with the address and telephone number of the minor's parent or authorized representative in order to enable the peace officer to make the notification required by Section 308 of the Welfare and Institutions Code.
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1596.78, 1596.857, 1596.876, 1597.30, 1597.44 and 1597.465, Health and Safety Code.
+                   CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective 4/1/16
+ Page 44.1
+
+ Regulations FAMILY CHILD CARE HOMES 102423
+ 102423 PERSONAL RIGHTS 102423
+(a) Each child receiving services from a family child care home shall have certain rights that shall not be waived or abridged by the licensee regardless of consent or authorization from the child's authorized representative. These rights include, but are not limited to, the following:
+(1) To be treated with dignity in his/her personal relationship with staff and other persons.
+(2) To receive safe, healthful, and comfortable accommodations, furnishings, and equipment.
+(3) To have parents or guardians informed by the licensee of the provisions of the law regarding complaints and the procedures for registering complaints confidentially, including, but not limited to the address and telephone number of the licensing agency's complaint unit.
+(4) To be free from corporal or unusual punishment, infliction of pain, humiliation, intimidation, ridicule, coercion, threat, mental abuse, or other actions of a punitive nature, including, but not limited to: interference with eating, sleeping or toileting; or withholding shelter, clothing, medication or aids to physical functioning.
+HANDBOOK BEGINS HERE
+(b) Repealed by Manual Letter No. CCL06-07, effective 9/10/06
+HANDBOOK ENDS HERE
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Sections 1597.30, Health and Safety Code.
+     CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-16-06
+Effective 4/1/16
+ Page 45
+
+This page is intentionally left blank.
+
+ Regulations FAMILY CHILD CARE CENTERS 102424
+  102424 SMOKING PROHIBITION 102424
+(a) Smoking is prohibited on the premises of a family child care home as specified in Health and Safety Code Section 1596.795(a).
+HANDBOOK BEGINS HERE
+(1) Health and Safety Code Section 1596.795(a) states:
+The smoking of tobacco in a private residence that is licensed as a family child care home shall be prohibited during the hours of operation as a family day care home and in those areas of the family day care home where children are present. Nothing in this section shall prohibit a city or county from enacting or enforcing an ordinance relating to smoking in a family day care home if the ordinance is more stringent than this section.
+HANDBOOK ENDS HERE
+NOTE: Authority cited: Section 1596.81, Health and Safety Code. Reference: Section 1596.795(a), Health and Safety Code.
+              Article 7. PHYSICAL ENVIRONMENT (Reserved)
+ CALIFORNIA-DSS-MANUAL-CCL MANUAL LETTER NO. CCL-97-15
+Effective 11/5/97
+ Page 46
+
+This page is intentionally left blank.
+

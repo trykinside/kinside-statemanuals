@@ -1,0 +1,1507 @@
+LICENSING RULES
+FOR
+CHILD CARE CENTERS
+Effective January 2, 2014
+BUREAU OF COMMUNITY AND HEALTH SYSTEMS
+CHILD CARE LICENSING DIVISION
+www.michigan.gov/michildcare
+ 
+PART 1. 400.8101 400.8104 400.8107 400.8110 400.8113 400.8116 400.8119 400.8122 400.8125 400.8128 400.8131 400.8134 400.8137 400.8140 400.8143 400.8146 400.8149 400.8152 400.8155 400.8158 400.8161 400.8164 400.8167 400.8170 400.8173 400.8176 400.8179 400.8182 400.8185 400.8188 400.8191
+PART 2. 400.8301 400.8305 400.8310 400.8315 400.8320 400.8325 400.8330 400.8335 400.8340 400.8345
+GENERAL PROVISIONS FOR ALL CHILDREN Definitions........................................................................... 2 Rule variances..................................................................... 4 Center license applicant.......................................................... 4 Licensee............................................................................ 4 Program director qualifications; responsibilities.............................. 5 Multi-site school-age program director........................................ 8 Site supervisor qualifications; responsibilities................................ 8 Lead caregiver qualifications; responsibilities................................ 8 Staff and volunteers............................................................... 10 Health of staff and volunteers................................................... 11 Professional development requirements....................................... 11 Hand washing..................................................................... 12 Diapering; toileting............................................................... 12 Discipline........................................................................... 13 Children’s records................................................................ 14 Information provided to parents................................................ 15 Parent permission for transportation........................................... 15 Medication; administrative procedures........................................ 16 Child accidents and incidents; child and staff illness........................ 16 Incident, accident, injury, illness, death, fire reporting...................... 16 Emergency procedures........................................................... 17 Telephone service................................................................. 17 Indoor space....................................................................... 18 Outdoor play area................................................................. 18 Equipment......................................................................... 19 Sleeping equipment............................................................... 20 Program............................................................................ 20 Ratio and group size requirements............................................. 22 Primary care....................................................................... 23 Sleeping, resting, and supervision.............................................. 23 Nighttime care..................................................................... 24
+ENVIRONMENTAL HEALTH PROVISIONS Definitions......................................................................... 24 Plan review; approval; inspections............................................. 24 Food preparation areas........................................................... 25 Food and equipment storage.................................................... 25 Food preparation.................................................................. 26 Sanitization........................................................................ 26 Food services and nutrition generally.......................................... 27 Food services and nutrition; provided by center............................. 28 Food services and nutrition; provided by parents............................ 29 Water supply; plumbing......................................................... 30
+TABLE OF CONTENTS
+i
+
+400.8350 400.8355 400.8360 400.8365 400.8370 400.8375 400.8380 400.8385
+PART 3. 400.8501 400.8505 400.8510 400.8515 400.8520 400.8525 400.8530 400.8535 400.8540 400.8545 400.8550 400.8555 400.8560 400.8565
+PART 4. 400.8701 400.8710 400.8720 400.8730 400.8740 400.8750 400.8760 400.8770
+PART 5. 400.8801 400.8810 400.8820 400.8830 400.8840
+Toilets; hand washing sinks..................................................... 30 Sewage disposal.................................................................. 31 Garbage and refuse............................................................... 31 Heating; temperature............................................................. 31 Light, ventilation, and screening................................................ 31 Premises............................................................................ 31 Maintenance of premises......................................................... 32 Poisonous or toxic materials..................................................... 32
+FIRE SAFETY PROVISIONS
+Adoption by reference............................................................ 33 Definitions......................................................................... 33 Plans and specifications; submission; approval; inspections............... 35 Construction....................................................................... 35 Interior finishes................................................................... 36 Exits................................................................................ 37 Hazard areas....................................................................... 38 Fire alarm.......................................................................... 40 Smoke detectors; carbon monoxide detectors................................. 40 Fire extinguishers................................................................. 40 Electrical service.................................................................. 41 Open flame devices; candles.................................................... 41 Multiple occupancy............................................................... 41 Fire safety; exemptions for public and nonpublic school buildings....... 41
+TRANSPORTATION PROVISIONS Definitions......................................................................... 41 Transportation..................................................................... 42 All motor vehicles................................................................ 42 Safety equipment in motor vehicles............................................ 43 Manufacturer’s rated seating capacity; restraint devices; safety belts..... 43 Motor vehicle operator........................................................... 44 Staff/volunteer-to-child ratio and supervision in transit..................... 44 Time limitation on child transit................................................. 45
+SWIMMING PROVISIONS Definitions......................................................................... 45 Swimming caregiver-to-child ratio............................................. 45 Swimming activity supervision................................................. 46 Instructional swim................................................................ 46 Swimming activity area.......................................................... 46
+APPENDICES
+A Promulgation Process/Suggested Changes B Contested Case Hearings
+C Good Moral Character
+ii
+
+DEPARTMENT OF LICENSING AND REGULATORY AFFAIRS DIRECTOR’S OFFICE
+LICENSING RULES FOR CHILD CARE CENTERS
+Filed with the secretary of state on July 5, 2013.
+These rules take effect January 2, 2014 unless adopted under section 33, 34, 45a(6), or 48 of 1969 PA 306. Rules adopted under these sections become effective 7 days after filing with the Secretary of State.
+(By authority conferred on the director of the Department of Licensing and Regulatory Affairs by sec- tion 2 of 1973 PA 116, Executive Reorganization Order Nos. 1996-1, 1996-2, 2003-1, 2004-4, and 2015- 4, MCL 722.112, 330.3101, 445.2001, 445.2011, and 400.226.)
+R 400.5101, 400.5102, 400.5102a, 400.5103, 400.5103a, 400.5104, 400.5104a, 400.5104b, 400.5105, 400.5106, 400.5107, 400.5108, 400.5109, 400.5109a, 400.5110, 400.5111, 400.5111a, 400.5111b, 400.5113a, 400.5113b, 400.5113c, 400.5114, 400.5115, 400.5116, 400.5117, 400.5118, 400.5201a, 400.5201b, 400.5202a, 400.5204, 400.5204a, 400.5205, 400.5205a, 400.5205b, 400.5206, 400.5209, 400.5301, 400.5302, 400.5303, 400.5303a, 400.5305, 400.5306, 400.5307, 400.5501, 400.5502, 400.5502a, 400.5502b, 400.5502c, 400.5601, 400.5602, 400.5603, 400.5604, 400.5605, 400.5606, 400.5607, 400.5610, 400.5611, 400.5613, 400.5615, 400.5801, 400.5805, 400.5810, 400.5815, 400.5820, 400.5825, 400.5835, 400.5840, 400.5841, 400.5845, 400.5850, 400.5856, 400.5865, 400.5870, 400.5900a, 400.5901, 400.5902, 400.5902a, 400.5902b, 400.5902c, 400.5902d, 400.5903, 400.5905, 400.5910, 400.5915, 400.5920, 400.5925, 400.5930, 400.5935, 400.5940 of the Michigan Administrative Code are rescinded and R 400.8101, 400.8104, 400.8107, 400.8110, 400.8113, 400.8116, 400.8119, 400.8122, 400.8125, 400.8128, 400.8131, 400.8134, 400.8137, 400.8140, 400.8143, 400.8146, 400.8149, 400.8152, 400.8155, 400.8158, 400.8161, 400.8164, 400.8167, 400.8170, 400.8173, 400.8176, 400.8179, 400.8182, 400.8185, 400.8188, 400.8191, 400.8301, 400.8305, 400.8310, 400.8315, 400.8320, 400.8325, 400.8330, 400.8335, 400.8340, 400.8345, 400.8350, 400.8355, 400.8360, 400.8365, 400.8370, 400.8375, 400.8380, 400.8385, 400.8501, 400.8505, 400.8510, 400.8515, 400.8520, 400.8525, 400.8530, 400.8535, 400.8540, 400.8545, 400.8550, 400.8555, 400.8560, 400.8565, 400.8701, 400.8710, 400.8720, 400.8730, 400.8740, 400.8750, 400.8760, 400.8770, 400.8801, 400.8810, 400.8820, 400.8830, 400.8840 are added to the Code as follows:
+1
+
+PART 1. GENERAL PROVISIONS FOR ALL CHILDREN
+R 400.8101 Definitions.
+Rule 101. As used in these rules:
+(a) “Accredited college or university” means a college or university that has been accredited by a regional or national institutional accrediting association recognized by the United States department of education.
+(b) “Ages” means all of the following:
+(i) “Infant” - birth until 1 year of age.
+(ii) “Toddler” – 1 year of age until 30 months of age.
+(iii) “Preschooler” – 30 months of age until eligible to attend a grade of kindergarten or higher.
+(iv) “School-ager” – a child who is eligible to attend a grade of kindergarten or higher, but less than 13
+years of age. A child is considered a school-ager on the first day of the school year in which he or she is eligible.
+(c) “Caregiver” means a person 18 years of age or older who provides direct care, education, supervision, and guidance of children. A 17-year-old shall qualify as a caregiver if he or she meets 1 of the following:
+(i) Has satisfactorily completed at least 1 year of a vocational-occupational child care aide training program approved by the department of licensing and regulatory affairs.
+(ii) Has completed 1 year of apprenticeship in a recognized child care apprenticeship program sponsored by the United State department of labor.
+(d) “Center” means a child care center or day care center which is a facility other than a private residence, which receives 1 or more children under 13 years of age for care for periods of less than
+24 hours a day, and at which the parents or guardians are not immediately available to the children. “Center” includes a facility that provides care for not less than 2 consecutive weeks, regardless of the number of hours of care per day. The facility is generally described as a child care center, day care center, day nursery, nursery school, parent cooperative preschool, prekindergarten, play group, or drop- in center. “Center” does not include any of the following:
+(i) A Sunday school, a vacation Bible school, or a religious instructional class which is conducted by a religious organization and at which children are in attendance for not more than 3 hours per day for an indefinite period, or not more than 8 hours per day for a period not to exceed 4 weeks during a 12-month period, or a facility operated by a religious organization where children are cared for not more than 3 hours while persons responsible for the children are attending religious services.
+(ii) A special education program or service conducted under the authority of article 3 of 1976 PA 451, MCL 380.1701 to 380.1766.
+(iii) A kindergarten operated by a local or intermediate school district under the authority of 1976 PA 451, MCL 380.1 to 380.761 or as part of a nonpublic elementary school. However, this exemption shall not apply to a nonpublic kindergarten operated as part of a center.
+(iv) A program that is primarily supervised, school-age-child-focused training in a specific subject, including, but not limited to, dancing, drama, music, or religion. This exclusion applies only to the time a child is involved in supervised, school-age-child-focused training.
+(v) A program that is primarily an incident of group athletic or social activities for school-age children sponsored by or under the supervision of an organized club or hobby group, including, but not limited to, youth clubs, scouting, and school-age recreational or supplementary education programs. This exclusion applies only to the time the school-age child is engaged in the group athletic or social activities and if the school-age child can come and go at will.
+2
+
+(e) “CEU” means a continuing education unit awarded by an accredited college or university sponsor of continuing education units or equivalent awarded by the state board of education.
+(f) “Degrees and semester hours” means only those degrees and hours from an accredited college or university.
+(g) “Department” means the department of human services.
+(h) “Developmentally appropriate” means age appropriate as well as appropriate to the individual child. (i) “Easily cleanable” means that surfaces are readily accessible and made of such materials and finish
+and so fabricated that residue may be effectively removed by normal cleaning methods.
+(j) “Field trip” means children and caregivers leaving the center premises for an excursion, trip, or
+program activity.
+(k) “First aid kit” means a kit containing, at a minimum, all of the following: sterile gauze pads
+(assorted sizes), a roll of gauze, adhesive bandages (assorted sizes), adhesive cloth tape, an elastic bandage, tweezers, and scissors. A first aid kit is prohibited from containing any non-prescription or prescription medications as defined under R 400.8152.
+(l) “Group size” means the specified number of children assigned to a caregiver or team of caregivers occupying an individual classroom or well-defined space for each group within a larger room. Two
+or more groups may be combined for collective activities as long as appropriate child/staff ratios are maintained in the room or area.
+(m) "Licensee designee" means the individual designated in writing by the board of directors of the corporation or by the owner or person with legal authority to act on behalf of the company or organization on licensing matters.
+(n) “Parent” or “parental” means a child’s parent, guardian, or other legally responsible person.
+(o) “Playspace” means a piece or pieces of age-appropriate toys, play equipment, and materials that 1 child can use independently for 15 minutes.
+(p) “Program components” means the different services offered by a center. They include, but are not limited to, infant/toddler, preschool, and school-age care and education; nighttime care; food service; swimming; and transportation.
+(q) “Routine transportation” means regularly scheduled travel on the same day of the week, at the same time, to the same destination.
+(r) “Sanitization” means effective bactericidal treatment by a process that provides enough accumulative heat or concentration of chemicals for enough time to reduce the bacterial count, including pathogens, to a safe level.
+(s) “School” means a building or part of a building which is owned or leased by, or under the control of, a public or private school or school system for the purpose of instruction as required by 1976 PA 451, MCL 380.1561 which is occupied by 6 or more students, and which is used 4 or more hours per day or more than 12 hours per week.
+(t) “Staff” means any compensated employee of the center.
+(u) “Volunteer” means a person 16 years of age or older who is not a compensated employee of the center. Volunteers may be counted in the caregiver-to-child ratios outlined in R 400.8182(3) if they meet the definition of caregiver as defined by subdivision (c) of this rule.
+(v) “Well-defined space” means space designed and used exclusively for a specific group of children. History: Eff. Jan. 2, 2014
+3
+
+R 400.8104 Rule variances.
+Rule 104. (1) Upon written request of an applicant or licensee, the department may grant a variance from an administrative rule if the alternative proposed provides clear and convincing evidence that the health, welfare, and safety of children is protected.
+(2) The decision of the department, including the conditions under which the variance was granted, shall be kept on file at the center.
+(3) The granted variance may remain in effect for as long as the licensee continues to comply with the conditions of the variance or may be time-limited.
+(4) Variances will not be granted from statutory requirements.
+History: Eff. Jan. 2, 2014
+R 400.8107 Center license applicant.
+Rule 107. (1) A center license applicant shall meet all of the following qualifications:
+(a) Be of good moral character as defined in 1974 PA 381, MCL 338.41 to 338.47.
+(b) Be suitable to meet the needs of children.
+(c) Be able to assure that the proposed services and facilities are conducive to the welfare of children. (d) Demonstrate a willingness and ability to comply with 1973 PA 116, MCL 722.111 to 722.128, and
+the rules promulgated under the act.
+(2) Before issuance of the original provisional license, a center license applicant shall comply with
+applicable child care center administrative rules.
+History: Eff. Jan. 2, 2014
+R 400.8110 Licensee.
+Rule 110. (1) The licensee shall do all of the following:
+(a) Be of good moral character as defined in 1974 PA 381, MCL 338.41 to 338.47.
+(b) Be suitable to meet the needs of children.
+(c) Comply with section 5c of 1973 PA 116, MCL 722.115c, requirements for a Michigan department
+of state police criminal history record check, a criminal records check through the federal bureau of investigation, and a department of human services check for a history of substantiated abuse and neglect.
+(d) Be responsible for compliance with 1973 PA 116, MCL 722.111 to 722.128, and the rules promulgated under the act.
+(e) Report to the department within 3 business days after any arraignment as indicated in section 5e of 1973 PA 116, MCL 722.115e, and any subsequent conviction.
+(2) The licensee shall have the administrative capability to operate the center in order to provide the services and facilities that are conducive to the welfare of children.
+(3) The following shall be in a place accessible and visible to parents:
+(a) The current license and if applicable, the letter extending the license beyond the expiration date. (b) A copy of the current child care center administrative rules and a copy of any variances granted. (c) A notice stating that the center requires a criminal history check on its employees and whether the
+center requires a criminal history check on its volunteers.
+(4) There shall be a licensing notebook on the premises which includes all licensing inspection and
+special investigation reports and related corrective action plans since May 28, 2010 and a summary sheet outlining the documents contained in the notebook. The notebook shall be made available to parents and prospective parents at all times during the center’s normal hours of operation.
+4
+
+(5) The actual number and ages of children in care at any time shall never exceed the number and ages of children for which the center is licensed.
+(6) A child shall only be released to persons authorized by the parent.
+(7) A child shall be released to either parent unless a court order prohibits release to a particular parent. A copy of the order prohibiting release shall be kept on file at the center.
+(8) Within 5 business days, the licensee shall notify the department of the separation of a program director or a central administrator approved by R 400.8113(16) and a plan for replacement of the program director or central administrator.
+(9) The licensee shall cooperate with any state or local department or agency inspections or investigations related to the child care license by both of the following:
+(a) Providing access to all relevant records, materials, and staff.
+(b) Assuring information provided is accurate and truthful.
+(10) Written approval from the department shall be obtained before making any changes in the terms
+of the license, including but not limited to, adding use space, changing age groups served, changing program components, changing the capacity of the center, or making changes to a room or well-defined space that will result in a change in capacity of the room or well-defined space.
+(11) The records required by 1973 PA 116, MCL 722.111 to 722.128, and the rules promulgated under the act must be retained and made available to the department upon request for 2 years, except the following:
+(a) The name, address, and telephone number for each child enrolled and each employee for at least 2 years after he or she has left the center.
+(b) Staff and volunteer health records as required by R 400.8128 and documentation of qualifications shall be retained until that person has left the center.
+(c) The licensing notebook shall be maintained and retained until the license is closed.
+(12) Smoking shall not occur in or during either of the following:
+(a) In the child care center or on real property that is under the control of the center and upon which the
+center is located.
+(b) On field trips and in vehicles when children are present.
+History: Eff. Jan. 2, 2014
+R 400.8113 Program director qualifications; responsibilities.
+Rule 113. (1) As used in this rule:
+(a) “Child-related field” for an early childhood program director means elementary education, child guidance/counseling, child psychology, family studies, and social work.
+(b) “Child-related field” for a school-age program director means early childhood education, elementary education, secondary education, physical education and recreation, child development, child guidance/counseling, child psychology, family studies, social work, human services, and youth development.
+(c) “Child care administration” means child care administration, education administration, or business administration.
+(d) “Child development associate credential (CDA)” means a credential awarded by the council for professional recognition or similar credential approved by the department.
+(e) “Early childhood program director” means the program director of a center serving children of all ages.
+(f) “Hours of experience” means experience serving the ages and developmental abilities of children for which the center is licensed.
+5
+
+(g) “Montessori credential” means a credential issued by the association Montessori internationale (AMI), American Montessori society (AMS), or any Montessori teaching training institution recognized by the Montessori accreditation council for teacher education (MACTE) that meets or exceeds 270 hours of academic training.
+(h) “Michigan school-age/youth development credential” means a credential issued by the Michigan afterschool association or similar credential approved by the department.
+(i) “School-age program director” means the program director of a center serving only school-age children.
+(2) Before hiring a new program director, a center shall submit the credentials of the proposed program director to the department for review and approval.
+(3) A program director shall be present in the center in the following manner:
+(a) Full time for programs operating less than 6 continuous hours.
+(b) At least 50% of the time children are in care but not less than a total of 6 hours per day for programs
+operating 6 or more continuous hours.
+(4) All program directors are responsible for the general management of the center, including the
+following minimum responsibilities:
+(a) Developing, implementing, and evaluating center policies and program.
+(b) Administering day-to-day operations including being available to address parent, child, and staff
+issues.
+(c) Monitoring staff, including an annual evaluation of each staff member.
+(5) A program director may also serve as a caregiver, provided that role does not interfere with
+management and supervisory responsibilities.
+(6) If absent from the center, the program director shall designate a staff member to be in charge who at
+least meets the qualifications of caregiver.
+(7) A substitute program director shall be appointed for a program director who has left employment or
+has a temporary absence that exceeds 30 consecutive workdays until return or replacement. A substitute program director shall at least meet the qualifications of lead caregiver. The department shall be notified when a substitute program director is appointed.
+(8) All program directors shall have all of the following qualifications:
+(a) Be at least 21 years of age.
+(b) Have earned a high school diploma or GED.
+(9) Early childhood program directors shall meet 1 of the following qualifications:
+    Education
+  Coursework in Early Childhood Education or Child Development
+  Hours of Experience
+  (a)
+ Bachelor’s degree or higher in early childhood education or child development
+   (b)
+   Bachelor’s degree or higher in a child-related field including
+   18 semester hours and
+   480 hours
+  (c)
+ Associate’s degree in early child- hood education or child develop- ment including
+ 18 semester hours and
+   480 hours
+ (d)
+   Montessori credential with
+   18 semester hours and
+   960 hours
+6
+
+ (e)
+   Valid child development associate credential with
+   18 semester hours and
+   960 hours
+  (f)
+  Sixty semester hours with
+  18 semester hours and
+    1,920 hours
+ (10) School-age program directors shall meet 1 of the following qualifications:
+    Education
+  Coursework in Child- Related Field
+  Hours of Experience
+   (a)
+ Bachelor’s degree or higher in child-related field
+   (b)
+  Associate’s degree in a child- related field and
+   480 hours
+ (c)
+   Montessori credential with
+   12 semester hours and
+   480 hours
+   (d)
+ Valid Michigan school-age/youth development credential with
+ 12 semester hours and
+   480 hours
+ (e)
+  Valid child development associate credential with
+  12 semester hours and
+  480 hours
+ (f)
+   Sixty semester hours with
+   12 semester hours and
+   720 hours
+   (g)
+  High school diploma/ GED with
+  6 semester hours and
+    2,880 hours
+ (11) Program directors qualified under subrule (9)(e) or (10)(e) of this rule with an expired child development associate credential have 1 year from the effective date of these rules to obtain a valid child development associate credential.
+(12) Program directors qualified under subrule (10)(d) of this rule with an expired Michigan school- age/youth development credential have 1 year from the effective date of these rules to obtain a valid Michigan school-age/youth development credential.
+(13) All program directors shall have at least 2 semester hours or 3.0 CEUs in child care administration or have an administrative credential approved by the department. These semester hours may satisfy a portion of the requirements of subrules (9) and (10) of this rule.
+(14) An early childhood program director employed as a program director since December 7, 2004 without a break in service is exempt from the requirements in subrules (9) and (13) of this rule.
+(15) A school-age program director meeting the qualifications of subrule (10)(a) or (10)(b) of this rule or having 5 years of experience as a program director before December 7, 2006 is exempt from the re- quirements of subrule (13) of this rule.
+(16) A program director is exempt from the requirements of subrule (13) of this rule with verification that all duties required by subrule (4)(a) and (c) of this rule are handled by a central administrator and the central administrator meets the requirements of subrule (13) of this rule. Verification of the duties and education of the central administrator shall be made available to the department upon request.
+(17) Verification of the education, credentials, and experience of the program director shall be kept on file at the center.
+History: Eff. Jan. 2, 2014
+7
+
+R 400.8116 Multi-site school-age program director.
+Rule 116. (1) A school-age program director with a bachelor’s degree or higher in a child-related field may oversee up to 3 sites with the following conditions:
+(a) Each program routinely operates 6 hours or fewer per day.
+(b) The multi-site school-age program director is available to the site supervisor during all hours of program operation.
+(2) The multi-site school-age program director shall be at each site a minimum of 1 session per week and maintain written documentation of site visits, including dates and times.
+History: Eff. Jan. 2, 2014
+R 400.8119 Site supervisor qualifications; responsibilities.
+Rule 119. (1) For multi-site school-age programs, with a school-age program director responsible for more than 1 center, a site supervisor shall be present during all hours of operation.
+(2) Site supervisors shall meet all of the following:
+(a) Be at least 19 years of age.
+(b) Have earned a high school diploma, GED, or equivalent.
+(c) Have 480 hours of experience working as a caregiver in a program serving school-age children that
+meets the requirements of section 1 of 1973 PA 116, MCL 722.111.
+(d) Have completed 15 clock hours, 1 semester hour, or 1.5 CEUs of documented school-age training. (3) Site supervisors shall be responsible for the daily operation and implementation of the site program,
+supervision of the site staff, and overall care and supervision of children.
+(4) Site supervisors shall assist the multi-site school-age program director in all of the following:
+(a) Developing, implementing, and evaluating program and center policies.
+(b) Administering day-to-day operations, including being available to address parent, child, and staff
+issues.
+(c) Monitoring and overseeing staff.
+(5) Verification of the requirements of subrule (2)(c) and (d) shall be kept on file at the center.
+History: Eff. Jan. 2, 2014
+R 400.8122 Lead caregiver qualifications; responsibilities.
+Rule 122. (1) As used in this rule:
+(a) “Child-related field” means elementary education, child guidance/counseling, child psychology, family studies, and social work.
+(b) “Child development associate credential (CDA)” means a credential awarded by the council for professional recognition or similar credential approved by the department.
+(c) “Montessori credential” means a credential issued by the association Montessori internationale (AMI), American Montessori society (AMS), or any Montessori teaching training institution recognized by the Montessori accreditation council for teacher education (MACTE) that meets or exceeds 270 hours of academic training.
+(d) “Hours of experience” means experience serving the ages and developmental abilities of children for whom the caregiver will provide care.
+(2) Lead caregivers are required only for groups of children who are preschool age and younger.
+(3) At least 1 lead caregiver shall be assigned to each group of children in self-contained or well- defined space and shall be present and providing care in the assigned group in the following manner:
+(a) Full time for programs operating less than 6 continuous hours. 8
+
+(b) At least 6 hours per day for programs operating 6 or more continuous hours.
+(4) Lead caregivers shall be responsible for both of the following:
+(a) Overseeing the planning, implementation, and evaluation of the classroom program and child
+assessment.
+(b) Overseeing caregiving staff for a specific group of children and overall care and supervision of
+children.
+(5) Lead caregivers shall have both of the following qualifications: (a) Be at least 19 years of age.
+(b) Have a high school diploma or GED.
+(6) Lead caregivers shall meet 1 of the following qualifications:
+    Education
+  Coursework in Early Childhood Education, Child Development, or a Child-Related Field
+  Hours of Experience
+  (a)
+ Bachelor’s degree or higher in early childhood education, child development, or a child-related field
+   (b)
+  Associate’s degree or higher in early childhood education or child development
+   (c)
+  Montessori credential with
+   480 hours
+ (d)
+   Valid child development associate credential with
+     480 hours
+   (e)
+  High school diploma/ GED with
+  12 semester hours with
+    960 hours
+   (f)
+ High school diploma/ GED with
+ A combination of:
+12 semester hours and/or 18 CEUs to equal 180 clock hours with
+   1,920 hours
+ (g)
+   High school diploma/ GED with
+   A combination of:
+6 semester hours and/or 9 CEUs to equal 90 clock hours with
+   3,840 hours
+ (7) Lead caregivers hired after the effective date of these rules shall meet 1 of the qualifications of subrule (6)(a) to (f) of this rule.
+(8) Lead caregivers qualified under subrule (6)(d) of this rule with an expired child development associate credential have 1 year from the effective date of these rules to obtain a valid child development associate credential.
+(9) Lead caregivers for infants and toddlers shall have 3 semester hours or 4.5 CEUs in infant/toddler development and care practices within 6 months of hire. These semester hours or CEUs may satisfy a portion of the requirements of subrule (6) of this rule.
+(10) A substitute for a lead caregiver shall be appointed for a lead caregiver who has left employment or has a temporary absence that exceeds 30 consecutive workdays until return or replacement. A substitute lead caregiver shall meet at least the qualifications of lead caregiver or be currently enrolled in relevant training.
+9
+
+(11) Verification of the education, credentials, and experience of each lead caregiver shall be kept on file at the center.
+History: Eff. Jan. 2, 2014
+R 400.8125 Staff and volunteers.
+Rule 125. (1) All staff and volunteers shall provide appropriate care and supervision of children at all times.
+(2) All staff shall be of responsible character and suitable to meet the needs of children.
+(3) Both of the following shall be developed and implemented:
+(a) A written screening policy for all staff and volunteers, including parents. The written screening
+policy shall include when a staff member cannot be present at the center as indicated in subrule (5) and (7) of this rule.
+(b) A written policy regarding supervision of volunteers, including volunteers who are parents of a child in care. The written volunteer supervision policy shall include when a volunteer shall not have unsupervised contact with a child in care as indicated by subrule (6) and (8) of this rule.
+(4) A criminal history check using the Michigan department of state police internet criminal history access tool (ICHAT), or equivalent, for a person’s state of official residence, shall be completed before making an offer of employment to that person. A copy of the ICHAT shall be kept on file at the center.
+(5) A staff member shall not be present in the center if he or she has been convicted of any of the following:
+(a) A listed offense, as defined in section 2 of the sex offenders registration act, 1994 PA 295, MCL 28.722.
+(b) Child abuse or child neglect.
+(c) A felony involving harm or threatened harm to an individual within the 10 years immediately preceding the date of hire.
+(6) Documentation shall be on file at the center that a volunteer has not been convicted of any of the following before having unsupervised contact with children:
+(a) A listed offense, as defined in section 2 of the sex offenders registration act, 1994 PA 295, MCL 28.722.
+(b) Child abuse or child neglect.
+(c) A felony involving harm or threatened harm to an individual within the 10 years immediately preceding the date of offering to volunteer at the center.
+(7) A staff member shall not be present in the center until there is documentation from the department of human services on file at the center that he or she has not been named in a central registry case as a perpetrator of child abuse or child neglect.
+(8) Documentation from the department of human services that a volunteer has not been named in a central registry case as the perpetrator of child abuse or child neglect shall be on file at the center before having unsupervised contact with a child in care.
+(9) If a staff person has resided outside of this state as an adult within the 10 years immediately preceding the date of hire, a criminal history check equivalent to Michigan department of state police internet criminal history access tool (ICHAT) and the department of human services central registry clearance shall be requested for all states of previous residence during those 10 years. The out-of-state requests and any responses shall be kept on file at the center.
+(10) The documentation required by subrule (4), (6), (7) and (8) of this rule shall be updated every 2 years at renewal and upon request by the department and shall be kept on file at the center.
+10
+
+(11) A written plan to assure compliance with section 3 of the child protection law, 1975 PA 238, MCL 722.623, shall be developed and implemented.
+(12) A written statement shall be signed and dated by staff and volunteers at the time of hiring or before volunteering indicating all of the following information:
+(a) The individual is aware that abuse and neglect of children is against the law.
+(b) The individual has been informed of the center’s policies on child abuse and neglect.
+(c) The individual knows that all staff and volunteers are required by law to immediately report
+suspected abuse and neglect to children’s protective services.
+History: Eff. Jan. 2, 2014
+R 400.8128 Health of staff and volunteers.
+Rule 128. Evidence that all staff members and each volunteer who has contact with children at least 4 hours per week for more than 2 consecutive weeks is free from communicable tuberculosis, verified within 1 year before employment or volunteering, shall be kept on file at the center.
+History: Eff. Jan. 2, 2014
+R 400.8131 Professional development requirements.
+Rule 131. (1) The center shall provide an orientation of the center’s policies and practices and the child care administrative rules to all staff hired after the effective date of these rules and before unsupervised contact with children.
+(2) Caregivers shall have training that includes information about infant safe sleep and shaken baby syndrome before caring for infants and toddlers.
+(3) Before unsupervised contact with children, each caregiver, site supervisor, and program director shall complete blood-borne pathogen training.
+(4) All program directors, site supervisors, and caregivers shall complete 16 clock hours of professional development annually on topics relevant to job responsibilities, including, but not limited to, child development and learning; health, safety and nutrition; family and community collaboration; program management; teaching and learning; observation, documentation, and assessment; interactions and guidance; professionalism; and the child care center administrative rules. The center may count CPR and first aid training for up to 2 hours of the annual professional development hours in the year taken.
+(5) An on-going professional development plan shall be developed and implemented to include all the training and professional development required by the child care center administrative rules.
+(6) On-line trainings and correspondence courses shall have an assessment of learning.
+(7) All program directors, lead caregivers, and at least 1 caregiver on duty in the center at all times in programs serving preschool age children and younger shall have current first aid and infant, child, and adult CPR training.
+(8) All program directors, site supervisors, and at least 1 caregiver on duty in the center at all times in programs serving only school-age children shall have current first aid and child and adult CPR training. (9) Verification of all professional development required by this rule shall be kept on file at the center.
+Verification shall be issued from the training organization or trainer and include the date of the course, the name of the training organization or trainer, the topic covered, and the number of clock hours.
+History: Eff. Jan. 2, 2014
+11
+
+R 400.8134 Hand washing.
+Rule 134 (1) As used in this rule, hand washing means to cleanse the hands with soap and warm running water for at least 20 seconds.
+(2) All staff and volunteers shall wash their hands at all of the following times: (a) Prior to starting the workday at the center.
+(b) Prior to care of children.
+(c) Before preparing and serving food and feeding children.
+(d) Before giving medication.
+(e) After each diapering.
+(f) After using the toilet or helping a child use the toilet.
+(g) After handling bodily fluids.
+(h) After handling animals and pets and cleaning cages.
+(i) After handling garbage.
+(j) When soiled.
+(3) Staff and volunteers shall assure that children wash their hands at all of the following times:
+(a) Before meals, snacks, or food preparation experiences.
+(b) After toileting or diapering.
+(c) After handling animals and pets.
+(d) When soiled.
+(4) Guidelines for hand washing shall be posted in food preparation areas, in toilet rooms, and by all
+hand washing sinks.
+(5) When soap and running water are not available during an outing, hand sanitizers, and/or single-use
+wipes may be used as a temporary measure.
+History: Eff. Jan. 2, 2014
+R 400.8137 Diapering; toileting.
+Rule 3137 (1) Diapering shall occur in a designated diapering area that complies with all of the following:
+(a) Is physically separated from food preparation and food service.
+(b) Is within close proximity to a sink that is used exclusively for hand washing.
+(c) Has non-absorbent, smooth, easily cleanable surfaces in good repair.
+(d) Is of sturdy construction with railings or barriers to prevent falls.
+(e) Is at an adult work surface height.
+(f) Is washed, rinsed, and sanitized after each use.
+(2) Children 1 year of age and older may be changed in a bathroom standing up or on a nonabsorbent,
+easily sanitized surface with a changing pad between the child and the surface. Subrule (1)(e) of this rule does not apply.
+(3) Diapering supplies shall be within easy reach of the designated diapering area.
+(4) A plastic-lined, tightly covered container shall be used exclusively for disposable diapers and training pants and diapering supplies that shall be emptied and sanitized at the end of each day.
+(5) Only single-use disposable wipes or other single-use cleaning cloths shall be used to clean a child during the diapering or toileting process.
+(6) Diapers and training pants shall be checked frequently and changed when wet or soiled.
+(7) Guidelines for diapering shall be posted in diapering areas.
+(8) Disposable gloves, if used for diapering, shall only be used once for a specific child and be removed
+and disposed of in a safe and sanitary manner immediately after each diaper change. 12
+
+(9) The following shall apply when cloth diapers or training pants are used:
+(a) Each cloth diaper shall be covered with an outer waterproof covering. Outer coverings shall be removed as a singular unit with wet or soiled diapers and with wet or soiled training pants, if used.
+(b) Diapers, training pants, and outer coverings shall not be reused until washed and sanitized.
+(c) No rinsing of the contents shall occur at the center.
+(d) Soiled diapers shall be placed in a plastic-lined, covered container and used only for that child’s
+soiled diapers.
+(e) Soiled diapers or training pants shall be stored and handled in a manner that will not contaminate
+any other child contact items and shall not be accessible to children.
+(f) Soiled diapers or training pants shall be removed from the center every day by the child’s parent. (g) A child’s supply of clean diapers or training pants shall only be used for that child.
+(10) Toilet learning/training shall be planned cooperatively between the child’s regular caregivers and
+the parent so that the toilet routine established is consistent between the center and the child’s home. (11) Equipment used for toilet learning/training shall be provided. All of the following equipment is
+acceptable for toilet learning/training:
+(a) Adult-sized toilets with safe and easily cleanable modified toilet seats and step aids. (b) Child-sized toilets.
+(c) Non-flushing toilets (potty chairs) if they are all of the following:
+(i) Made of a material that is easily cleanable.
+(ii) Used only in a bathroom area.
+(iii) Used over a surface that is impervious to moisture.
+(iv) Washed, rinsed, and sanitized after each use.
+History: Eff. Jan. 2, 2014
+R 400.8140 Discipline.
+Rule 140. (1) Positive methods of discipline that encourage self-control, self-direction, self-esteem, and cooperation shall be used.
+(2) All of the following means of punishment shall be prohibited:
+(a) Hitting, spanking, shaking, biting, pinching, or inflicting other forms of corporal punishment.
+(b) Restricting a child’s movement by binding or tying him or her.
+(c) Inflicting mental or emotional punishment, such as humiliating, shaming, or threatening a child. (d) Depriving a child of meals, snacks, rest, or necessary toilet use.
+(e) Excluding a child from outdoor play or other gross motor activities.
+(f) Excluding a child from daily learning experiences.
+(g) Confining a child in an enclosed area, such as a closet, locked room, box, or similar cubicle.
+(3) Non-severe and developmentally appropriate discipline or restraint may be used when reasonably
+necessary, based on a child’s development, to prevent a child from harming himself or herself or to prevent a child from harming other persons or property, excluding those forms of punishment prohibited by subrule (2) of this rule.
+(4) A policy shall be developed and implemented regarding the discipline of children. The policy shall be all of the following:
+(a) In written form.
+(b) Age appropriate.
+(c) Provided to staff and parents.
+History: Eff. Jan. 2, 2014
+13
+
+R 400.8143 Children’s records.
+Rule 143. (1) At the time of the child’s initial attendance, the center shall obtain a child information card, using a form provided by the department or a comparable substitute, completed and signed by the parent, and the center shall keep it on file and accessible in the center.
+(2) Child information cards shall be reviewed and updated by parents at least annually and when the center becomes aware of changes.
+(3) At the time of initial attendance, 1 of the following shall be obtained and kept on file and accessible in the center for children under school-age:
+(a) A certificate of immunization showing a minimum of 1 dose of each immunizing agent specified by the department of community health.
+(b) A copy of a waiver addressed to the department of community health and signed by the parent stating immunizations are not being administered due to religious, medical, or other reasons.
+(4) When a child under school-age whose immunizations were not up-to-date at the time of enrollment has been in attendance for 4 months, an updated certificate showing completion of all additional immunization requirements as specified by the department of community health shall be kept on file unless there is a signed statement by a licensed health care provider stating immunizations are in progress.
+(5) Under section 9211 of 1978 PA 368, MCL 333.9211(2), immunizations shall be reported to the department of community health for all children enrolled using the method established by the department of community health by October 1 of each year.
+(6) Within 30 days of initial attendance, 1 of the following shall be obtained and kept on file and accessible in the center:
+(a) For infants: A physical evaluation performed within the preceding 3 months signed by a licensed health care provider. Restrictions shall be noted.
+(b) For toddlers: A physical evaluation performed within the preceding 6 months signed by a licensed health care provider. Restrictions shall be noted.
+(c) For preschoolers: A physical evaluation performed within the preceding year signed by a licensed health care provider. Any restrictions shall be noted.
+(7) Physical evaluations shall be updated as follows:
+(a) Yearly for infants and toddlers.
+(b) Every 2 years for preschoolers.
+(8) Upon enrollment and annually thereafter, the center shall obtain and keep on file at the center a
+signed statement from the school-age child’s parent confirming all of the following:
+(a) The child is in good health with activity restrictions noted.
+(b) The child’s immunizations are up-to-date.
+(c) The immunization record or appropriate waiver is on file with the child’s school.
+(9) The center shall assure that if a parent objects to a physical examination or medical treatment on
+religious grounds, then the parent provides a signed statement annually that the child is in good health and that the parent assumes responsibility for the child’s state of health while at the center.
+(10) The center shall maintain an accurate record of daily attendance at the center that includes each child’s first and last name and each child’s arrival and departure time.
+(11) Parent’s written permission for the child’s participation in field trips shall be obtained at the time of enrollment or before each field trip and kept on file at the center.
+History: Eff. Jan. 2, 2014
+14
+
+R 400.8146 Information provided to parents.
+Rule 146. (1) A center shall provide a written information packet to each parent enrolling a child that includes at least all of the following:
+(a) Criteria for admission and withdrawal.
+(b) Schedule of operation, denoting hours, days, and holidays during which the center is open and services are provided.
+(c) Fee policy.
+(d) Discipline policy.
+(e) Food service policy.
+(f) Program philosophy.
+(g) Typical daily routine.
+(h) Parent notification plan for accidents, injuries, incidents, illnesses.
+(i) Exclusion policy for child illnesses.
+(j) Notice of the availability of the center’s licensing notebook. The notice shall include all of the
+following:
+(i) The licensing notebook contains all the licensing inspection and special investigation reports and
+related corrective action plans since May 28, 2010.
+(ii) The licensing notebook is available to parents during regular business hours.
+(iii) Licensing inspection and special investigation reports from at least the past 2 years are available on
+the child care licensing website at www.michigan.gov/michildcare. The website address must be in bold print.
+(2) Written documentation that the parent received the written information packet as required by subrule (1) of this rule shall be kept on file at the center.
+(3) For infants and toddlers, parents shall receive a written daily record that includes at least the following information:
+(a) Food intake; time, type of food, and amount eaten.
+(b) Sleeping patterns; when and how long child slept.
+(c) Elimination patterns, including bowel movements, consistency, and frequency.
+(d) Developmental milestones.
+(e) Changes in the child’s usual behaviors.
+(4) Parents of children with special needs may request a written daily record that includes at least the
+information required by subrule (3) of this rule. (5) Parents shall be notified before each field trip.
+History: Eff. Jan. 2, 2014
+R 400.8149 Parent permission for transportation.
+Rule 149. (1) Parent’s written permission shall be obtained annually for routine transportation.
+(2) Parent’s written permission for any transportation not considered routine shall be obtained before each trip.
+(3) Permission for all transportation shall be kept on file at the center. History: Eff. Jan. 2, 2014
+15
+
+R 400.8152 Medication; administrative procedures.
+Rule 152. (1) Medication, prescription or nonprescription, shall be given to a child by an adult caregiver only.
+(2) A caregiver shall give or apply medication, prescription or nonprescription, only with prior written permission from a parent.
+(3) All medication shall be its original container, stored according to instructions, and clearly labeled for a named child.
+(4) Prescription medication shall have the pharmacy label indicating the physician’s name, child’s name, instructions, and name and strength of the medication and shall be given according to those instructions.
+(5) A caregiver shall keep all medication out of the reach of children and shall return it to the child’s parent or destroy it when the parent determines it is no longer needed or it has expired.
+(6) A caregiver shall give or apply any prescription or nonprescription medication according to the directions on the original container unless authorized by a written order of the child’s physician.
+(7) A caregiver shall not add medication to a child’s bottle, beverage, or food unless indicated on the prescription label.
+(8) Topical nonprescription medication, including, but not limited to sunscreen and insect repellent, requires written parental authorization annually.
+(9) The center shall maintain a record as to the time and the amount of medication given or applied, with the exception of subrule (8) of this rule, on a form provided by the department or a comparable substitute approved by the department. The signature of the caregiver administering the medication shall be included.
+History: Eff. Jan. 2, 2014
+R 400.8155 Child accidents and incidents; child and staff illness.
+Rule 155. (1) A plan for when and how parents will be notified when the center observes changes in the child’s health, a child experiences accidents, injuries, or incidents, or when a child is too ill to remain in the group shall be developed and implemented.
+(2) The center shall assure that a child too ill to remain in the group is placed in a separate area and is cared for and supervised until the parent arrives.
+(3) Items and facilities used by an ill child or adult shall not be used by any other person until washed, rinsed, and sanitized.
+(4) If the center becomes aware that a staff member, volunteer, or child in care has contracted a communicable disease, then the center shall notify parents of both of the following:
+(a) The name of the communicable disease.
+(b) The symptoms of the disease.
+(5) A policy detailing when children, staff, and volunteers will be excluded from child care due to
+illness shall be developed and implemented.
+History: Eff. Jan. 2, 2014
+R 400.8158 Incident, accident, injury, illness, death, fire reporting.
+Rule 158. (1) A center shall make a verbal report to the department within 24 hours of the occurrence of any of the following:
+(a) A child is lost or left unsupervised.
+(b) An incident involving an allegation of inappropriate contact.
+16
+
+(c) The death of a child in care.
+(d) A fire on the premises of the center that requires the use of fire suppression equipment or results in loss of life or property.
+(e) The center is evacuated for any reason.
+(2) A center shall make a verbal report to the department within 24 hours of notification by a parent that a child received medical treatment or was hospitalized for an injury, accident, or medical condition that occurred while the child was in care.
+(3) A center shall submit a written report to the department of the occurrences outlined in subrule (1) and (2) of this rule in a format provided by the department within 72 hours of the verbal report to the department.
+(4) A center shall keep a copy of the report on file at the center.
+History: Eff. Jan. 2, 2014
+R 400.8161 Emergency procedures.
+Rule 161. (1) Written procedures for the care of children and staff for each of the following emergencies shall be developed and implemented:
+(a) Fire.
+(b) Tornado.
+(c) Other natural or man-made disasters.
+(d) Serious accident/illness/injury.
+(e) Crisis management including, but not limited to, intruders and bomb threats.
+(2) The written procedures shall include all of the following:
+(a) A plan for evacuating and safely moving children to a relocation site.
+(b) A method for contacting parents and reuniting families.
+(c) A plan for how each child with special needs will be accommodated during each type of emergency. (3) The plans required by subrule (1)(a) to (d) shall be posted in a place visible to staff and parents.
+(4) The crisis management plan shall be maintained in a place known and easily accessible to staff.
+(5) A fire drill program consisting of at least 1 fire drill quarterly shall be established and implemented. (6) A tornado drill program consisting of at least 2 tornado drills between the months of April through
+October shall be established and implemented.
+(7) A written log indicating the date and time of fire and tornado drills shall be kept on file at the center. (8) Each staff member shall be trained at least twice a year on his or her duties and responsibilities for
+all emergency procedures referenced in subrule (1) of this rule.
+(9) If cribs are used in emergency evacuations, then all doors within the means of egress shall be wide
+enough to readily accommodate the crib evacuation.
+History: Eff. Jan. 2, 2014
+R 400.8164 Telephone service.
+Rule 164. (1) A land-line telephone, excluding pay phones, cell phones, and cordless phones, shall be available, operable, and accessible in the building during the hours that the center is in operation. An operable land-line telephone does not require electricity in the center to operate.
+(2) During the hours the center is in operation, a telephone number known to the public and available to parents to provide immediate access to the center shall be provided.
+17
+
+(3) Emergency telephone numbers, including 911, fire, police, and the poison control center, and the facility’s physical address and 2 main cross streets, shall be conspicuously posted immediately adjacent to all center telephones.
+History: Eff. Jan. 2, 2014
+R 400.8167 Indoor space.
+Rule 167. (1) The required square footage of indoor space per child shall be at least the following: (a) Fifty square feet for infants and toddlers.
+(b) Thirty-five square feet for preschoolers and school-agers.
+(2) The following indoor space is excluded from the required square footage:
+(a) Hallways.
+(b) Bathrooms.
+(c) Reception and office areas.
+(d) Kitchens.
+(e) Storage areas and cloakrooms.
+(f) Areas used exclusively for resting, sleeping, or eating, except for infants and toddlers.
+(3) A center shall provide a floor plan of all child use areas to the department at initial licensure and
+before making structural changes or adding any child use space. Only space that has received prior approval for child use by the department may be used for child care.
+History: Eff. Jan. 2, 2014
+R 400.8170 Outdoor play area.
+Rule 170. (1) As used in this rule:
+(a) “Certified playground safety inspector” means an individual certified by the National Playground Safety Institute or the National Program for Playground Safety to conduct playground safety inspections.
+(b) “Natural playground” means an outdoor play area that blends natural materials, features, and vegetation.
+(2) The outdoor play area shall be considered an outdoor classroom and an extension of the learning environment.
+(3) A center operating with children in attendance for 3 or more continuous hours per day shall provide daily outdoor play, unless prevented by inclement weather or other weather conditions that could result in children becoming overheated or excessively chilled.
+(4) A center operating with children in attendance for 3 or more continuous hours a day shall have an outdoor play area that has at least 1,200 square feet. More than 1,200 square feet of outdoor play area may be required when the minimum amount is not adequate for the number of children for which the center is licensed.
+(5) If outdoor space is not available adjacent to the center, then a center may use a park or other outdoor facility. All of the following shall apply:
+(a) The area shall be easily accessible by a safe walking route.
+(b) The play area shall be inspected before each use to ensure that no hazards are present.
+(c) The location of the alternative outdoor play area shall be specified in writing to the department.
+(6) There shall be a shaded area to protect children from excessive sun exposure, when necessary.
+(7) The outdoor play area shall be in a safe location.
+(8) The outdoor play area shall be protected from hazards, when necessary, by a fence or natural barrier
+that is at least 48 inches in height.
+18
+
+(9) Children shall only use age-appropriate equipment.
+(10) An outdoor play area and any equipment located on the center’s premises shall be maintained in a safe condition and inspected daily before use to ensure that no hazards are present.
+(11) The playground equipment, use zones, and surfacing in the outdoor play area shall be inspected
+by a certified playground safety inspector and an approval granted for playground equipment and areas used before issuance of an original provisional license, upon request of the department, and before using any newly added playground equipment. The center shall provide documentation of the inspection to the department upon request and shall keep it on file at the center.
+(12) Loose-fill surfacing material shall not be installed over concrete or asphalt.
+(13) The depth of the loose-fill surface material shall be restored to its required depth when it has moved or becomes otherwise compromised.
+(14) If children’s wheeled vehicles and pull toys are used, then a suitable surface shall be provided for their use.
+(15) Materials used on a natural playground shall not be in the use zones for other playground equipment.
+(16) The elevated playing surface of materials used on a natural playground shall not exceed 30 inches.
+(17) Materials used on a natural playground with elevated playing surfaces shall not be installed over concrete or asphalt.
+(18) Surfacing materials are not required under elevated playing surfaces on a natural playground.
+(19) School-age centers operating in school buildings approved by the Michigan department of education are exempt from subrule (11) of this rule, provided the licensee informs parents, in writing at the time of enrollment, if the center plans to use a public school’s outdoor play area and equipment that does not comply with this rule.
+History: Eff. Jan. 2, 2014
+R 400.8173 Equipment.
+Rule 173. (1) A center shall not use equipment, materials, and furnishings recalled or identified by the United States consumer product safety commission (www.cpsc.gov) as being hazardous.
+(2) The current list of unsafe children’s products that is provided by the department shall be conspicuously posted in the center, as required by section 15 of the children’s product safety act, 2000 PA 219, MCL 722.1065.
+(3) Play equipment, materials, and furniture, shall be all of the following:
+(a) Appropriate to the developmental needs and interests of children as required by R 400.8179.
+(b) Safe, clean, and in good repair.
+(c) Child-sized or appropriately adapted for a child’s use.
+(d) Easily accessible to the children.
+(4) Sufficient materials and equipment shall be available to provide a minimum of 3 playspaces per
+child in the licensed capacity.
+(5) A minimum of 2 playspaces shall be accessible per child in attendance on any given day during
+child-initiated activity time.
+(6) Children shall have access to equipment and materials in the following areas on a daily basis: (a) Large and small muscle activity.
+(b) Sensory exploration.
+(c) Social interaction and dramatic play.
+(d) Discovery and exploration.
+19
+
+(e) Early math and science experiences.
+(f) Creative experiences through art, music, and literature.
+(7) A current and accurate equipment inventory shall be provided to the department before issuance of
+the original provisional license and at each renewal.
+(8) A first aid kit shall be readily accessible to staff and securely stored in the center.
+(9) A rocking chair or other comfortable, adult-sized seating shall be provided for 50% of the
+caregiving staff on duty who are providing infant and toddler care. (10) Trampolines shall not be used by children in care.
+History: Eff. Jan. 2, 2014
+R 400.8176 Sleeping equipment.
+Rule 176. (1) All bedding and sleeping equipment shall be appropriate for the child; be clean, comfortable, and safe; and be in good repair.
+(2) A crib or porta-crib shall be provided for all infants in care.
+(3) A crib, porta-crib, cot, or mat and a sheet or blanket of appropriate size shall be provided for all toddlers and preschoolers under 3 years of age in care.
+(4) A cot or a mat and a sheet or blanket of appropriate size shall be provided as follows: (a) For all preschoolers 3 years of age and older in care for 5 or more continuous hours. (b) For any child in care who regularly naps.
+(c) Upon a parent’s request for any child in care.
+(5) Car seats, infant seats, swings, bassinets, and playpens are not approved sleeping equipment.
+(6) A center shall not use stacking cribs.
+(7) Cribs and porta-cribs shall comply with the federal product safety standards issued by the consumer
+product safety commission.
+(8) A crib or porta-crib shall have a firm, tight-fitting waterproof mattress.
+(9) A tightly fitted bottom sheet shall cover the crib or porta-crib mattress with no additional padding
+placed between the sheet and mattress.
+(10) Soft objects, bumper pads, stuffed toys, blankets, quilts, comforters, and other objects that could
+smother a child shall not be placed in a crib or porta-crib with a resting or sleeping infant.
+(11) Blankets shall not be draped over cribs or porta-cribs when in use.
+(12) Cots and mats shall be constructed of a fabric or plastic which is easily cleanable.
+(13) All sleeping equipment and bedding shall be washed, rinsed, and sanitized when soiled, between
+uses by different children, and at least once a week regardless of use by different children. (14) When sleeping equipment and bedding are stored, both of the following apply:
+(a) Sleeping surfaces shall not come in contact with other sleeping surfaces.
+(b) Bedding shall not come in contact with other bedding.
+(15) All occupied cribs, porta-cribs, cots, and mats shall be placed in such a manner that there is a free and direct means of egress and shall be spaced, as follows:
+(a) Cribs and porta-cribs at least 2 feet apart. Cribs or porta-cribs with solid-panel ends may be placed end-to-end.
+(b) Cots and mats at least 18 inches apart.
+History: Eff. Jan. 2, 2014
+R 400.8179 Program.
+Rule 179. (1) As used in this rule:
+20
+
+(a) “Confining equipment” means equipment used to assist in caring for infants and includes, but is not limited to, swings, stationary activity centers, infant seats, and molded seats.
+(b) “Media” means use of electronic devices with a screen, including but not limited to, televisions, computers, tablets, multi-touch screens, interactive white boards, mobile devices, cameras, movie players, e-book readers, and electronic game consoles.
+(c) “Interactive media” means media designed to facilitate active and creative use by children and to encourage social engagement with other children and adults.
+(d) “Non-interactive media” means media which are used passively by children.
+(2) A center shall implement a program plan which includes daily learning experiences appropriate to the developmental level of the children. Experiences shall be designed to develop all of the following:
+(a) Physical development.
+(b) Social development.
+(c) Emotional development.
+(d) Cognitive development.
+(3) The program shall be planned to provide a flexible balance of all of the following experiences: (a) Quiet and active.
+(b) Individual and groups.
+(c) Large and small muscle.
+(d) Child initiated and staff initiated.
+(4) Developmentally appropriate experiences shall be designed so that throughout the day each child
+has opportunities to do all of the following:
+(a) Feel successful and feel good about him or herself and develop independence.
+(b) Practice social interaction skills.
+(c) Use materials and takes part in activities which encourage creativity.
+(d) Learn new ideas and skills.
+(e) Participate in imaginative play.
+(f) Participate in developmentally appropriate language and literacy experiences.
+(g) Participate in early math and science experiences.
+(h) Be physically active.
+(5) A school-age program shall supplement the areas of development not regularly provided for during
+the school day.
+(6) A typical daily routine shall be posted in a place visible to parents.
+(7) When awake, use of confining equipment for infants shall be minimized, not to exceed 30 minutes
+at a time.
+(8) Use of media is prohibited for children under 2 years of age.
+(9) When media are used with children 2 years of age and older, all of the following apply:
+(a) Activities shall be developmentally appropriate.
+(b) Interactive media shall be used to support learning and to expand children’s access to content and
+shall be suitable to the age of the child in terms of content and length of use per session.
+(c) Media with violent or adult content are prohibited while children are in care.
+(d) Use of non-interactive media shall not exceed 2 hours per week per child.
+(e) When media are available for children’s use, other activities shall also be available to children. (10) An exception to the requirements of subrule (9)(d) of this rule may be made under the following
+conditions:
+(a) School-age children use computers and any other electronic devices for academic and educational
+purposes.
+(b) Children use assistive and adaptive technology.
+21
+
+(11) For children with special needs, care shall be provided according to the child’s needs as identified by parents, medical personnel, and/or other relevant professionals.
+(12) Parents may visit the center during hours of operation for the purpose of observing their children.
+History: Eff. Jan. 2, 2014
+R 400.8182 Ratio and group size requirements.
+Rule 182. (1) At least 2 adults, 1 of whom is a caregiver, shall be present at all times when at least 3 children between the ages of birth and 3 years of age are present. A second caregiver is required when needed to comply with subrule (3) of this rule.
+(2) At least 2 adults, 1 of whom is a caregiver, shall be present at all times when 7 or more children over 3 years of age are present. A second caregiver is required when needed to comply with subrule (3) of this rule.
+(3) In each room or well-defined space, the maximum group size and ratio of caregivers to children, including children related to a staff member or the licensee, shall be the following:
+   Age
+ Caregiver to Child Ratio
+ Maximum Group Size
+ (a)
+  Infants and Toddlers, birth until 30 months of age
+ 1 to 4
+ 12
+ (b)
+   Preschoolers, 30 months of age until 3 years of age
+  1 to 8
+  16
+   (c)
+ Preschoolers, 3 years of age until 4 years of age
+1 to 10
+  Not applicable
+ (d)
+  Preschoolers, 4 years of age until school-age
+ 1 to 12
+ Not applicable
+ (e)
+   School-agers
+  1 to 18
+  Not applicable
+ (4) Volunteers may be counted in the caregiver to child ratios outlined in subrule (3) of this rule if they meet the definition of caregiver as defined by R 400.8101(c).
+(5) Children who have reached 33 months of age may, when developmentally appropriate, be enrolled in a 3-year-old classroom with written parental permission. The ratio listed in subrule (3)(c) of this rule shall apply.
+(6) Children who have reached 45 months of age may, when developmentally appropriate, be enrolled in a 4-year-old classroom with written parental permission. The ratio listed in subrule (3)(d) of this rule shall apply.
+(7) Children who have reached 57 months of age but who are not considered a school-ager under R 400.8101(b)(iv) may, when developmentally appropriate, be enrolled in a school-age classroom with written parental permission. The ratio listed in subrule (3)(e) of this rule shall apply.
+(8) If there are children of mixed ages in the same room or well-defined space, then the ratio and group size shall be determined by the age of the youngest child, unless each group of children is clearly separated and the appropriate caregiver-to-child ratios and group sizes, if applicable, for each age group are maintained.
+(9) An exception to the requirements of subrule (3) of this rule may be made when the center is transporting children and is in compliance with R 400.8760(1) and (2).
+History: Eff. Jan. 2, 2014
+22
+
+R 400.8185 Primary care.
+Rule 185. (1) As used in this rule, “primary caregiver” means the caregiver to whom the care of a specific infant or toddler is assigned. The primary caregiver is responsible for direct care, verbal and physical interactions, primary responses to the child’s physical and emotional needs, and continued interaction with the child’s parents regarding the child’s experiences.
+(2) The center shall implement a primary care system so that each infant and toddler has a primary caregiver.
+(3) Each infant and toddler shall have not more than 4 primary caregivers in a week. For centers operating less than 24 hours a day, an exception may occur during the first hour after the center opens and the hour before closing.
+(4) Information regarding a child’s food, health, and temperament shall be shared daily between caregivers when more than 1 primary caregiver is assigned to any infant or toddler.
+(5) Primary caregiving assignments shall be documented and provided to parents.
+(6) An exception to R 400.8185 may be made when the center is transporting children and is in compliance with R 400.8760(1) and (2).
+History: Eff. Jan. 2, 2014
+R 400.8188 Sleeping, resting, and supervision.
+Rule 188. (1) Children under 3 years of age shall be provided opportunities to rest regardless of the number of hours in care.
+(2) The center shall permit children under 18 months of age to sleep on demand.
+(3) Infants shall rest or sleep alone in cribs or porta-cribs.
+(4) Infants shall be placed on their backs for resting and sleeping.
+(5) Infants unable to roll from their stomachs to their backs and from their backs to their stomachs shall
+be placed on their backs when found face down.
+(6) When infants can easily turn over from their stomachs to their backs and from their backs to their
+stomachs, they shall be initially placed on their backs, but shall be allowed to adopt whatever position they prefer for sleep.
+(7) For an infant who cannot rest or sleep on her or his back due to disability or illness, written instructions, signed by the infant’s licensed health care provider, detailing an alternative safe sleep position and/or other special sleeping arrangements for the infant shall be followed and on file at the center.
+(8) A sleeping infant’s breathing, sleep position, and bedding shall be monitored frequently for possible signs of distress.
+(9) An infant’s head shall remain uncovered during sleep.
+(10) Toddlers shall rest or sleep alone in cribs, porta-cribs, or on mats or cots.
+(11) Infants and toddlers who fall asleep in a space that is not approved for sleeping shall be moved to
+approved sleep equipment appropriate for their age and size.
+(12) Naptime or quiet time shall be provided when children under school-age are in attendance 5 or
+more continuous hours per day.
+(13) Resting or sleeping areas shall have adequate soft lighting to allow the caregiver to assess
+children.
+(14) Video surveillance equipment and baby monitors shall not be used in place of subrule (8) of this
+rule and R 400.8125(1). History: Eff. Jan. 2, 2014
+23
+
+R 400.8191 Nighttime care.
+Rule 191. (1) If a child is in care between the hours of 11 p.m. and 6 a.m., a separate area away from sleeping children where the child can engage in quiet activities shall be available.
+(2) If a child is in care for more than 1 hour between the hours of 11 p.m. and 6 a.m., a bed and mattress, with a waterproof covering, of a size appropriate to the age of each child shall be available.
+History: Eff. Jan. 2, 2014
+PART 2. ENVIRONMENTAL HEALTH PROVISIONS
+R 400.8301 Definitions.
+Rule 301. As used in this part:
+(a) “Bulk foods” are larger quantities of food that are used over time, such as flour, sugar, noodles, rice, etc. Food that is used up in a week or less, such as crackers, are not considered bulk foods.
+(b) “Corrosion-resistant materials” means those materials that maintain their original surface characteristics under prolonged influence of the food to be contacted, the normal use of cleaning compounds and bacterial solutions, and other conditions-of-use environment.
+(c) “Food grade surface” means a surface that is easily cleanable and made from a material that will not migrate into, contaminate, or taint the food.
+(d) “Food service equipment” means stoves, ovens, ranges, hoods, slicers, mixers, meat blocks, tables, counters, refrigerators, sinks, dishwashing machines, steam tables, and similar items other than utensils, used in the operation of a center.
+(e) “Food” means any raw, cooked, or processed edible substance, ice, beverage, or ingredient used or intended for use in whole or in part for human consumption.
+(f) “Food-contact surface” means those surfaces of equipment and utensils with which food normally comes in contact, and those surfaces from which food may drain, drip, or splash back onto surfaces normally in contact with food.
+(g) “Packaged” means bottled, canned, cartoned, or securely wrapped.
+(h) “Potentially hazardous food” means any food that consists in whole or in part of milk or milk products, eggs, meat, poultry, fish, shellfish, edible crustacean, or other ingredients, including synthetic ingredients, in a form capable of supporting rapid and progressive growth of infectious or toxigenic microorganisms.
+(i) “Ready to eat food” means food that does not require cooking and that will not be cooked before being served.
+(j) “Sealed” means free of cracks or other openings that permit the entry or passage of moisture.
+(k) “Single-service articles” means those food service articles intended for 1-time, 1-person use and then discarded.
+(l) “Tableware” means multi-use eating and drinking utensils.
+(m) “Utensil” means any implement used in the storage, preparation, transportation, or service of food.
+History: Eff. Jan. 2, 2014
+R 400.8305 Plan review; approval; inspections.
+Rule 305. (1) All local health department requirements regarding plan reviews and specifications shall be followed. Written confirmation to the department that this has occurred shall be submitted.
+24
+
+(2) An inspection shall be conducted by the local health department and an approval granted indicating compliance with all of the rules in this part except R 400.8330, 400.8335, and 400.8340 at all of the following:
+(a) Before issuance of an original provisional license.
+(b) Every 2 years, at the time of renewal if the center has a private well and/or septic.
+(c) Every 2 years, at the time of renewal, if the center provides food service where the food is prepared
+and served on-site.
+(d) Prior to adding a food service program. (e) Prior to adding an infant/toddler program. (f) When requested by the department.
+History: Eff. Jan. 2, 2014
+R 400.8310 Food preparation areas.
+Rule 310 (1) Food contact surfaces shall be smooth, nontoxic, easily cleanable, durable, corrosion resistant, and nonabsorbent.
+(2) Carpeting is prohibited in food preparation areas.
+(3) Mechanical ventilation to the outside is required for all commercial cooking equipment, which includes but is not limited to stoves, ranges, ovens, and griddles.
+(4) If residential hood ventilation is used, then cooking equipment shall be limited to residential stove and oven equipment.
+(5) Mechanical ventilation to the outside may be required if a problem is evidenced.
+(6) The use of deep fryers is prohibited.
+(7) Live animals shall be prohibited from food preparation and eating areas.
+(8) When the only food preparation is for feeding infants and toddlers, there shall be a sink that is used
+exclusively for food preparation and clean up.
+History: Eff. Jan. 2, 2014
+R 400.8315 Food and equipment storage.
+Rule 315. (1) Each refrigerator shall have an accurate working thermometer indicating a temperature 41 degrees Fahrenheit or below.
+(2) All artificial lighting fixtures located over, by, or within food storage, preparation, service areas, or where utensils and equipment are cleaned and stored, shall be properly shielded.
+(3) Unpackaged bulk foods shall be stored in clean covered containers, dated, and labeled as to the contents.
+(4) Food not subject to further washing or cooking before serving shall be stored in a way that protects it from cross-contamination from food requiring washing or cooking.
+(5) Packaged food shall not be stored in contact with water or undrained ice.
+(6) Poisonous or toxic materials shall not be stored with food, food service equipment, utensils, or single-service articles.
+(7) Food, food service equipment, and utensils shall not be located under exposed or unprotected sewer lines, open stairwells, or other sources of contamination. Automatic fire protection sprinkler heads are the exception.
+(8) The storage of food, food service equipment, or utensils in toilet rooms is prohibited.
+(9) Food and utensils shall be stored a minimum of 6 inches above the floor.
+(10) All food service equipment shall be 6 inches off the floor, moveable, or be properly sealed to the
+floor.
+25
+
+(11) Meals that are transported shall be prepared in commercial kitchens and delivered in carriers approved by the local health department.
+History: Eff. Jan. 2, 2014
+R 400.8320 Food preparation.
+Rule 320. (1) Food shall be in sound condition, free from spoilage, filth, or other contamination and be safe for human consumption.
+(2) Food shall be prepared on food grade surfaces that have been washed, rinsed, and sanitized. (3) Raw fruits and vegetables shall be thoroughly washed before being cooked or served.
+(4) Staff shall minimize bare-hand contact with foods that will be cooked.
+(5) Ready to eat foods shall not be prepared or served using bare hands.
+(6) Food shall be cooked to heat all parts of the food to the safe temperature as identified in the 2009 recommendations of the food and drug administration of the United States public health service 3-401, as referenced in the Michigan food law, 2000 PA 92, MCL 289.1107. These recommendations are available at no cost from the FDA at www.fda.gov.
+(7) Potentially hazardous foods shall be thawed using 1 of the following methods: (a) In the refrigerator at a temperature not to exceed 41 degrees Fahrenheit.
+(b) Under cold running water.
+(c) In a microwave oven for either of the following:
+(i) The food will be immediately transferred to conventional cooking facilities as part of a continuous cooking process.
+(ii) The entire cooking process takes place in the microwave oven.
+(d) As part of the conventional cooking process.
+(8) The temperature of potentially hazardous foods shall be 41 degrees Fahrenheit or below or 135
+degrees Fahrenheit or above at all times, except during necessary periods of preparation.
+(9) Potentially hazardous foods that have been cooked and then refrigerated or frozen shall be reheated
+rapidly to 165 degrees Fahrenheit or higher throughout before being served or before being placed in a hot food storage facility.
+(10) Accurate metal stem-type food thermometers shall be used to assure the attainment and maintenance of proper internal cooking, holding, reheating, or refrigeration temperatures of all potentially hazardous foods.
+(11) On field trips, all foods shall be protected from contamination at all times as required by this rule.
+(12) In the absence of proper hand washing facilities on field trips, individuals preparing and serving food shall wear sanitary disposable food service gloves.
+History: Eff. Jan. 2, 2014
+R 400.8325 Sanitization.
+Rule 325. (1) All tableware, utensils, food contact surfaces, and food service equipment shall be thor- oughly washed, rinsed, and sanitized after each use. Multi-purpose tables shall be thoroughly washed, rinsed, and sanitized before and after they are used for meals or snacks.
+(2) Enamelware utensils are prohibited.
+(3) Reuse of single service articles is prohibited.
+(4) Multi-use tableware and utensils shall be washed, rinsed, and sanitized using 1 of the following
+methods:
+(a) A commercial dishwasher.
+26
+
+(b) A residential dishwasher with sanitizing capability.
+(c) A 3-compartment sink and adequate drain boards.
+(d) A 2-compartment sink for washing and rinsing, a third container suitable for complete submersion
+for sanitizing, and adequate drain boards.
+(5) If the manual washing method is used, as referenced in subrule (4)(c) and (d) of this rule, all of the
+following shall be done:
+(a) Rinse and scrape all utensils and tableware before washing.
+(b) Thoroughly wash in detergent and water.
+(c) Rinse in clear water.
+(d) Sanitize using 1 of the following methods:
+(i) Immersion for at least 30 seconds in clean, hot water of at least 170 degrees Fahrenheit.
+(ii) Immersion for at least 1 minute in a solution containing between 50 and 100 parts per million of
+chlorine or comparable sanitizing agent at a temperature of at least 75 degrees Fahrenheit. A test kit or other device which measures parts per million concentration of the solution shall be used when a chemical is used for sanitizing.
+(e) Air dry.
+(6) Sponges shall not be used in a food service operation.
+History: Eff. Jan. 2, 2014
+R 400.8330 Food services and nutrition generally.
+Rule 330. (1) Snacks and meals shall be provided by the center, except when 1 of the following circumstances occurs:
+(a) A majority of the children are in attendance less than 2.5 hours.
+(b) Food is provided by a parent.
+(2) A written agreement shall be kept on file at the center if the parent has agreed to provide formula,
+milk, or food. The center shall provide an adequate amount of formula, milk, or food if the parent does not.
+(3) Beverages and food shall be appropriate for the child’s individual nutritional requirements, developmental stages, and special dietary needs, including cultural preferences.
+(4) A center shall ensure a child with special dietary needs is provided with snacks and meals in accordance with the child’s needs and with the instructions of the child’s parent or licensed health care provider.
+(5) A center shall provide adequate staff so that food service activities do not detract from direct care and supervision of children.
+(6) A center shall make water available to drink throughout the day to children 1 year of age and older. (7) Infants and toddlers shall be fed on demand.
+(8) A child shall be served meals and snacks in accordance with the following schedule:
+(a) Two and a half hours to 4 hours of operation: a minimum of 1 snack.
+(b) Four hours to 6 hours of operation: a minimum of 1 meal and 1 snack.
+(c) Seven hours to 10 hours of operation: a minimum of 1 meal and 2 snacks or 2 meals and 1 snack. (d) Eleven hours or more of operation: a minimum of 2 meals and 2 snacks.
+(9) A center shall not deprive a child of a snack or meal if the child is in attendance at the time when
+the snack or meal is served.
+(10) Menus shall be planned in advance, shall be dated, and shall be posted in a place visible to parents.
+Food substitutions shall be noted on the menus the day the substitution occurs. 27
+
+(11) A center shall not serve infants and toddlers or allow them to eat foods that may easily cause choking including, but not limited to, popcorn, seeds, nuts, hard candy and uncut round foods such as whole grapes and hot dogs.
+(12) Cereal shall not be added to a bottle or beverage container without written parental permission.
+(13) If food, bottles, or beverage containers are warmed, then the warming shall be done in a safe, appropriate manner.
+(14) Warming bottles and beverage containers in a microwave oven is prohibited.
+(15) Warmed food, bottles, and beverage containers shall be shaken or stirred to distribute the heat, and the temperature shall be tested before feeding.
+(16) The contents of a bottle or beverage container shall be discarded if any of the following apply:
+(a) The contents appear to be unsanitary.
+(b) The bottle or beverage container has been used for feeding for a period that exceeds 1 hour from the
+beginning of the feeding.
+(c) The bottle or beverage container requiring refrigeration has been unrefrigerated for 1 hour or more. (17) Formula and milk, including breast milk, left in a bottle or beverage container after a feeding shall
+not be reused.
+(18) Bottle propping is prohibited.
+(19) When feeding, caregivers shall hold infants except when infants resist being held and are able to
+hold their bottle.
+(20) Infants or toddlers shall not have bottles, beverage containers, or food in sleeping equipment. (21) Children shall not have beverage containers or food while they are walking around or playing. (22) Staff shall foster and facilitate toddlers’ independence, language, and social interactions by doing
+all of the following:
+(a) Encouraging self-feeding.
+(b) Serving appropriate portion sizes.
+(c) Sitting and eating with toddlers during meal times.
+(23) Breastfeeding shall be supported and accommodated.
+(24) A designated place shall be set aside for mothers who are breastfeeding to use.
+History: Eff. Jan. 2, 2014
+R 400.8335 Food services and nutrition; provided by center.
+Rule 335. (1) Food and beverages provided by the center shall be of sufficient quantity and nutritional quality to provide for the dietary needs of each child according to the minimum meal requirements of the child and adult care food program as administered by the Michigan department of education based on 7 C.F.R. Part 226, 1-1-11 edition, of the United States department of agriculture, food and nutrition services, child and adult care food program and is hereby adopted by reference. A copy can be obtained from CACFP at www.michigan.gov/cacfp.
+(2) Solid foods shall be introduced to an infant according to the parent’s or licensed health care provider’s instructions.
+(3) Infants shall only be served formula to drink unless written authorization is provided by the child’s licensed health care provider.
+(4) Children 12 months of age until 2 years of age shall be served whole homogenized Vitamin D-fortified cow’s milk, except as provided in R 400.8330(4).
+(5) Formula shall be commercially prepared and ready-to-feed.
+(6) All fluid milk and fluid milk products shall be pasteurized and meet the grade “A” quality standards. (7) Milk shall be served from any of the following:
+28
+
+(a) A commercially filled container stored in a mechanically refrigerated bulk milk dispenser. (b) A commercially filled container not to exceed 1 gallon.
+(c) A sanitized container only if poured directly from the original container.
+(8) All of the following shall apply to milk:
+(a) Containers shall be labeled with the date opened.
+(b) Milk shall be served within 7 days of opening.
+(c) Milk shall not be served if the contents appear to be unsanitary or have been unrefrigerated for a
+period exceeding 1 hour.
+(d) Milk shall not be combined with the contents of other partially filled containers.
+(9) Contents remaining in single-service containers of milk shall be discarded at the end of the snack or
+meal time.
+(10) All containers of ready-to-feed formula, once opened, shall be labeled with the date and time of
+opening, refrigerated, and used within 48 hours or discarded.
+(11) Prepared bottles and beverage containers of milk and formula shall be refrigerated and labeled
+with the child’s name, date, and time of preparation.
+(12) Contents of unused bottles of formula shall be discarded, along with any bottle liners, after 48
+hours.
+(13) All liners, nipples, formula, milk, and other materials used in bottle preparation shall be prepared,
+handled, and stored in a sanitary manner.
+(14) Reusable nipples and bottles shall be washed, rinsed, and sanitized before reuse.
+(15) Bottle liners and disposable nipples shall be for single use only, by an individual child, and
+discarded with any remaining formula or milk after use.
+(16) Commercially packaged baby food shall be served from a dish, not directly from a factory-sealed
+container, unless the entire container will be served to only 1 child and will be discarded at the end of the feeding period.
+(17) Uneaten food that remains on a dish from which a child has been fed shall be discarded.
+(18) Food, already served and handled by the consumer of the food, may not be served again, unless it is in the original, unopened wrapper.
+(19) Home canned products are prohibited.
+History: Eff. Jan. 2, 2014
+R 400.8340 Food services and nutrition; provided by parents.
+Rule 340. (1) As used in this rule:
+(a) “Same-day supply” means for use during a single day.
+(b) “Multi-day supply” means for use over a multiple day period, up to 7 days.
+(2) Breast milk, formula, milk, or other beverages provided in a same-day supply shall be furnished
+daily in either of the following:
+(a) Clean, sanitary, ready-to-feed bottles or beverage containers.
+(b) A clean, sanitary, beverage container. The beverage shall be poured into a clean, sanitary bottle or
+beverage container before each feeding.
+(3) Breast milk, formula, milk, other beverages, and food furnished in a same-day supply shall be
+covered and labeled with the child’s first and last name and the date.
+(4) Any food or beverages furnished in a same-day supply shall be returned to the parent at the end of
+the day or discarded.
+(5) Milk, other beverages, and non-perishable food items may be furnished in a multi-day supply in an
+unopened commercial container.
+29
+
+(6) Milk and other beverages furnished in a multi-day supply shall be labeled with the child’s first and last name and the date of opening and shall be returned to the parent or discarded 7 days after opening.
+(7) Non-perishable food items furnished in a multi-day supply shall be labeled with the date of opening and when applicable, the first and last name of the child for whom its use is intended.
+(8) Beverages and food shall be fed only to the child for whom the item is labeled.
+(9) Breast milk, formula, and milk shall be refrigerated until used.
+(10) Other perishable beverages and food items shall be refrigerated or otherwise kept at a safe
+temperature until used.
+History: Eff. Jan. 2, 2014
+R 400.8345 Water supply; plumbing.
+Rule 345. (1) The water system shall comply with the requirements of the local health department.
+(2) Plumbing shall be designed, constructed, installed, and maintained to prevent cross-connection with the water system.
+(3) Sinks, lavatories, drinking fountains, and other water outlets shall be supplied with safe water, sufficient in quantity and pressure, to meet conditions of peak demand.
+(4) All plumbing fixtures and water and waste pipes shall be properly installed and maintained in good working condition.
+(5) Each water heater shall be equipped with a thermostatic temperature control and a pressure relief valve, both of which shall be in good working condition.
+History: Eff. Jan. 2, 2014
+R 400.8350 Toilets; hand washing sinks.
+Rule 350. (1) The center shall provide toilet and hand washing sinks as follows:
+(a) A center operating with children in attendance less than 5 continuous hours a day shall provide at least 1 toilet and 1 hand washing sink for every 20 children or fraction thereof.
+(b) A center operating with children in attendance 5 or more continuous hours a day shall provide at least 1 toilet and 1 hand washing sink for every 15 children or fraction thereof.
+(2) After December 6, 2006, any center that is new, adds an infant/toddler component, or increases the licensed infant/toddler capacity shall have a diapering area with a readily accessible, designated hand washing sink.
+(3) After December 6, 2006, a separate hand washing sink is required in the kitchen for all of the following:
+(a) A new center with a food service component.
+(b) A center with a food service component that remodels the kitchen.
+(c) Any center that adds a food service component.
+(4) Hand washing sinks for children shall be accessible to children by platform or installed at children’s
+level.
+(5) Hand washing sinks shall have warm running water not to exceed 120 degrees Fahrenheit.
+(6) Soap and single service towels or other approved hand drying devices shall be provided near hand
+washing sinks.
+(7) Toilet rooms for school-age children shall provide for privacy.
+History: Eff. Jan. 2, 2014
+30
+
+R 400.8355 Sewage disposal.
+Rule 350. (1) Sewage and other water-carried wastes shall be disposed of through a municipal or private sewer system.
+(2) Private sewer/septic systems shall be designed and operated to safely dispose of all wastewater generated, shall be adequate in size for the projected use, and meet the criteria of the local health department.
+History: Eff. Jan. 2, 2014
+R 400.8360 Garbage and refuse.
+Rule 360. (1) All garbage shall be removed from the center daily.
+(2) Garbage containers shall be washed when soiled.
+(3) Garbage stored outside shall be in sealed plastic bags in watertight containers with tight-fitting
+covers or in a covered dumpster.
+(4) Outside garbage and refuse shall be picked up or removed at a minimum of once a week.
+History: Eff. Jan. 2, 2014
+R 400.8365 Heating; temperature.
+Rule 365. (1) The temperature in child use areas shall be maintained at a safe and comfortable level so that children in care do not become overheated or chilled.
+(2) The indoor temperature shall be at least 65 degrees Fahrenheit in child use areas at a point 2 feet above the floor.
+(3) If temperatures exceed 82 degrees Fahrenheit, then a center shall take measures to cool the children.
+History: Eff. Jan. 2, 2014
+R 400.8370 Light, ventilation, and screening.
+Rule 370. (1) The total ventilation area in every habitable room, as provided by openable windows, shall be not less than 41⁄2% of the floor area, unless central air conditioning is provided.
+(2) If ventilation is dependent on a mechanical system, then the system shall be on at all times while the building is occupied and shall comply with the ventilation requirements of the applicable mechanical code of the authority having jurisdiction.
+(3) Artificial light or natural light, or both, shall be capable of providing a minimum illumination of 20 foot candles over the entire room at a height of 3 feet from the floor.
+(4) Windows and doors used for ventilation shall be supplied with screening of not less than 16 mesh, which shall be kept in good repair. This subrule does not apply to child care programs operating in school buildings.
+History: Eff. Jan. 2, 2014
+R 400.8375 Premises.
+Rule 375. (1) The center shall be located on land that provides good natural drainage or that is properly drained.
+(2) Stairs, walkways, ramps, landings, and porches shall meet all of the following requirements:
+(a) If elevated, shall have barriers to prevent falls and handrails designed and constructed for use by children.
+31
+
+(b) Shall be maintained in a safe condition relative to the accumulation of water, ice, or snow and shall have nonslip surfacing.
+(c) Landings shall be located outside exit doors where steps or stairs are necessary and shall be at least as wide as the swing of the door.
+(d) Stairway steps shall be not more than 8 inches in height, with a minimum tread depth of 9 inches. (e) If ramps are used, then they shall have a minimum rise-to-run ratio of 1-to-12.
+History: Eff. Jan. 2, 2014
+R 400.8380 Maintenance of premises.
+Rule 380. (1) The premises shall be maintained in a clean and safe condition and shall not pose a threat to health or safety.
+(2) The premises shall be maintained so as to eliminate and prevent rodent and insect harborage.
+(3) Roofs, exterior walls, doors, skylights, and windows shall be weathertight and watertight and shall be kept in sound condition and good repair.
+(4) Floors, interior walls, and ceilings shall be kept in sound condition and good repair and shall be maintained in a clean condition.
+(5) There shall be no flaking or deteriorating paint on interior and exterior surfaces or on equipment accessible to children.
+(6) All toilet room floor surfaces shall be easily cleanable and shall be constructed and maintained so as to be impervious to water.
+(7) Light fixtures, vent covers, wall-mounted fans, and similar equipment attached to walls and ceilings shall be easily cleanable and maintained in good repair.
+(8) A lead hazard risk assessment shall be completed by a certified lead risk assessor on all centers built before 1978. Any lead hazards identified shall be addressed as noted in the lead hazard risk assessment report before issuance of the original provisional license. The results of the assessment shall be kept on file at the center. Centers licensed before December 7, 2006 have 3 years from the effective date of these rules to comply with this rule. Centers that operate in a school building serving only school-age children are exempt from the requirements in this rule.
+(9) As required by section 8316 of 1994 PA 451, MCL 324.8316, the center shall develop and implement an integrated pest management program when pesticide applications occur on the premises. The integrated pest management program shall include, but not be limited to, the following:
+(a) An annual notification to parents or guardians informing them that they will receive advance notice of pesticide applications. The annual notice must be provided in September.
+(b) The annual notification to parents or guardians specifying 2 methods by which the advance notice of pesticide application will be given.
+(c) An advance notice containing information about the pesticide, including the target pest or purpose, approximate location, date of the application, contact information at the center, and a toll-free number for a national pesticide information center recognized by the Michigan department of agriculture.
+(d) Liquid spray or aerosol insecticide applications may not be performed in a room of a center unless the room will be unoccupied by children for not less than 4 hours or longer if required by the pesticide label use directions.
+History: Eff. Jan. 2, 2014
+R 400.8385 Poisonous or toxic materials.
+Rule 385. Containers of poisonous or toxic materials shall be clearly labeled for easy identification of contents and stored out of reach of children.
+32
+
+History: Eff. Jan. 2, 2014
+PART 3. FIRE SAFETY PROVISIONS
+R 400.8501 Adoption by reference.
+Rule 501. The following National Fire Protection Association (NFPA) standards are adopted by reference in these rules. Copies of the adopted standards are available for inspection and may be purchased from the National Fire Protection Association, 1 Batterymarch Park, P.O. Box 9109, Quincy Massachusetts 02269-9101, internet address www.nfpa.org. The cost of single copies of each standard at the time of the adoption of these rules is indicated after the title.
+(i) NFPA-10, Standard for Portable Fire Extinguishers, 2010 edition............................................$38.00 (ii) NFPA-13, Standard for the Installation of Sprinkler Systems, 2010 edition..............................72.00 (iii) NFPA-25, Standard for the Inspection, Testing and Maintenance of Water-Based
+Fire Protection Systems, 2011 edition ................................................................................................44.00 (iv) NFPA-72, National Fire Alarm Code and Signaling Code, 2010 edition .................................. 54.00 (v) NFPA-80, Standard for Fire Doors and Other Opening Protectives, 2010 edition.....................38.00 (vi) NFPA-251, Standard Methods of Tests of Fire Resistance of Building Construction and
+Materials, 2006 edition .......................................................................................................................34.50 (vii) NFPA-265, Standard Methods of Fire Tests for Evaluating Room Fire Growth
+Contribution of Textile Coverings on Full Height Panels and Walls, 2002 edition............................34.00 (viii) NFPA-701, Standard Methods of Fire Tests for Flame Propagation of Textiles and
+Films, 2010 edition .............................................................................................................................29.00
+History: Eff. Jan. 2, 2014
+R 400.8505 Definitions.
+Rule 505. As used in this part:
+(a) “Basement” means a story of a building or structure having 1⁄2 or more of its clear height below average grade for at least 50% of the perimeter.
+(b) “Combustible” means materials will ignite and burn when subjected to a fire or excessive heat. (c) “Conversion” means to alter the use of an existing building or room to a center.
+(d) “Existing building” means a structure or part of a structure not currently used as a center.
+(e) “Existing licensed center” means a center that was licensed before December 7, 2006 and whose
+license continues uninterrupted.
+(f) “Exit” means a way of departure from the interior of a building or structure to the open air outside at
+ground level.
+(g) “Fire alarm” means a device used to alert the occupants of the building of fire or smoke conditions.
+The device shall be audible in all parts of the building used as a center.
+(h) “Fire alarm system” means an approved electrical closed circuit, self-supervised local system for
+sounding an alarm. The system is comprised of a central panel, manual pull stations near all outside exits, audible electric signal devices, and where warranted, a remote trouble annunciator. All system components shall be listed by a nationally recognized testing laboratory and installed in accordance with NFPA-72.
+(i) “Fire door assembly” means a side-hinged, labeled fire door and labeled frame constructed and installed in compliance with NFPA-80.
+(j) “Fire-resistance rating” means the time for an element in a building to maintain its particular fire resistance properties in accordance with NFPA-251.
+33
+
+(k) “Fire-resistive construction” means a building having walls, ceilings, floors, partitions, and roof of non-combustible materials having a minimum fire-resistance rating of 1 hour. This subdivision shall not be construed as prohibiting finished wood floors, doors, and windows with assorted frames and trim.
+(l) “Flameproof materials” means materials that will not propagate flame under the test conditions of NFPA-701. Flameproof materials are usually combustible materials with the addition of some treatment or coating to modify their burning properties.
+(m) “Flammable” means materials capable of being readily ignitable from common sources of heat or at a temperature of 600 degrees Fahrenheit, 316 degrees Celsius, or less.
+(n) “Hazard area” means those parts of a center building housing a commercial kitchen, heating plant, fire-fueled water heater, incinerator, or an area posing a higher degree of hazard than the general occupancy of the building.
+(o) “Heating plant room” means a room or area housing fuel-fired equipment.
+(p) “Interior finish” means the exposed interior surface materials of walls, fixed or movable partitions, and ceilings. This includes drywall, masonry, or wood substructure and surfacing materials such as paneling, tile, or other interior finish material and any surfacing materials, such as paint or wallpaper, applied thereto. Interior finish includes materials affixed to the building structure as distinguished from decorations or furnishings.
+(q) “Means of egress” means a minimum of 36 inch wide continuous and unobstructed path of exit travel from any point in a building to the outside at grade.
+(r) “New construction” means a created structure, addition, replacement, or alteration of structural components, such as walls.
+(s) “Noncombustible” means materials that will not ignite and burn when subjected to fire.
+(t) “Protected ordinary construction” means all of the following types of construction:
+(i) Roofs and floors and their supports having a minimum of 1-hour fire-resistance rating.
+(ii) Exterior bearing walls or bearing portions of exterior walls are of noncombustible or limited
+combustible materials and have a minimum of 1-hour fire-resistance rating and stability under fire conditions.
+(iii) Nonbearing exterior walls are of noncombustible or limited combustible materials.
+(iv) Roofs, floors, and interior framing are wholly or partly made of wood of smaller dimension than required for heavy timber construction.
+(u) “Standard partition construction” means a substantial smoke-tight assembly consisting of walls, in conjunction with ceilings at which they terminate, that are covered on both sides with minimum standard lath and plaster or 1⁄2-inch drywall over 2”x 4” studs. Doorways in these walls are protected with minimum 13⁄4-inch flush solid core wood doors or 20-minute labeled fire-rated doors and equipped with approved self-closing devices and positive latching hardware. One or more glass panes are permitted
+in these walls and/or doors if each individual glass panel is fixed pane and not larger than 1,296 square inches of 1⁄4-inch wired glass with no linear dimension longer than 54 inches or fire-rated safety glass, of any size, listed with a minimum fire rating of 45 minutes and installed as listed. In some cases, drywall or plaster is also necessary to protect the underside of stairs.
+(v) “Textile material” means having a napped, tufted, looped, woven, non-woven, or similar surface.
+(w) “Wired glass” means glass not less than 1⁄4-inch thick, reinforced with wire mesh, number 24 gauge or heavier, with spacing not greater than 1 square inch.
+(x) “Wood frame construction” means that type of construction in which exterior walls, bearing walls and partitions, and floor and roof constructions and their supports are made of wood or other combustible material.
+History: Eff. Jan. 2, 2014
+34
+
+R 400.8510 Plans and specifications; submission; approval; inspections.
+Rule 5010. (1) A complete set of plans and specifications of any proposed center or proposed addition, alteration, or remodeling to an existing center shall be submitted to the department for review and approval.
+(2) Written approval shall be obtained from the department before initiating any construction.
+(3) Plans shall bear the seal of a registered architect or engineer when the total cost of the project is $15,000.00 or more, including labor and materials.
+(4) A fire safety inspection shall be conducted by the bureau of fire services or a department-approved qualified fire inspector and an approval granted before issuance of the original provisional license and every 4 years thereafter, at the time of renewal.
+(5) If a boiler is used, then it shall be inspected and a certificate provided, as required, by the boiler division, department of licensing and regulatory affairs.
+(6) Fuel-fired furnaces shall be inspected before issuance of an original provisional license and every 2 years at renewal by a mechanical contractor licensed by the state of Michigan.
+(7) Fuel-fired water heaters shall be inspected before issuance of an original provisional license and every 2 years at renewal by either a mechanical contractor or a plumbing contractor licensed by the state of Michigan.
+(8) New furnace and water heater installations shall be either of the following:
+(a) Inspected and approved by the department of licensing and regulatory affairs or local mechanical inspecting authorities at the time of installation.
+(b) Inspected and approved by a qualified fire safety inspector or the bureau of fire services to ensure continued compliance with appropriate fire safety provisions of these rules.
+History: Eff. Jan. 2, 2014
+R 400.8515 Construction.
+Rule 515. (1) If child occupancy is limited to the first or main floor, then the building may be of wood frame construction.
+(2) If child occupancy is on the second floor, then all of the following are required:
+(a) The building be of protected ordinary construction.
+(b) All required stairways and vertical openings be enclosed by walls, in conjunction with openings
+therein, and ceilings at which they terminate that meet the requirements of standard partition construction to provide a protected means of egress to the outside with proper termination to grade.
+(c) All door openings contained in subdivision (b) of this subrule meet all of the following requirements:
+(i) Be protected with 13⁄4-inch flush solid core wood doors or 20-minute labeled fire-rated doors.
+(ii) Be installed in fully stopped smoke-tight, substantial frames.
+(iii) Be equipped with approved self-closing devices and non-locking-against-egress positive latching
+hardware.
+(3) If child occupancy is above the second floor, then both of the following shall be required:
+(a) The building be of 1-hour fire-resistive construction.
+(b) All required stairways and other vertical openings be enclosed by a minimum 1-hour fire-resistive
+construction to provide a protected means of egress to the outside with proper termination to grade. (4) If any portion of a basement is used for more than 30 children, then 1 of the following provisions
+shall be required:
+(a) Two enclosed stairways of 1-hour fire-resistant construction shall discharge directly to the outside
+35
+
+with proper termination to grade, and all openings in the stairways shall be protected by a minimum of 1-hour or “B” labeled fire doors and frame assemblies.
+(b) One approved exit from the occupied room or use area shall discharge directly to the outside with proper termination to grade. Travel distance from any point in this room or area to this exit shall be less than 50 feet.
+(c) Two exits comprised of any combination of subdivisions (a) and (b) of this subrule.
+(5) If basement occupancy is limited to not more than 30 children, then the following shall apply: (a) One of the exits required by subrule (4) of this rule shall discharge directly to the outside with
+proper termination to grade or through a 1-hour fire-resistive enclosure.
+(b) The second exit may terminate at the first floor level with an approved floor separation, meeting the
+requirements of standard partition construction, between the basement and the first floor.
+(c) For new construction and conversions, the separation shall be located at the first floor with travel
+distance from the door to an approved exit not exceeding 100 feet.
+(6) All vertical openings and stairways that are not required shall be constructed and arranged with
+effective fire and smoke separation under the requirements of standard partition construction. All door openings shall be as follows:
+(a) Protected with 13⁄4-inch flush solid core wood doors or 20-minute labeled fire-rated doors.
+(b) Installed in fully stopped smoke-tight substantial frames.
+(c) Equipped with approved self-closing devices and non-locking-against-egress positive latching
+hardware.
+History: Eff. Jan. 2, 2014
+R 400.8520 Interior finishes.
+Rule 520. (1) The classifications of interior finishes for flame spread and smoke development in Table 1 shall be used as follows:
+TABLE 1
+FLAME SPREAD AND SMOKE DEVELOPMENT FOR INTERIOR FINISHES
+Class
+A OR I B OR II C OR III
+Flame Spread 0-25
+26-75
+76-200
+Smoke Developed 0-450
+0-450
+0-450
+(2) Basic materials in a means of egress and basement use occupancies shall be class A or I or B or II. (3) Basic materials in all other areas shall be class C or III.
+(4) Interior finish material more hazardous than class C or III shall be prohibited in child use areas. (5) If an approved automatic sprinkler system is installed and maintained in accordance with NFPA-
+13 and NFPA-25, then class C or III interior wall and ceiling finish materials shall be permitted in any location where class B or II is required and class B or II interior wall and ceiling finish materials shall be permitted in any location where class A or I is required.
+(6) In an existing licensed center or conversion, existing interior finishes which do not comply with the classifications in subrule (1) of this rule may have their surfaces protected with an approved fire- retardant coating to meet the classifications for interior finishes. The coatings shall be applied to interior finishes that are attached to, or furred out not more than 1 inch from a noncombustible backing and applied according to manufacturer’s recommendations. Documentation shall be provided as required by the department.
+36
+
+(7) Interior finish materials of classes B or II and C or III which are less than 1/4 inch in thickness shall be applied directly against a noncombustible backing or shall be furred out not more than 1 inch unless the tests under which such material has been classed were made without a backer.
+(8) Centers licensed before December 7, 2006 may retain previously approved fire retardant coated interior finishes.
+(9) Textile materials having a class A or I rating and used as an interior finish shall be permitted as follows:
+(a) On walls or ceilings of rooms or areas protected by an automatic sprinkler system approved by the department.
+(b) On room partitions that are less than 3⁄4 of the floor-to-ceiling height not to exceed 8 feet in height. (c) To extend up to 4 feet above the finished floor on ceiling-height walls and ceiling-height partitions. (d) Textile materials shall be permitted on walls and partitions where tested in accordance with and
+meeting the standards of NFPA-265. If compliance is achieved by application of a flame-proofing product in accordance with NFPA-701, documentation shall be provided as required by the department.
+(10) Drapery material may be used for stage curtains, room dividers, and similar uses if the material has been tested and approved in accordance with NFPA-701.
+(11) Drapery material applied to surfaces of a facility as an interior finish shall meet the requirements of subrule (9) of this rule.
+(12) All vinyl and wooden wall dividers shall meet the interior finish requirements of subrules (1), (2), and (3) of this rule, as applicable.
+(13) Bulletin boards shall meet the interior finish requirements of subrules (2) and (3) of this rule.
+(14) Combustible materials and decorations may be displayed on walls, not to exceed 20% of each wall in each room. Combustible materials and decorations suspended from or near the ceiling are prohibited.
+History: Eff. Jan. 2, 2014
+R 400.8525 Exits.
+Rule 525. (1) Except as referenced in R 400.8515(4)(b) and 400.8525(2)(c), each occupied floor shall have not less than 2 approved exits directly to the outside with proper termination to grade, remote from each other by 50% of the longest dimension of the floor or area served, and occupied rooms within the center shall be located between means of egress, unless a first floor, self-contained, occupied room has an approved exit direct to the outside with proper termination to grade with a maximum travel distance of 50 feet from the most remote point in the room to the exit.
+(2) Travel distance to an exit shall be as follows:
+(a) For infants and toddlers, travel shall be 50 feet or less from the door of the occupied room to the exit.
+(b) For preschoolers and school-agers, travel shall be 100 feet or less from the door of the occupied room to the exit.
+(c) Buildings having complete automatic sprinkler protection may increase their travel distances by 50 feet.
+(d) Those areas approved before July 1, 2000 are exempt from the requirements of this rule.
+(3) For all centers initially licensed after December 6, 2006, programs with infants and toddlers shall have exits with proper termination and within 30 inches of grade or exits properly ramped to grade.
+(4) Exit doors and all doors in the means of egress shall be side-hinged and equipped with knob; lever- type, non-locking-against-egress; or panic-type hardware.
+(5) Exit doors and doors in rooms occupied by 21 or more children shall swing in the direction of egress.
+37
+
+(6) Means of egress shall be maintained in an unobstructed, easily traveled condition at all times that the center is in operation. Means of egress shall not be exposed to inherent hazards of the building, including the heating plant, flammable storage, commercial kitchen, or other similar conditions.
+(7) In new construction, additions, remodeling, and conversions, there shall be a floor or landing on each side of an exit door. The floor or landing shall be at the same elevation on each side of the door except for variations in elevation due to differences in finish materials, which shall not exceed 1⁄2 inch.
+(8) In conversions, landings shall have a width not less than the width of the stairway or the width of the door, whichever is greater. Landings shall have a length not less than the width of the door.
+(9) In new construction, additions, and remodeling, landings shall comply with the latch-side clearance requirements of sections 404.2.3 through 404.2.3.5 of the international code council/American national standards institute standard A117.1 (ICC/ANSI A117.1), 2003, accessible and usable buildings and facilities. Sections 404.2.3 through 404.2.3.5 of ICC/ANSI A117.1 are hereby adopted by reference. Copies of the adopted matter may be purchased from the international code council at www.iccsafe.org or 1-800-786-4452.
+(10) For new construction, additions and remodeling, an exit door shall be not less than 36 inches in width. Doors to multiple-use bathrooms shall not be less than 32 in width.
+(11) For the conversion of an existing building, exterior exit doors shall be not less than 36 inches in width. Other use room doors shall be not less than 28 inches in width. Single-use toilet room doors shall not be less than 24 inches in width. Any remodeled door openings, other than door swing, shall comply with subrule (10) of this rule.
+(12) Centers licensed before December 7, 2006 may retain previously approved door widths.
+(13) Exterior exits shall be marked or denoted by an approved exit sign. All exit signs shall be distinctive in color and shall provide contrast with decorations, interior finish, or other signs. Each exit sign shall have the word “exit” in plain, legible letters not less than 6 inches high on a background of contrasting color with strokes not less than 3⁄4-inch wide.
+(14) When nighttime care is provided, the center shall have exits with proper termination and within 30 inches of grade or exits properly ramped to grade.
+(15) When nighttime care is provided, exit signs shall be illuminated and emergency lighting provided at exits.
+History: Eff. Jan. 2, 2014
+R 400.8530 Hazard Areas.
+Rule 530. (1) Hazard areas shall be separated from the parts of the building used as a center in the following manner:
+(a) In centers licensed before June 4, 1980, areas used for the storage of combustibles and other hazard areas will continue to be approved if they are enclosed with a minimum 3⁄4-hour fire resistive construction and doorways to the areas are protected with a minimum 13⁄4-inch flush solid core wood or 20-minute labeled fire-rated doors equipped with approved self-closing devices and positive latching hardware.
+(b) In centers licensed between June 4, 1980 and July 1, 2000, the following shall apply:
+(i) Where the area used for the storage of combustibles exceeds 100 square feet, by construction having a minimum 1-hour fire resistance rating, openings in the separation shall be protected with a minimum of 1-hour or “B” labeled fire door and frame assembly, including an approved self-closing device and positive latching hardware.
+(ii) Where the area used for the storage of combustibles does not exceed 100 square feet, by construction having a minimum 3⁄4-hour fire resistance rating, all door openings shall be protected by
+38
+
+minimum 13⁄4-inch flush solid core wood doors or 20-minute labeled fire-rated doors hung in substantial frames and equipped with approved self-closing devices and positive latching hardware.
+(c) In centers licensed after July 1, 2000, the following shall apply:
+(i) Where the area used for the storage of combustibles exceeds 100 square feet, by construction having a minimum 1-hour fire resistance rating, openings in the separation shall be protected with a minimum of 1-hour or “B” labeled fire door and frame assembly, including an approved self-closing device and positive latching hardware.
+(ii) Where the area used for the storage of combustibles does not exceed 100 square feet, by construction having a minimum 1-hour fire resistance rating. All door openings shall be protected by minimum 13⁄4 inch flush solid core wood doors or 20-minute labeled fire-rated doors in substantial frames and equipped with approved self-closing devices and positive latching hardware.
+(2) Where a kitchen with commercial cooking equipment exposes a required means of egress or child use area, it shall be separated from the remainder of the building with minimum 1-hour fire resistive construction including a minimum of 1-hour or “B” labeled fire door and frame assemblies in all common openings. Kitchens having commercial cooking equipment protected by an approved automatic kitchen hood suppression system are exempt from this requirement.
+(3) The use of an incinerator is prohibited.
+(4) Heating shall be by a central heating plant or an approved permanently installed electrical heating system. If heating is provided by a central heating plant and located on the same floor that is used for child occupancy, it shall be installed in an enclosure providing not less than a 1-hour fire-resistive separation, including a minimum of 1-hour or “B” labeled fire door and frame assembly equipped with an approved self-closing device and positive latching hardware in any interior door opening. Door openings for heat plant enclosures not located on the same floor that is used for child occupancy may have 13⁄4-inch flush solid wood core doors or 20-minute labeled fire-rated doors having positive latching hardware and an approved self-closing device. Air for proper combustion, a minimum of 1 square inch per 4,000 BTUs input, shall be provided directly from the outside through a permanently opened louver or metal duct.
+(5) In centers licensed before December 7, 2006, a properly installed heating plant located in a basement which is not used for child occupancy does not require additional protection where there is a qualified fire separation and with at least a 13⁄4-inch flush solid core wood doors or 20-minute labeled fire-rated doors hung in a substantial frame and equipped with an approved self-closing device and positive latching hardware in all stairway openings.
+(6) Any fuel-fired water heater or other similar equipment shall be located according to subrule (4) or (5) of this rule, as applicable.
+(7) Where electric heating is used, it shall be underwriters’ laboratories, inc. listed, permanent, fixed-type electrical heating such as recognized panel or baseboard fixed-type. Electric heating which complies with this requirement may be installed in any location.
+(8) Auxiliary heating units, such as portable combustion or electrical types, are prohibited.
+(9) The center shall not store flammable materials, including fuels, pressurized cans, cleaning fluids and supplies, polishes, and matches, in heat plant enclosures. These items may be stored outside of child use areas in metal cabinets or storage facilities accessible only to authorized personnel.
+(10) The center shall not store combustible materials within the central heating plant or fuel-fired water heater rooms or in basements containing fuel-fired heating equipment, without a proper fire separation.
+(11) The center shall not permit flammable gases, gasoline, or gasoline-powered equipment in the
+part of a building which is used as a center or in other parts of the building from which there is a door, window, or other opening into the center, unless that part of the building is separated from the remainder of the building by minimum 2-hour fire resistive construction.
+39
+
+(12) If commercial-type laundry equipment is installed, then the equipment shall be enclosed to provide a 1-hour resistance to fire, including a minimum of 1-hour or “B” labeled fire door and frame assembly in an interior door opening which would expose the center.
+(13) Dryer vents shall be metal and vented completely to the exterior.
+(14) Fire dampers shall not be required in 3⁄4-hour and 1-hour fire-resistive enclosures.
+(15) All appliances and equipment in the center shall be installed and maintained in accordance with
+their manufacturer’s specifications.
+(16) Centers shall be kept free of all conditions that constitute fire safety hazards.
+History: Eff. Jan. 2, 2014
+R 400.8535 Fire alarm.
+Rule 535. (1) In any building used as a center, an approved fire alarm, either electrical or manual, shall be established.
+(2) In centers of more than 4 child-occupied rooms, excluding bathrooms, or in centers licensed for more than 60 children, an approved fire alarm system shall be installed and maintained in compliance with NFPA-72.
+(3) In new construction, conversions, remodeling, or newly licensed centers, the trouble signal for required fire alarm systems shall be located in an area normally occupied by child care staff.
+History: Eff. Jan. 2, 2014
+R 400.8540 Smoke detectors; carbon monoxide detectors.
+Rule 540. (1) After July 1, 2000, newly constructed centers, additions, and conversions shall at a minimum be equipped with approved single station smoke detectors covering all use areas and their means of egress. These smoke detectors shall be located and spaced according to NFPA-72.
+(2) Centers with any fuel-fired heating systems shall have a carbon monoxide detector, listed by a nationally recognized testing laboratory, on all levels approved for child care and in each use area covered by a different furnace zone.
+(3) Centers shall properly install and maintain all detectors in operable condition in accordance with manufacturer’s recommendations.
+History: Eff. Jan. 2, 2014
+R 400.8545 Fire extinguishers.
+Rule 545. (1) Multipurpose fire extinguishers, having ratings of not less than 2A-10BC, shall be installed in or adjacent to the kitchen or cooking area and in or adjacent to the door of the heating plant room.
+(2) The requirement of having additional multipurpose fire extinguishers with ratings of not less than 2A-10BC shall be determined by the department or a department-approved qualified fire inspector and shall be based on the capacity of the center and on other conditions in the facility.
+(3) Fire extinguishers shall be properly mounted, inspected, and maintained in accordance with NFPA- 10. The fire extinguisher shall bear a tag indicating the last date of inspection or service and the initials of the person who performed the inspection or service.
+History: Eff. Jan. 2, 2014
+40
+
+R 400.8550 Electrical service.
+Rule 550. (1) The electrical service shall be maintained in a safe condition.
+(2) For new construction and additions, electrical systems and service shall be inspected and approved by the electrical inspecting authority having jurisdiction. A copy of the certificate of approval shall be maintained at the center at all times.
+(3) When warranted, conversions of existing buildings and existing rooms to child care use, as well as existing licensed centers, may require an electrical inspection.
+(4) Extension cords, listed by a nationally recognized testing laboratory, and used in accordance with all manufacturer’s recommendations, may be used on a temporary basis, and for short periods of time.
+(5) All electrical outlets in child use areas for children who are not yet school-age shall be made inaccessible to children.
+(6) All electrical outlets in approved child use space located within 6 feet of a sink or other water source shall be protected by a ground-fault circuit interrupter (GFCI).
+(7) Power strips shall be equipped with surge protectors and shall not be longer than 6 feet or be connected to another power strip.
+History: Eff. Jan. 2, 2014
+R 400.8555 Open-flame devices; candles.
+Rule 555. All open-flame devices, candles, and incense are prohibited, except for religious celebrations.
+History: Eff. Jan. 2, 2014
+R 400.8560 Multiple occupancy.
+Rule 560. (1) Multiple occupancy of a building may qualify for licensure if the entire building does not present a life safety hazard. A center currently licensed in such a building may continue as long as such occupancies do not change in character.
+(2) A building, part of which is used for hazardous operations or for occupancy that is unpredictable, such as taverns, garages, repair shops, and industrial operations, shall not be permitted for center use. However, an exception may be made for a vocational education center approved by the department of licensing and regulatory affairs.
+History: Eff. Jan. 2, 2014
+R 400.8565 Fire safety; exemptions for public and nonpublic school buildings.
+Rule 565. The rules with respect to fire prevention and fire safety shall not apply to a center established and operated by an intermediate school board, the board of a local school district, or by the board or governing body of a state-approved nonpublic school, or by a person or entity with whom a school contracts for services, if the center is located in a school building that is approved by the state fire marshal or other similar authority for school purposes.
+History: Eff. Jan. 2, 2014
+PART 4. TRANSPORTATION PROVISIONS
+R 400.8701. Definitions.
+Rule 701. As used in this part:
+41
+
+(a) “Child passenger restraint device” means a device that is used to restrain a child weighing less than 65 pounds that meets the requirements of federal motor vehicle safety standard no. 213, child seating systems, 49 C.F.R. §571, revised 10-1-2002, and is hereby adopted by reference. Copies of the adopted matter may be obtained at no cost from the United States department of transportation at www.nhtsa.dot. gov/cars/rules.
+(b) “Manufacturer’s rated seating capacity” means the number of places or spaces provided by the manufacturer of a vehicle for the driver and passengers to sit while the vehicle is in motion.
+(c) “Motor vehicle” means a self-propelled device in which persons are or may be transported upon a highway, which is built on an automobile or truck chassis, which is specifically designed by the manufacturer to transport passengers, or specially modified to transport handicapped passengers, and which meets the safety equipment requirements of the Michigan vehicle code, 1949 PA 300, MCL 257.683 to 257.714b.
+(d) “Multifunction school activity bus” means a vehicle rated for 11 or more passengers, including the driver, built after September 2, 2003 to school bus specifications defined in the federal motor vehicle safety standards. A multifunction school activity bus cannot be used for transporting children directly between home, school bus stops, and school.
+(e) “Safety belt” means an automobile lap belt or lap-shoulder belt combination designed to restrain and protect a passenger or drive of a vehicle from injury.
+(f) “School transportation” means transportation by a public, non-public, or private school.
+(g) “Transportation” means the conveyance of children by means of a motor vehicle to or from a center and to and from all activities planned for children by or through the center.
+(h) “Volunteer motor vehicle” means a motor vehicle not owned by, leased by, or registered to the center or principle or employee of the center.
+History: Eff. Jan. 2, 2014
+R 400.8710 Transportation.
+Rule 710. (1) If transportation other than public transportation or school transportation is provided, contracted, or sponsored by the center, all rules in this part apply.
+(2) If public transportation or school transportation is used, then only R 400.8760, 400.8770, and 400.8149 apply.
+(3) If a parent makes a private arrangement for the transportation of his or her child, not including arrangements made with the center, the rules in this part do not apply.
+History: Eff. Jan. 2, 2014
+R 400.8720 All motor vehicles.
+Rule 720. (1) All motor vehicles shall be in safe operating condition.
+(2) All motor vehicles, except multifunction school activity buses and school buses inspected by
+the department of state police as indicated in subrule (3) of this rule, shall be inspected annually by a licensed mechanic. A copy of the inspection shall be kept on file at the center. Volunteer vehicles are not required to be inspected.
+(3) Centers that use multifunction school activity buses and school buses shall do all of the following:
+(a) Contact the department of state police to determine if an annual inspection by the department of state police is required under section 39 of the pupil transportation act, 1990 PA 187, MCL 257.1839.
+(b) If directed by the department of state police, obtain an annual inspection by the department of state police. A copy of the inspection shall be kept on file at the center.
+42
+
+(4) A statement verifying that all motor vehicles, including volunteer vehicles, are in compliance with Michigan vehicle code safety equipment requirements, as defined in 1940 PA 300, MCL 257.683 to 257.714b, shall be kept on file at the center.
+(5) The use of passenger vans with a rated seating capacity of 11 or more, including volunteer vehicles, is prohibited.
+(6) Multifunction school activity buses used for transporting children to and from school shall comply with all minimum safety specifications, except color, identification, and alternating flashing lights, as defined in 1990 PA 187, MCL 257.1801 to MCL 257.1877.
+(7) Motor vehicle seats used by children, staff, and volunteers shall not face sideways.
+(8) A truck shall not be used to transport children, except in the cab.
+(9) There shall be no loose or heavy objects in the passenger compartment of any motor vehicle.
+History: Eff. Jan. 2, 2014
+R 400.8730 Safety equipment in motor vehicles.
+Rule 730. (1) All motor vehicles used to transport children shall carry all of the following safety equipment:
+(a) Three bidirectional emergency reflective triangles properly cased and securely stored in the motor vehicle.
+(b) A first aid kit shall be securely stored in an accessible location in the driver compartment.
+(2) Any motor vehicle with a manufacturer’s rated seating capacity of more than 10 occupants used to transport children shall carry both of the following additional safety equipment:
+(a) Not less than 3 15-minute fusees (flares) or an approved battery operated substitute properly cased and securely stored in the driver’s compartment.
+(b) Fire extinguisher of dry chemical type rated not less than 2A-10BC mounted in an accessible place in the driver’s compartment. The fire extinguisher shall be inspected and maintained in accordance with NFPA-10. The fire extinguisher shall bear a tag indicating the last date of inspection or service and the initials of the person who performed the inspection or service.
+(3) Volunteer motor vehicles are exempt from subrule (1)(a) of this rule.
+History: Eff. Jan. 2, 2014
+R 400.8740 Manufacturer’s rated seating capacity; restraint devices; safety belts.
+Rule 740. (1) Each child transported shall be seated according to the manufacturer’s rated seating capacity and properly restrained by a passenger restraint device as required by sections 710d and 710e of 1949 PA 300, MCL 257.710d(1) and 257.710e(3) and (4).
+(2) Passenger restraint devices, as required by subrule (1) of this rule, are not required for children transported on a school bus or a multifunction school activity bus.
+(3) Each restraint device shall be properly anchored to the vehicle seat and used according to the manufacturer’s specifications. Allowing 2 or more children to share a seat belt or restraint device is prohibited.
+(4) The driver of a motor vehicle and all adult passengers shall be seated according to the manufacture’s rated seating capacity and properly restrained by safety belts when the motor vehicle is in motion.
+(5) All safety belts and restraint devices used while transporting children and adults shall be in good working condition.
+History: Eff. Jan. 2, 2014
+43
+
+R 400.8750 Motor vehicle operator.
+Rule 750. (1) The driver of any motor vehicle transporting children shall comply with all of the following:
+(a) Be at least 18 years of age.
+(b) Possess a valid operator or chauffeur’s license with the appropriate endorsement as required by 1949 PA 300, MCL 257.301 to 257.329.
+(c) Have a personal driving record with not more than 6 active points as determined by the secretary of state.
+(d) Have proof of valid automobile insurance and registration.
+(e) Be familiar with the contents of the first aid kit.
+(f) Be familiar with the operation of the fire extinguisher, if a fire extinguisher is required.
+(2) All of the following documents shall be kept on file at the center:
+(a) A copy of each driver’s driving record, except for drivers of volunteer motor vehicles, obtained
+from the secretary of state at least once a year.
+(b) A self-certifying statement that all volunteer drivers comply with subrule (1) of this rule.
+(c) A copy of a valid driver’s license.
+(3) Drivers shall be provided with a copy of the child information card or comparable substitute for
+each child being transported in their motor vehicles.
+History: Eff. Jan. 2, 2014
+R 400.8760 Staff/volunteer-to-child ratio and supervision in transit.
+Rule 760. (1) The ratio of staff/volunteers to children in transit, including children related to the staff member/volunteer, licensee, or driver, shall be based on the following provisions:
+(a) For infants and toddlers, there shall be 1 staff member/volunteer for 4 children. The driver shall not count in the staff/volunteer to child ratio.
+(b) For preschoolers under 3 years of age, there shall be 1 staff member/volunteer for 8 children. The driver shall not count in the staff/volunteer to child ratio.
+(c) For 3-year-olds, there shall be 1 staff member/volunteer for 10 children. The driver may count in the staff/volunteer to child ratio.
+(d) For 4-year-olds, there shall be 1 staff member/volunteer for 12 children. The driver may count in the staff/volunteer to child ratio.
+(e) For school-agers, there shall be 1 staff member/volunteer for 18 children. The driver may count in the staff/volunteer to child ratio. This requirement does not apply when school-age children are transported to and from school on school transportation or are using public transportation.
+(f) An additional staff member/volunteer is not required if only 1 child under 36 months of age is transported.
+(2) To count in the staff member/volunteer to child ratios, staff members or volunteers shall be all of the following:
+(a) At least 16 years of age.
+(b) Seated with the children.
+(c) Responsible for the supervision of the children.
+(3) When children are entering or leaving the motor vehicle, the following safety precautions shall be
+taken:
+(a) The accompanying staff member, volunteer, or driver shall assure that the children are received by a
+staff member, parent, or other person as designated by the parent.
+(b) Children shall enter and leave the motor vehicle from the curbside unless the vehicle is in a
+protected parking area or driveway.
+44
+
+(4) Children shall not be left unattended in a motor vehicle.
+(5) When children under school-age are entering or leaving the motor vehicle, the children shall be carried or helped into and out of the motor vehicle.
+History: Eff. Jan. 2, 2014
+R 400.8770 Time limitation on child transit.
+Rule 770. For children under school-age, transportation routes shall be planned so that a child is not in the motor vehicle longer than 1 continuous hour.
+History: Eff. Jan. 2, 2014
+PART 5. SWIMMING PROVISIONS
+R 400.8801 Definitions.
+Rule 801. (1) As used in this part:
+(a) “Lifeguard” means a person who meets the following criteria:
+(i) Possesses an appropriate and current life guard training and certification by Red Cross, YWCA,
+YMCA, or equivalent in 1 of the following:
+(A) Basic lifeguard for pool only.
+(B) Full life guarding for pool and all other water activities.
+(ii) Is dressed suitably to act in an emergency.
+(iii) Is providing constant supervision.
+(b) “Public swimming pool” means, as defined in the public health code (1978 PA 368), MCL
+333.12521, an artificial body of water used collectively by a number of individuals primarily for the purpose of swimming, wading, recreation, or instruction and includes related equipment, structures, areas, and enclosures intended for the use of individuals using or operating the swimming pool such as equipment, dressing, locker, shower, and toilet rooms. Public swimming pools include those which are for parks, schools, motels, camps, resorts, apartments, clubs, hotels, mobile home parks, subdivisions, and the like. A pool or portable pool located on the same premises with a 1-, 2-, 3-, or 4-family dwelling and for the benefit of the occupants and their guests, a natural bathing area such as a stream, lake, river, or man-made lake, an exhibitor’s swimming pool built as a model at the site of the seller and in which swimming by the public is not permitted, or a pool serving not more than 4 motel units is not a public swimming pool.
+History: Eff. Jan. 2, 2014
+R 400.8810 Swimming caregiver-to-child ratio.
+Rule 810. (1) Written parental permission regarding their child’s participation in swimming activities shall be kept on file at the center.
+(2) A lifeguard shall be on duty at all swimming activities and shall not be included in the caregiver-to- child ratio.
+(3) For children under 3 years of age, there shall be an in-the-water ratio of 1 caregiver to 1 child.
+(4) For all nonswimmers 3 years of age and older, there shall be an in-the-water ratio of 1 caregiver to 4 children when the water level is at the child’s chest height or lower. When the water level is above the child’s chest height, there shall be an in-the-water ratio of 1 caregiver to 1 child.
+(5) For swimmers 3 years of age and older, there shall be an in-the-water ratio of caregivers to children as required by R 400.8182(3).
+45
+
+History: Eff. Jan. 2, 2014
+R 400.8820 Swimming activity supervision.
+Rule 820 (1) All caregiving staff counted in the caregiver-to-child ratio shall be both of the following: (a) Actively engaged in providing direct care, supervision, and guidance.
+(b) Physically able to assist children quickly.
+History: Eff. Jan. 2, 2014
+R 400.8830 Instructional swim.
+Rule 830. (1) Instructional swim shall be conducted under the supervision of a qualified water safety instructor (WSI), in an organization such as the YMCA or YWCA, and where instructional swim is part of the organized program.
+(2) The ratio of caregivers to children under R 400.8182(3) shall be maintained. The instructor shall not be included in the ratio.
+History: Eff. Jan. 2, 2014
+R 400.8840 Swimming activity area.
+Rule 840. (1) All swimming areas shall be maintained in a clean and safe condition.
+(2) A public pool used for swimming shall be inspected by the local health department and issued a license by the department of environmental quality.
+(3) The water at a public or private beach shall not be used if deemed unsafe by the local health department.
+(4) A working telephone shall be accessible on the premises.
+(5) All of the following safety equipment shall be readily accessible: (a) First aid kit.
+(b) Rescue pole or throwing rope and ring buoy.
+(c) Signaling device.
+(6) The use of hot tubs and private wading pools is prohibited.
+History: Eff. Jan. 2, 2014
+46
+
+APPENDIX A
+PROMULGATION PROCESS/SUGGESTED CHANGES
+The promulgation process is lengthy. This is due, in part, to the Department’s desire to develop rules that are clear, reasonable, necessary, fair and enforceable. Serious consideration is given to the recommendations of the Ad Hoc Committee, licensees, child care organizations, interested citizens, parents, and staff.
+In the interest of continuing to serve the public by considering its wishes, the Department welcomes any comments or suggestions that you feel will help improve future revisions of these regulations. Your comments will be reviewed when changes in the rules are being considered. 1973 PA 116 requires the Department to conduct a review of the rules every other year and a major review by an Ad Hoc Committee every five years.
+You are invited to send your comments to: Division Director
+Child Care Licensing Division
+Michigan Department of Licensing and Regulatory Affairs PO BOX 30664
+Lansing, MI 48909
+www.michigan.gov/michildcare
+In forwarding comments or suggestions, please use an outline similar to the one below. Send to the Division Director for the Department’s consideration and review.
+– – – – – – – – –– –– –– –– –– ––– ––– –––– –––– –––– –––– ––––– –––– – –––
+ Rule Number
+    Subrule Number
+    SUGGESTED CHANGE:
+    REASON FOR CHANGE:
+   Signature
+   Date
+   Print Name
+    Address (Number, Street)
+    City, State, Zip Code
+  47
+
+APPENDIX B
+CONTESTED CASE HEARINGS
+Filed with the Secretary of State on September 7, 1999. This rule takes effect 15 days after filing with the Secretary of State.
+(By authority conferred on the director of the department of consumer and industry services by section 2 of Act No. 116 of the Public Acts of 1973, as amended, section 10 of Act No. 218 of the Public Acts of 1979, as amended, and Executive Reorganization Order No. of 1996-1, being§§722.112, 400.710, and 330.3101 of the Michigan Complied Laws)
+R 400.1600 Definitions.
+Rule 1. (1) As used in these rules:
+(a) “Act” means Act No. 116 of the Public Acts of 1973, as amended, being §722.111 et seq. of the Michigan Complied Laws.
+(b) “Act No. 218” means Act No. 218 of the Public Acts of 1979, as amended, being §400.701 et seq. of the Michigan Complied Laws.
+(c) “Noncompliance” means a violation of the act or act 218, an administrative rule promulgated under the act or act 218, or the terms of a license or a certificate of registration.
+(d) “Substantial noncompliance” means repeated violations of the act or act 218 or an administrative rule promulgated under the act or act 218, or noncompliance with the act or act 218, or a rule promulgated under the act or act 218, or the terms of a license or a certificate of registration that jeopardizes the health, safety, care, treatment, maintenance, or supervision of individuals receiving services or, in the case of an applicant, individuals who may receive services.
+(e) “Willful noncompliance” means, after receiving a copy of the act or act 218, the rules promulgated under the act or act 218 and, for a license, a copy of the terms of a license or a certificate of registration, an applicant or licensee knew or had reason to know that his or her conduct was a violation of the
+act or act 218, rules promulgated under the act or act 218, or the terms of a license or a certificate of registration.
+(2) Except as provided in subrule (1) of this rule, a term defined in Act No. 306 of the Public Acts of 1969, as amended, being §§24.201 et seq. of the Michigan Complied Laws, shall have the same meaning when used in these rules.
+(3) The definitions in this rule apply to matters under the act and act 218 for the contested case hearings.
+48
+
+APPENDIX C
+GOOD MORAL CHARACTER
+Filed with the Secretary of State on January 12, 1988. These rules took effect 15 days after filing with the Secretary of State.
+(By authority conferred on the department of social services by section 9 of Act No. 380 of the Public Acts of 1965, as amended, sections 2 and 5 of Act No. 116 of the Public Acts of 1973, as amended, section 3 of Act No. 381 of Public Acts of 1974, as amended, and sections 5, 10, and 13 of Act No. 218 of the Public Acts of 1979, as amended, being §16.109, 722.112, 722.115, 338.43, 400.705, 400.710, and 400.713 of the Michigan Compiled Laws)
+R 400.1151 License issuance.
+Rule 1. (1) A license, approval, or registration for a child care organization, as defined by Act No. 116 of the Public Acts of 1973, as amended, being §722.111 et seq. of the Michigan Compiled Laws, or
+an adult foster care facility, as defined by Act No. 218 of the Public Acts of 1979, as amended, being §400.701 et seq. of the Michigan Compiled Laws, shall not be issued by the department of social services if the license applicant lacks good moral character.
+(2) For the purposes of criminal background investigations, “license applicant” means a licensee, a registrant, or a person with direct responsibility for daily operation of the facility to be licensed or approved.
+R 400.1152 Offenses evidencing lack of good moral character; applicability.
+Rule 2. (1) The following offenses presume a lack of good moral character for purposes of issuing an original or renewal license, a certificate of registration, or an approval to a child care organization, as defined by Act No. 116 of the Public Acts of 1973, as amended, being §722.111 et seq. of the Michigan Compiled Laws, and for issuing an original or renewal license to an adult foster care facility, as
+defined by Act No. 218 of the Public Acts of 1979, as amended, being §722.111 et seq. of the Michigan Compiled Laws, and for issuing an original or renewal license to an adult foster care facility, as defined by Act No. 218 of the Public Acts of 1979, as amended, being §400.701 et seq. of the Michigan Compiled Laws:
+(a) Conviction of the license applicant, in a court of competent jurisdiction, of any crime involving a substantial misrepresentation of any material fact, including any of the following:
+(i) Bribery.
+(ii) Fraud.
+(iii) Filing of false claims.
+(iv) Aiding or abetting the filing of false claims.
+(v) Allowing an establishment to be used for illegal purposes.
+(b) Conviction of the license applicant, in a court of competent jurisdiction, of any crime involving any
+of the following:
+(i) Homicide.
+(ii) Murder.
+(iii) Manslaughter. (iv) Mayhem.
+(v) Negligent homicide.
+(vi) Attempts to commit any of the offenses specified in paragraphs (i) and (ii) of this subdivision.
+49
+
+(c) Conviction of the license applicant, in a court of competent jurisdiction, of any crime, felony, or misdemeanor involving either of the following:
+(i) Assault.
+(ii) Battery.
+(d) Conviction of the license applicant, in a court of competent jurisdiction, of any crime which
+involves a violent act, or a threat of a violent act, against a person or a crime constituting a sexual offense, which shall include any of the following:
+(i) Criminal sexual conduct in any degree.
+(ii) Activity for profit involving any of the following:
+(A) Child abuse, neglect, or exploitation.
+(B) Kidnapping.
+(C) Adoption schemes.
+(D) Prostitution or related crimes.
+(iii) Cruelty toward, or torture of, any person.
+(iv) Attempts to commit any of the offenses specified in paragraphs (i) and (iii) of this subdivision. (e) Conviction of the license applicant, in a court of competent jurisdiction, of any of the following
+crimes:
+(i) Robbery.
+(ii) Armed robbery.
+(iii) Burglary.
+(iv) Receiving stolen property.
+(v) Concealing stolen property.
+(vi) Extortion.
+(vii) Obtaining property by false pretenses.
+(viii) Larceny by trick.
+(ix) Larceny by conversion.
+(x) Embezzlement.
+(xi) Arson.
+(xii) Offenses involving narcotics, alcohol or controlled substances that result in a felony conviction (xiii) Offenses involving any of the following:
+(A) Adulterating drugs, controlled substances, or preparations.
+(B) Poisoning.
+(C) Unlawful manufacture or delivery of drugs or possession with intent to manufacture or deliver
+drugs.
+(xiv) Attempts to commit any of the offenses specified in paragraphs (i), (ii), and (iii) of this
+subdivision.
+(2) The department of social services shall provide the license applicant with written notice regarding
+the findings as identified in subrule (1) of this rule as evidencing a lack of good moral character. (3) The license applicant shall be afforded the opportunity to have an informal conference with
+department of social services representatives to demonstrate that he or she is of good moral character (4) Where an offense or offenses identified in subrule (1) of this rule exist, and license issuance
+or a certificate of registration is still recommended, the recommendation shall be reviewed by the department’s administrative licensing officials for a final determination as to the issuance of a license or certificate of registration.
+(5) The department of social services shall provide the license applicant with a written response, as soon as practicable after the review, indicating the determination of the licensing representative.
+50
+
+(6) The department of social services shall provide a license applicant with written notice regarding appeal rights if applicable as provided by act No. 306 of the Pubic Acts of 1969, as amended, being §24.201 et seq. of the Michigan Compiled Laws, Act No. 116 of the Public Acts of 1973, as amended, being §722.111 et seq. of the Michigan Compiled Laws, and Act No. 218 of the public Acts of 1979, as amended, being §400.701 et seq. of the Michigan Compiled Laws, when there is official notification of the intent to deny the issuance of a license or certificate of registration to an applicant or registrant based upon the license applicant’s lack of good moral character.
+R 400.1153 Denial of license renewal based upon previously reviewed convictions prohibited; exception.
+Rule 3. The department shall not deny the license or certificate of registration renewal of a current licensee or registrant based upon convictions which had been reviewed when the license or certificate was issued. However if new findings or new convictions are disclosed, the department will consider previously reviewed convictions when deciding to approve or deny the license or certificate renewal application of a current licensee.
+51
+
+  LARA is an equal opportunity employer/program.
+BCAL-PUB-8 (Rev. 3-16) Previous edition (1-14) may be used.
+

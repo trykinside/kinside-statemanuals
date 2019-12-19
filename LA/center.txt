@@ -1,0 +1,1788 @@
+Chapter 1. §101. §103. Chapter 3. §301. §303. §305. §307. §309. §311. §313. §315. §317. §319. Chapter 5. §501. §503. §505. §507. §509. Chapter 7. §701. §703. §705. §707. §709. §711. §713. Chapter 9. §901. §903. §905. §907.
+General Provisions....................................................................................................................1 Purpose and Authorization ........................................................................................................... 1 Definitions .................................................................................................................................... 1
+Licensure................................................................................................................................... 4 Requirement of Licensure ............................................................................................................ 4 Exemptions from Licensure ......................................................................................................... 4 Operating Without a License; Registry; Penalties........................................................................ 4 Types of Licenses ......................................................................................................................... 4 Term of License............................................................................................................................5 Posting of License ........................................................................................................................ 5 Annual Licensure Fee ................................................................................................................... 5 Inspections .................................................................................................................................... 5 Transitional Provisions.................................................................................................................6 Waivers.........................................................................................................................................6
+Ownership of Early Learning Centers ...................................................................................... 6 Definitions .................................................................................................................................... 6 Individuals and Entities as Owners for Licensing Purposes ........................................................ 6 Prohibitions................................................................................................................................... 7 Criminal Background Checks for Owners ...................................................................................7 State Central Registry Disclosure Forms for Owners .................................................................. 8
+Licensing Process and Procedures ............................................................................................ 8 Initial Application Process ........................................................................................................... 8 Initial Inspection Process..............................................................................................................9 Access ......................................................................................................................................... 10 Fees ............................................................................................................................................. 10 Validity of Licenses.................................................................................................................... 10 Renewal Applications.................................................................................................................10 Renewal and Other Inspection Procedures.................................................................................11
+Changes Requiring a New License ......................................................................................... 11 Change in Location..................................................................................................................... 11 Change of Ownership ................................................................................................................. 11 Change in License Type ............................................................................................................. 11 Notification of Temporary or Permanent Closure......................................................................12
+Table of Contents
+Title 28 EDUCATION
+Part CLXI. Bulletin 137Louisiana Early Learning Center Licensing Regulations
+Chapter 11. Operating Violations and Incidents; Fines; Appeals .............................................................. 12
+§1101. Non-Critical Operating Violations ............................................................................................. 12 §1103. Critical Incidents and Required Notifications ............................................................................ 12 §1105. Identified Violations and Fines ..................................................................................................12 §1107. Departmental Reconsideration of Assessment of Fine............................................................... 13 §1109. Administrative Appeal of Assessment of Fine ........................................................................... 13 §1111. Payment of Fines ........................................................................................................................ 13
+Chapter 13. Denial, Revocation or Non-Renewal of License .................................................................... 14 §1301. Reasons for Denial, Revocation or Refusal to Renew ............................................................... 14 §1303. Notice of Denial, Revocation or Refusal to Renew ................................................................... 14
+
+Table of Contents
+§1305. Posting of Notice of Revocation................................................................................................. 14 §1307. Appeal of Denial, Revocation or Refusal to Renew...................................................................14 §1309. Disqualification Period Following Revocation or Refusal to Renew ........................................ 15 §1311. Licensure Process Following Disqualification Period ............................................................... 16
+Chapter 15. Minimum General Requirements and Standards .................................................................... 16
+§1501. Operations................................................................................................................................... 16 §1503. General Liability Insurance Policy ............................................................................................. 16 §1505. Visitors ....................................................................................................................................... 16 §1507. Daily Attendance Records .......................................................................................................... 16 §1509. Policies ....................................................................................................................................... 17 §1511. Procedures .................................................................................................................................. 18 §1513. Schedules .................................................................................................................................... 18 §1515. Child Records and Cumulative Files..........................................................................................18
+Chapter 17. Minimum Staffing Requirements and Standards....................................................................19 §1701. Prohibitions................................................................................................................................. 19 §1703. Criminal Background Checks for Volunteers, Staff, Visitors and Independent Contractors.....19 §1705. State Central Registry Disclosure Forms for Volunteers and Staff............................................21 §1707. Required Staff.............................................................................................................................22 §1709. Director Qualifications ............................................................................................................... 22 §1711. Child-to-Staff Minimum Ratios ................................................................................................. 22 §1713. Supervision ................................................................................................................................. 24 §1715. Staff Records and Personnel Files..............................................................................................24 §1717. Records for Independent Contractors and Student Trainees ...................................................... 24 §1719. Orientation Training ................................................................................................................... 25 §1721. Continuing Education ................................................................................................................. 25 §1723. CPR and First Aid Certifications................................................................................................26 §1725. Medication Management Training ............................................................................................. 26
+Chapter 19. Minimum Health, Safety, and Environment Requirements and Standards ............................ 26 §1901. General Safety Requirements ..................................................................................................... 26 §1903. Physical Environment.................................................................................................................27 §1905. Nighttime Care for Children ....................................................................................................... 28 §1907. Furnishings and Equipment........................................................................................................28 §1909. Safe Sleep Practices....................................................................................................................28 §1911. Care of Children ......................................................................................................................... 29 §1913. Water Activities..........................................................................................................................29 §1915. Health Services...........................................................................................................................29 §1917. Medication Administration.........................................................................................................30 §1919. Food Service and Nutrition ........................................................................................................ 31 §1921. Emergency Preparedness and Evacuation Planning...................................................................32
+Chapter 21. Minimum Transportation Requirements and Standards ......................................................... 32 §2101. General Requirements (Center-Provided, Parent-Provided or Contract Transportation) ..........32 §2103. Daily Transportation (Contract or Center Provided)..................................................................33 §2105. Field Trips ..................................................................................................................................34 §2107. Motor Vehicle Passenger Checks...............................................................................................34 §2109. Non-Vehicular Excursions .........................................................................................................34
+
+Title 28 EDUCATION
+Part CLXI. Bulletin 137Louisiana Early Learning Center Licensing Regulations
+Chapter 1. General Provisions §101. Purpose and Authorization
+A. The purpose of this bulletin is to set forth the rules and regulations necessary to implement the provisions of R.S. 17:407.31 et seq., that require the state Board of Elementary and Secondary Education (BESE) to establish statewide minimum standards for the health, safety and well- being of children in early learning centers, ensure maintenance of these standards, and regulate conditions in early learning centers through a program of licensing administered by the Department of Education, Licensing Division (Licensing Division).
+B. The state superintendent of education (state superintendent), in order to carry out functions otherwise vested in the state superintendent by law, or by delegation of authority pursuant to law, is authorized to make, issue, rescind, and amend Licensing Division guidelines, interpretive guidance and procedures governing the early childhood licensing program administered by the Licensing Division.
+Capacity—the number of children the provider is licensed to care for at any given time as determined by the Licensing Division.
+CBC—criminal background check.
+Center—see early learning center.
+Center Staff—see staff.
+Change of Location—change in physical address/location of the center.
+Change of Ownership—a transfer of ownership of a currently licensed center that is in operation and caring for children, to another entity without a break in service to the children currently enrolled.
+Child—person who has not reached age 18 or otherwise been legally emancipated.
+Child Care Health Consultant—qualified health and safety professional approved by DHH to provide training, consultation, and technical assistance to out of home child care facilities and early childhood education staff (and parents) on health and safety topics.
+Child Care Market Rate Survey—a survey that measures the prices charged by child care providers and paid by parents in a given child care market. The Child Care and Development Fund Programs require states to conduct child care market rate surveys.
+Child Day Care Center—any place or center operated by any institution, political subdivision, society, agency, corporation, person or persons, or any other group for the purpose of providing care, supervision, and guidance of seven or more children, not including those related to the caregiver, unaccompanied by parent or legal custodian, on a regular basis for at least 12 1/2 hours in a continuous 7-day week.
+1. If a child day care center provides transportation or arranges for transportation to and from the center, either directly or by contract with third parties, all hours that a child is being transported shall be included in the calculation of the hours of operation.
+2. A child day care center that remains open for more than 12 1/2 hours in a continuous 7-day week, and in which no individual child remains for more than 24 hours in one continuous stay shall be known as a full-time child day care center.
+3. A child day care center that remains open after 9 p.m. shall meet the appropriate regulations established for nighttime care.
+AUTHORITY NOTE: 17:407.32.
+Promulgated
+in accordance
+with R.S.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:616 (April 2015), effective July 1, 2015.
+§103. Definitions
+Anniversary Date—the last day of the month in which the center’s original license was issued and the date by which the license must be renewed each year.
+APA—Louisiana Administrative Procedure Act found at R.S. 49:950 et seq.
+Behavior Management—the ongoing positive process of helping children develop inner control so that they can manage their own behavior in an appropriate and acceptable manner by using corrective action to change the inappropriate behavior.
+BESE—Louisiana state Board of Elementary and Secondary Education.
+Bureau—Louisiana Bureau of Criminal Identification and Information, part of the Office of State Police within the Department of Public Safety and Corrections.
+Camp—any place or center operated by any institution, society, agency, corporation, person or persons, or any other group that serves only children ages five and older and operates only when schools are not in session for the summer months or school holidays.
+Promulgated
+by the Board
+of
+1
+Louisiana Administrative Code April 2017
+
+Child Safety Alarm—an ignition-based alarm system that voice prompts the driver to inspect the vehicle for children before exiting the vehicle.
+Clock Hour—60 minutes.
+Complaint—an allegation that an owner, provider, or staff person is violating any provision of these standards or laws, or engaging in conduct, either by omission or commission, that negatively affects the health, safety, or well-being of any child for which the provider has responsibility.
+Criminal Background Check (CBC)—a certified copy of the personal criminal history information record for owners, applicants for employment, staff, volunteers, visitors, and independent contractors who will be performing services at an early learning center. A CBC is obtained by the early learning center from the Louisiana Bureau of Criminal Identification and Information pursuant to R.S. 17:407.42.
+DAL—Division of Administrative Law.
+Day Care Center—see child day care center. DCFS—Department of Children and Family Services. Department—Department of Education. DHH—Department of Health and Hospitals.
+Direct Supervision—see supervision.
+Director—the staff who is responsible for the day-to-day operation, management, and administration of the center. For the purpose of these regulations, the term “director” means director or director designee, if applicable.
+Director Designee—the individual appointed by the director to act in lieu of the director when the director is not an on-site staff person at the licensed location. This individual shall meet director qualifications.
+Discipline—see behavior management.
+Disqualification Period—the prescriptive period during which a center shall not be qualified to submit an application for licensure after its license has been revoked, renewal has been refused or its license has been surrendered to avoid adverse action due to failure to comply with licensing laws, regulations or minimum standards.
+Early Learning Center—any child day care center, early head start center, head start center, or stand-alone prekindergarten program that is not attached to a school.
+Early Learning Staff—see staff.
+Employee—all full or part time paid staff who perform services for the center and have direct or indirect contact with children at the center.
+Foster Grandparents—a program organized by an agency that recruits and trains seniors to provide one-on-one attention to a child or to assist a group of children.
+Full-Time—physical presence at the center Monday through Friday for at least 32 hours.
+Group Size—the number of children assigned to a teacher or team of teachers occupying an individual classroom or well-defined space within a large room.
+Head Start and Early Head Start Programs—federally- funded early childhood care and education programs that promote and teach school readiness to children ages birth to five from low-income families and provide services in the areas of education, social services for families, nutrition, family engagement, health and mental health, as well as providing the physical plant and instructional staff members for such purposes.
+Independent Contractors—individuals who are not employees of the center, but who render professional, therapeutic, or enrichment services within an early learning center. Independent contractors include, but are not limited to, dance instructors, gymnastic or sports instructors, computer instructors, speech therapists, nutritionists, early interventionists, nurses and other licensed health care professionals, local school district staff, Department of Education staff, contracted bus drivers, cafeteria and maintenance personnel, electricians, plumbers and photographers, and other outside contractors.
+Infant—a child who has not yet reached his/her first birthday.
+License—any license issued by the Louisiana Department of Education, Licensing Division to operate an early learning center.
+License Type—the type of license applied for or held by an early learning center, which include type I, type II, and type III licenses.
+Licensing Division—Louisiana Department of Education, Licensing Division.
+Mandated Reporter—professionals who may work with children in the course of their professional duties and who consequently are required to report all suspected cases of child abuse and neglect. This includes any person who provides training or supervision of a child, such as a public or private school teacher, teacher’s aide, instructional aide, school principal, school staff member, social worker, probation officer, any other child care institution staff member, licensed or unlicensed day care provider, any individual who provides such services to a child, or any other person made a mandatory reporter under Children’s Code article 603 or other applicable law.
+Medication—all internally and externally administered drugs, whether over-the-counter or prescribed.
+Monitor—staff with specific transportation-related responsibilities that include assisting the driver in ensuring
+Extra-Curricular
+contractors.
+Personnel—see
+independent
+Federal Food and Nutrition Programs—federal nutrition reimbursement programs funded by the U.S. Department of Agriculture through the Louisiana Department of Education, Division of Nutrition Support.
+Louisiana Administrative Code April 2017
+2
+EDUCATION
+
+the safety of children while they ride in, board, or exit a vehicle, and during transportation emergencies.
+Nighttime Care—care provided after 9 p.m. and prior to 5 a.m. in which no individual child remains for more than 24 hours in one continuous stay.
+Non-Vehicular Excursion—any activity that takes place outside of the licensed area that is within a safe, reasonable, walking distance, and that does not require transportation in a motor vehicle. This does not include walking with children to and from schools.
+Notice—written notice to an early learning center is considered given:
+1. when it is sent by email or fax to the email address or fax number furnished by the center on the center’s current application for licensure or renewal;
+2. when it is hand-delivered to a staff member at the center; or
+3. on the fifth calendar day after it was mailed to the mailing address furnished by the center on the center’s current application for licensure or renewal.
+Office of Early Childhood—Louisiana Department of Education, Office of Early Childhood.
+Office of Public Health—Louisiana Department of Health and Hospitals, Office of Public Health.
+Owner or Operator—the individual who exercises ownership or control over an early learning center, whether such ownership or control is direct or indirect.
+Parent—parent or custodian.
+Posted—prominently displayed in a conspicuous location
+in an area accessible to and regularly used by parents. Prekindergarten Programs—
+1. per R.S. 17:24.8(A), the youngest age at which a child may enter prekindergarten at a local public school is four years on or before September 30 of the calendar year in which the school year begins;
+2. per R.S. 17:24.8(B), the youngest age at which a child may enter prekindergarten at a BESE-approved nonpublic school is 3 years old by September 30 of the year in which the child enrolls in prekindergarten.
+Premises—buildings and land upon which buildings sit, including but not limited to play yards and parking areas.
+Providers—all owners, operators and directors of a center.
+Related or Relative—natural or adopted child or grandchild of the caregiver or a child in legal custody of caregiver.
+Rest Time—a daily period for children over age 12 months during which children are placed on mats or cots or in cribs as age appropriate.
+Right to Review (RTR)a certified copy of an individual’s personal criminal history information record obtained by the
+individual from the Louisiana Bureau of Criminal Identification and Information pursuant to R.S. 15:588.
+Staff—all full-time or part-time, paid or non-paid individuals that perform services for the early learning center and have direct or indirect contact with children at the center. Staff includes the director, child care staff, and any other employees at the center such as the cook, housekeeper, driver, substitutes, secretary, bookkeeper, and foster grandparents, but does not include extra-curricular personnel, therapeutic professionals and other independent contractors.
+Staff-in-Charge—the on-site staff member appointed by the director as responsible for supervising the operation of the center during the temporary absence of the director or during nighttime hours.
+State Central Registry—repository within the Louisiana Department of Children and Family Services (DCFS) that identifies any individual reported to have a justified (valid) finding of abuse or neglect of a child or children by DCFS.
+State Superintendent—Louisiana state superintendent of education.
+Student Trainee—a student who is at least age 16 and present in the center as an educational course requirement. A student trainee shall not be left alone with children and shall not counted in the child to staff ratio.
+Supervision—the function of observing, overseeing, and guiding a child or group of children, that includes awareness of and responsibility for the ongoing activity of each child and being near enough to intervene if needed. Supervision requires physical presence with visual contact, accountability for care of the children, knowledge of activity requirements, and knowledge of the abilities and needs of the children.
+Temporary Absence—absence for running errands, attending conferences, etc.
+Therapeutic Professionals—independent contractors who provide therapeutic services in an early learning center, including but not limited to speech therapists, nutritionists, early interventionists, nurses and other licensed health care professionals who are employed by a local school district or the Department of Health and Hospitals (DHH) or who are working pursuant to an EarlySteps contract with DHH, to provide therapeutic services in an early learning center to a child with a disability that has an active individual education plan (IEP) or individual family service plan (IFSP). Therapeutic professionals are not required to be under the supervision of center staff when providing such services.
+Time-Out—technique for temporarily separating a child when inappropriate behavior has occurred, and is intended to give a child time to calm down, thereby discouraging such behavior.
+Transportation—the arranging or providing of transportation of children, whether center-provided, parent- provided, or contract-provided, for any reason, including daily transportation, transportation for field trips, or
+Title 28, Part CLXI
+3
+Louisiana Administrative Code April 2017
+
+transportation for any other activity that takes place away from the licensed center.
+Unlicensed Operation—the operation of any early learning center at any location, without a valid current license issued by the Louisiana Department of Education, Licensing Division.
+Visitor—anyone who enters an early learning center other than the parent of an enrolled child, center staff, volunteers, extracurricular personnel, therapeutic professionals and other independent contractors, and in the case of a church or school, any other routine employees, including but not limited to a pastor, principal or teacher.
+Volunteer—a full or part-time non-paid staff member. Water Activity—a water-related activity in which children
+are in, on, near and accessible to, or immersed in, a body of water, including but not limited to a swimming pool, wading pool, water park, river, lake, or beach.
+Water Play Activity—water-related activity in which there is no standing water, including but not limited to fountains, sprinklers, water slip-and-slides and water tables.
+not operate more than 24 hours in a continuous 7-day week shall not be considered an early learning center for purposes of this bulletin.
+D. Nothing in this bulletin shall apply to children in programs licensed or operated by the Department of Health and Hospitals (DHH) or the Department of Children and Family Services (DCFS).
+AUTHORITY NOTE: 17:407.31 et seq.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:616 (April 2015), effective July 1, 2015, amended LR 41:2103 (October 2015), LR 43:638 (April 2017).
+Chapter 3.Licensure §301. Requirement of Licensure
+A. All early learning centers shall be licensed prior to beginning operations in Louisiana.
+B. A prekindergarten program operated by a public school serving children in grades kindergarten and above, and in which all children have not reached age 4 by September 30 of the current school year, shall be licensed.
+C. A prekindergarten program operated by a private school serving children in grades kindergarten and above, and in which all children have not reached age 3 by September 30 of the current school year, shall be licensed.
+B. If an early learning center is operating without a valid license, the Licensing Division shall file suit for injunctive relief in the district court in the parish in which the center is located to enjoin the owner or operator from continuing the violation.
+C. Upon receipt of a court order enjoining an individual from operating an early learning center without a valid, current early learning center license, the department shall notify local law enforcement, the local superintendent, and the early childhood community network lead agency, if different, in the parish in which the unlicensed care was provided, and in the parish in which the individual resides, if known and different from the parish in which the unlicensed care was provided, of the existence of such a court order.
+D. The department shall publish on its website in a statewide registry the names of individuals that have an existing court order prohibiting them from operating an early learning center without a current, valid early learning center license and that do not currently operate a center with a current valid license. The registry shall at a minimum include the name of the individual, the name of the center under which the unlicensed care was provided, and the parish in which the unlicensed care was provided.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+AUTHORITY NOTE: Promulgated 17:407.34 and R.S. 17:407.24.8.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:619 (April 2015), effective July 1, 2015.
+§303. Exemptions from Licensure
+A. A public or non-public day school serving children in grades kindergarten and above, including any pre- kindergarten attached thereto, except as provided in §301.B and C, is exempt from the provisions of this bulletin.
+B. Camps and all care given without charge are exempt from the provisions of this bulletin.
+C. A center operated by a recognized religious organization that is qualified as a tax-exempt organization under §501(c) of the Internal Revenue Code and that does
+AUTHORITY NOTE: 17:407.37.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:619 (April 2015), effective July 1, 2015, amended LR 41:2104 (October 2015).
+§307. Types of Licenses
+A. A “type I license” is the type of license issued to an early learning center that is owned or operated by a church or religious organization that is qualified as a tax exempt organization under §501(c) of the Internal Revenue Code and that receives no state or federal funds directly or indirectly from any source.
+1. Grandfathering Clause. A “type I license” is also the type of license issued to any early learning center holding a “class B” license on October 1, 2014, provided the center receives no state or federal funds directly or indirectly
+Louisiana Administrative Code April 2017
+4
+in accordance with R.S.
+by the Board of
+Promulgated
+by the Board of
+EDUCATION
+AUTHORITY NOTE: 17:407.35.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:619 (April 2015), effective July 1, 2015.
+§305.
+Operating Without a License; Registry; Penalties
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+A.
+valid license shall be fined by the Licensing Division not less than $1,000 per day for each day of such offense.
+Whoever operates any early learning center without a
+Promulgated
+in accordance with R.S.
+
+from any source. “Class B” licenses held by other than tax exempt church or religious organizations on October 1, 2014 shall be grandfathered in as type I centers for the life of the existing license. However, if a type I license held by other than a tax exempt church or religious organization expires, is revoked, or is terminated for any reason, or if a new license is required for any reason, including but not limited to a change in location or ownership, the center shall not be eligible for a new type I license and shall apply for either a type II or type III license.
+2. No early learning center holding a type I license shall directly or indirectly receive any state or federal funds from any source.
+3. If an early learning center holding a type I license directly or indirectly receives any state or federal funds, its license is immediately revoked.
+B. A “type II license” is the type of license issued to an early learning center that either receives no state or federal funds directly or indirectly from any source or whose only source of state or federal funds is from U.S. Department of Agriculture’s food and nutrition programs, hereinafter referred to in this bulletin as “federal food and nutrition programs.”
+1. No early learning center holding a type II license shall directly or indirectly receive any state or federal funds from any source, other than those funds received solely for federal food and nutrition programs.
+2. If an early learning center holding a type II license directly or indirectly receives any state or federal funds from any source, other than those received solely for food and nutrition programs, its license is immediately revoked.
+C. A “type III license” is the type of license issued to an early learning center that directly or indirectly receives state or federal funds from any source other than the federal food and nutrition programs.
+1. Type III early learning centers shall meet the performance and academic standards of the Early Childhood Care and Education Network regarding kindergarten readiness as determined by BESE.
+D. Nothing in this Section shall prevent an early learning center otherwise qualified for a type I license to voluntarily seek a type II or type III license, or an early learning center otherwise qualified for a type II license to voluntarily seek a type III license, provided that such early learning center meets the standards set forth for such license.
+suspended by the Licensing Division for non-compliance with the licensing laws, regulations or minimum standards.
+Title 28, Part CLXI
+AUTHORITY NOTE: 17:407.39(A).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:619 (April 2015), effective July 1, 2015.
+§311. Posting of License
+A. Each early learning center shall display its current license in a prominent place at the center.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+AUTHORITY NOTE: 17:407.39(D).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:620 (April 2015), effective July 1, 2015.
+§313.
+Annual Licensure Fee
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+A.
+learning center based on the licensed capacity of the center.
+There shall be an annual licensure fee for each early B. Annual Licensure Fees
+        Licensed Capacity
+         Annual License Fee
+       15 or fewer children
+     $25
+       16-50 children
+     $100
+       51-100 children
+         $175
+      101 or more children
+     $250
+    AUTHORITY NOTE: 17:407.36.
+Promulgated
+in accordance
+with R.S.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:619 (April 2015), effective July 1, 2015.
+§309.
+Term of License
+Promulgated
+by the Board
+of
+A.
+period for which a license shall be valid. A license is valid for the period for which it is issued unless it is revoked or
+The Licensing Division is authorized to determine the
+5
+Louisiana Administrative Code April 2017
+C. Pursuant to R.S. 17:407.39(G), annual licensure fees shall not apply to type I centers operated by churches or religious organizations.
+AUTHORITY NOTE: 17:407.39(E).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:620 (April 2015), effective July 1, 2015.
+§315. Inspections
+A. The Licensing Division, through its duly authorized agents, shall inspect at regular intervals not to exceed one year, and as deemed necessary by the Licensing Division and without previous notice, all early learning centers subject to the provisions of this bulletin.
+B. Whenever the Licensing Division is advised or has reason to believe that any person, agency or organization is operating a non-exempt early learning center without a license, the Licensing Division shall initiate an investigation to ascertain the facts.
+C. Whenever the Licensing Division is advised or has reason to believe that any person, agency or organization is operating in violation of licensing laws, regulations or minimum standards, the Licensing Division shall complete a complaint investigation. All reports of mistreatment of children coming to the attention of the Licensing Division shall be referred to the appropriate agencies, and law enforcement personnel if applicable.
+D. The Licensing Division may apply for an administrative search warrant to obtain entry to an early learning center, if necessary.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+
+AUTHORITY NOTE: 17:407.43.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:620 (April 2015), effective July 1, 2015.
+§317. Transitional Provisions
+A. Effective immediately, any early learning center possessing a class B license that receives no state or federal funds directly or indirectly from any source is deemed to be a type I center and its current license remains valid for the term stated on the face of the license. A new license shall be issued upon renewal of the existing license.
+B. Effective immediately, any early learning center possessing a class A or class B license that either receives no state or federal funds directly or indirectly from any source or whose only source of state or federal funds is from federal food and nutrition programs is deemed a type II center and its current license remains valid for the term stated on the face of the license. A new license shall be issued upon renewal of the existing license.
+C. Effective immediately, any early learning possessing a class A or class B license that receives state or federal funds directly or indirectly from any source other than the federal food and nutrition programs is deemed a type III center and its current license remains valid for the term stated on the face of the license. A new license shall be issued upon renewal of the existing license.
+D. Nothing in this Section shall prevent an early learning center otherwise qualified for a type I license from voluntarily seeking a type II or type III license, or an early learning center otherwise qualified for a type II license from voluntarily seeking a type III license, provided that such center meets the standards set forth for such licenses.
+C. An application for a waiver shall be submitted in writing to the Licensing Division using the request for waiver form.
+D. Any waiver is issued at the discretion of the state superintendent and may be revoked by the state superintendent at any time, either upon violation of any condition attached to it or upon the determination of the state superintendent that continuance of the waiver is no longer in the best interest of children in care.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+AUTHORITY NOTE: Promulgated 17:407.36 and R.S. 17:407.38(c).
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:620 (April 2015), effective July 1, 2015.
+§319. Waivers
+A. The state superintendent, pursuant to authority delegated by BESE, may, in specific instances, waive compliance with a minimum standard or regulation if it is determined that the economic impact is sufficiently great to make compliance impractical, as long as the health and well- being of staff and children are not imperiled. If it is determined that the center or agency is meeting or exceeding the intent of the standard or regulation, the standard or regulation may be deemed to be met.
+B. Minimum licensing standards shall not be waived unless the state superintendent determines, upon clear and convincing evidence, that the demonstrated economic impact is sufficiently great to make compliance impractical for the center despite diligent efforts, and alternative means have been put in place that ensure the health, safety, and well- being of children and staff.
+Corporation—any entity incorporated in Louisiana, or incorporated in another state and registered with the secretary of state in Louisiana, and legally authorized to do business in Louisiana.
+Individual Owner—a natural person who directly owns a center without setting up a juridical entity.
+Juridical Entity—a corporation, partnership, limited- liability company, church, university or governmental entity.
+Natural Person—a human being.
+Ownership—the right that confers on a person direct, immediate and exclusive authority over a thing. The owner of a thing may use, enjoy and dispose of it within the limits and under the conditions established by law.
+1. Direct Ownership—when the immediate owner is a natural person who exercises control personally rather than through a juridical entity.
+2. Indirect Ownership—when the immediate owner is a juridical entity.
+Partnership—any general or limited partnership licensed or authorized to do business in Louisiana.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.31 et seq., R.S. 17:407.41, and R.S. 17:407.42.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:620 (April 2015), effective July 1, 2015.
+Louisiana Administrative Code April 2017
+6
+in accordance with R.S.
+by the Board of
+EDUCATION
+AUTHORITY NOTE: 17:407.40(D).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:620 (April 2015), effective July 1, 2015.
+§501.
+Chapter 5.Ownership of Early Learning Centers
+Definitions
+§503.
+Individuals and Entities as Owners for Licensing Purposes
+A.
+owners for licensing purposes:
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+Individuals by organizational type who are considered
+1. individuals—individual and spouse, unless the business is the separate property of the licensee acquired before his or her marriage, acquired through a judicial separation of property agreement or acquired via a judicial termination of the community of aquets and gains;
+
+2. partnerships—all limited or general partners and managers, including but not limited to all persons registered as limited or general partners in the Secretary of State’s Corporations Division;
+3. head start centers—individual responsible for supervising center directors;
+4. church-owned, government entity, or university- owned—any clergy member or board member that is present in the early learning center during the hours of operation or when children are present. Clergy or board members not present in the early learning center shall complete a statement attesting to such;
+an early learning center, unless the individual has a current determination from DCFS indicating that he or she does not pose a risk to children.
+5. corporations companies)
+(includes
+limited
+liability
+a. any person who has 25 percent or greater share in the ownership or management of the business; or
+b. any person who has less than a 25 percent share in the ownership or management of the business and meets one or more of the following criteria:
+i. has unsupervised access to the children in care at the center;
+ii. is present in the center during hours of operation;
+iii. makes decisions regarding the day-to-day operations of the center;
+iv. hires or fires staff including the director; or
+v. oversees staff or conducts personnel
+evaluations of the staff.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.31 et seq., R.S. 17:407.41, and R.S. 17:407.42.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:621 (April 2015), effective July 1, 2015.
+§505. Prohibitions
+A. Criminal Offenses. No person who has been convicted of, or pled guilty or nolo contendere to any offense listed in R.S. 15:587.1(C), shall directly or indirectly own, operate, or participate in the governance of an early learning center.
+B. Crimes of Fraud. In addition, neither an owner, nor a director, nor a director designee shall have been convicted of, or pled guilty or nolo contendere to any of the following crimes of fraud: 18 U.S.C. 287, 18 U.S.C. 1341, R.S. 14:67.11, R.S. 14:68.2, R.S. 14:70, R.S. 14:70.1, R.S. 14:70.4, R.S. 14:70.5, R.S. 14:70.7, R.S. 14:70.8, R.S. 14:71, R.S. 14:71.1, R.S. 14:71.3, R.S. 14:72, R.S. 14:72.1, R.S. 14:72.1.1, R.S. 14:72.4, R.S. 14:72.5, R.S. 14:73.5, and R.S. 14:133.
+C. State Central Registry in DCFS. No individual whose name is recorded on the state central registry within DCFS as a perpetrator for a justified (valid) finding of abuse or neglect of a child pursuant to R.S. 46:1414.1 shall directly or indirectly own, operate, or participate in the governance of
+Title 28, Part CLXI
+7
+Louisiana Administrative Code April 2017
+AUTHORITY NOTE: 17:407.42.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:621 (April 2015), effective July 1, 2015.
+§507. Criminal Background Checks for Owners
+A. All owners of an early learning center shall provide the center documentation of a satisfactory fingerprint-based right to review (RTR), as defined in §103, obtained from the Louisiana Bureau of Criminal Identification and Information (bureau) or provide the center with the information, signatures and fingerprints necessary for the center to obtain documentation of a fingerprint based criminal background check (CBC) from the bureau. A copy of an RTR or a CBC shall be submitted for each owner with an initial application for licensure and the center shall have copies of said documentation on-site at all times and available for inspection upon request by the Licensing Division.
+1. CBC from Bureau. An early learning center may request a CBC from the bureau for any owner by submitting a request to the bureau that shall be made on a form prepared by the bureau, signed by a responsible officer or official of the center, and include a statement signed by the person about whom the request is being made giving permission for such information to be released and the person’s fingerprints in a form acceptable to the bureau.
+2. RTR from Bureau. An owner of a center may provide an RTR obtained from the bureau to the center, and it shall be accepted for a period of one year from the date of issuance by the bureau. Prior to the one year expiration of an owner-provided RTR, a new satisfactory fingerprint based CBC shall be obtained by the center or the person is no longer eligible to own, operate, or participate in the governance of the center.
+3. Affidavits for Specified Owners. If a person owns less than a 25 percent share in the ownership or management of an early learning center and does not meet one or more of the criteria listed in §503.A.5.b, said owner may submit a signed, notarized affidavit to the center in lieu of providing a CBC. The affidavit shall acknowledge that the individual has less than a 25 percent share in the ownership or management of the early learning center and does not meet any of the criteria listed in §503.A.5.b.
+B. New members and owners that are to be added to a partnership, church, corporation, limited liability company or governmental entity, even if such change does not constitute a change in ownership for licensing purposes, shall provide the center with documentation of a satisfactory RTR or the information, signatures and fingerprints necessary for the center to obtain a CBC in the same manner as original owners and members.
+C. A CBC or RTR is satisfactory for purposes of this Bulletin if it shows no arrests for any offense, enumerated in
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+
+R.S. 15:587.1(C) or §505.B of this bulletin or if an arrest is shown on the CBC or RTR for any enumerated offense, the CBC or RTR or documentation from the jurisdiction of arrest affirmatively shows that the charges were disposed of without a conviction. A plea of guilty or nolo contendere shall be deemed to be a conviction.
+D. If a CBC or RTR shows that any owner, operator or other participant in the governance of the center has been convicted of or pled guilty or nolo contendere of any enumerated offense under R.S. 15:587.1(C), or those crimes of fraud listed in §505.B, the center, upon receipt of the result, shall submit the information to the Licensing Division within 24 hours or no later than the next business day, whichever is sooner.
+1. The owner shall request a risk evaluation assessment from DCFS in accordance with LAC 67:I.305 within 10 calendar days from completion of the state central registry disclosure form or the license shall be revoked.
+2. Immediately upon the knowledge that a justified (valid) finding has been issued by DCFS, the owner, at any and all times when he/she is in the presence of a child or children, shall be directly supervised by a paid staff (employee) of the center. Under no circumstances may an owner with a justified finding be left alone and unsupervised with a child or children pending the determination by DCFS that the owner does not pose a risk to children.
+3. Any owner with a justified (valid) finding of abuse and/or neglect on the state central registry must submit, together with the disclosure form required above either:
+a. a written, signed, and dated statement to Licensing Division acknowledging that they are aware of the supervision requirements and understand that under no circumstances are they to be left alone and unsupervised with a child and that they shall be directly supervised by a paid staff (employee) of the center; or
+b. a written, signed, and dated statement to Licensing Division that he/she will not be on the premises of the center at any time when a child is present nor during the center’s hours of operation.
+4. If DCFS determines that the owner poses a risk to children, the center shall no longer be eligible for licensure and an existing license shall be revoked.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.41.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:622 (April 2015), effective July 1, 2015.
+AUTHORITY NOTE: 17:407.42.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:621 (April 2015), effective July 1, 2015, amended LR 41:2104 (October 2015).
+§509. State Central Registry Disclosure Forms for Owners
+A. An early learning center shall obtain a copy of a completed state central registry disclosure form indicating no justified (valid) finding of abuse or neglect, or a current finding by the DCFS indicating that the individual does not pose a risk to children, for each owner with its initial application for a license, and the center shall have said documentation on-site at all times and available for inspection upon request by the Licensing Division.
+B. All owners of an early learning center shall report on the state central registry disclosure form prior to being on the premises of the center, and shall update the report annually, and at any time upon request by the Licensing Division, whether or not the individual’s name is currently recorded on the state central registry for a justified finding of abuse or neglect, or shall submit a current finding by the DCFS indicating that the individual does not pose a risk to children.
+C. Any state central registry disclosure form that is maintained by an early learning center is subject to the confidentiality provisions of R.S. 46:56(F) pertaining to investigations of abuse and neglect.
+D. New members and owners to be added to a partnership, church, corporation, limited liability corporation or governmental entity, where such change does not constitute a change in ownership for licensing purposes, shall provide a completed state central registry disclosure form or a current finding by the DCFS indicating that the individual does not pose a risk to children in the same manner as original owners and members.
+E. Within 24 hours or no later than the next business day, whichever is shorter, of current owners receiving notice of a justified (valid) finding of child abuse and/or neglect against them, an updated state central registry disclosure form shall be completed by the owner and submitted to Licensing Division.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+Louisiana Administrative Code April 2017
+8
+EDUCATION
+§701.
+Chapter 7.Licensing Process and Procedures
+Initial Application Process
+A. Forms. Applications for licensure of new early learning centers shall be made to the Licensing Division on forms furnished by the Licensing Division. See the Department of Education’s website for current forms and for directions as to how and where applications for licensure may be submitted.
+B. Each center shall provide a current email address to the Licensing Division on its initial application for licensure. The center shall maintain a current email address and notify the Licensing Division immediately upon a change in such email address by submitting a change of email address form to amend the existing licensing application. All communication from the Licensing Division shall be sent via email to the most recent email address provided to the Licensing Division on the center’s current application for licensure or renewal.
+
+C. Initial Licensing Packet. After the center’s location has been established, a completed initial licensing packet shall be submitted to the Licensing Division.
+D. Review of Licensing Packet
+1. If a submitted application is incomplete, the Licensing Division shall notify the applicant of the missing information.
+a. The applicant shall have 21 calendar days from receipt of notification to submit the additional information.
+b. If the Licensing Division does not receive the additional information within 21 calendar days of notification, the application shall be closed and the application fee shall be forfeited.
+c. Once an application has been closed, an applicant still interested in obtaining a license must submit a new application and application fee.
+2. If the application is complete, the Licensing Division will notify the applicant and will request the Office of State Fire Marshall, city fire (if applicable), Office of Public Health, and Office of Early Childhood to make an inspection of the center, as per their standards. However, it is the applicant’s responsibility to obtain these inspections and approvals.
+a. Upon receipt of notification that an application is complete, the applicant has 45 calendar days in which to coordinate an on-site inspection of the center by the Licensing Division.
+b. If the applicant fails to coordinate the inspection within 45 calendar days, the application shall be closed and the application fee shall be forfeited
+c. Once an application has been closed, an applicant still interested in obtaining a license must submit a new application and application fee.
+E. Initial Licensure. A license shall be issued on a completed initial application when the following items have been met and written verification has been received by the Licensing Division:
+1. Office of State Fire Marshal approval;
+2. Office of Public Health approval;
+3. city fire approval, if applicable;
+4. zoning approval, if applicable;
+5. Office of Early Childhood approval, if type III
+center;
+6. full licensure fee paid;
+7. licensure inspection verifying compliance with all
+minimum standards;
+8. satisfactory criminal background check for all owners, operators, and staff; and
+9. completed state central registry disclosure forms for all owners, operators, and staff indicating no justified (valid)
+finding of abuse and/or neglect, or documentation from DCFS indicating that the owner, operator, or staff person does not pose a risk to children.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.39.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:622 (April 2015), effective July 1, 2015, amended LR 41:2104 (October 2015).
+§703. Initial Inspection Process
+A. An initial licensing inspection, including a measurement of the indoor and outdoor enclosed space, shall be conducted at the center to assure compliance with all licensing laws, regulations and minimum standards.
+1. If the center is in operation in violation of the law, the initial licensing inspection shall not be conducted, the application shall be denied and the Licensing Division shall pursue appropriate legal remedies.
+2. If the initial inspection indicates that an early learning center is in compliance with all licensing laws, regulations and minimum standards, the Licensing Division may issue a license.
+3. If an initial inspection indicates that an early learning center is not in compliance with all minimum standards, with the exception of the standards listed in Paragraph A.4 of this Section, the Licensing Division may deny the application.
+4. If the initial inspection indicates that a center is in compliance with all but the following standards, the center will be allowed 90 calendar days from receipt of the initial completed application to submit documentation of compliance with the following, and the application may be denied if the information is not received within the 90 calendar days:
+a. Office of State Fire Marshal approval;
+b. city fire approval, if applicable;
+c. Office of Public Health approval;
+d. Office of Early Childhood approval, if type III
+center;
+e. documentation of a satisfactory fingerprint based criminal background check for all staff not previously provided; and
+f. documentation of a completed state central registry disclosure form noting indicating no justified (valid) finding of abuse and/or neglect of a child or a finding from DCFS that the person does not pose a risk to children for all staff not previously provided.
+B. Once it has been determined that a center is in compliance with all licensing laws, regulations and minimum standards, the Licensing Division shall notify the center of its total licensure fee based on its capacity.
+1. The $25 application fee shall be applied towards the total licensure fee.
+Title 28, Part CLXI
+9
+Louisiana Administrative Code April 2017
+
+2. The total licensure fee shall be due prior to the issuance of a license, and no later than 90 calendar days from receipt of the initial completed application packet.
+3. Pursuant to R.S. 17:407.39(G), the annual licensure fee shall not apply to type I centers owned or operated by churches or religious organizations.
+a. The full licensure fee based on licensed capacity, as provided in §313, shall be submitted prior to the issuance of an initial license and shall be submitted with all renewal applications.
+b. The full licensure fee based on licensed capacity shall be submitted with an application for a change of ownership, location or type of license.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.39 and R.S. 17:407.40.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:624 (April 2015), effective July 1, 2015.
+§709. Validity of Licenses
+A. A license shall apply only to the location stated on the license and shall not transfer from one location to another or from one owner to another.
+B. If the location or owner of an early learning center changes, the license becomes null and void.
+C. When a business is sold, discontinued, the operation has moved to a new location, or the license has been revoked, the existing license immediately becomes null and void and the licensee shall surrender the existing license to the Licensing Division.
+D. A new application shall not be processed if an application or license is currently on file with the Licensing Division for the same location, with the exception of a change of ownership application
+E. Two licenses shall not be issued simultaneously for the same physical address.
+F. All early learning care and education provided at a physical address shall be included under one license.
+G. If an early learning center operates summer and/or holiday camps at the location, such care shall be included under a single license for the location.
+H. All new construction or renovation of a center requires approval from the Office of State Fire Marshal, the Office of Public Health and the Licensing Division prior to occupying the new or renovated space.
+AUTHORITY NOTE: 17:407.39.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:623 (April 2015), effective July 1, 2015, amended LR 41:2105 (October 2015).
+§705. Access
+A. An early learning center shall allow the Licensing Division staff access to the center, the children, and all files and records at any time during any hours of operation or any time a child is present.
+B. Licensing Division staff shall be allowed to interview any center staff person deemed necessary by the Licensing Division.
+C. Licensing Division staff shall be admitted into a center immediately and without delay and shall be given free access to all areas of a center, including its grounds.
+D. If any portion of a center is set aside for private use by an owner of the center, Licensing Division staff shall be permitted to verify that no children are present in that portion of the center and that such private areas are inaccessible to children.
+1.
+Administrative Fees
+Promulgated
+in accordance
+with R.S.
+Promulgated
+by the Board of
+AUTHORITY NOTE: 17:407.43.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:623 (April 2015), effective July 1, 2015.
+§707. Fees
+A. All fees shall be paid by money order, certified check, government check, or electronic payment where available, and are non-refundable. Payments shall be made to the Louisiana Department of Education, Licensing Division.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+a.
+with each application for initial licensure. This fee shall be applied toward the total licensure fee, which is due prior to the issuance of an initial license, if applicable.
+b. An administrative fee of $25 shall be submitted for any change that requires the issuance of a new license or the reissuance of a current license outside of the regular renewal of the license. Some examples include changes in capacity, name, age range, and transportation.
+c. An administrative fee of $5 is required to issue a duplicate license with no changes.
+d. All early learning centers are required to pay administrative fees.
+2. Annual Licensure Fees
+An administrative fee of $25 shall be submitted
+AUTHORITY NOTE: Promulgated 17:407.39(C) and R.S. 17:407.40.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:624 (April 2015), effective July 1, 2015, amended LR 42:554 (April 2016).
+§711. Renewal Applications
+A. A license must be renewed by the last day of the month in which the current license expires.
+B. An application for renewal of a license shall be submitted to the Licensing Division on a form furnished by the Licensing Division.
+C. Each center is solely responsible for obtaining the form to apply for renewal of a license and timely applying for renewal. Notice of time for renewal shall not be sent by the Licensing Division.
+Louisiana Administrative Code
+April 2017
+10
+EDUCATION
+in accordance with R.S.
+by the Board of
+
+D. Renewal applications should be submitted prior to the first day of the month in which the current license expires.
+E. If a complete renewal application, including the total annual licensure fee and all required documentation, is not received by or postmarked by the last day of the month in which the license expires, the license expires and shall not be renewed.
+F. If a license expires, the early learning center shall cease operation by close of business on the expiration date stated on the license. An application for a new license shall be required if the owner desires to resume operations at the center.
+Chapter 9.
+Changes Requiring a New License
+AUTHORITY NOTE: Promulgated 17:407.40 and R.S. 17:407.43.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:624 (April 2015), effective July 1, 2015.
+§713. Renewal and Other Inspection Procedures
+A. Annual inspections and current approvals by the Office of Public Health, Office of State Fire Marshal, city fire (if applicable), Office of Early Childhood (if type III center) and the Licensing Division shall be required before the expiration of an existing license.
+1. Required approvals from these agencies may be extended by such authorized agencies through written communication with the center or the Licensing Division.
+2. A renewal inspection by the Licensing Division is similar to the initial licensing inspection.
+a. Documentation of the previous 12 months of activities at a center shall be available for review during renewal and other inspections.
+B. After initial licensure, inspections shall be conducted as deemed necessary by the Licensing Division at regular intervals not to exceed one year, and without notice to the early learning center.
+C. The director shall have an opportunity to review inspection deficiencies (if any) in consultation with Licensing Division staff.
+1. If the director is not present at the center or is unable or unwilling to review the inspection deficiencies, the Licensing Division staff shall review with any staff at the center.
+2. If Licensing Division staff is unable to conduct such a review due to the absence or refusal of staff to participate, the licensing staff shall leave a copy of the deficiencies at the center, and this shall constitute notice of the deficiencies to the center and its owners and director.
+AUTHORITY NOTE: 17:407.40.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:624 (April 2015), effective July 1, 2015.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+in accordance with R.S.
+by the Board of
+Title 28, Part CLXI
+11
+Louisiana Administrative Code April 2017
+§901.
+Change in Location
+A.
+it is considered a new operation, and a new application and fee for licensure must be submitted and a new license obtained, prior to opening at the new location.
+B. Temporary Change in Location
+1. If a currently licensed center closes for reasons, including but not limited to fire on the premises or structural damages to the center, and the children are relocated to a temporary location until repairs have been made, it is considered a new operation and a new license is required prior to opening at the new temporary location.
+2. The license at the existing location shall not transfer to the temporary location. The existing license shall be closed on the last day care was provided at that location.
+3. Any change of location, however temporary, renders the license for the existing center null and void.
+Change in Location. When a center changes location,
+AUTHORITY NOTE: Promulgated 17:407.39 and R.S. 17:407.40.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:625 (April 2015), effective July 1, 2015.
+§903. Change of Ownership
+A. When a center changes ownership, the current license is not transferable.
+B. Prior to the ownership change, the new owner shall submit a new application and fee for licensure and obtain a new license.
+C. Any of the following constitute a change of ownership:
+1. change in federal tax ID number;
+2. change in state tax ID number;
+3. change in profit status;
+4. any transfer of partial or full ownership of the
+center from an individual or juridical entity to any other individual or juridical entity;
+5. termination of child care services by one owner and beginning of services by a different owner without a break in services to children.
+AUTHORITY NOTE: Promulgated 17:407.39 and R.S. 17:407.40.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:625 (April 2015), effective July 1, 2015, amended LR 41:2105 (October 2015).
+§905. Change in License Type
+A. Any early learning center holding a type III license that intends to change its license type at any time during the following calendar year shall notify the Licensing Division
+in accordance with R.S.
+by the Board of
+in accordance with R.S.
+by the Board of
+
+EDUCATION of its intent to change license type no later than December
+first of the preceding year.
+B. To change license type, an early learning center shall submit a written request to change its license type and a $25 change fee to the Licensing Division.
+C. Upon receipt of the written request and fee, and verification of substantial compliance with the applicable licensing regulations, the Licensing Division shall issue a replacement license of the new type to the center and the center shall surrender its existing license to the Licensing Division.
+3. reportable infectious diseases and conditions listed in LAC 51.II.105; and
+4. any other significant event relating to the health, safety, or well-being of any child, including but not limited to a lost child, an emergency situation, fire or other structural damage, or closure of the center.
+B. The parent shall be contacted immediately following any immediate notifications made under Subsection A.
+C. The Licensing Division and other appropriate agencies shall be notified via email within 24 hours of the incident.
+D. The Licensing Division shall be notified by written report within 24 hours of the incident or the next business day. This written notification shall be made on the Licensing Division’s critical incidents report form and shall contain all information requested on the form.
+E. Reporting deadlines may be adjusted in the event of a natural catastrophe and/or disaster, as determined by the department.
+AUTHORITY NOTE: Promulgated 17:407.36 and R.S. 17:407.38-39.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:625 (April 2015), effective July 1, 2015, amended LR 42:554 (April 2016).
+§907. Notification of Temporary or Permanent Closure
+A. A center shall notify the Licensing Division in writing of a temporary closure (closure of more than 14 calendar days, but less than 30 calendar days) within one day of closure of the center.
+B. The provider shall notify the Licensing Division in writing of a permanent closure of center (closure of more than 30 calendar days) within seven calendar days of closure of the center.
+AUTHORITY NOTE: Promulgated 17:407.39 and R.S. 17:407.40.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:625 (April 2015), effective July 1, 2015.
+Chapter 11. Operating Violations and Incidents; Fines; Appeals
+§1101. Non-Critical Operating Violations
+A. When non-critical violations are identified during an on-site inspection, the Licensing Division may allow the center an opportunity to immediately remedy the violation or deficiency, if the Licensing Division determines that allowing such remedy does not endanger the health, safety, or well-being of any child. The Licensing Division may consider the remedy as acceptable corrective action.
+AUTHORITY NOTE: Promulgated in accordance with .S. 17:407.39 and R.S. 17:407.40.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:625 (April 2015), effective July 1, 2015.
+§1103. Critical Incidents and Required Notifications
+A. An early learning center shall make immediate notification to emergency personnel, law enforcement as applicable, and other appropriate agencies for the following types of critical incidents involving children in care:
+1. death;
+2. serious injury or illness that required medical attention;
+Louisiana Administrative Code April 2017
+12
+in accordance with R.S.
+by the Board of
+in accordance with R.S.
+by the Board of
+AUTHORITY NOTE: 17:407.40.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:625 (April 2015), effective July 1, 2015.
+§1105. Identified Violations and Fines
+A. For violations related to the following licensing standards, when such violation does not pose an imminent threat to the health, safety, rights, or welfare of a child, the Licensing Division may issue a written warning in lieu of revoking or refusing to renew the license:
+1. supervision (§1713);
+2. criminal history records check (§507, §1703); 3. state central registry disclosure (§509, §1705); 4. child to staff ratios (§1711);
+5. motor vehicle passenger checks (§2107); and 6. failure to report critical incidents (§1103).
+B. Where such a violation does not result in the revocation of or refusal to renew a license, the Licensing Division shall issue a written warning/notice of violation of the standards listed in Subsection A that shall include:
+1. a corrective action plan (CAP) that outlines the required actions which shall be implemented or completed immediately; and
+2. notice that failure to timely take the required action may result in the assessment of a civil fine or the revocation of or refusal to renew the license, or both.
+C. Second Violation or Deficiency. If the CAP is not timely implemented or if a second violation related to the same standard occurs within a 24-month period, and does not result in the revocation of or refusal to renew a license,
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+
+the Licensing Division shall issue a written notice of violation that:
+1. may include the requirement to take additional corrective action; and
+2. may include the assessment of a civil fine of up to $250 per day for each day of the violation, not to exceed $2,000 within a consecutive 12-month period; and
+a. the factors to be used in determining the type of sanction imposed include the severity of the risk, actual harm and mitigating circumstances, failure to implement a corrective action plan, history of noncompliance, continuing and repeat deficiencies, good-faith effort to comply and any other relevant factors;
+3. shall include notice of the right to request departmental reconsideration if a civil fine/sanction is assessed; and that failure to request departmental consideration shall result in the loss of any further right to appeal the civil fine/sanction.
+§1109. Administrative Appeal of Assessment of Fine
+A. A written request for an appeal to the Division of Administrative Law (DAL) of a civil fine for a violation of the licensing standards listed in §1105.A must be received by the Licensing Division within 15 calendar days of the center’s receipt of notice of the Licensing Division’s decision upon reconsideration.
+B. The written request for an appeal to the DAL shall include:
+1. a copy of the original assessment of fine;
+2. a copy of the decision from the Licensing Division
+upon reconsideration; and
+3. the specific reasons the center believes the decision of the Licensing Division was reached in error.
+C. The Licensing Division shall notify the DAL of an appeal request within 10 calendar days of receipt of the request.
+D. The DAL shall conduct a hearing in the matter in accordance with R.S. 17:407.46 and the Administrative Procedure Act found at R.S. 49:950 et seq.
+E. The appeal shall be suspensive.
+F. During the pendency of an appeal, the center may continue to receive funding for services provided to those eligible children as determined by the department.
+Promulgated
+in accordance with R.S.
+AUTHORITY NOTE: 17:407.46.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:626 (April 2015), effective July 1, 2015, amended LR 41:2105 (October 2015).
+§1107. Departmental Reconsideration of Assessment of Fine
+A. A request for departmental reconsideration of an assessment of fine for a violation of the licensing standards listed in §1105.A must be received by the Licensing Division within 10 calendar days of the center’s receipt of a written notice of assessment of fine.
+B. If a request for departmental reconsideration is not timely received by the Licensing Division, the center shall not have any further right to appeal the assessment of fine.
+C. A request for departmental reconsideration shall:
+1. include a copy of the original assessment of fine;
+2. provide any new information, if applicable; and
+3. provide specific reasons as to why the Licensing
+Division should reconsider the assessment of fine.
+D. The Licensing Division shall provide notice to a center in writing of its decision after reconsidering the assessment of fine.
+E. If the Licensing Division determines that the assessment of fine is justified, the Licensing Division shall provide the center with written notice of the decision that includes notice of the center’s right to request an appeal to the Division of Administrative Law (DAL) within 15 calendar days of receipt of said notice and the procedures for requesting an appeal.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.46.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:626 (April 2015), effective July 1, 2015.
+Promulgated
+by the Board of
+Title 28, Part CLXI
+13
+Louisiana Administrative Code April 2017
+AUTHORITY NOTE: 17:407.46.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:626 (April 2015), effective July 1, 2015.
+§1111. Payment of Fines
+A. Fines for violations of licensing standards listed in §1105.A are due within 30 calendar days of receipt of written notice of assessment of fines, unless the center timely submits a request for departmental reconsideration.
+B. If the Licensing Division notifies a center that its decision upon reconsideration is that the original decision is justified, the fine remains due within 30 calendar days of the original notice of assessment of fines or within 14 calendar days of notice of the decision upon reconsideration, whichever is later, unless the center timely submits a request for an administrative appeal to the Licensing Division.
+C. If the department timely receives a request for an administrative appeal for an assessment of fines based on a violation of the licensing standards listed in §1105.A and said assessment is affirmed by the DAL, the fine shall be due and payable within 30 calendar days of receipt of notice of the decision by the DAL, unless the center timely seeks judicial review of the administrative decision.
+D. If a center timely seeks judicial review of the administrative decision, and judicial review is denied or dismissed, the fines shall be due and payable within 30 calendar days of the denial or dismissal.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+
+EDUCATION E. If a center does not timely pay a fine for a violation of
+the licensing standards listed in §1105.A:
+1. its license may be immediately revoked;
+2. the Licensing Division shall refer uncollected fines
+to the Office of the Attorney General for collection, and the organization owing the fine shall be assessed, and shall be required to pay, the additional collection fee assessed by the Office of the Attorney General;
+3. interest shall begin to accrue on a fine at the current judicial rate on the day following the day the fine becomes due and payable.
+14. any instance of corporal punishment, physical punishment, cruel, severe, or unusual punishment, or physical or sexual abuse or neglect, if the owner is responsible or if the employee who is responsible remains in the employment of the center;
+15. any act of fraud, such as the submission of false or altered documents or information; and
+16. the center is closed and there are no plans for immediate reopening and no means of verifying compliance with licensing laws, regulations and minimum standards.
+AUTHORITY NOTE: 17:407.46.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:626 (April 2015), effective July 1, 2015, amended LR 41:2105 (October 2015).
+Chapter 13. Denial, Revocation or Non-Renewal of License
+§1301. Reasons for Denial, Revocation or Refusal to Renew
+A. The following is an illustrative, but not exclusive, list of reasons that an application for licensure may be denied or a license may be revoked or renewal refused:
+1. violation of any provision of R.S. 17:407.31 et seq.;
+2. violation of any rules and regulations in this bulletin;
+3. failure to meet any minimum standards in this bulletin;
+4. failure to take steps or actions reasonably necessary to ensure the health and safety and well-being of children in care;
+5. failure to timely comply with a corrective action plan approved by the Licensing Division;
+6. failure to obtain approval of any agency whose approval is required for licensure;
+7. failure to report a known or suspected incident of abuse or neglect to child welfare authorities;
+8. denial of center access to Licensing Division staff or failure or refusal to cooperate with Licensing Division staff in the performance of official duties;
+9. history of non-compliance with licensing laws, rules, or minimum standards;
+10. nonpayment of licensure fee;
+11. failure to submit application for renewal prior to the expiration of the license;
+12. if the owner or director is not reputable;
+13. if the owner, director, or a staff member is unsuited for the care of children in the center;
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+Promulgated
+by the Board of
+Louisiana Administrative Code April 2017
+14
+AUTHORITY NOTE: 17:407.44.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:627 (April 2015), effective July 1, 2015, amended LR 41:2105 (October 2015).
+§1303. Notice of Denial, Revocation or Refusal to Renew
+A. The Licensing Division shall provide written notice to a center of its reasons for the denial of an application for licensure or the revocation of or refusal to renew a license and of the right to appeal the decision to the Division of Administrative Law (DAL).
+B. The denial, revocation or refusal to renew shall be effective when notice is given and the center shall surrender its existing license to the Licensing Division.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.44.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:627 (April 2015), effective July 1, 2015, amended LR 41:2105 (October 2015), LR 42:554 (April 2016).
+§1305. Posting of Notice of Revocation
+A. The Licensing Division shall prominently post notice of a revocation action at each public entrance of the center within one business day of such action.
+B. Such notice of revocation shall remain posted and visible to parents of children at the center throughout the pendency of any appeals of the revocation.
+C. The center shall not permit the destruction or removal of a notice of revocation action and shall ensure that the notice continues to be visible to any person entering the center throughout the pendency of any appeals.
+AUTHORITYNOTE: Promulgated in accordance with R.S. 17:407.44.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:627 (April 2015), effective July 1, 2015.
+§1307. Appeal of Denial, Revocation or Refusal to Renew
+A. A center has 30 calendar days to request an appeal of the denial of its application for licensure and 15 calendar days to request an appeal of the revocation of or the refusal to renew its license.
+Promulgated
+in accordance with R.S.
+
+B. The Licensing Division must receive a written request for an appeal within 30 calendar days of the center’s receipt of notice of the denial of its application and within 15 calendar days of the center’s receipt of notice of revocation of or refusal to renew its license.
+C. A center may continue to operate during the appeals unless the Licensing Division determines that the health, safety or welfare of children in care imperatively requires immediate closure of the center and incorporates that finding in its notice of revocation.
+D. A request for an appeal submitted to the Licensing Division shall include:
+1. a copy of the written reasons for denial, revocation or refusal to renew; and
+2. written identification of specific areas of the decision believed to be erroneous and/or specific reasons the decision is believed to have been reached in error.
+E. The Licensing Division shall notify the Division of Administrative Law (DAL) within 10 calendar of receipt of a timely request for an appeal of the denial of an application or the revocation of or refusal to renew a license.
+F. The DAL shall hold a hearing no later than 30 calendar days after receipt of such notice, with an administrative ruling provided to the center no later than 15 calendar days from the date of the hearing for revocation or refusal to renew a license, or within 30 calendar days from the date of a hearing for the denial of a license.
+G. If the DAL affirms the decision of the Licensing Division, or if the appeal is dismissed, the center shall terminate operations immediately.
+H. The Licensing Division shall have the right to seek judicial review of any final decision or order rendered by the DAL in any appeal hearing arising under this Chapter.
+C. Any unlicensed operation during the disqualification period shall interrupt running of the 24-month prescriptive period until the Licensing Division has verification that the unlicensed operations have ceased.
+D. Any pending application by the same center shall be treated as an application for a new center for purposes of this Section and may be denied and subject to the disqualification period.
+E. If the owner of a center has multiple licensed early learning centers and the license of one center is revoked, renewal is refused, or the license is surrendered to avoid adverse action, a capacity increase may be denied at any of the other existing licensed centers for the minimum disqualification period.
+F. If the owner of a center has multiple licensed early learning centers, and a license is revoked, renewal is refused, or the license is surrendered to avoid adverse action for one center due to the actions on the part of the owner or a director who is responsible for more than one center, the licenses at all locations may be reviewed for possible revocation or refusal to renew.
+G. If an applicant has a history of non-compliance with licensing laws, regulations or minimum standards, including but not limited operating without a license, or has been denied one or more previous applications for licensure, the Licensing Division may refuse to accept a subsequent application from the applicant for the minimum disqualification period after the effective date of the most recent adverse action.
+H. An application for a new license for a center whose license has been revoked or renewal has been refused, or whose license has been surrendered to avoid adverse action, may be denied if the applicant is an affiliate of the center.
+1. Affiliate for purposes of this Section means:
+a. each partner or member of a partnership or
+limited liability company;
+b. each officer, director and stockholder of a corporation;
+c. and with respect to a natural person:
+i. that person and any individual related by blood, marriage or adoption within the third degree of kinship to that person;
+ii. any partnership, together with any or all of its partners, in which that person is a partner; and
+iii. any corporation in which that person is an officer, director or stockholder, or directly or indirectly holds a controlling interest;
+d. with respect to any of the above, any mandatary, agent or representative, or any other natural or juridical person acting at the direction or on behalf of the licensee or applicant; and
+e. the director of any such early learning center.
+AUTHORITY NOTE: Promulgated in accordance with 17:407.45.
+R.S.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:627 (April 2015), effective July 1, 2015, amended LR 41:2106 (October 2015), LR 42:554 (April 2016).
+§1309. Disqualification Period Following Revocation or Refusal to Renew
+A. If a license is revoked or renewal is refused due to failure to comply with licensing laws, regulations or minimum standards, or if a license is surrendered to avoid such adverse action, a center shall not be qualified to submit a new application for licensure for a minimum disqualification period of 24 months.
+B. The minimum disqualification period shall begin on the later of:
+1. the effective date of revocation, refusal to renew, or surrender to avoid adverse action; or
+2. the day after all appeal rights have been exhausted.
+Title 28, Part CLXI
+15
+Louisiana Administrative Code April 2017
+
+I. If a license is revoked due solely to the disapproval from any agency whose approval is required for licensure, or due solely to the center being closed and with no immediate plans for re-opening within 30 calendar days and with no means for the Licensing Division to verify compliance with minimum standards for licensure, the disqualification period may be partially or totally waived at the discretion of the Licensing Division.
+1. The Licensing Division may accept a subsequent application for a license that shall be reviewed by the Licensing Division prior to a decision being made to grant a license.
+2. The Licensing Division reserves the right to determine, at its sole discretion, whether to issue any subsequent license.
+J. If an application for a license has been denied or a license revoked, renewal refused or the license surrendered to avoid adverse action, any owner, officer, member, manager, director or administrator of such licensee shall be prohibited from owning, managing, directing or operating another licensed center for a disqualification period of not less than 24 months from the date of the final disposition of the most recent adverse action.
+1. The lapse of 24 months shall not automatically restore eligibility to a person disqualified under this Subsection.
+2. The Licensing Division, at its sole discretion, may determine if a longer period of disqualification is warranted based upon the facts of each case.
+Chapter 15. Minimum General Requirements and Standards
+§1501. Operations
+A. A center shall operate within the licensed capacity, age range, hours of operation and other specific services designated on its license.
+AUTHORITY NOTE: Promulgated 17:407.44 and R.S. 17:407.45.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:628 (April 2015), effective July 1, 2015.
+§1311. Licensure Process Following Disqualification Period
+A. Only centers and affiliates that have completed the 24-month disqualification period and/or other disqualification sanctions imposed by the Licensing Division, may apply for a new license in accordance with this bulletin.
+B. Any application for a new license submitted after the minimum disqualification period shall be reviewed by the Licensing Division for any unresolved matters pertaining to the disqualification prior to making a determination to grant a license. The right to deny a subsequent application for licensure rests solely in the discretion of the Licensing Division.
+Promulgated
+in accordance with R.S.
+AUTHORITY NOTE: Promulgated 17:407. 44 and R.S. 17:407.45.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:628 (April 2015), effective July 1, 2015.
+Louisiana Administrative Code April 2017
+16
+in accordance with R.S.
+by the Board of
+Promulgated
+by the Board of
+in accordance with R.S.
+by the Board of
+EDUCATION
+AUTHORITY NOTE: 17:407.40.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:629 (April 2015), effective July 1, 2015.
+§1503. General Liability Insurance Policy
+A. A center shall maintain in force at all times current commercial liability insurance for the operation of the center to ensure medical coverage for children in the event of accident or injury.
+B. A center is responsible for payment of medical expenses of a child injured while in the center’s care.
+C. Documentation of commercial liability insurance shall consist of the insurance policy or current binder that includes the name of the early learning center, physical address of the center, name of the insurance company, policy number, period of coverage and explanation of the coverage.
+D. Parents shall not be required to waive the center’s responsibility.
+E. Parents may elect to use their own insurance.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+AUTHORITY NOTE: 17:407.40.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:629 (April 2015), effective July 1, 2015.
+§1505. Visitors
+A. Any visitor, as defined in §103, to the center shall be accompanied by an adult staff person at all times.
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:629 (April 2015), effective July 1, 2015.
+§1507. Daily Attendance Records
+A. Children. A daily attendance record for children shall be maintained that shall:
+1. include the child’s first and last name, arrival and departure times, and first and last name of person or entity to whom the child is released;
+2. accurately reflect children on the center premises at any given time; and
+3. be used to sign in and out if a child leaves and returns to the center during the day.
+B. Staff and Owners. A daily attendance record for all staff members and owners shall be maintained that shall:
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+
+1. include the first and last name of the staff member or owner and arrival and departure times;
+2. accurately reflect the staff members and owners on the center premises at any given time; and
+3. be used to document staff members and owners who leave and return to the center during the day.
+C. Independent Contractors. A daily attendance record for all extracurricular personnel, therapeutic professionals and other independent contractors, to include the first and last name, date of visit, arrival and departure times, and purpose of the visit.
+D. Student Trainees. A daily attendance record for all student trainees to include the student’s first and last name, school affiliation and date and arrival and departure times.
+E. Visitors. A daily attendance record for all visitors to include the name, date of visit, arrival and departure times, and the purpose of the visit.
+F. Daily attendance records shall be maintained for three years.
+5. complaint policy:
+a. parents shall be advised of the licensing authority of the Licensing Division along with the current telephone number and email address. Parents shall also be advised that they may call or write the Licensing Division should they have significant, unresolved licensing complaints;
+6. parental access policy:
+a. parents shall be allowed to visit the center anytime during its regular hours of operation and when children are present;
+7. parental involvement policy:
+a. parents shall be offered a minimum of two opportunities for involvement each year, which may include but are not limited to, an open house, parent education session, parent and staff conference, family pot luck dinner, holiday party or parent or grandparent’s day;
+8. behavior management policy:
+a. each center shall develop and implement a written behavior management policy describing the methods of behavior guidance and management that shall be used at the center;
+b. the behavior management policy shall prohibit children from being subject to any of the following:
+i. physical or corporal punishment which includes but is not limited to yelling, slapping, spanking, yanking, shaking, pinching, exposure to extreme temperatures or other measures producing physical pain, putting anything in the mouth of a child, requiring a child to exercise, or placing a child in an uncomfortable position;
+ii. verbal abuse, which includes but is not limited to using offensive or profane language, telling a child to “shut up”, or making derogatory remarks about children or family members of children in the presence of children;
+iii. the threat of a prohibited action even if there is no intent to follow through with the threat;
+iv. being disciplined by another child;
+v. being bullied by another child;
+vi. being deprived of food or beverages;
+vii. being restrained by devices such as high chairs
+or feeding tables for disciplinary purposes; and
+viii. having active play time withheld for disciplinary purposes, except timeout may be used during active play time for an infraction incurred during the playtime;
+Promulgated
+in accordance with
+R.S.
+AUTHORITY NOTE: 17:407.40.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:629 (April 2015), effective July 1, 2015.
+§1509. Policies
+A. An early learning center shall establish in writing and implement the following policies and minimum provisions of such policies:
+1. child abuse and neglect policy:
+a. as mandated reporters, all staff and owners shall report any suspected abuse or neglect of a child to the Louisiana Child Protection Statewide Hotline (855) 4LA- KIDS [(855) 452-5437];
+b. an early learning center shall not delay the reporting of suspected abuse or neglect to the Child Protection Statewide Hotline in order to conduct an internal investigation to verify the abuse or neglect allegations; and
+c. an early learning center shall not require staff to report suspected abuse or neglect to the center or management prior to reporting it to the Child Protection Statewide Hotline;
+2. non-discrimination policy that prohibits discrimination on the basis of race, color, creed, sex, national origin, handicap, ancestry or whether a child is being breastfed;
+3. admissions policy that includes admission criteria;
+4. disclosure of information policy that provides notice to parents of the licensing authority of the Licensing Division and the availability of licensing surveys/inspections, regulations and information regarding early learning centers from the Department of Education’s website;
+Promulgated
+by the Board of
+Title 28, Part CLXI
+17
+Louisiana Administrative Code April 2017
+c.
+i. age two;
+ii.
+time out:
+time out shall not be used for children under
+a time out shall take place within sight of staff;
+
+iii. the length of each time out shall be based on the age of the child and shall not exceed one minute per year of age;
+iv. for children over age six, a time out may be extended beyond one minute per year of age, if a signed and dated statement, including a maximum time limit, from the parent granting such permission, is on file at the center;
+9. electronic devices policy that provides that all activities involving electronic devices, including but not limited to television, movies, games, videos, computers and hand held electronic devices, shall adhere to the following limitations:
+a. electronic device activities for children under age two are prohibited; and
+b. time allowed for electronic device activities for children ages two and above shall not exceed two hours per day;
+10. computer practices policy that requires computers that allow internet access by children to be equipped with monitoring or filtering software that limits access by children to inappropriate websites, e-mail, and instant messaging;
+11. programs, movies and video games policy:
+a. programs, movies, and video games with violent or adult content, including but not limited to soap operas, television news, and sports programs aimed at audiences other than children, shall not be permitted in the presence of children;
+b. all television, video, DVD, or other programming shall be suitable for the youngest child present;
+c. “PG” programming or its television equivalent shall not be shown to children under age five;
+d. “PG” programming shall only be viewed by children age five and above and shall require written parental authorization;
+e. any programming with a rating more restrictive than “PG” is prohibited;
+f. all video games shall be suitable for the youngest child with access to the games:
+i. “E10+” rated games shall be permitted for children ages 10 years and older;
+ii. “T” and “M” rated games are prohibited.
+a. children under age two shall be provided time and space for age appropriate physical activity for a minimum of 60 minutes per day;
+b. children age two and older shall be provided a minimum of 60 minutes of physical activity per day that includes a combination of both teacher led and free play;
+2. sleep/rest:
+a. infants shall be allowed to sleep according to their individual schedules;
+b. children under age four shall have daily rest time of at least 75 minutes in programs operating more than 5 hours per day;
+c. children ages four and older shall be offered the opportunity for quiet time;
+3. receiving and releasing a child from the center.
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:629 (April 2015), effective July 1, 2015.
+§1511. Procedures
+A. An early learning center shall establish in writing and implement procedures for:
+1. physical activity:
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+Louisiana Administrative Code April 2017
+18
+EDUCATION
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:630 (April 2015), effective July 1, 2015, amended LR 41:2106 (October 2015).
+§1513. Schedules
+A. An early learning center shall establish in writing and post the following schedules:
+1. schedule of days and hours of operation, including scheduled days and holidays when center is closed; and
+2. daily schedule that includes times of planned activities, including early learning activities, allowing for flexibility and change.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:630 (April 2015), effective July 1, 2015.
+§1515. Child Records and Cumulative Files
+A. Cumulative File. A cumulative file shall be maintained on each child that shall include the following records:
+1. an information form signed and dated by the parent and updated as changes occur, that contains:
+a. name of child, date of birth, sex, date of admission;
+b. name of parents and the home address of both child and parents;
+c. phone numbers where parents may be reached while child is in care;
+d. name and phone number of person to contact in an emergency if parents cannot be located promptly;
+e. name and telephone number of child’s physician, if applicable;
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+
+f. name and telephone number of the child’s dentist, if applicable;
+g. any special concerns, including but not limited to allergies, chronic illnesses, and any special needs of the child, if applicable; and
+h. any special dietary needs, restrictions or food allergies or intolerances, if applicable. See Paragraph 4;
+2. written authorization signed and dated by the parent to secure emergency medical treatment; and
+3. written authorization signed and dated by the parent noting the first and last names of individuals to whom the child may be released other than the parents, including any other early learning centers, transportation services, and any person or persons who may remove the child from the center:
+a. the parent may further authorize additional individuals via a text message, fax, or email to the center in unplanned situations and follow it with a written authorization;
+b. a child shall never be released to anyone unless authorized in writing by the parent;
+c. any additions and deletions to the list of authorized individuals shall be signed and dated by the parent;
+d. the center shall verify the identity of the authorized person prior to releasing the child;
+4. special diets:
+a. unless the program is officially on the Child and Adult Care Food Program (CACFP), a parent may request special diet adjustments (i.e. no milk on a particular day);
+b. if a center is on the CACFP, a written statement from a health care provider is required when the child requires a special diet for medical reasons;
+c. a written statement from the parent is required when the child requires a modified diet.
+B. Consent to Release. The center shall obtain written consent from the parent prior to releasing any information, recordings, or photographs from which the child might be identified, except to authorized state and federal agencies. This one-time written consent shall be obtained from the parent and updated as changes occur.
+C. Confidentiality. The center shall maintain the confidentiality and security of all records of children. Center staff is prohibited from disclosing or knowingly permitting the disclosure of any information concerning the child or the family of the child, either directly or indirectly, to any unauthorized person.
+D. Retention of Records. Records of children shall be maintained by a center for a minimum of three years from the date of termination of the child’s enrollment at the center.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:630 (April 2015), effective July 1, 2015, amended LR 41:2106 (October 2015).
+Chapter 17. Minimum Staffing Requirements and Standards
+§1701. Prohibitions
+A. No person who has been convicted of, or pled guilty or nolo contendere to any crime included in R.S. 15:587.1(C) shall be hired by an early learning center as a volunteer, staff member, employee or independent contractor of any kind.
+B. No individual whose name is recorded on the state central registry within DCFS as a perpetrator for a justified (valid) finding of abuse or neglect of a child shall be hired by a licensed early learning center as a volunteer or staff member unless the individual has a current finding from DCFS indicating that the individual does not pose a risk to children.
+AUTHORITY NOTE: 17:407.40.
+Promulgated
+in accordance
+with R.S.
+Title 28, Part CLXI
+19
+Louisiana Administrative Code April 2017
+Promulgated
+in accordance with R.S.
+AUTHORITY NOTE: 17:407.42.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:631 (April 2015), effective July 1, 2015.
+§1703. Criminal Background Checks for Volunteers, Staff, Visitors and Independent Contractors
+A. Volunteers and Staff. An early learning center shall obtain a satisfactory fingerprint based criminal background check (CBC) from the bureau for each volunteer, staff member, or employee of any kind, prior to the person being present at the center or performing services for the center, and the center shall have copies of said documentation on- site at all times and available for inspection upon request by the Licensing Division.
+1. A CBC for volunteers and staff shall be dated no earlier than 30 calendar days of the individual’s hire date.
+2. If volunteers or staff leave the employ of the center for more than 30 calendar days, a new satisfactory CBC shall be obtained prior to the individual being rehired or present on the early learning center premises.
+a. For CBC purposes, volunteers or staff who are working at a center at the end of a school year, are off during the summer as part of the center’s scheduled yearly calendar dates of operation, and return to work at the same center for the beginning of the school year immediately following the summer they are off, are not considered to have left the employ of the center during the intervening summer.
+B. Visitors and Contractors. An early learning center shall obtain documentation of a satisfactory fingerprint- based CBC or RTR for each visitor or independent contractor of any kind, prior to the person being present at the center or performing services for the center unless the visitor or independent contractor, other than therapeutic professionals as defined in §103, will be accompanied at all times while on the center premises by an adult, paid, staff member who is not being counted in child-to-staff ratios, and
+Promulgated
+by the Board of
+
+the center shall have copies of said documentation on site at all times and available for inspection upon request by the Licensing Division.
+1. Documentation of the paid, adult staff member not otherwise counted in child to staff ratios who accompanied a visitor or independent contractor at all times while the visitor or contractor was on the center premises shall include the date, arrival and departure time of the visitor or contractor, language stating that the visit or contractor was accompanied by the staff member at all times while on the premises, and the signature of both the contractor and the accompanying staff member.
+C. Parents, Grandparents and Siblings
+1. Parents of an enrolled child, or other persons authorized in writing by the parents to pick up their child, who are only bringing a child to or picking up a child from an early learning center are not required to have a CBC.
+2. Parents, grandparents and siblings of an enrolled child who are attending a function at the center where center staff will be present and supervising all children are not required to have a CBC.
+D. CBC from Bureau. An early learning center may request a CBC from the bureau for any applicant, volunteer or staff member or independent contractor by submitting a request to the bureau that shall be made on a form prepared by the bureau, be signed by a responsible officer or official of the center, and include a statement signed by the person about whom the request is being made giving permission for such information to be released and the person’s fingerprints in a form acceptable to the bureau.
+E. A CBC or RTR is satisfactory if it shows no arrests for any crime included in R.S. 15:587.1(C), or if an arrest is shown on the CBC or RTR for any excludable offense, the CBC or RTR or documentation from the jurisdiction of arrest affirmatively shows that the charges were disposed of without a conviction. A plea of guilty or nolo contendere shall be deemed to be a conviction.
+contractor in order for the visitor or contractor to be present at the center. If a CBC is not obtained by the center or a new RTR is not obtained by the visitor or contractor and provided to the center prior to the one year expiration, the visitor or contractor is no longer allowed on the early learning center premises until a new satisfactory CBC is obtained by the center or a new satisfactory RTR is provided to the center.
+G. Court-Appointed Special Advocate. A court-appointed special advocate (CASA volunteer) shall submit to an early learning center his or her CASA volunteer order of assignment that is signed by a juvenile court judge and the CASA volunteer, and it shall be accepted by the center as documentation of a satisfactory fingerprint based CBC for the CASA volunteer pursuant to Louisiana Children’s Code Art. 424.1(D).
+F.
+RTR from Bureau
+a. If all requirements of this Subsection are met, the following individuals for whom their respective employers have previously obtained a satisfactory fingerprint-based CBC from the bureau, may submit to an early learning center a CBC affidavit, and the center shall accept the CBC affidavit as documentation of a satisfactory fingerprint-based CBC for the school year for which it is executed:
+i. local school district staff;
+ii. Department of Education staff;
+iii. Department of Health and Hospitals (DHH) staff; and
+iv. type III early learning center staff providing classroom observations in early childhood care and education classrooms pursuant to Chapter 5 of BESE Bulletin 140Louisiana Early Childhood Care and Education Network.
+b. The CBC affidavit shall be signed by the:
+i. local school superintendent, or his/her designee, for local school district staff;
+ii. state superintendent of education, or his/her designee, for Department of Education staff;
+iii. secretary of DHH, or his or her designee, for DHH staff; and
+iv. director of the type III early learning center, or his or her designee, for the early learning center staff. The designee for this purpose is not a “director designee” as defined in §103 and does not have to meet director qualifications.
+1. Applicant. If an applicant for employment has previously obtained an RTR from the bureau, it shall be accepted for a period of one year from the date of issuance by the bureau. Prior to the one-year expiration of the RTR, a satisfactory fingerprint-based CBC shall be obtained by the center for the volunteer or staff member in order for the individual to continue employment at the center. If a new CBC is not obtained prior to the one-year expiration of the RTR, the individual is no longer allowed on the early learning center premises until a new satisfactory CBC is obtained by the center.
+2. Visitor or Contractor. An RTR for a visitor or independent contractor shall be accepted for a period of one year from the date of issuance by the bureau. Prior to the one year expiration of the RTR, a new fingerprint based satisfactory CBC shall be obtained by the center or a new RTR shall be obtained by the visitor or independent
+c.
+i. Division;
+The CBC affidavit shall be valid if it:
+is in the form prescribed by the Licensing
+Louisiana Administrative Code April 2017
+20
+EDUCATION
+H. 1.
+CBC Affidavits/CBC Annual Letters First School YearCBC Affidavit
+expressly states that the person signing the
+ii.
+affidavit is certifying that the affidavit is being provided for a current employee for whom a satisfactory finger-print
+
+based CBC has been previously obtained by the local school district, department or early learning center;
+iii. is signed by the appropriate individual provided in Subparagraph H.1.b of this Section; and
+iv. is an original, completed, and notarized affidavit.
+d. The CBC affidavit shall be valid for the school year in which it is executed and shall expire on July 31 following the end of the school year.
+e. The center shall have a copy of the CBC affidavit on-site at all times and available for inspection upon request by the Licensing Division.
+individual being present in or providing services to the center and the center shall have a copies of such forms on- site at all times and available for inspection upon request by the Licensing Division.
+B. Any volunteer or staff member of an early learning center shall report on the state central registry disclosure form prior to being on the premises of the center, and shall update the report annually, at any time upon request by the Licensing Division.
+C. If a current staff member receives notice of a justified (valid) finding of child abuse and/or neglect against him, he shall complete an updated state central registry disclosure form noting the existence of the justified (valid) finding. This updated form shall be submitted to the Licensing Division within 24 hours or no later than the next business day, or upon being on the child care premises, whichever is sooner. The staff member will have 10 calendar days from completion of the state central registry disclosure form to request a risk assessment evaluation from DCFS or shall be terminated immediately.
+1. If the staff person will no longer be employed at the center, the center shall immediately submit to the Licensing Division a signed, dated statement noting the individual’s name and termination date.
+2. Immediately upon receipt of the knowledge that a justified (valid) finding has been issued by DCFS and as a condition of continued employment, the staff person with the justified (valid) finding, when in the presence of children shall be directly supervised by a paid staff (employee) of the center. Under no circumstances may the staff person with the justified finding be left alone and unsupervised with a child. The center shall submit a written statement to Licensing Division acknowledging that the staff person with the justified finding will not be left alone and unsupervised with a child or children pending the disposition by DCFS that the staff person does not pose a risk to children. When the aforementioned conditions are met, the staff may be counted in child/staff ratio.
+D. If DCFS finds the individual does pose a risk to children, the staff (employee/volunteer) shall be terminated immediately.
+E. Any information received or knowledge acquired that a current or prospective volunteer or employee, has falsified a state central registry disclosure form shall be reported in writing to a Licensing Division as soon as possible, but no later than the close of business on the next business day.
+F. Any state central registry disclosure form or finding by DCFS the a person poses no risk to children that is maintained in an early learning center file shall be confidential and subject to the confidentiality provisions of R.S. 46:56(F) pertaining to the investigations of abuse and/or neglect.
+2.
+Subsequent School YearsCBC Annual Letters
+a. In all subsequent school years following the school year in which a CBC affidavit is presented, the individuals listed in Subparagraph H.1.a of this Section, may present either a new CBC affidavit or CBC annual letter to an early learning center, and the center shall accept the CBC affidavit or the CBC annual letter as documentation of a satisfactory CBC for the school year for which it is executed or signed.
+b.
+The CBC annual letter shall:
+i.
+department or early learning center letterhead;
+be presented on the appropriate school district,
+ii. be in the form prescribed by the Licensing Division;
+iii. expressly state that the individual for whom the letter is provided has remained employed by the local school district, department, or the early learning center indicated in the original CBC affidavit presented to the center; and
+iv. be signed by the appropriate individual listed in Subparagraph H.1.b of this Section.
+c. The CBC annual letter shall be accepted by the early learning center only if the early learning center has a copy of the CBC affidavit on file for the individual.
+d. The CBC annual letter shall be valid for the school year in which it is signed and shall expire on July 31 following the end of the school year.
+e. The center shall have a copy of the CBC annual letter and the CBC affidavit on-site at all times and available for inspection upon request by the Licensing Division.
+AUTHORITY NOTE: 17:407.42.
+Promulgated
+in accordance with R.S.
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:631 (April 2015), effective July 1, 2015, amended LR 41:2106 (October 2015).
+§1705. State Central Registry Disclosure Forms for Volunteers and Staff
+A. A completed state central registry disclosure form or a current determination from the DCFS indicating that the individual does not pose a risk to children, shall be obtained by the center for all volunteers and staff prior to an
+Promulgated
+by the Board
+of
+Title 28, Part CLXI
+21
+Louisiana Administrative Code
+April 2017
+AUTHORITY NOTE: 17:407.41.
+Promulgated in
+accordance
+with R.S.
+
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:632 (April 2015), effective July 1, 2015.
+§1707. Required Staff
+A. Director or Director Designee. Each center shall have a qualified director or qualified director designee.
+1. The director or director designee shall be an on-site, full-time staff person at the center during the daytime hours of operation (prior to 9 p.m.).
+2. The director or director designee shall be responsible for planning, managing, and controlling the center’s daily activities, as well as responding to parental concerns and ensuring that minimum licensing requirements are met.
+B. Staff-in-Charge. When the director or director designee is not on the premises due to a temporary absence or during nighttime care hours, there shall be an individual appointed as staff-in-charge.
+1. The staff-in-charge shall be at least age 21.
+2. The staff-in-charge shall have the authority to respond to emergencies, inspections, parental concerns, and have access to all required information.
+C. More than 42 Children in Care. When the number of children present at an early learning center exceeds 42, the duties of the director or director designee shall consist only of performing administrative duties or there shall be an individual present whose job duties consist solely of administrative duties and of ensuring that staff members working with children do not leave their classrooms to handle administrative duties.
+D. Staff
+1. Staff shall be age 18 or older.
+2. A person age 17 may be included in the child-to-
+staff ratio if the person works under the direct supervision of an adult staff member.
+3. In type I centers only, a person age 16 may be included in the child-to-staff ratios if the person works under the direct supervision of an adult staff member.
+related field, and one year of experience in a licensed early learning center or comparable setting, subject to approval by the Licensing Division;
+2. an associate of arts degree in child development or a closely related area, and one year of experience in a licensed early learning center, or comparable setting, subject to approval by the Licensing Division;
+3. a national administrator credential and one year experience in a licensed early learning center, or comparable setting, plus 6 credit hours in child care, child development or early childhood or 90 clock hours of training in child care, child development or early childhood, subject to approval by the Licensing Division;
+4. a child development associate credential (CDA) and one year of experience in a licensed early learning center, or comparable setting, subject to approval by the Licensing Division;
+5. a diploma from a post-secondary technical early childhood education training program approved by the Board of Regents or correspondence course approved by the Licensing Division and one year of experience in a licensed early learning center, or comparable setting, subject to approval by the Licensing Division; or
+6. three years of experience as a director or staff in a licensed early learning center, or comparable setting, subject to approval by the Licensing Division; plus 6 credit hours in child care, child development or early childhood education, or 90 clock hours of training approved by the Licensing Division. Up to 3 credit hours or 45 clock hours may be in management/administration education.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.40(A)(1) and (3).
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:633 (April 2015), effective July 1, 2015.
+§1711. Child-to-Staff Minimum Ratios
+A. Child to staff ratios are established to ensure the safety of all children.
+AUTHORITY NOTE: 17:407.40(A)(3).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:633 (April 2015), effective July 1, 2015, amended LR 41:2107 (October 2015).
+§1709. Director Qualifications
+A. The director/director designee shall be at least 21 years of age.
+B. The director/director designee shall have documentation of at least one of the following upon date of hire as director or director designee:
+1. a bachelor's degree from an accredited college or university with at least 12 credit hours of child development or early childhood education or elementary education or a
+There shall be a minimum of two staff members
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+EDUCATION
+B.
+Minimum child to staff ratios shall be met at all times.
+1.
+present at an early learning center when more than one child is present.
+2. Only those staff members directly providing care, supervision or guidance to children shall be counted in the child to staff ratios.
+C. The Licensing Division form noting required child to staff ratios shall be posted in each room included in the center’s licensed capacity.
+D. Minimum Child to Staff Ratios for Type II and Type III Centers
+       Ages of Children
+           Ratio
+     Infants under 1 year
+      5:1
+     1 year
+         7:1
+     2 years
+      11:1
+    Louisiana Administrative Code April 2017
+22
+
+F.
+G.
+Minimum Child to Staff Ratios for Type I Centers
+Mixed Age Groups—Minimum Child to Staff Ratios
+H.
+Rest Time—Minimum Child to Staff Ratios
+1.
+ratios shall be present on the premises during rest time and available to assist as needed.
+Sufficient staffing needed to satisfy child to staff
+2. Children ages one and older may be grouped together at rest time with one staff member in each room supervising the resting children. If two rooms share a common doorway, one staff member may supervise the resting children in both rooms.
+3. If the view of the staff supervising the children is obstructed by an object such as a low shelving unit, children shall be checked by sight by staff circulating among the resting children.
+I. Walking To and From School. Minimum child to staff ratios shall be met when walking children to and from school.
+J. Field Trips—Minimum Child to Staff Ratios
+1. Minimum child to staff ratios, plus one additional adult, shall be met for all field trips.
+2. An adult staff member from the center shall be present with each group of children.
+N. 1.
+2.
+Maximum Group Size Type II and Type III
+Type I
+Title 28, Part CLXI
+     3 years
+         13:1
+     4 years
+       15:1
+     5 years
+          19:1
+      6 years and up
+      23:1
+     E. Future Minimum Child to Staff Ratios for Two-Year- Olds in Type II and Type III Centers. If the Louisiana Child Care Assistance Program subsidy rate reaches the 75 percentile of the 2012 Louisiana market rate survey rate for weekday care for toddlers by December 1, 2015, the child to staff ratios for two-year-olds shall decrease to 10:1 as of July 1, 2016.
+3. At no time shall a child or group of children be left alone without an adult staff member present unless the child is supervised by the parent of the child or designated representative authorized in writing by the parent.
+K. Non-vehicular Excursions—Minimum Child to Staff Ratios
+1. Minimum child to staff ratio, plus one additional adult, shall be met for all non-vehicular excursions.
+2. An adult staff member from the center shall be present with each group of children.
+3. At no time shall a child or group of children be left alone without an adult staff member present unless the child is supervised by the child’s parent or designated representative authorized in writing by the parent on the non-vehicular excursions.
+L. Water Activities—Minimum Child to Staff Ratios
+1. A minimum of two staff shall be present when children are engaged in water activities.
+2. The following minimum child to staff ratios apply when children are engaged in water activities, excluding water play activities, unless the children are participating in swimming lessons with a certified water safety instructor.
+3. The age of the youngest child determines the child to staff ratio when children in a group are of mixed ages.
+M. Special Needs Children—Minimum Child to Staff Ratios. When the nature of a child with special health care needs or the number of children with special health care needs warrants added care, the center shall add sufficient staff as necessary.
+         Ages of Children
+          Ratio
+      Infants under 1 year
+     6:1
+      1 year
+     8:1
+      2 years
+        12:1
+      3 years
+  14:1
+      4 years
+     16:1
+      5 years
+        20:1
+      6 years and up
+     25:1
+     1. An average of the child to staff ratios may be applied to mixed age groups of children ages two, three, four and five.
+2. Child to staff ratios for children under age two are excluded from averaging.
+3. When a mixed age group includes children younger than age two, the age of the youngest child determines the child to staff ratio for the group.
+4. An average may be applied to a mixed age group consisting only of children ages five and older.
+      Ages of Children
+          Ratio
+     Three years
+         20:2
+     Four years
+      25:2
+    Five years and up
+    30:2
+         Age of Children
+           Maximum Group Size
+     Infants under 1 year
+      15
+     1 year
+      21
+     2 years
+         22
+     3 years
+   26
+     4 years
+      30
+     5 years
+         38
+     6 years and up
+      46
+           Age of Children
+           Maximum Group Size
+     Infants under 1 year
+      18
+     1 year
+      24
+     2 years
+      24
+     3 years
+      28
+     4 years
+         32
+     5 years
+      40
+     6 years and up
+      50
+    23
+Louisiana Administrative Code
+April 2017
+
+AUTHORITY NOTE: 17:407.40(A)(3).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:633 (April 2015), effective July 1, 2015, amended LR 43:638 (April 2017).
+§1713. Supervision
+A. Children shall be supervised at all times in the center, on the playground, on field trips, on non-vehicular excursions, and during all water activities and water play activities.
+B. Children shall not be left alone in any room, (except the restroom as indicated in Subsection G of this Section or when being provided services by therapeutic professionals, as defined in §103), outdoors, or in vehicles, even momentarily, without staff present.
+C. A staff person shall be assigned to supervise specific children whose names and whereabouts that staff person shall know and with whom the staff person shall be physically present. Staff shall be able to state how many children are in their care at all times.
+D. Individuals who do not serve a purpose related to the care of children or who hinder supervision of children in care shall not be present in the center.
+E. While supervising a group of children, staff shall devote their time to supervising the children, meeting the needs of the children, and participating with them in their activities.
+F. Staff duties that include cooking, housekeeping or administrative functions shall not interfere with the supervision of children.
+G. Restrooms
+1. Children who are developmentally able may be permitted to go to the restroom independently at an early learning center, provided that:
+a. a staff member is in proximity to and can see the children to ensure immediate intervention to safeguard a child from harm while in the restroom; and
+b. individuals who are not staff members may not enter the center restroom area while in use by any child other than their own child.
+2. A child age four and older may be permitted to go and return from the restroom without staff.
+H. Play Yard. When children are at the play yard, the supervising staff member must be able to summon another adult staff member without leaving the children unsupervised.
+I. Water Activities. Staff shall actively supervise children engaged in water activities and shall be able to see all parts of the swimming pool, including the bottom.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.40(A)(3).
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:634 (April 2015),
+effective July 1, 2015, amended LR 41:2107 (October 2015), LR 42:554 (April 2016).
+§1715. Staff Records and Personnel Files
+A. Staff Members. Personnel files for each staff member shall be maintained at the center and shall include the following:
+1. an application or staff information form containing the following information: name, date of birth, home address and phone number, training, work experience, educational background and hire date;
+2. copy of a state or federal government issued photo identification;
+3. upon termination or resignation of employment, the last date of employment and reason for leaving;
+4. documentation of a fingerprint based satisfactory criminal background check; and
+5. documentation of a current, completed state central registry disclosure form indicating no justified (valid) finding of abuse or neglect by the DCFS, or a current determination from the DCFS indicating that the individual does not pose a risk to children.
+B. Records Retention. Staff records and personnel files shall be maintained for a minimum of three years from the date of termination of employment.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+Louisiana Administrative Code April 2017
+24
+EDUCATION
+AUTHORITY NOTE: Promulgated 17:407.40.
+HISTORICAL NOTE: Promulgated
+Elementary and Secondary Education, LR 41:635 (April 2015), effective July 1, 2015.
+§1717. Records for Independent Contractors and Student Trainees
+A. Independent Contractors. The following information shall be maintained for all independent contractors, including but not limited to therapeutic professionals, extracurricular personnel, contracted transportation drivers, Department of Education, Office of Early Childhood staff and local school district staff:
+1. an information form that includes the person’s name, address and phone number;
+2. a list of duties performed while present at the center; and
+3. documentation of a fingerprint based satisfactory criminal background check dated prior to the individual being present at the center or documentation of the paid, adult staff member not otherwise counted in child to staff ratios that accompanied the contractor at all times while the contractor was on the center premises, to include the date, contractor arrival and departure time, language stating that the contractor was accompanied by the staff member at all times while on the premises, and the signature of both the contractor and the accompanying staff member.
+B. Student Trainees. The following information shall be maintained for all student trainees:
+in accordance with R.S.
+by the Board of
+
+1. an application or information form with the student’s name, date of birth, address and telephone number, name of the educational center and course instructor, and a job description that includes duties to be performed.
+C. Records Retention. Records for independent contractors and student trainees shall be maintained for a minimum of three years from the date the contractor or student was last present at the center.
+§1721. Continuing Education
+A. Early learning centers shall provide opportunities for continuing education of staff members who are left alone with children, or who have supervisory or disciplinary authority over children.
+1. Such staff members of type II and type III centers, excluding foster grandparents, shall obtain a minimum of 12 clock hours of continuing education per center anniversary year.
+2. Such staff members of type I centers, excluding foster grandparents, shall obtain a minimum of three clock hours of continuing education per center anniversary year.
+a. Beginning July 1, 2015, such staff members of type I centers, excluding foster grandparents, shall obtain a minimum of 6 clock hours of continuing education per center anniversary year.
+b. Beginning July 1, 2016, such staff members of type I centers, excluding foster grandparents, shall obtain a minimum of 9 clock hours of continuing education per center anniversary year.
+c. Beginning July 1, 2017, such staff members of type I centers, excluding foster grandparents, shall obtain a minimum of 12 clock hours of continuing education per center anniversary year.
+B. Staff members of type I, type II and type III centers who are neither left alone with children, nor have supervisory or disciplinary authority over children, shall obtain a minimum of three clock hours of continuing education in job related topics per center’s anniversary year.
+C. Continuing education for all types of centers shall be conducted by trainers approved by the Licensing Division. The Licensing Division shall keep a registry of approved trainers.
+D. Continuing education hours shall be in the areas of:
+AUTHORITY NOTE: Promulgated in accordance with 17:407.40(A)(1), R.S. 17:407:40, and R.S. 17:407.42.
+R.S.
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:635 (April 2015), effective July 1, 2015.
+§1719. Orientation Training
+A. Within seven calendar days of date of hire, and prior to assuming sole responsibility for any children, each staff member shall receive orientation to the policies and practices of the center that at a minimum shall include:
+1. child abuse identification and reporting;
+2. emergency preparation;
+3. licensing regulations; and
+4. safe sleep practices.
+B. Within 30 calendar days of date of hire, each staff member shall receive orientation to the additional policies and practices of the center that at a minimum shall include:
+1. child development;
+2. child guidance;
+3. learning activities;
+4. health and safety;
+5. shaken baby prevention; and
+6. CPR and first aid, as applicable.
+C. All staff members responsible for transporting children shall receive additional orientation training in the following areas prior to assuming their transportation duties:
+1. transportation regulations, including the modeling of how to properly conduct a vehicle passenger check and demonstration by staff to director on how to conduct a vehicle passenger check;
+2. proper use of child safety restraints required by state law;
+3. proper loading, unloading, and tracking of children as required by state law;
+4. location of first aid supplies; and
+5. emergency procedures for the vehicle, including actions to be taken in the event of accidents or breakdowns.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11.
+child development; child guidance;
+child abuse prevention; emergency preparation; licensing regulations; learning activities; health and safety; shaken baby prevention; CPR;
+first aid; and
+management/administrativeeducation.
+AUTHORITY NOTE: 17:407.40(A)(1) and (3). HISTORICAL NOTE:
+Promulgated
+in accordance with R.S.
+E. The three hours of training by a child care health consultant on infectious diseases, health and safety, and/or food service preparation required in LAC 51:XXI.301.A.9
+Promulgated
+Elementary and Secondary Education, LR 41:635 (April 2015),
+by the Board of effective July 1, 2015, amended LR 42:555 (April 2016).
+Title 28, Part CLXI
+25
+Louisiana Administrative Code April 2017
+
+shall not count towards continuing education hours for staff members.
+F. Pediatric first aid training and infant/child/adult CPR training may count as continuing education in the anniversary year in which it is taken.
+G. Medication administration training by a child care health consultant may count as continuing education in the anniversary year in which it is taken.
+H. Copies of certificates of completion or attendance records shall be maintained at the center and available for inspection by the Licensing Division upon request.
+B. Whether administering medication or not, each early learning center shall have at least two staff members trained in medication administration.
+C. Such training shall be completed every two years with an approved child care health consultant.
+D. A licensed practical nurse (LPN) or registered nurse (RN) with a valid nursing license shall be considered to have medication administration training.
+E. Beginning on July 1, 2016, this Section shall apply to type I centers.
+AUTHORITY NOTE: Promulgated in accordance with R.S. 17:407.40(A)(1).
+HISTORICAL NOTE: Promulgated by the Board of Elementary and Secondary Education, LR 41:636 (April 2015), effective July 1, 2015.
+Chapter 19. Minimum Health, Safety, and Environment Requirements and Standards
+§1901. General Safety Requirements
+A. Telephones and Emergency Numbers
+1. A working phone capable of incoming and outgoing calls shall be readily available at the center at all times. Cellular phones are not acceptable for this purpose.
+2. When a center has multiple buildings and a phone is not located in each building where children are present, the center shall establish and follow written procedures for securing emergency help. The written procedures shall be posted in each building.
+3. Centers located in schools and churches shall have a phone within the licensed area.
+4. Appropriate emergency numbers, including but not limited to numbers for the fire and police departments, nearby hospitals and medical centers, Louisiana Poison Control and Child Protective Services, and the physical address of the center, shall be prominently posted on or near each phone.
+B. Lighting. Areas used by children shall be lighted in such a way as to allow visual supervision of the children at all times.
+C. End-of-Day Check. The entire center and play yard shall be checked after the last child departs to ensure that no child is left at the center and this check shall be documented. Documentation shall include date, time of visual check, and signature of the staff conducting the visual check.
+D. Sex Offender Registry. An early learning center shall register with the Louisiana State Police sex offender registry at www.lsp.org to receive updates when a sex offender moves within two miles of the center.
+E. Centers shall not permit any individual convicted of a sex offense as defined in R.S. 15:541 to have physical access to the center.
+AUTHORITY NOTE: 17:407.40(A)(1) and (3). HISTORICAL NOTE:
+Promulgated
+in accordance with R.S.
+Promulgated
+Elementary and Secondary Education, LR 41:636 (April 2015), effective July 1, 2015, amended LR 41:2108 (October 2015), LR
+42:555 (April 2016).
+§1723. CPR and First Aid Certifications
+A. Infant and child CPR. Fifty percent of staff members on the premises of a center and accessible to children, or at least four staff on the premises and accessible to children, whichever is less, shall have current certification in infant and child CPR.
+B. Adult CPR. Fifty percent of staff members on the premises of a center and accessible to children, or at least four staff on the premises and accessible to children, whichever is less, shall have current certification in adult CPR, except for type I centers, which shall have at least one staff member on the premises and accessible to children trained in adult CPR if there is a child eight years or older on the premises. Beginning on July 1, 2016, type I centers shall have 50 percent of staff members on the premises of a center and accessible to children or at least four staff on the premises and accessible to children, whichever is less, certified in adult CPR.
+C. Pediatric First Aid. Fifty percent of staff members on the premises of a center and accessible to children, or at least four staff on the premises and accessible to children, whichever is less, shall have current certification in pediatric first aid. Beginning on July 1, 2016, this Subsection shall apply type I centers.
+D. Certification. A copy of the certification for each such staff member shall be on-site at all times and available for inspection by the Licensing Division.
+E. First Responder. Staff members who maintain current certification as a first responder are considered to have current certification in CPR and pediatric first aid.
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:636 (April 2015), effective July 1, 2015.
+§1725. Medication Management Training
+A. All staff members who administer medication shall have medication administration training.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+Louisiana Administrative Code April 2017
+26
+by the Board of
+EDUCATION
+
+F. The owner or director of an early learning center shall immediately notify law enforcement personnel and the Licensing Division if they have knowledge that a registered sex offender is on the premises of the center. The verbal report shall be followed by a written report to the Licensing Division within 24 hours.
+G. All equipment used by children shall be maintained in a clean and safe condition and in good repair.
+H. Moveable equipment shall be secured and supported so that it shall not fall or tip over.
+I. Microwave ovens, bottle warming devices and crock pots are prohibited in areas accessible to children.
+J. Items that can be harmful to children, such as medications, poisons, cleaning supplies and chemicals, and equipment, tools, knives and other potentially dangerous utensils, shall kept in a locked cabinet or other secure place that ensures they are inaccessible to children.
+K. Plastic bags, when not in use, regardless of purpose or use, shall be made inaccessible to children.
+L. Construction, remodeling, and alterations of structures shall be done in such a manner so as to prevent hazards or unsafe conditions, such as fumes, dust and safety hazards.
+M. Strings and cords, including but not limited to those found on equipment, window coverings, televisions and radios, shall be inaccessible to children under age four.
+N. First aid supplies shall be kept at the center and shall be easily accessible to employees but not accessible to children.
+O. The center shall prohibit the use of alcohol and tobacco and the use or possession of illegal substances, unauthorized potentially toxic substances, fireworks and firearms, and pellet and BB guns on the center premises and notice to this effect shall be posted.
+P. The personal belongings of center staff members shall be inaccessible to children.
+Q. The center shall post a copy of the current “The Safety Box” newsletter issued by the Louisiana Office of the Attorney General and shall immediately remove from the early learning premises any items listed as recalled.
+R. Lawn cutting services shall not occur while children are on the playground or outside the early learning center.
+1. Exceptions are allowed only for schools or churches regarding the shared use of kitchens, dining rooms, restrooms and outdoor space.
+2. If a center is located in a school or church, the center shall have time designated for exclusive use of the outdoor play area.
+B. Physical Separation. An early learning center, except one located in a church or school, shall be physically separated from any other business or enterprise, thereby preventing unauthorized access to children in care.
+C. Indoor and outdoor areas shall be free of hazards. D. Indoor Space
+1. A minimum of 35 square feet of usable indoor space shall be available per child. The space shall not include toilet facilities, hallways, lofts, storage spaces, stairways, lockers, offices, storage or food preparation areas, rooms used exclusively for dining or sleeping, or rooms used exclusively for the care of ill children.
+2. The maximum number of children in care at one time, whether on or off the premises, shall not exceed the capacity as specified on the current license.
+3. Any room counted as play space shall be available for play for the duration of the hours of operation.
+4. Indoor space shall include an area for dining, which may be in each classroom.
+5. The number of children using a room shall be based on the 35 square feet per child requirement, except for dining, sleeping, and other non-routine activities such as film viewing and parties.
+6. In rooms with cribs, there shall be adequate open floor play space available for crawling, walking, pulling up and playing that is free of routine care furniture.
+7. An indoor area shall be maintained for the purpose of providing privacy for diapering, dressing and other personal care procedures for children beyond the usual diapering age.
+E. Outdoor Space
+1. A minimum of 75 square feet of outdoor play space per child using the play space at any one time shall be available.
+2. The minimum outdoor play space shall be available for at least one third of the licensed capacity.
+3. Outdoor play space shall be available through a direct exit from the center into the outdoor play space or shall be attached to the center in a manner that ensures children are continuously protected by a permanent fence or other permanent barrier while going to and from the center to the outdoor play space.
+4. Children shall not enter or exit the center through the kitchen.
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:636 (April 2015), effective July 1, 2015, amended LR 42:555 (April 2016).
+§1903. Physical Environment
+A. Exclusive Use of Space. Indoor and outdoor space shall be used exclusively by children in care and center staff during hours of operation.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+Title 28, Part CLXI
+27
+Louisiana Administrative Code April 2017
+
+5. Outdoor play space shall be enclosed with a permanent fence or other permanent barrier in a manner that protects children from traffic hazards, prevents children from leaving the premises without proper supervision, and prevents contact with animals or unauthorized persons.
+6. Crawlspaces and mechanical, electrical, or other hazardous equipment shall be made inaccessible to children.
+1. Developmentally appropriate seating shall be used.
+2. Chairs and tables of suitable size shall be available
+for each child.
+3. Feeding tables may be used at mealtimes, if children’s feet are able to rest comfortably on a foot rest.
+4. Feeding tables may also be used for occasional program activities that require a table surface for no longer than 30 minutes in one day in addition to mealtime minutes.
+C. Sleeping Arrangements
+1. Individual and appropriate sleeping arrangements shall be made available for each child age one and older.
+2. Individual sleeping accommodations shall be assigned to a child on a permanent basis and labeled, unless the cots or mats are sanitized daily.
+3. For programs serving children ages four and above only, individual and appropriate sleeping arrangements shall be made available for a child that requests a rest time.
+D. Bed Coverings
+1. A labeled sheet for covering the cot or mat and a labeled sheet or blanket for covering the child shall be provided by either the center or the parent, unless the cots or mats are covered with vinyl or another washable surface.
+2. Sheets and coverings shall be changed immediately when soiled or wet.
+3. Routine laundering shall occur at least weekly. E. Cribs
+1. Children are prohibited from sleeping in playpens or cribs with mesh sides.
+2. Cribs shall be free of toys and other soft or loose bedding, including comforters, blankets, sheets, bumper pads, pillows, stuffed animals and wedges when the child is in the crib.
+AUTHORITY NOTE: 17:407.40(A)(2).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:637 (April 2015), effective July 1, 2015, amended LR 41:2108 (October 2015).
+§1905. Nighttime Care for Children
+A. All minimum standards for early learning centers apply to centers that care for children after 9 p.m. and prior to 5 a.m., and in which no individual child remains for more than 24 hours in one continuous day.
+B.
+The following minimum standards also apply:
+1. staff-in-charge;
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+there shall be an employee on duty designated as
+2. in addition to meeting all required staff to child ratios in §1711, there shall always be a minimum of two staff members present;
+3. staff counted for purposes of meeting child to staff ratio shall be awake;
+4. meals shall be served to children at ordinary meal times;
+5. time for personal care routines and preparation for sleep, such as brushing teeth, washing hands and face, toileting and changing clothes shall be provided;
+6. each child shall have a separate, age appropriate bed or cot with mat or mattress;
+7. bunk beds are prohibited;
+8. physical restraints shall not be used to confine children to bed; and
+9. the center’s entrance and drop off zones shall be well lighted during hours of operation.
+F.
+2. attached
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:637 (April 2015), effective July 1, 2015.
+§1907. Furnishings and Equipment
+toy chests, storage bins and other equipment with lids;
+A.
+High Chairs
+Promulgated
+in accordance with R.S.
+1.
+be used when children are sitting in a high chair.
+Promulgated
+by the Board of
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+3. latex balloons for children under age three;
+4. trampolines; and
+5. culverts.
+The high chair manufacturer’s restraint device shall
+2. Children who are either too small or too large to be restrained using the manufacturer’s restraint device shall not be placed in a high chair.
+B. Eating Practices
+Louisiana Administrative Code April 2017
+28
+EDUCATION
+1.
+Prohibited items: infant walkers;
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:638 (April 2015), effective July 1, 2015, amended LR 41:2108 (October 2015).
+§1909. Safe Sleep Practices
+A. Only one infant shall be placed in a crib.
+B. All infants shall be placed on their backs for sleeping.
+
+1. Written authorization from a physician is required for any other sleeping position.
+2. Written notice of the specifically authorized sleeping position shall be posted on or near the crib.
+C. Infants shall not be placed in positioning devices, unless the center has written authorization from a physician to use a positioning device.
+D. Written authorization from a physician is required for a child to sleep in a car seat or other similar device and shall include the amount of time that the child is allowed to remain in said device.
+E. “Back To Sleep” signs shall be posted in the room where infants sleep.
+F. Infants who use pacifiers shall be offered their pacifier when they are placed to sleep, but it shall not be placed back in the mouth once the child is asleep.
+G. Bibs shall not be worn by any child while asleep.
+H. Nothing shall be placed over the head or face of an infant.
+preparing or serving meals, before giving medication, after playing in water used by more than one person, after toileting, after helping a child use a toilet or changing diapers, after wiping noses or cleaning wounds, after handling pets and other animals, after playing in sandboxes, before eating meals or snacks, upon coming in from outdoors, after cleaning or handling garbage and anytime hands become soiled with body fluids, such as urine, saliva, blood or nasal discharge.
+Promulgated
+in accordance with R.S.
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:638 (April 2015), effective July 1, 2015.
+§1911. Care of Children
+A. Diapers shall be changed when wet or soiled.
+B. Children shall be changed and cleaned immediately following a toileting accident.
+C. Staff shall respond promptly to a request from a child for toileting assistance.
+D. While awake, children shall not remain in a crib, baby bed, swing, high chair, carrier or playpen for more than 30 consecutive minutes.
+E. Daily Reports for Infants. Written reports that include the liquid intake, food intake, disposition, bowel movements and eating and sleeping patterns shall be given to the parents of infants on a daily basis. Reports shall be kept current throughout the day.
+F. Children shall not be held by a staff member when the staff member is removing a bottle from a warming device.
+G. Pacifiers attached to strings or ribbons shall not be placed around the neck or attached to the clothing of a child.
+H. Hot liquids shall not be consumed in the presence of children.
+I. Staff members shall adhere to proper techniques for lifting a child.
+J. Staff members shall not lift a child by one or both arms.
+K. Staff and children shall wash their hands using soap at least at the following times: upon arrival at the center, before
+Promulgated
+by the Board of
+Title 28, Part CLXI
+29
+Louisiana Administrative Code April 2017
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:638 (April 2015), effective July 1, 2015.
+§1913. Water Activities
+A. The center shall obtain written parental authorization for a child to participate in any water activities or water play activities as those activities are defined in §103.
+B. Children under age three shall not engage in water activities due to the risk of contamination and disease.
+C. The use of saunas, spas or hot tubs is prohibited.
+D. Swimming, wading and boating is prohibited in lakes, ponds and other similar bodies of water.
+E. The center shall have written procedures describing the method staff shall use to account for children and ensure their safety while engaged in water activities.
+F. When children use a pool or other body of water with a depth of more than 2 feet, a certified lifeguard shall be present and supervising the children and may be counted in the child to staff ratio.
+1. For on-site water activities, the center shall have documentation of the current certification of the lifeguard.
+2. For off-site water activities, the center shall have documentation of the current certification of the lifeguard, whether the lifeguard is furnished by the center or the off- site water location.
+G. A center shall have at least two staff members who are responsible for supervising children in swimming or wading pools or in other water activities, whether on-site or off-site, who are certified in infant, child, and adult CPR and pediatric first aid and shall maintain documentation of such certification.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:639 (April 2015), effective July 1, 2015.
+§1915. Health Services
+A. Observation. Upon arrival at the center, the physical condition of each child shall be observed for possible signs of illness, infections, bruises or injuries, and when something is observed, it shall be documented and such documentation shall include an explanation from the parent or child.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+
+EDUCATION B. Reporting. Incidents, injuries, accidents, illnesses, and
+unusual behavior shall be documented and reported to the parent no later than when the child is released to the parent or authorized representative on the day of the occurrence.
+C. Immediate Notification. The parent shall be immediately notified in the following circumstances:
+1. blood not contained in an adhesive strip;
+2. head or neck or eye injury;
+3. human bite that breaks the skin;
+4. animal bite;
+5. impaled object;
+6. broken or dislodged teeth;
+7. allergic reaction skin changes (e.g. rash, spots,
+swelling, etc.);
+8. unusual breathing;
+9. symptoms of dehydration;
+10. temperature reading over 101 oral, 102 rectal, or 100 axillary; or
+11. injury or illness requiring professional medical attention.
+D. The center shall not delay seeking care while attempting to contact a parent if emergency medical attention is required.
+E. Information regarding the medical condition of a child may be posted in public view if the center obtains a signed and dated statement from the parent granting such permission.
+F. Influenza Information. Centers shall provide each parent information concerning the influenza immunization by November first of each year. The Licensing Division shall provide information about influenza annually to each licensed center.
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:639 (April 2015), effective July 1, 2015.
+§1917. Medication Administration
+A. Written Authorization. No medication or special medical procedure shall be administered to a child unless authorized in writing by the parent. Such authorization shall include:
+1. name of child;
+2. drug name and strength;
+3. date(s) to be administered;
+4. directions for use, including the route (oral,
+topical), dosage, frequency, time and schedule and special instructions, if any. It is not acceptable to note “as indicated on bottle”; and
+2. For non-prescription medication to be administered, the center shall maintain the original bottle packing for the medicine or a printed document from the manufacturer’s website, which shall include the drug name and strength and clear directions for use.
+C. All medication shall be sent to the center in its original container, shall not have an expired date, and shall be clearly labeled with the name of the child to ensure that medication is for individual use only.
+D. If a non-prescription medication label reads “consult a physician,” the early learning center shall also maintain a written authorization from a licensed health care provider for the child to take the medicine.
+E. Aerosol. All aerosol medications shall be delivered to the center in pre-measured dosages.
+F. Topical. The center shall not apply topical ointments, sprays or creams without a written authorization signed and dated by the parent.
+G. Self-Administration. Children shall not administer their own medications without written authorization from the parent and such children shall administer medication in the presence of a staff person.
+H. Records. Medication administration records shall be maintained for all children regardless of who administers the medication. Records shall include the following:
+1. name of the child and medication name and dosage administered;
+2. date and time medication administered;
+3. documentation of telephone contact with parent prior to giving “as needed” medication;
+4. signature of person administering medication or witnessing the child administering own medication;
+5. signature of person completing the form; and
+6. when a parent administers medication to his/her own child on center premises, the medication administration record shall be documented by either the parent or a staff member.
+I. Authorization for “as needed” prescription and non- prescription medication shall be updated as necessary or at least every six months by the parent, and shall include circumstances for administering “as needed” medication and any applicable special instructions.
+J. Medical Procedures. Children that require medical procedures such as tube feeding shall have specific instructions from a health care provider as part of the overall care plan for the child.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+Louisiana Administrative Code April 2017
+30
+5. B.
+signature of parent and date of signature. Required Container/Packaging
+For prescription medication to be administered at
+1.
+the center, the center shall maintain the original pharmacy container with the complete pharmacy label.
+
+1. Administration of feedings or medications through a tube-feeding apparatus shall be performed by a staff member trained and authorized by the parent or individual designated by the parent.
+2. Parental authorization and training shall be documented and shall include the name of child, date of training, name of staff trained, signature of staff trained, and signature of parent.
+3. Documentation of feedings and medications administered shall include the name of child, date, time, what was administered, and signature of administering staff member.
+K. Emergency Medications
+1. Children who require emergency medications, such as an EpiPen or Benadryl, shall have a written plan of action that shall be updated as changes occur or at least every six months, and shall include:
+a. method of administration;
+b. symptoms that indicate the need for the medication;
+c. actions to take once symptoms occur;
+d. description of how to use the medication; and
+e. signature of parent and date of signature.
+2. Medication administration records for emergency medication shall be maintained and include the following:
+a. symptoms that indicated the need for the medication;
+b. actions taken once symptoms occurred;
+c. description of how medication was administered;
+d. signature of administering staff member; and
+e. phone contact with the parent after administering
+emergency medication.
+2. be prominently posted by the first day of each week and remain posted throughout the week; and
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:639 (April 2015), effective July 1, 2015.
+§1919. Food Service and Nutrition
+A. All meals and snacks provided by the center, and their preparation, service and storage, shall meet the requirements for meals of the U.S. Department of Agriculture (USDA) Child and Adult Care Food Program (CACFP) and 7 CFR 226.20 and the Louisiana Sanitary Code, Title 51, Part XXIII, found at LAC 51:XXXIII. For the current CACFP meal patterns, contact the Louisiana Department of Education, Division of Nutrition Support.
+B. The weekly menu shall:
+1. be planned for each day of the week and list the specific food items served;
+Promulgated
+in accordance with
+R.S.
+Promulgated
+by the Board of
+Title 28, Part CLXI
+31
+Louisiana Administrative Code
+April 2017
+3. menu.
+C.
+of children shall be posted in the food preparation area with special care taken to ensure that individual names of children are not in public view. If a parent chooses to allow the center to post the child’s name and allergy information in public view, the center shall obtain a signed and dated authorization from the parent.
+D. A minimum of a breakfast or morning snack, lunch, and afternoon snack shall be served to children, and meals and snacks shall be served not more than three hours apart.
+1. Centers who do not serve breakfast shall have nutritious food available for children who arrive in the morning without having eaten breakfast.
+2. Children under age four shall not have foods that are implicated in choking incidents. Examples of these foods include, but are not limited to: whole hot dogs, hot dogs sliced in rounds, raw carrot rounds, whole grapes, hard candy, nuts, seeds, raw peas, hard pretzels, chips, peanuts, popcorn, marshmallows, spoonsful of peanut butter, and chunks of meat larger than what can be swallowed whole.
+3. Children shall be allowed a reasonable time to eat each meal and snack. Children shall not be forced to finish all their food.
+4. Food shall be given to children on individual plates, napkins, paper towels or in cups, as appropriate.
+5. Drinking water shall be readily available indoors and outdoors to children at all times. Water shall be given to infants only with written instructions from parents or a physician.
+E. Parents shall be allowed to provide breast milk.
+F. Centers may allow parents to bring food into the center.
+G. Parents of all children in a class with a child with allergies shall be advised to avoid any known allergies in class treats or food brought into the center.
+H. Infants that cannot hold a bottle shall be held while being bottle-fed. A child shall not be placed lying down on a mat or otherwise with a bottle, sippy cup, etc. A bottle shall not be propped at any time.
+I. Microwave ovens shall not be used for warming bottles or infant food.
+have substitutions or additions posted on or near the
+Information regarding food allergies and special diets
+AUTHORITY NOTE: 17:407.40(A)(4).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:640 (April 2015), effective July 1, 2015.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+
+§1921. Emergency Preparedness and Evacuation Planning
+A. Emergency and Evacuation Plan. The director shall consult with appropriate state and local authorities and shall establish and follow a written multi-hazard emergency and evacuation plan to protect children in the event of emergencies that at a minimum shall:
+1. address any potential disaster related to the area in which the center is located;
+2. include procedures for sheltering in place, lockdown and evacuation to a pre-determined site for potential threats to the safety, health and well-being of children in care;
+3. include specific procedures for handling infants through two year olds;
+4. include specific procedures for handling children with special needs, including the evacuation and transportation of children in wheelchairs;
+5. include a system to account for all children;
+6. include a system, and a back-up system, for contacting parents and authorized third party release caretakers;
+7. include a system to reunite children and parents following an emergency;
+8. include procedures for providing information about the emergency plan to parents at the time of enrollment and when changes occur;
+9. be reviewed annually for accuracy and updated as changes occur; and
+10. be reviewed with all staff at least once per year.
+11. practice drills shall be conducted at least twice per year to include all children and shall be documented.
+B. Individualized Emergency Plan. An individualized emergency plan shall be in place for each child with special needs and shall include medical contact information and additional supplies and equipment as needed.
+C. Evacuation Pack. The center shall have an evacuation pack, the location of which is known to all staff, that at a minimum shall contain:
+1. a list of area emergency phone numbers;
+2. a list of emergency contact information and emergency medical authorization for all enrolled children;
+7. food for children under the age of 4, including infant food and formula; and
+8. disposable cups and bottled water.
+D. Records. A center shall maintain a copy of records, documents, and computer files necessary for its continued operation following an emergency in either a portable file or at an off-site location.
+E. Tornado Drills. Tornado drills shall be conducted at least once per month in the months of March, April, May, and June at various times of the day necessary to include all children and shall be documented.
+3.
+4. tissue;
+5. plastic
+6.
+an emergency pick up form;
+first aid supplies, hand sanitizer, wet wipes, and
+diapers for children who are not toilet trained and bags for diapers;
+a battery powered flashlight and radio and batteries;
+3. The number of persons in a vehicle shall not exceed the manufacturer’s recommended capacity.
+4. Children shall never be left unattended in a vehicle.
+5. Each child shall enter and exit a vehicle from the curb side of the street or shall be escorted across the street.
+6. Children shall not be transported more than 1 1/2 hours per trip on a routine basis.
+7. Children shall not be transported to prevent the center from being over capacity.
+8. Vehicles shall be maintained in good repair.
+9. Each vehicle shall have evidence of a current safety
+inspection.
+10. First aid supplies shall be located in each center vehicle or contracted vehicle. First aid supplies (at least one per trip) shall be available for each field trip when parents provide transportation.
+11. Center emergency information shall be prominently posted in each vehicle and shall provide the name of the director and the name, phone number and address of the center.
+12. The use or possession of alcohol or tobacco in any form, illegal substances, unauthorized toxic substances or
+Louisiana Administrative Code April 2017
+32
+EDUCATION
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:641 (April 2015), effective July 1, 2015, amended LR 41:2108 (October 2015), LR 42:2173 (December 2016).
+Chapter 21. Minimum Transportation Requirements and Standards
+§2101. General Requirements (Center-Provided, Parent-Provided or Contract Transportation)
+A. These general transportation rules apply to all transportation, whether for field trips or daily transportation.
+1. Transportation arrangements shall conform to all state laws, as amended, including but not limited to those requiring the use of seat belts and child restraints.
+2. Only one child shall be restrained in a single safety
+belt.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+
+firearms of any kind is prohibited in any vehicle used to transport children.
+13. The center shall maintain a copy of a valid appropriate Louisiana or other state-issued driver's license for all individuals who drive vehicles used to transport children, whether said drivers are staff members or contracted drivers.
+14. Centers shall maintain at all times current commercial liability insurance for the operation of center vehicles to ensure medical coverage for children in event of accident or injury. This policy shall extend coverage to any staff member who provides transportation for any child in the course and scope of his/her employment. The provider is responsible for payment of medical expenses of a child injured while in the center’s care. Documentation shall consist of the insurance policy or current binder that includes the name of the early learning center, the name of the insurance company, policy number, period of coverage and explanation of coverage. If transportation is provided by parents for field trips or transportation is provided by contract, whether daily of field trip, a copy of the current liability insurance shall be maintained on file at the center.
+15. Centers using contract transportation shall maintain a copy of the written contract that includes an express provision stating that the contractor shall comply with all state laws and regulations, as amended, regarding motor vehicles, including but not limited to seat belts and child restraints.
+16. Child Safety Alarm. In accordance with R.S. 32:295.3.1, a center may have a child safety alarm installed in any vehicle that has a seating capacity of six or more passengers in addition to the driver. This vehicle has to be owned or operated by the early learning center, its owner, operator, or employees and used to transport children to or from the early learning center. The child safety alarm is an ignition-based alarm system that voice prompts the driver to inspect the vehicle for children before exiting the vehicle and shall be installed by a person or business that is approved by the manufacturer of the child safety alarm. An owner or director of an early learning center who elects to have a child safety alarm installed in a vehicle owned or operated by the early learning center shall ensure that the child safety alarm is properly maintained and in good working order each time the vehicle is used for transporting children to or from an early learning center.
+individuals, schools, or other entities to whom the child may be released.
+B. A staff person shall be present when a child is delivered to the center.
+C. When children are picked up or dropped off at the center by a public or private school bus, staff shall be present to safely escort children to and from the bus.
+D. Vehicle Staff
+1. A driver and at least one staff member must be in a contracted or center-provided vehicle at all times when transporting children, and minimum child to staff ratios must be met. However, when transporting children ages four and older only, if the vehicle has a communication device that allows the driver to contact emergency personnel, and the driver does not leave the vehicle while children are present in the vehicle, only the driver is required to be present in the vehicle and minimum child to staff ratios are not required to be met.
+2. A contracted driver shall be considered a staff member for purposes of this Subsection if the driver is in compliance with the transportation regulations in Chapter 21 of this bulletin, including but not limited to maintaining a daily passenger log in compliance with §2103.F, and completing and documenting a visual passenger check of the vehicle at the end of each route in compliance with §2107.A.
+E. Master Transportation Log
+1. A copy of the current master transportation log shall be maintained on file at the center and shall include the names of the children, the pickup and drop off locations, and the authorized persons to whom the children may be released. Documentation shall be maintained whether transportation is provided by the center or contracted.
+2. Each driver or monitor, whether provided by the center or through a contractor, shall be provided a current master transportation log.
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:641 (April 2015), effective July 1, 2015.
+§2103. Daily Transportation (Contract or Center Provided)
+A. Written authorization shall be obtained from a parent to transport a child on a regular basis. Such authorization shall include the name of the child, the type of transportation (to and from school, to and from home) and the names of
+log:
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+a. b. c. d. e. f.
+g. signature of staff person completing the log.
+Title 28, Part CLXI
+33
+Louisiana Administrative Code April 2017
+F.
+Passenger Log
+1.
+to track children and staff during transportation.
+3.
+The following shall be recorded in the passenger
+date the transportation is provided;
+name of the child;
+name of driver and staff members;
+pick up and drop off locations;
+time child was placed on the vehicle;
+A current passenger log for each trip shall be used
+2. The log shall be maintained on file at the center and a copy shall be provided to the driver or monitor.
+time child was released and name of the person or entity to whom child was released; and
+
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:642 (April 2015), effective July 1, 2015, amended LR 42:556 (April 2016).
+§2105. Field Trips
+A. The center shall obtain and maintain a signed parental authorization for each field trip.
+B. At least two staff, one of whom may be the driver, shall be in each vehicle, unless the vehicle has a communication device and the child to staff minimum ratio is met in the vehicle.
+C. If transportation is provided by parents, a planned route shall be provided to each driver and a copy maintained in the center if any parent is transporting a child in addition to their own child.
+D. Children shall be supervised during the boarding and exiting of vehicles by an adult who remains outside of the vehicle.
+E. A written record for each field trip shall be maintained and shall include the following:
+1. date, destination(s) and method of transportation;
+2. names of all the children being transported in each
+vehicle;
+3. names of the driver, staff members and other adults being transported in each vehicle;
+4. names of other adults who joined the field trip at the destination(s) to assist with supervision of children; and
+5. the presence of each child each time the children enter or exit the vehicle.
+2. The staff member shall record the time of the visual passenger check and sign the log, indicating that no child was left on the vehicle.
+B. For field trips, each vehicle shall have a visual passenger check and a face-to-name count conducted at all of the following times:
+1. prior to leaving center for destination;
+2. upon arrival at and prior to departure from each
+destination; and
+3. upon return to center.
+C. For daily transportation services, the vehicle shall have a visual passenger check made at the completion of each trip or route, prior to the staff member exiting the vehicle.
+Promulgated
+Promulgated
+by the Board of
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:642 (April 2015), effective July 1, 2015.
+§2107. Motor Vehicle Passenger Checks
+A. A visual passenger check of a vehicle is required to ensure that no child is left in the vehicle.
+1. A staff person shall physically walk through the vehicle and inspect all seat surfaces, under all seats, and in all enclosed spaces and recesses in the interior of the vehicle.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+Louisiana Administrative Code April 2017
+34
+EDUCATION in accordance with R.S.
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:642 (April 2015), effective July 1, 2015.
+§2109. Non-Vehicular Excursions
+A. Written parental authorization shall be obtained for all non-vehicular excursions. Authorization shall include the name of the child, type and location of the activity, date and signature of the parent, and shall be updated at least annually.
+B. Centers shall maintain records of all non-vehicular excursion activities to include the date, time, list of children, staff, and other adults, and type of activity.
+C. Children shall not be taken on any vehicular or non- vehicular excursion to prevent the center from being over capacity. Children on excursions shall be included when determining whether the center is within its licensed capacity.
+D. See §1711.K for child to staff minimum ratios applicable to non-vehicular excursions.
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+AUTHORITY NOTE: 17:407.40(A)(1).
+HISTORICAL NOTE:
+Elementary and Secondary Education, LR 41:643 (April 2015), effective July 1, 2015).
+Promulgated
+in accordance with R.S.
+Promulgated
+by the Board of
+

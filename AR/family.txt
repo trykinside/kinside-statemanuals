@@ -1,0 +1,1779 @@
+ PUB-001 (REV. 04/01/2019)
+
+Table of Contents
+100 CHILD CARE LICENSING 1
+101 Related Laws and Requirements 1 102 General Requirements 2 103 Licensing Procedures 3 104 License Fees 5 105 Appeal of Licensing Actions 6 106 Alternative Compliance 6 107 Licensing Investigations 7 108 Child Maltreatment Record Checks 7 109 Criminal Record Checks 8
+200 ADMINISTRATION 12
+201 Administrative Procedures 12
+300 PERSONNEL 14
+301 Staff/Child Ratios 14 302 Homes specializing in Infant Care: Staff/Child Ratio 15 303 Caregiver Qualifications and Responsibilities 15 304 Volunteer Requirements 16 305 Student Observers 17 306 Adults in the Home 17
+400 PROGRAM AND ACTIVITIES 17
+401 Program Requirements 17 402 Infant & Toddler Specific Program Requirements 19 403 School Age Children: Program Requirements 21 404 Evening & Night Care: Program Requirements 21
+500 BEHAVIOR GUIDANCE 22
+501 Behavior Guidance Requirements 22 502 Infant & Toddler: Behavior Guidance Requirements 23
+600 RECORDS 23
+601 Home Records 23 602 Caregiver Records 24 603 Children’s Records 24
+
+700 NUTRITION 26
+701 Nutrition Requirements 26
+702 Infant & Toddler Nutrition Requirements 27
+800 BUILDINGS 28
+801 Building Requirements 28
+900 PLAYGROUNDS / OUTDOOR LEARNING ENVIRONMENTS 29
+901 Layout & Design 29 902 General Hazards 30 903 Balance Beams 31 904 Slides 31 905 Swings 31 906 Climbing Equipment 31 907 Merry Go Rounds 32 908 Seesaws 32 909 Protective Surfacing 32
+1000 SLEEPING ARRANGEMENTS 33
+1001 Sleeping Arrangement Requirements 33
+1100 HEALTH 34
+1101 General Health Requirements 34 1102 Children’s Health 35 1103 Toilet Arrangements 38 1104 Medication Requirements 39 1105 Phone Numbers Required 39 1106 Pet Requirements 39
+1200 SAFETY 40
+1201 Safety Requirements 40 1202 Fire 42
+1300 TRANSPORTATION 43
+1301 Transportation Requirements 43 1302 Infant & Toddler Transportation Requirements 46
+1400 SPECIAL NEEDS 46
+
+1401 Special Needs Requirements 46 1402 Infant & Toddler Special Needs Requirements 47 APPENDIX A: CHILD CARE MEAL PATTERN 48 APPENDIX B : INFANT CARE MEAL PATTERN 52 APPENDIX C: ADULT CARE MEAL PATTERN 54 APPENDIX D: LIST OF REPORTABLE DISEASES 58 APPENDIX E: DISASTER/EMERGENCY PREPAREDNESS 60 IMMUNIZATION REQUIREMENTS 61
+
+MINIMUM LICENSING REQUIREMENTS FOR
+Child Care Family Homes 100 CHILD CARE LICENSING
+101 Related Laws and Requirements
+1. “The Child Care Facility Licensing Act”, Act 20-78-210-220, as amended, is the legal authority under which the Division of Child Care and Early Childhood Education prescribes minimum standards for a variety of child care facilities under the Act.
+2. The Division of Child Care and Early Childhood Education (referred to hereafter as the Division) under the Department of Human Services is directly responsible for the inspection and evaluation of all Licensed Homes as defined in Section 102 of the Minimum Licensing Requirements for Child Care Family Homes.
+3. The Division has the power to establish rules, regulations and standards for licensing and operation of child care facilities. This includes all powers with respect to granting, revocation, denial and suspension of licenses. Decisions regarding special situations shall be made on an individual basis by the Division. Information regarding an appeal process is available upon request.
+4. The Division works in coordination with local and state Health Departments, Fire Departments, City Planning or Zoning departments and the Boiler Division of the Department of Labor. Persons considering opening or expanding a family home shall immediately contact these individual departments for inspections and information on their separate regulations.
+It is recommended that a prospective Licensee request clarification regarding the codes or covenants enforced by these departments as some may prevent the operation of a Child Care Family Home at a particular location, may limit the number of children in care or may impose additional safety requirements.
+5. It is recommended that the owner be aware of applicable city or county zoning ordinances or codes or neighborhood covenants which may limit the number of children in care or impose additional safety requirements. The Division will share information on the location and status of Licensed Homes or applications for a license with any city or county that requests this information.
+6. Child Care Licensing Unit will notify the applicable federal agency at any time they become aware of or are advised of violations of any of the following or similar laws. It is recommended that the owner be aware of applicable federal laws which may affect the operation of the facility, such as, but not limited to:
+a. Americans with Disabilities Act (ADA).
+b. EnvironmentalProtectionAgency(EPA)regulationstoensurethatanyrenovationor
+repair work on a home, child care facility or school that was constructed prior to 1978 shall be completed by a contractor that is certified by the Environmental Protection Agency (EPA), when the repairs and/or renovations consist of any or all of the following: the repair or renovation disturbs six (6) or more square feet of the
+1
+
+interior, the repair or renovation disturbs twenty (20) or more square feet of the
+exterior, and/or the repair or renovation involves removing a window.
+c. Federal civil rights laws state that a facility may not discriminate on the basis
+of race, color, sex, religion, national origin, physical or mental handicap, or veteran status.
+7. The Licensee shall maintain Child Care Liability insurance and comply with the following requirements:
+a. Prior to approval of an application, the applicant shall provide verification of the required coverage to the Licensing Specialist and provide subsequent verification when requested. (Homes licensed prior to the effective date of this revision shall have ninety (90) days to comply with this requirement.)
+b. Maintaintheminimumamountof$100,000peroccurrence
+Laws relevant to the operation of child care facilities are available upon request.
+102 General Requirements
+1. A Child Care Family Home is defined as a situation in which children are cared for in a caregiver’s own family residence or in some other suitable family type residence. There shall be no more than one license issued per home/structure. (This does not apply to situations such as duplex where two licenses could be issued to two separate applicants.)
+2. In determining a recommendation for licensing the home shall be reviewed by a Child Care Licensing Specialist to determine that the home is in substantial compliance with the requirements.
+3. Substantial Compliance means compliance with all essential standards necessary to protect the health, safety and welfare of the children attending the Child Care Family Home. Essential standards include but are not limited to those relating to issues involving fire, health, safety, nutrition, behavior guidance, staff/child ratio and space.
+4. A home requires licensing when one (1) or more persons care for six (6) or more children, from more than one (1) family at the same time. A maximum of sixteen (16) children may be cared for with a Child Care Family Home license.
+5. An individual shall be eligible to hold only one license, which shall be issued for one location. The holder(s) of the license shall be considered the primary caregiver(s) and shall be present and responsible for children during hours of care. At least one of the Licensees (primary caregivers) shall be present at all times children are in care and shall not be otherwise employed during the hours of care.
+6. If a qualified secondary caregiver is present, the primary caregiver may be absent for reasons related to the operation of the childcare business such as attending required training, and for brief and/or occasional absences relating to personal business or personal time off. Compliance with staff to child ratio must still be maintained during the absence of the primary caregiver.
+7. The caregiver’s own preschool children shall be considered when determining the need for
+2
+
+a license. The caregiver’s own school age children are not considered when determining the need for a license. Other children in the home who are not accompanied by a parent, whether pay is received for care or not, are considered in determining the need for a license and will be counted in the ratio after a license is obtained.
+8. A Child Care Family Home which is not required to be licensed by this definition may voluntarily choose to apply for a license or for registration with the Voluntary Registry.
+9. Any home that has not provided care to children for a period of one year shall have the license closed unless a written request is made by the Licensee stating why closure should not take place. If the Licensee requests that the license remain open, license fees and required annual inspections shall be kept current.
+103 Licensing Procedures
+1. Any applicant applying for a home license may contact the local Division Office or Child Care Licensing Specialist to obtain information and/or the necessary application and related forms.
+2. The primary caregiver in the home shall submit the following to complete the application process:
+a. A completed and signed application on a form provided by the Division
+b. Diagramofthehome
+c. Fire department approval, if applicable
+d. Healthdepartmentapproval,ifapplicable
+e. Zoning approval, if applicable, shall be provided by new applicants for license and by existing homes requesting increase in licensing capacity
+f. Boiler inspection, or verification that inspection has been scheduled
+g. VerificationofChildCareLiabilityInsurance(IfChildCareLiabilityInsurancecannot
+be obtained before application, it must be obtained with proof provided to the Child
+Care Licensing Unit before care of children can be provided.)
+h. Verificationthatallrequiredcriminalbackgroundchecksandchildmaltreatment
+central registry checks have been initiated
+i. All caregiver’s names shall be included on the application for the license.
+3. A pre-approval consultation meeting shall be required for all applicants for a license prior to the approval of the application. This meeting shall be offered prior to application or within thirty (30) days of receipt of the application.
+4. Upon receipt of a signed application the Child Care Licensing Specialist shall schedule an appointment to inspect, evaluate and make a recommendation for consideration of license to the Division.
+5. The Child Care Licensing Unit shall have the authority to make both scheduled and unscheduled visits to:
+a. Conduct inspections and reviews to determine compliance with the licensing requirements
+b. Investigatecomplaintsinvolvingpossibleviolationsoflicensingrequirement
+c. Offer consultation and technical assistance
+3
+
+6. Compliance: On-site inspections of Licensed Child Care Family Homes are conducted by the Child Care Licensing Unit on a routine basis to determine a home’s continued compliance with the standards. The caregiver(s) shall cooperate with licensing staff during licensing visits and investigations. (Clarification: In addition to rooms used for care, Child Care Licensing Staff must also be given access to all other rooms or spaces not used for child care. Any rooms or areas that are not accessible to children in care will only be viewed briefly for major health and safety issues and will not be routinely monitored for general licensing compliance. This is to help insure that there are no dangers such as fire hazards, which could impact the safety of the entire structure.)
+Violations of rules are documented in writing by use of the licensing compliance record. Documentation shall include:
+a. Reference to the specific rule violated
+b. Afactualdescriptionofthenatureandtheviolationandhowthehomefailedtocomply c. A date of expected corrections
+7. If video recordings are made by the facility, and are maintained for viewing as a part of a continuous monitoring system, they shall be made available to licensing staff upon request. This does not include video recordings of special events, etc.
+8. The license as issued shall apply only to the home’s location at the time of licensing. The Licensee shall notify the Child Care Licensing Specialist’s office of a change of location or ownership at which time a new study shall be conducted. Upon issuance of a license, the license shall remain in effect as long as compliance is maintained with the Minimum Licensing Requirements for Child Care Family Homes.
+9. New Provisional License: If the Division Staff finds that an applicant meets the licensing requirements for a Child Care Family Home or has a reasonable expectation of correcting deficiencies in a reasonable time, the Child Care Licensing Specialist may recommend a new provisional license for operation of a Child Care Family Home to the Division. The new provisional license shall be in effect for a reasonable period, not to exceed twelve (12) months. This time frame shall be specified in the new provisional license. A written list of deficiencies shall be provided to the applicant at the time of issuance of a new provisional license. A Licensing Specialist has sixty (60) days to submit a recommendation to the Division for a provisional license.
+10. Regular License: The Child Care Licensing Specialist will recommend a Regular license when the facility has demonstrated substantial compliance, or when an existing Licensee with a Regular license relocates their facility and their past demonstrates a substantial level of compliance.
+11. Probationary Provisional License: The Licensing Unit may issue a Probationary Provisional license when the home is not maintaining substantial compliance due to deficiencies which are so numerous, frequent or severe as to potentially jeopardize the health, safety, and welfare of children. The home and the Licensing Unit shall have a corrective action plan in place addressing the issues.
+Based on the level of compliance during the period of the Probationary Provisional license the Licensing Unit may:
+    4
+
+a. Issue a Regular license b. Suspendalicense
+c. Revoke a license
+12. Suspension of License: Upon final determination by the Division of a suspension of a license, the Division shall specify in the suspension order the period of the suspension. (The suspension of a license may range from one (1) month to a maximum of twelve (12) months. The license may be reinstated at such time as the Division finds that the terms of the suspension order have been met.)
+13. The Division may revoke a license when any of the following situations occur:
+a. The facility fails to maintain substantial compliance with licensing requirements. b. Thefacilityfailsorrefusestocorrectciteddeficienciesinatimelymanner.
+c. The facility fails to insure the health, safety and welfare of children in care.
+14. The revocation of a license nullifies and cancels the license. At the time of a final determination of revocation of the license by the Division, the Division shall specify in the revocation letter the terms of the revocation. The Licensee shall not be eligible to reapply for a license for a minimum of one year or longer, if specified in the revocation order. Related parties shall not be eligible to apply for the same specified period. (Related parties are defined as immediate family members, members on the Board of Directors, persons or entities associated or affiliated with, or which share common ownership, control, or common board members or which have control of or is controlled by the Licensee. An immediate family member is defined as a spouse, step and in-law relationships, a child, a natural or adoptive parent, a sibling, a grandparent, a grandchild or a son or daughter-in-law.) Applicants who are denied a license or registration due to this requirement may appeal the denial to the Child Care Appeal Review Panel. Homes wishing to be re-licensed must submit a new application for licensure for review and approval by the Division. Approval must be obtained and a new license issued before the home provides care to a licensable number of children.
+104 License Fees
+1. A Child Care Family Home shall be assessed a license fee of $15.00 per year.
+2. Upon review and determination by the Child Care Licensing Specialist of a licensing recommendation to be presented to the Division, the Child Care Licensing Specialist shall issue a Notice of License Fee Due to the home.
+3. The Division shall not issue a license unless the required license fee has been paid.
+4. A copy of the license fee notice shall be submitted at the time of licensure recommendation.
+5. A second notice of license fee due will be sent to homes failing to submit the required license fee (Notice of License Fee Past Due). This notice will be sent twenty (20) days after the initial notice of fee due. Failure to submit a license fee within twenty (20) days of the receipt of the past due notice will result in action to suspend the license until such time as the fee is paid.
+ 5
+
+6. Refunds of license fees paid are made only when the Division does not approve issuance of a license. There shall be no refunds of license fees paid upon Division action to revoke or suspend a license or for closure of a facility.
+105 Appeal of Licensing Actions
+1. A Licensee or application for license may request an appeal of any of the following licensing action:
+a. Adverse licensing actions (revocation or suspension of a license, conversion to a provisional license or denial of an application for license)
+b. Foundedlicensingcomplaints
+c. Denials of alternative compliance requests
+d. Citednoncompliancewiththepublishedstandards
+2. An appeal may be initiated on any of the above actions by requesting an appeal in writing to the Licensing Specialist or Licensing Supervisory Staff. Requests to appeal adverse licensing actions must be mailed
+within ten (10) calendar days of the receipt of the notice of the adverse action. Requests to appeal licensing actions, other than adverse, must be mailed within twenty (20) calendar days from receipt of the notification of the action. The request to appeal shall include a statement of the action(s) taken by the Division and the reason(s) the Licensee or applicant for license disagrees with that action. The request to appeal will be reviewed by the Licensing Supervisor and the Licensing Administrator. If the appeal is not resolved to the satisfaction of the Licensee or applicant for license, the matter will be referred to the Child Care Appeal Review Panel for hearing. (Additional information regarding the appeal procedures and the Child Care Appeal Review Panel is available on request.)
+106 Alternative Compliance
+1. The Division may grant alternative compliance with the Minimum Licensing Requirements for Child Care Family Homes if the Division determines that the alternative form of compliance offers equal protection of health, safety and welfare to children and meets the basic intent of the requirement for which the home is making the request.
+2. The Division shall consider all requests for alternative compliance with the Licensing Requirements except those requirements which are enforced by the Department of Health, Local Fire Marshal or State Fire Marshal’s Office.
+3. To request alternative compliance, the following procedure shall be initiated by the person responsible for the operation of the home:
+a. The applicant/Licensee shall submit the request for alternative compliance in writing.
+b. Therequestshallinclude
+• The specific standard for which alternative compliance is sought;
+• An explanation of how the alternative form of compliance is equal to or
+exceeds the stated requirement
+• Full justification and description of what the alternative compliance method will be
+and the method by which the facility will carry out this plan to be able to continue to provide for the health, safety, and welfare of children as intended by the
+6
+
+requirement,; and
+• The applicant/Licensee shall provide clear and supportive evidence, and upon
+request of the Division, an expert’s opinion on the effect to the health, safety and welfare of children and how it will protect through the alternative means of compliance
+4. A separate written request shall be submitted for each requirement for which alternative compliance is sought. The approved alternative compliance is effective for the duration of the license unless a shorter time frame is requested or approved.
+5. The granting of alternative compliance for a requirement shall in no way constitute a precedent. If an alternative means of complying with the requirement is granted by the Division and the facility fails to implement satisfactorily this alternative means, the original requirement for which alternative compliance was sought shall become immediately enforceable.
+6. The Division shall have the right to obtain an expert opinion to corroborate expert opinions provided by the applicant/Licensee.
+7. The Division reserves the right to deny requests for alternative compliance when it finds that such request does not adequately protect the health, safety, and welfare of children and does not meet the intent of the requirements.
+8. All requests for alternative compliance shall be answered in writing by the Division.
+107 Licensing Investigations
+1. ChildCareLicensingstaffshallhaveaccesstolicensedhomesforthepurposeof conducting inspections, reviews and complaint investigations. Denial of access to the home or denial of the right to interview children in care or other individuals present during hours of care may result in adverse action against the license.
+108 Child Maltreatment Record Checks
+1. The following persons shall be required to have their background reviewed through an Arkansas Child Maltreatment Central Registry Check: (A check or money order, payable to Department of Human Services, must be attached to each notarized form.)
+ a. Each applicant to own or operate a Licensed Home
+b. All household members who are 10 years of age or older
+c. Staff members and applicants for employment in a Licensed Home
+d. Volunteers who have access to children in the home
+at application and every 2 years thereafter
+at application; upon residency and every 2 years thereafter
+at application or within 10 days of hire and every 2 years thereafter
+At application and every 2 years thereafter
+7
+
+e. Student Observers
+f. Therapists or other persons who have supervisory or disciplinary control over children, or have routine contact with children
+At beginning of observation or within 10 days of first observation and every 2 year after that if applicable
+at the time they begin to provide services or begin to participate in home activities and every 5 years thereafter
+2. The Division has the authority to review and consider each true (founded) report of child maltreatment received from the Central Registry. The Division shall retain the authority to:
+a. Deny an application
+b. Requirecorrectiveaction
+c. Take appropriate adverse action against the license
+3. All caregiver(s) are mandated reporters under the Child Maltreatment Act. The caregiver(s) shall notify the Child Maltreatment Hot Line number at 1-800-482-5964 when there is a reason to believe that a child has been abused or neglected. (AR Code Annotated 12-12-501 et seq.) These reports of child maltreatment shall include all allegations made to the Licensee by parents, staff members or the general public. It is recommended that the Licensee call Child Care Licensing for guidance if there is any question about whether or not the Hot Line should be called regarding any situation where potential child maltreatment is involved.
+4. If a complaint of child maltreatment is filed against any employee or persons in the home, the Child Care Licensing Unit shall evaluate the risk to children and determine the suitability of persons to supervise, be left alone with children or remain in the home during hours of care until the allegations have been determined true or unsubstantiated.
+5. The Child Care Family Home operator, any employees or other persons in the home who have had a true report of child maltreatment shall follow the corrective action plan approved by the Child Care Licensing Unit. Corrective action measures may vary from relevant training to reassignment or termination. Failure to comply with corrective action plans can constitute grounds for adverse action against the license.
+109 Criminal Record Checks
+1. The following persons shall apply to the Identification Bureau of the Arkansas State Police for a nationwide criminal records check, to be conducted by the FBI, which shall include a fingerprint check: (The individual is responsible for the cost of the nationwide check.)
+Fingerprints submitted will be used to check the criminal history records of the FBI. Individuals with results showing a prohibited offense shall be advised to contact the Licensing Unit for procedures to obtain the results and for procedures to update or make corrections to the record of their individual history.
+ 8
+
+a. Each applicant to own or operate a Licensed Home
+b. Each staff member
+c.
+d.
+initial application only
+within 10 days of hire or start date within 10 days of hire or start date
+Within 10 days of start date
+  Volunteers who have routine contact with
+  children
+ Therapists or other persons who have
+  supervisory or disciplinary control over
+ children, or have routine contact with
+ children
+ 2. The following persons shall be required to have their background reviewed through criminal records check including the Arkansas Sexual Offender Registry, conducted by the Arkansas State Police:
+a. Each applicant to own or operate a Licensed Home
+b. All household members who are 18 years of age or older
+c. Staff members and applicants for employment in a Licensed Home
+d. Volunteers who have routine contact with children
+e. Therapists or other persons who have supervisory or disciplinary control over children, or have routine contact with children
+at application and every 5 years thereafter
+at application; upon residency and every 5 years thereafter
+within 10 days of hire and every 5 years thereafter
+within 10 days and every 5 years thereafter
+within 10 days of the time they begin to provide services or begin to participate in center activities and every 5 years thereafter
+3. Criminal records will be returned to the division for review. Any charge/convictions listed in this section (Section 110) that are returned will be considered regardless of whether the record is expunged, pardoned or otherwise sealed.
+4. No person shall be eligible to be a child care facility owner, operator, employee, household member, or volunteer who is in the home on a routine/continual basis if that person has pled guilty, or been found guilty, of any of the following offenses by any court in the State of Arkansas, any similar offense by a court in another state or any similar offense by a federal court. The following offenses are permanently prohibited:
+01. Abuse of an endangered or impaired person, if felony
+    §5-28-103
+      02. Arson
+   §5-38-301
+     03. Capital Murder
+      §5-10-101
+         9
+
+04. Endangering the Welfare of an Incompetent person- 1st degree
+   §5-27-201
+     05. Kidnapping
+    §5-11-102
+      06. Murder in the First degree
+   §5-10-102
+     07. Murder in the Second degree
+      §5-10-103
+         08. Rape
+ §5-14-103
+  09. Sexual Assault in the First degree
+    §5-14-124
+      10. Sexual Assault in the Second degree
+     §5-14-125
+        5. No person shall be eligible to be a child care facility owner, operator, employee, volunteer, or household member, if that person has pled guilty, or been found guilty, of any of the following offenses by any court in the State of Arkansas, any similar offense by a court in another state or any similar offense by a federal court. The following offenses are prohibited:
+§5-3-201 §5-3-202 §5-3-401 §5-3-301 §5-13-205 §5-13-204 §5-26-306 §5-13-201 §5-39-202 §5-39-201 §5-13-208
+12. Computer Crimes Against Minors               §5-27-601
+- §5-13-207 - §5-13-203
+et. seq.
+- §5-26-305
+and §5-27-206 and §5-27-202
+and §5-11-104
+- §5-64-508 et. seq.
+01. Criminal Attempt to commit any offenses in MLR Section 110
+     02. Criminal Complicity to commit any offenses in MLR Section 110
+         03. Criminal Conspiracy to commit any offenses in MLR Section 110
+     04. Criminal Solicitation to commit any offenses in MLR Section 110
+   05. Assault in the First, Second, or Third degree
+     06. Assault, Aggravated
+      07. Assault, Aggravated on a Family or Household Member
+     08. Battery in the First, Second, or Third Degree
+         09. Breaking or Entering
+     10. Burglary
+      11. Coercion
+                           13. Contributing to the Delinquency of a Juvenile
+14. Contributing to the Delinquency of a Minor
+15. Criminal Impersonation
+16. Criminal Use of a Prohibited Weapon               §5-73-104
+§5-27-220 §5-27-209 §5-3-208
+             17. Death Threats Concerning a School Employee or Students
+18. Domestic Battery in the First, Second, or Third Degree
+19. Employing or Consenting to the Use of a Child in a Sexual       §5-27-402
+§5-17-101 §5-26-303
+          Performance
+20. Endangering the Welfare of a Minor in the First or Second
+Degree
+21. Endangering the Welfare of an Incompetent Person in the First
+§5-27-205
+§5-27-201
+          or Second Degree
+22. Engaging Children in Sexually Explicit Conduct for Use in Visual           §5-27-303
+  or Print Media
+23. False Imprisonment in the First or Second Degree
+24. Felony Abuse of an Endangered or Impaired Person               §5-28-103
+   §5-11-103
+    25. Felony Interference with a Law Enforcement Officer
+26. Felony Violation of the Uniform Controlled Substance Act
+27. Financial Identity Fraud
+28. Forgery
+29. Incest
+30. Interference with Court Ordered Custody
+§5-54-104 §5-64-101 §5-37-227 §5-37-201 §5-26-202 §5-26-502
+                                10
+
+31. Interference with Visitation §5-26-501 32. Introduction of Controlled Substance into Body of Another         §5-13-210
+Person
+33. Manslaughter §5-10-104 34. Negligent Homicide §5-10-105 35. Obscene Performance at a Live Public Show §5-68-305 36. Offense of Cruelty to Animals             §5-62-103 37. Offense of Aggravated Cruelty to Dog, Cat, or Horse §5-62-104 38. Pandering or Possessing Visual or Print Medium Depicting §5-27-304
+Sexually Explicit Conduct Involving a Child
+39. Patronizing a Prostitute §5-70-103 40. Permanent Detention or Restraint §5-11-106 41. Permitting Abuse of a Minor     §5-27-221 42. Producing, Directing, or Promoting a Sexual Performance by a         §5-27-403
+Child
+43. Promoting Obscene Materials §5-68-303
+44. Promoting Obscene Performance     §5-68-304
+45. Promoting Prostitution in the First, Second, or Third Degree                 §5-70-104 - §5-70-106 46. Prostitution §5-70-102
+47. Public Display of Obscenity §5-68-205
+48. Resisting Arrest               §5-54-103
+49. Robbery §5-12-102
+50. Robbery (Aggravated Robbery) §5-12-103
+51. Sexual Offense (any) §5-14-101 et. seq. 52. Simultaneous Possession of Drugs and Firearms §5-74-106
+53. Soliciting Money or Property from Incompetents       §5-27-229
+54. Stalking               §5-71-229
+55. Terroristic Act §5-13-310 56. Terroristic Threatening §5-13-301 57. Theft by Receiving                   §5-36-106 58. Theft of Property §5-36-103 59. Theft of Services §5-36-104 60. Transportation of Minors for Prohibited Sexual Conduct §5-27-305 61. Unlawful Discharge of a Firearm from a Vehicle                   §5-74-107 62. Voyeurism §5-16-102
+6. If the Licensee wishes to employ an individual with a conviction or plea of guilty or nolo contendere for the following nonviolent offenses, they shall submit a written request for a waiver prior to employment. (§ 20- 38-103 (e) (3) (A) Act 990 of 2013)
+a. Theft by receiving § 5-36-106
+b. Forgery§5-37-201
+c. Financial identity fraud § 5-37-227
+d. Resistingarrest§5-54-103
+e. Criminal impersonation in the second degree § 5-37-208(b) f. Interference with visitation § 5-26-501
+g. Interferencewithcourt-orderedvisitation§5-26-502
+h. Prostitution§5-70-102
+i. Patronizing a prostitute § 5-70-203
+                                                                                                                     11
+
+The waiver may be approved if all of the following conditions are met:
+• The individual has completed probation or parole supervision
+• The individual has paid all court ordered fees, fines and/or restitution
+• The individual has fully complied with all court orders pertaining to the conviction or
+plea
+7. The waiver will be revoked if after employment the individual pleads guilty or nolo contendere or is found guilty of any prohibited offense (including the list above a-i) or has a true or founded report of child maltreatment or adult maltreatment in a central registry.
+8. The request for waiver and certification of approval shall be kept in the individual’s file for the term of employment and three years after termination of employment.
+9. If approved, the waiver is not transferable to another licensed facility.
+10. Any person who has pled guilty, nolo contendere or who has been found guilty of any one of the offenses listed above (Section 109.5), may not work in child care unless:
+a. The date of the conviction, plea of guilty or nolo contendere for a misdemeanor offense is at least five
+(5) years from the date of the request for the criminal history records check and there havebeenno criminalconvictionsorpleasofguiltyornolocontendereofanytypeor nature during the five (5) year period preceding the background check request
+b. The date of the conviction, plea of guilty or nolo contendere for a felony offense is at least ten (10) years from the date of the request for the criminal history records check and there have been no criminal convictions or pleas of guilty or nolo contendere of any type or nature during the ten (10) year period preceding the background check request.
+11. Anyone employed in a licensed center, COE center, Licensed Child Care Family Home or a Registered Child Care Family Home prior to 9/1/2009 with a clear background check history may remain eligible for employment unless the employee had a conviction, plead guilty, or plead nolo contendere to an offense listed in the above section (Section 109.5) since 9/1/2009.
+200 ADMINISTRATION
+201 Administrative Procedures
+1. All staff, children and home records shall be kept and made available to the Child Care Licensing Unit on request.
+2.
+3. All applicable health and fire regulations shall be met (see Regulation 301.4).
+ Falsification of any document and/or submission of false information to the Child Care
+ Licensing Unit may constitute grounds for revocation of the license. Falsification of any
+ document and/or submission of false information to any DHS Division that results in
+ exclusion, pursuant to DHS Exclusion Policy 1088, shall constitute grounds for
+ revocation of the license.
+ (Falsification means the submission of untrue information, whether by statement or omission.)
+12
+
+4. The home shall not exceed its licensed capacity at any time (see Regulation 801.3).
+5. The caregiver shall provide prudent supervision of all staff and other persons in the Home, and is responsible for the health, welfare, and safety of the children in care.
+6. The facility shall provide a written procedure for reporting suspected of child maltreatment. This procedure shall be followed and a call made to the Hot Line whenever there is a suspicion of child maltreatment (1-800-482-5964). These reports of child maltreatment shall include all allegations made to the Licensee by parents, staff members or the general public.
+7. The facility shall provide a written procedure for reporting suspected licensing violations. Serious licensing violations shall be reported to the Licensing Unit. These include, but are not limited to, violations relating to transportation, inappropriate behavior guidance, leaving children unattended or unsupervised, staff/child ratio violations or any other violations or any other violation that could imminently affect the health and safety of children.
+8. Parents shall be informed in writing upon enrollment of their child that children may be subject to interviews by licensing staff, child maltreatment investigators, and/or law enforcement officials for the purpose of determining licensing compliance or for investigative purposes. Child interviews do not require parental notice or consent.
+9. The facility shall provide a copy of the list of Kindergarten Readiness Skills Calendar or Checklist, prepared by the Arkansas Department of Education (copies can be requested online, by phone, or by mail from the DHS DCCECE Program Support Unit), to the parents of all three (3) and four (4) year old children enrolled. (Act 825 of 2003) A statement signed by the parent that they have received a copy of the list, shall be maintained in the child’s record.
+10. The caregiver shall not release a child to anyone whom is not immediately recognized as the child’s parent or as someone on the authorized pick-up list unless:
+a. The individual can provide an official picture ID AND
+b. ThepersoninchargecanmatchtheIDtotheindividualnamedonthechild’sdatasheet
+11. Verification of permission for persons not on the authorized list shall be obtained by the caregiver by calling the parent at a number listed in the child’s record. The caregiver shall view an official picture ID of the individual to verify identity.
+13
+
+300 PERSONNEL
+301 Staff/Child Ratios
+      Adult Caregiver(s)
+      Number of Children
+     Ages of Children
+ 301.1 ONE
+              A. 3-6
+    0-up (no more than 3under 2 years)
+   B. 7
+   0-up (no more than 2 under 2 years)
+   C. 8
+ 0-up (no more than 1 under 2 years)
+    D. 9
+  2-up (no more than 3 between 2 & 3 years)
+    E. 10
+  3-up
+ 301.2 TWO
+              A. 3-6
+    0-up
+   B. 7
+ 0-up (no more than 4 under 2 years)
+    C. 8
+  0-up (no more than 4 under 2 years)
+    D. 9
+    0-up (no more than 4 under 2 years)
+   E. 10-14
+ 0-up (no more than 4 under 2 years)
+    F . 15-16
+  0-up (no more than 2 under 2 years)
+   301.3
+             A. 7
+    0-up (no more than 5 under 2 years)
+   B. 8
+ 0-up (no more than 5 under 2 years)
+    C. 9
+  0-up (no more than 5 under 2 years)
+    D. 10-14
+    0-up (no more than 5 under 2 years)
+   E. 15-16
+   0-up (no more than 4 under 2 years)
+  4. Fire inspection is mandatory for Homes licensed for eleven (11) or more children. Health inspection(food service)ismandatoryforHomeslicensedforeleven(11)ormore children.
+5. The caregiver shall be responsible for children in care at all times and shall exercise prudent supervision.
+a. When a caregiver is not in the same room with children the children shall be frequently observed and the caregiver shall remain close enough to easily hear them.
+b. Doorstoroomswherechildrenaresleepingorplayingwithinthehomeshallremain
+14
+
+open and sleeping children shall be visually monitored and periodically checked to
+insure they are breathing normally.
+c. The caregiver shall be present on the outdoor play area at all times when any children
+are present.
+6. The caregiver shall not leave children unattended in the kitchen area of the home while any cooking is occurring.
+7. Ironing shall not occur in the presence of the children.
+8. The primary caregiver’s own preschool children shall be included in the caregiver/child ratio. The primary caregiver’s own school age children are not considered in the ratio.
+9. A Licensed Home may care for two (2) school age children for a short time not to exceed a total of three
+(3) hours per day before and/or after a school day. These two (2) children shall not be counted in the caregiver to child ratio. School age children who are in care at times other than before and/or after a school day shall be included in the caregiver to child ratio. These same two (2) children may stay all day in care and not be counted in the ratio due to emergency school closings, such as inclement weather. The home’s capacity shall not be exceeded other than the above stated exemptions. If the attendance exceeds ten (10), fire approval is required.
+10. Additional staff provisions shall be made for enrollment of children with disabilities who require individual attention.
+302 Homes specializing in Infant Care: Staff/Child Ratio
+1. Homes specializing in infant care shall maintain a 1:3 ratio.
+2. Homes specializing in infant care shall have a Fire Department inspection and approval.
+303 Caregiver Qualifications and Responsibilities
+1. The primary caregiver shall be twenty-one (21) years or older. A secondary caregiver shall be age eighteen (18) or older.
+2. Primary caregivers, licensed after November 1, 2002, and all secondary caregivers shall have a high school diploma or GED. If a diploma or proof of a GED is not available, a reasonable attempt to obtain a copy shall be documented.
+3. The primary caregiver shall not be otherwise employed during the time he/she is responsible for children in the home. Employment at other times shall not affect the quality of care given to the children. When two persons are listed as joint holders of the license and are both primary caregivers, at least one shall be present in the home while children are in care. (Also refer to Regulation 102.6).
+4. A caregiver shall not use profanity or speak in an abusive manner when children are present. The caregiver shall also cooperate with licensing staff during licensing monitor visits.
+15
+
+5. The caregiver shall have a person who would be able to care for the children in the event of an emergency.
+6. All caregivers who work directly with children shall obtain at least fifteen (15) hours of training registered with the Division of Child Care and Early Childhood Education Professional Development Registry, or Department of Education or Department of Higher Education approved training each year in continuing early childhood education.
+7. At least one caregiver who has a current certificate of successful completion of first aid and CPR from an approved organization shall be on site at all times.
+a. The curriculum shall conform to current American Heart Association or American Red Cross guidelines.
+b. Thecurriculumshallrequirehandson,skill-basedinstruction,aswellaspracticaltesting. Training and certification that is provided solely “on-line” will not be accepted.
+c. The instructor shall be qualified and authorized to teach the curriculum and shall be certified by a nationally recognized organization. (Including but not limited to: Health and Safety Institute; EMS Safety Services, Inc.)
+8. All caregivers shall be physically and emotionally able to care for children.
+9. Child Care Licensing may require a physician’s statement for any caregiver anytime behavioral or physical indicators warrant.
+10. Staff shall not engage in behavior that could be viewed as sexual or as dangerous, exploitative or physically harmful to children. A caregiver shall not use profanity or speak in an abusive manner when children are present.
+11. No caregiver shall consume or be under the influence of illegal drugs. (A drug test may be required if there is reasonable cause to suspect violation of this requirement and the issue cannot be otherwise resolved.) No caregiver shall consume or be under the influence of alcohol while delivering care. No caregiver shall consume or be under the influence of medications (prescription or non-prescription), which impair his/her ability to provide care.
+12. Newly licensed caregivers shall attend Family Child Care Provider Training and BAS (Business Administration Scale) training (or other approved tools that are considered equivalent in the state’s QRIS) within the first six (6) months of being licensed.
+13. The Licensee shall notify the Licensing Unit within five (5) calendar days of any change in the person(s) designated as secondary caregivers.
+304 Volunteer Requirements
+ 1. Volunteers are those individuals who have routine contact with children and assist in the
+ home. If they are left alone with children, considered in the staff/child ratios or given
+ supervisory/disciplinary control over children, they shall be considered staff and must
+ meet caregiver qualifications and responsibilities. (Section 303)
+ 2. All volunteers in a Registered Child Care Family Home shall be 18 years of age or older
+ unless the volunteer is under the direct supervision of the licensee and has been
+ approved on an individual basis by the Child Care Licensing Unit.
+ 16
+
+3. Volunteers who have routine contact with children, shall have on file a maltreatment
+ Central Registry check. An exception shall be given to parents who volunteer on field
+ trips, but are not left alone with children. Child Maltreatment Central Registry checks for
+ volunteers under 18 years of age must include a parent’s signature.
+ 4. Individuals who provide health services or program enrichment activities on a limited
+ basis are not considered volunteers. The home shall retain a register of such persons
+ listing name, organization address, telephone number, date and time in the center.
+ (Note: This section does not apply to therapists or others who have routine contact with
+ children. Therapists who are not left alone with children are required to have child
+ maltreatment background checks. Therapists who are left alone with children at any time are subject to all background checks required for personnel. The therapist is entitled to a
+ copy of the initial background/maltreatment check results and may share a copy with
+ other facilities in which the therapist may be working.)
+ 305 Student Observers
+1. Students visiting the home on a regular or periodic basis to observe classroom activities or for other similar purposes shall not be counted in the staff/child ratio, shall not have disciplinary control over children and shall not be left alone with children. These individuals shall have a child maltreatment background check on file.
+2. Students that are conducting practicum, student teaching, or working in the same capacity as an employee or volunteer must meet the criteria in the appropriate section. (Sections 304 and 305)
+306 Adults in the Home
+1. The caregiver(s) shall provide a clear statement regarding the presence of any other adults eighteen (18) years of age and above who remain in the home during any hours in which care is being given. Such persons shall not present a threat to the safety or welfare of children.
+2. The home shall have additional staff when there are persons in the home who require constant or routine care.
+400 PROGRAM AND ACTIVITIES
+401 Program Requirements
+1. There shall be a posted daily schedule, which includes age-appropriate activities, including alternating periods of active play and quiet activities throughout the day.
+2. Staff shall plan and provide experiences that meet children’s needs and stimulate learning in the following developmental areas: physical, social/emotional, creative/aesthetic, cognitive/intellectual and language, found in “Arkansas’ Early Learning Standards.” (Experiences that promote self-concept development for infant/toddlers shall also be provided if that age group is in care.)
+3. There shall be meaningful interaction between staff and children, to include but
+ 17
+
+not limited to the following:
+a. Comfort children who are upset
+b. Engageinfrequent,multipleandrichsocialinterchangessuchassmiling,talking,
+touching and singing
+c. Interact with children by being their play partner as well as protector
+d. Helpchildrenidentifyandlabelfeelingsbybeingattunedtochildren’sneeds
+e. Communicate consistently with parents/guardians
+f. Interact with children and develop a relationship in the context of everyday routines
+4. The caregiver(s) shall not engage in activities or experiences which may be damaging to children’s self- esteem and positive self-image.
+5. There shall be an opportunity for a supervised rest period that does not exceed two hours.
+6. There shall be an opportunity for a supervised rest period.
+a. The supervised rest period shall be at least one hour but shall not exceed two hours. b. Ifchildrendonotfallasleep,theyshallbeallowedtoparticipateinaquietactivity
+either on their cots, in the area or in another room under direct supervision.
+7. There shall be a total of at least one (1) hour of outdoor play per day in suitable weather. When making a determination if children should play outside, staff shall consider the following environmental factors:
+a. When the heat index is forecast to be ninety (90) degrees or above, it is recommended that outdoor play be scheduled during early morning hours or the length of time spent outdoors should be reduced to avoid heat stress.
+b. Whenoutdoorplayoccursduringthehotterpartoftheday,itisrecommended that children have a shaded area, an ample supply of water and should be monitored closely for signs of heat stress.
+c. When outdoor play occurs during the winter months and when temperatures are extremely cold, it is recommended that the time scheduled for outdoor play be reduced or suspended depending on the temperature and other weather conditions.
+8. There shall be a total of 30 minutes per day of moderate to vigorous physical activity. This could be included in outdoor play time if it meets this criterion.
+9. Indoor activity equipment shall be adequate for the number and ages of children in the home to meet their physical and developmental needs.
+10. Children shall have a variety of toys, books, creative materials and equipment that is easily accessible and arranged to support learning. This includes equipment for:
+a. Large muscle activities (such as climbing and running)
+b. Manipulativeactivities(suchasthingsdonewiththehands)
+11. The use of television, DVD, video cassette viewing and computer/video games and other screen time activities shall meet the following requirements:
+18
+
+a. Shall be limited to programs which are age-appropriate (It is recommended that programs have educational value.)
+b. Shallnotexceedone(1)hourdailyperchildorgroupofchildren.(Childrenshallnot be required to participate in screen time activities and shall be offered other choices. Viewing time may be extended for special events or occasions such as a current event, holiday or birthday celebration or for the occasional viewing of age appropriate movies or other programs that may exceed one hour in length.)
+c. Computer learning periods for children below age 5 may not exceed two (2) hours a day per child or group of children
+12. A verbal or written system of communication shall be used by caregivers to share with parents or guardians day-to-day happenings, such as significant changes in a child’s physical or emotional state or information regarding any known cuts, bruises or injuries that may require attention or evaluation by a physician.
+13. It is recommended that the caregiver encourage parents to be involved in planning and participating in activities at the Child Care Family Home.
+14. The caregiver shall distribute materials developed or approved by the Department of Health on prevention of Shaken Baby Syndrome to all parents of infants, upon enrollment. (Carter’s Law, Act 1208)
+15. Photos or video recordings shall not be made of any child without prior written parental permission.
+16. Photos or video recordings of children shall not be placed on social media web sites without prior written parental permission.
+402 Infant & Toddler Specific Program Requirements
+1. Infants shall be carefully supervised at all times.
+2. The caregiver shall provide a safe and clean learning environment, both indoors and outdoors, with age appropriate materials and equipment arranged to support learning.
+3. Infants and toddlers shall have a learning/play environment that shall include staff being on their level interacting with them frequently when they are awake.
+4. The caregiver shall implement relationship-based practices that promote consistency and continuity of care for infants and toddlers. Infant and toddler caregivers/teachers shall:
+a. Respond promptly to cries and calls of distress by verbally acknowledging, gently touching, and holding children.
+b. Engagechildreninfrequentrichsocialexchangesinavarietyofways.Forexample holding, patting, making frequent eye contact, smiling, singing, and using a pleasant calm voice in conversation.
+c. Engage children in frequent positive social exchanges during routine care such as eating, diaper changing, toileting, and preparing for rest.
+d. Provideconsistentemotionalsupporttoinfantandtoddlersbyacknowledging
+19
+
+their feelings and emotions and providing physical and verbal support.
+e. Communicate consistently with parents/guardians by greeting them warmly
+and exchanging information that promotes continuity between the center
+and the child’s home.
+f. Engage in play activities with children by providing a safe environment to explore,
+model play behavior such as imagination and use of toys and equipment, and provide verbal encouragement and support.
+5. Infants shall be taken outside for a period of time every day, unless prevented by weather or special medical reasons.
+6. Outdoor play for infants and toddlers may include riding in a stroller. However, infants and toddlers shall be offered opportunities for gross motor play outdoors as well.
+7. If a child falls asleep while in a walker, swing, high chair, etc., that child shall be placed in appropriate sleep equipment.
+8. Infants/toddlers shall be placed in age appropriate cribs, cots, or mats meeting CPSC standards, when they fall asleep. (Note: Also, any items used in the crib must be used according to manufacturer guidelines, regardless if the child is sleeping or not, in accordance with 1001.1).
+9. Infants (children 12 months and below) shall be placed flat on their backs to sleep, in accordance with American Academy of Pediatrics guidelines, to lessen the risk of suffocation and Sudden Infant Death Syndrome. (If a child rolls over on his/her own, the facility is not required to reposition the child.) If there is a medical reason a child cannot sleep on his/her back, then a signed statement from the child’s physician must be in the file stating the reason, the sleep position indicated, and the time frame this is required.
+10. Infants’ sleep space (e.g. crib) shall be free of loose bedding. If a light blanket is necessary, it is recommended that it be kept at or below the mid-chest area of the child. Staffshallnotcoverthefacesof infants.
+11. Pacifiers, if used, shall not be secured around the neck by a cord or by any other means that could represent a strangulation hazard.
+12. Pillows (including nursing or “boppy” pillows), bumpers/bumper pads and stuffed animals shall not be placed in cribs.
+13. Toys or materials used by younger children shall not be small enough to be swallowed.
+14. Toys used by infants and toddlers shall be safe and sanitized as needed to help prevent the spread of contagious diseases. Toys that cannot be cleaned and sanitized shall not be used.
+15. Safety straps shall be used on all equipment originally manufactured with safety straps.
+20
+
+403 School Age Children: Program Requirements
+1. School age children shall be provided with a choice of indoor and outdoor activities.
+2. A quiet time and a private place with appropriate equipment shall be provided for one (1) person activities, including resting and homework. (A supervised rest period as required by Regulation 401.3, does not apply to school age children.)
+3. Permission from parents shall be on file for school age children to leave the Home.
+a. School age children who leave the home to participate in classes, clubs or other activities shall have written permission from the parents naming the activity, time of leaving and returning and method of transportation to the activity.
+b. Permissionforregularlyscheduledactivitiessuchasscoutingmaybegivenforthe entire school term.
+404 Evening & Night Care: Program Requirements
+Night care is defined as any care provided after midnight.
+1. The caregiver shall remain awake at all times children are in care. (Alternative Compliance may be requested to allow the caregiver to sleep after the children are in bed for the night. For this request to be approved, consideration will be given to the overall level of licensing compliance, the use of motion detectors and/or other alarms to alert the caregiver if children leave the sleeping area, the ages, numbers and sex of the children in overnight care and written notification to parents that the caregiver will be sleeping during overnight care.)
+2. There shall be a plan for evacuating children to safety in case of fire or emergency.
+3. Children arriving in the daylight hours shall have outdoor play, weather permitting. Older children shall have time for reading or doing homework during the school year.
+4. Homes with only one caregiver shall limit care to no more than two (2) shifts (18 hours) per twenty four
+(24) hour period. Homes offering twenty-four (24) hour care shall provide a schedule verifying that they have made provisions for a secondary caregiver to provide relief care for one shift. (Alternative compliance may be requested by caregivers who provide twenty-four (24) hour care and who do not have a secondary caregiver. For this request to be approved, consideration will be given to the overall level of compliance with the licensing requirements and to the number and ages of children in care during the third shift.)
+5. Evening meals shall be served. The Licensee shall ensure that children spending the night are served breakfast.
+6. Drinking water shall be available to children during the night.
+7. Bathing facilities shall be available. Hot water shall be available. Children shall not take baths together or share the same bath water. Tubs or showers shall be cleaned after each use. Children shall be given fresh washcloths and towels. Preschool children shall
+21
+
+never be left alone when bathing. Privacy shall be ensured for school age children. 8. Each child in night care shall be given a bed or cot with mattress or pad and a pillow.
+a. If linens become soiled, they shall be changed. Protective mattress covers shall be used and washed at least weekly.
+b. Eachchild’sbedorcotshallhaveacoveravailable.
+c. Bed or cots shall be arranged at least one foot apart.
+500 BEHAVIOR GUIDANCE
+501 Behavior Guidance Requirements 1. Behavior guidance shall be:
+a. Individualized and consistent for each child
+b. Appropriatetothechild’slevelofunderstanding
+2. Use of behavior guidance shall show that the caregiver understands each child’s needs and shall promote self-discipline and good behavior.
+3. Acceptable behavior guidance techniques include:
+a. Look for appropriate behavior and reinforce the children with praise and encouragement when they are behaving well.
+b. Remind the children on a daily basis of the rules by using clear positive statements of how they are expected to behave rather than what they are not supposed to do.
+c. Attempt to ignore minor inappropriate behaviors and concentrate on what the child is doing properly.
+d. Use brief supervised separation from the group only when the child does not respond to a verbal command which instructs the child as to how he or she is supposed to behave.
+e. When a misbehaving child begins to behave appropriately, encourage and praise small positive steps rather than waiting until the child has behaved well for a long period of time.
+f. Attend to the children who are behaving appropriately and other children will follow their example in order to obtain your attention.
+g. Whentheentiregroupisbehavingwell,rewardthemwithanactivitytheyenjoy.
+4. Physical punishment shall not be administered to children.
+5. The length of time a child is placed in time-out shall not exceed one minute per year of the child’s age.
+6. The following activities are unacceptable as behavior guidance measures and shall not be used. These include but are not limited to:
+a. Using restraints (Restraining a child briefly by holding the child is allowed when the child’s actions place the child or others at risk of injury.)
+b. Washingmouthwithsoap
+22
+
+c. Taping or obstructing a child’s mouth
+d. Placingunpleasantorpainfultastingsubstancesinmouth,onlips,etc.
+e. Using profane or abusive language
+f. Isolating a child without supervision
+g. Placingachildindarkarea
+h. Inflictingphysicalpain,hitting,pinching,pullinghair,slapping,kicking,twisting
+arms, biting or biting back, spatting, swatting, etc.
+i. Yelling (This does not include a raised voice level to gain a child’s attention to
+protect the child from risk of harm.)
+j. Forcing physical activity, such as running laps, doing push-ups, etc. (This does not
+include planned group physical education activities that are not punitive in
+nature.)
+k. Associating punishment with rest, toilet training or illness
+l. Denying food (lunch or snacks) as punishment or punishing children for not eating. m. Forcing or bribing a child to eat
+n. Shaming,humiliating,frightening,physicallyormentallyharmingchildrenorlabeling
+children
+o. Covering the faces of children with blankets or similar items
+7. Posted group behavior charts shall not be used. (Individual behavior charts that are not viewable by children and individual charts used by therapists are allowable.)
+502 Infant & Toddler: Behavior Guidance Requirements
+1. Time out shall not be used with children under the age of two (2). The only acceptable form of behavior guidance with infants and toddlers shall be redirection. (Brief separation from the group is acceptable when the child’s behavior places the child, or others, at risk of harm. The child may be placed in a supervised area away from the group or in a crib or playpen while the caregiver attends to the situation. Example: A child who has bitten another child would be removed from the group, briefly, while the caregiver attends to the bitten child.)
+600 RECORDS
+601 Home Records
+1. All employee, child and home records shall be kept on site and made available to the Child Care Licensing Unit on request. All required records shall be maintained for three (3) years. (This includes records on children no longer enrolled.)
+2. Licensing Compliance Form(s) (DCC-521) shall be maintained at the facility for three (3) years. The facility shall advise parents in writing that the compliance forms are available for review upon request.
+3. Home records that are required to be kept are as follows:
+a. Attendance records on all children to include the date and time of arrival and departure and daily parental signatures on the sign in and out forms
+b. Transportationrosters,ifapplicable(maintainforoneyear)
+c. Verification of required commercial vehicle insurance coverage, if applicable
+ 23
+
+d. VerificationofChildCareLiabilityinsurance
+e. Verification of annual fire department approval, if applicable
+f. Verification of annual health department approval, if applicable
+g. Verificationofzoningapproval,ifapplicable(partofpermanentrecord)
+h. VerificationofannualapprovalbytheBoilerInspectorDivisionoftheDepartmentof
+Labor
+i. Mobile Home Commission approval, if applicable (part of permanent record) j. Record of emergency drills
+k. Plans and procedures of Emergency Preparedness
+l. Procedures for reporting allegations of child maltreatment
+m. Log of Product Recall and Safety Notices from the CPSC
+n. Petvaccinations
+602 Caregiver Records
+1. Caregiver records shall contain the following:
+a. An employee application for secondary caregivers, including name, date of birth, address and telephone number
+b. DocumentationofhighschooldiplomaorGED,andcontinuingeducationhours(If these documents are no longer available, proof of reasonable effort to obtain the documentation is acceptable.) (Clarification: Training hours will be counted on a calendar year basis or by the home’s operating schedule if they do not operate year round.)
+c. Documentation of the initiation of all required background checks and results obtained
+d. Verificationofrequiredtransportationtrainingandcurrentcopyofthedriver’slicense
+for caregiver(s) that transport children, if transporting
+603 Children’s Records
+1. Enrollment information shall be obtained for each child before admission.
+2. Identifying and Personal Data shall include:
+a. Child’s name, birth date, home address and telephone number
+b. Nameandaddressesoftheparentsandtelephonenumberswheretheparentscan
+be reached while the child is in care
+c. Date of enrollment in facility
+d. Name,addressandphonenumberofpersontobecontactedifparentscannotbe
+reached
+e. A written behavior guidance policy provided to parents, with a copy signed by the
+parents and retained by the caregiver
+f. Any legal documentation that has been given to the facility by the parent or legal
+guardian regarding the care of the child
+3. Medical Records shall include:
+a. The name, address and telephone number of the child’s physician or emergency medical care facility
+b. Pertinentpastmedicalhistoryonthechildandanychangeinhealth
+c. Child’s unusual food needs such as special formulas, diabetic diet or food allergies
+24
+
+d. Notesofspecialproblems(suchasallegoriestomedicationorsunburn sensitivity) or needs as indicated by the parents
+e. An authorized record of up-to-date immunizations or documentation of a religious, medial or philosophical exemption from the Arkansas Department of Health (The caregiver shall maintain a roster of children who have not completed the minimum immunization requirements. A current immunization schedule is provided in the appendix of this publication.)
+f. A written record shall be made of all accidents, incidents, or injuries, indicating the location, time of day, area, or piece of equipment where the incident occurred. A copy of this shall be given to the parent or legal guardian on the day of occurrence.
+g. Anymedicaldocumentationthathasbeengiventothefacility,bytheparent or legal guardian, regarding the care of the child
+4. Permissions and Agreements will be signed by parents and caregiver(s):
+a. Consent for emergency medical care and transportation for such care which shall accompany children who are transported to and from the home
+b. Othertransportationpermission,ifany,includingroutineandspecialfieldtrips
+c. Permission to participate in water activities, if any
+d. Signed statement by the parent stating who is authorized to pick up the child
+e. Written permission for the facility to photograph or video tape their child, if applicable
+f. Written permission for the facility to place photos and video recordings of their child
+on social media or other web sites, if applicable
+5. DocumentationofdistributionofShakenBabySyndromeinformationtoallparentsof infants in accordance with Carter’s Law. (Act 1208 of 2013)
+6. Infant feeding documentation shall be maintained for at least one year.
+25
+
+700 NUTRITION
+701 Nutrition Requirements
+1. A home licensed for eleven (11) or more children, if food is prepared for the children in the Home, shall provide a current verification of approval by the Arkansas Department of Health, Sanitation Services
+2. All Licensed Homes shall meet the following requirements:
+a. All food shall be safe and stored properly to prevent spoiling.
+b. Thehomeshallhavearefrigeratorwiththermometervisibleandthetemperature
+shall be maintained at 41 degrees or below. (Freezer thermometer shall be
+maintained at zero (0) degrees or below.)
+c. Food shall not be stored under sinks.
+d. Foodshallbestoredinoriginalcontainerorinaclosedcontainer.
+e. Chemical and toxins shall not be stored in food storage area.
+f. All medicines shall be stored separately from food at all times.
+3. All food and drink shall be prepared, distributed and served under sanitary conditions and the following requirements shall be met:
+a. Caregivers shall wash hands before preparing food.
+b. Thereshallbeatwocompartmentsinkwithhotandcoldrunningwater.
+c. Individual drinking glasses or disposable cups shall be provided.
+d. Allsurfacesshallbekeptsanitary.
+e. Food left uncovered or handled shall not be reused.
+f. When dishes are washed by hand, they shall be sanitized with a bleach solution.
+g. Drinkingwaterandwaterusedforthepreparationofformulashallnotcomefrom
+the hot water supply. (Water from hot water system may contain higher levels of lead and other substances which could be harmful to small children.)
+4. Food shall be served on individual plates, bowls, or other dishes that can be sanitized or discarded.
+5. Age appropriate tables and chairs, highchairs, equipment designed for children, or other comfortable seating options shall be used during snack and meal time.
+6. Breakfast, if served, lunch and evening meals shall each meet current U.S. Department of Agriculture guidelines, including portion size. (See Appendix A) If sack lunches are utilized, the home shall ensure that these also meet U.S. Department of Agriculture guidelines by supplementing the lunches if necessary. Milk shall be served to each child during the day. Exceptions may be made for children who suffer allergies to milk.
+7. Menus for all meals and snacks shall be available for review.
+8. Breakfast shall be made available to children who arrive before 7:00am. Breakfast may be served to all children rather than a morning snack provided there is no more than three (3) hours between the beginning of breakfast and the beginning of lunch.
+26
+
+9. Midmorning and mid-afternoon snacks shall be provided to all children and shall meet current U.S. Department of Agriculture guidelines (See Appendix A).
+10. All children in care during evening hours shall be offered an evening snack. Children in care during evening hours shall be served supper and children spending the night shall be served breakfast unless provided by parent or school.
+11. It is recommended that food brought in from outside sources be in commercially pre- packagedcontainers orcomefromHealthDepartmentapprovedkitchens.
+This recommendation is based on concerns for the health and safety of children who may have severe food allergies, and the difficulty of monitoring ingredients in food brought in from home kitchens.
+12. Children shall not be forced to eat.
+702 Infant & Toddler Nutrition Requirements
+It is recommended that mothers be allowed and encouraged to breast feed their child at the Child Care Family Home.
+1. The routine use of baby food, bottles and formula shall be agreed upon by the caregiver and parent. Instructions regarding special needs for food, bottles and formula, such as food allergies, shall be obtained in writing from the parent and followed by the caregiver (See Appendix B).
+2. Feedings for all children up to twelve (12) months of age shall be documented by the caregiver and available for review by the parent. This documentation shall continue for all children older than twelve
+(12) months of age who are still being given bottles.
+3. Children shall not share the same bottle.
+4. A sanitary method of cleaning baby bottles shall be practiced.
+5. Baby bottles shall be properly refrigerated.
+6. Microwaves shall not be used for heating bottles due to the danger of uneven heating.
+7. Infant feeding schedules shall be flexible and adapted to each infant’s needs.
+8. The solid foods fed to an infant shall be determined by the child’s parent(s).
+9. Infants under six (6) months of age shall be held while being fed. Bottles shall not be propped. Infants six (6) months of age and older shall be held if needed.
+10. Infants no longer held for feeding shall either sit in low chairs at low tables or in infant seats with trays, or in high chairs with wide bases. Safety straps shall be used with high chairs.
+11. Children under 2 years of age shall not be fed foods that may cause choking, such as but not limited to hard candy, raw carrots, hot dogs, nuts, seeds or popcorn.
+27
+
+800 BUILDINGS
+801 Building Requirements
+1. The home’s building, grounds and equipment shall be clean, kept in good repair, and maintained as needed to protect the health and safety of the children. If the home has sustained structural damage the caregiver shall immediately notify the Child Care Licensing Specialist.
+2. Department of Labor, Boiler Inspection Division requirements shall be met. All water heaters and any other boilers in licensed child care settings shall be inspected on an annual basis and/or upon installation. Verification that initial inspection or proof of attempt to set up initial inspection, shall be completed within six (6) months of licensure. Scheduling and completion of annual inspections will be the responsibility of the Department of Labor, however, the facility is responsible for cooperating and keeping documentation of such inspection on file for review. (AR Code §20-23-101 et. seq.)
+3. There shall be at least thirty-five (35) square feet of usable indoor space for each child in the Home. This area shall not include kitchens, bathrooms, hallways or closets.
+4. The home shall have an operable telephone on site all hours children are in care. The Licensee shall provide the phone number to the Licensing Unit and to the parents. (This phone may be a cell phone if the phone stays operable, stays at the facility during all hours of care, and is the phone number provided to the Licensing Unit and the parents.)
+5. Light, heating, cooling and ventilation of the home shall be adequate for safety and comfort.
+6. Windows and/or doors used for ventilation shall be screened.
+7. It is recommended that if natural gas or propane is used, the facility’s heating systems be inspected and cleaned (if necessary) before each heating season by a qualified HVAC technician.
+8. Carbon monoxide detectors shall be placed in homes according to manufacturer’s recommendations if either of the following situations applies:
+a. The home uses wood, propane, natural gas, or any other products as a source of heat that can produce carbon monoxide indoors or in an attached garage.
+b. Situationswherecarbonmonoxidedetectorsarerequiredbystateorlocallaw
+9. Manufactured homes, licensed as Child Care Family Home, shall be tied down and under-pinned as required by the Arkansas Manufactured Home Commission. The home shall obtain an inspection and approval from the Arkansas Manufactured Home Commission prior to being licensed.
+10. Annual fire approval shall be obtained on all manufactured homes licensed as Child Care Family Homes.
+28
+
+11. Outdoor equipment that requires use zones and protective surfacing shall require the same use zones and protective surfacing if used inside the facility. (This does not apply to equipment specifically designed for indoor use only.)
+900 PLAYGROUNDS / OUTDOOR LEARNING ENVIRONMENTS
+To provide the safest possible playground environment, you are encouraged to meet Consumer Product Safety Commission’s guidelines listed in the “Handbook for Public Playground Safety”. However, the following are minimum requirements and shall be met.
+Please note that these requirements do not mandate the use of any playground equipment that would require use zones and protective surfacing. Numerous options for suitable playground environments are available and acceptable. Examples of such activities are:
+• Sand boxes
+• Activity walls at ground level
+• Art easels
+• Balls & games
+• Play houses
+• Nature walks
+• Use of the approved natural environment for outdoor learning
+It is not advisable to use public playgrounds and other play environments away from the facility, as these environments may not meet acceptable safety standards. If these playgrounds are used, it is recommended that staff provide close supervision and not allow children to use any equipment that appears unsafe (eg: broken equipment, sharp objects, strangulations hazards, etc.). Please remember that visiting playgrounds and other play environments away from the facility is considered a field trip and all field trip regulations shall be followed.
+901 Layout & Design
+1. A diagram of the playground shall be submitted, clearly identifying the perimeter of the playground, with measurements, and identifying each piece of equipment used by the children enrolled at the licensed facility. This documentation shall be in the form of a satellite photo, when possible, from an internet site such as Google Maps, or a diagram of the playground if a satellite photo is not available.
+2. Any changes in the play area boundaries and/or equipment requested must be submitted in writing and approved prior to use.
+3. All equipment and protective surfacing shall be installed and maintained according to manufacturer’s guidelines.
+4. The play area/outdoor learning area shall be fenced or otherwise enclosed and provide at least 75 square feet per child present on the playground at any time.
+5. There shall be an outside exit from the play area.
+6. The area shall be well drained.
+29
+
+7. There shall be equipment and activities appropriate for the age and number of children enrolled in the facility.
+8. Separate play areas or time schedules shall be provided if, infants and toddlers share playgrounds with older children.
+9. Areas where children play outdoors shall be properly maintained.
+902 General Hazards
+1. The area shall be free of hazards or potentially hazardous objects.
+2. Equipment that has been determined by the Division to be unsafe for the children shall be removed from the play area, or enclosed by a fence or other suitable barrier so the children will not have access to it.
+3. All newly purchased playground equipment designed for children to play on or climb on, such as slides, swings, composite structures, etc., shall be commercially manufactured and certified to meet ASTM or CPSC standards for public playgrounds.
+4. Equipment, which is designed to be anchored, shall be properly anchored so that the anchoring devices are below ground level.
+5. Sand for playing shall be kept safe and clean.
+6. Paint on equipment shall be lead free.
+7. All fasteners, including S-hooks, shall be securely tightened or closed.
+8. There shall be no sharp points, corners, edges, or splinters.
+9. Equipment shall not have protrusion hazards. (A protrusion is a projection which, when tested, is found to be a hazard having the potential to cause bodily injury to a user who impacts it.)
+10. Equipment shall not have entanglement hazards. (An entanglement is a condition in which the user’s clothes or something around the user’s neck becomes caught or entwined on a component of playground equipment.)
+11. Trampolines shall not be used. (Therapeutic use of trampolines is acceptable if supervised by the therapist on a “one on one” basis.)
+12. Ball pits shall not be used. (Ball pits are large areas or “pits” filled with balls intended for children to jump in and play. Therapeutic use of ball pits is acceptable if supervised by the therapist on a “one on one” basis.)
+13. Wading pools shall not be used. This does not prohibit the use of sprinklers and water play.
+14. To prevent entrapment, there shall be no opening(s) between any interior opposing
+30
+
+surfaces between 3.5 and 9 inches. (Openings in equipment that might allow a child’s body to pass through, but not their head.) Ground bounded openings are exempt.
+15. Providers/caregivers shall be aware of and remove when possible any hazardous items children may wear on play equipment such as helmets, drawstrings, and other accessories around the neck that may cause a strangulation/entanglement hazard.
+16. All children one year of age and older shall wear properly fitted and approved helmets while riding bicycles, roller blades, roller skates, scooters and skate boards. Helmets shall be removed as soon as children stop riding this equipment. Helmets shall meet CPSC standards. (Helmet use is recommended for children while riding tricycles and other wheeled toys.)
+17. All soccer goals shall be commercially manufactured and installed and anchored according to manufacturer’s guidelines.
+903 Balance Beams
+1. Balance beams shall not be higher than 12 inches and shall have use zones with protective surfacing.
+2. Children under age 2 shall not use balance beams.
+904 Slides
+1. Slides shall not have any spaces or gaps between the platform and the slide surface.
+2. Slides shall have a transition platform of at least 14 inches deep for preschool and school age children, and 19 inches deep for toddlers.
+905 Swings
+1. The following swings shall not be used for any ages:
+a. Multi-occupancy swings designed to hold more than one child, except tire swings
+b. Heavymoldedswingssuchasanimalfigureswings
+c. Free swinging rope (Tarzan ropes)
+d. Swingingexerciserings
+e. Trapeze bars
+f. Swings attached to a composite structure (Composite Structure is defined by CPSC
+as, “Two or more play structures attached or functionally linked, to create one integral unit that provides more than one play activity.”)
+2. There shall be no wood or metal swing seats.
+3. Toddler swings shall have fully enclosed bucket seats.
+4. Direct supervision shall be provided for children in toddler swings.
+906 Climbing Equipment
+31
+
+1. Free standing arch climbers shall not be used for preschoolers.
+2. Flexible grid climbing devices, such as rope or chain ladders, climbing ropes, etc., shall be securely anchored at both ends.
+3. Flexible grid climbing devices shall not be used for preschoolers unless they are anchored at both ends and have a means of transitioning from one piece of equipment to the next.
+4. Preschoolers shall not use sliding poles.
+5. Sliding poles shall have no protruding welds or seams along the sliding surface and the pole shall not change directions.
+907 Merry Go Rounds
+1. The only merry-go-rounds allowed are portable merry-go-rounds not designed to be anchored.
+2. Merry-go-rounds shall have handgrips or other secure means of holding on.
+908 Seesaws
+1. Seesaws without spring centering devices shall have shock absorbing materials, suchaspartialtires embeddedinthegroundunderneaththeseatsorsecuredto the underside of the seats.
+2. Hand holds shall be provided for both hands at each seating position and shall not turn when grasped.
+3. Hand holds shall not protrude beyond the sides of the seat on seesaws.
+909 Protective Surfacing
+1. There shall be use zones and protective surfacing under and around all equipment that is over 18” in height at the highest accessible point. (The highest accessible point is defined as the highest surface on the piece of equipment where children would stand or sit when the equipment is being used as intended.) Use zones shall extend a minimum of 6’ in all directions (unless otherwise specified) from the perimeter of the equipment. (Playground equipment that is between 18 inches and 24 inches at the highest accessible point and that was installed prior to the enforcement date of this revision is allowable without protective surfacing, as long as it meets all other requirements.)
+2. Swings require use zones and protective surfacing regardless of height.
+3. Use zone protective surfacing depths shall be as follows:
+Minimum compressed loose-fill protective surfacing depths
+Inches Loose-Fill Material Protects to Fall Height of:
+a. 6* Shredded/recycled rubber 10 feet
+32
+
+b. 9 c. 9 d. 9 e. 9
+Sand
+Pea Gravel
+Wood mulch (non-CCA) Wood chips
+4 feet 5 feet 7 feet 10 feet
+*Shredded/recycled rubber loose-fill protective surfacing does not compress in the same manner as other loose-fill materials. However, it is recommended that care be taken to
+maintain a constant depth as displacement may still occur.
+4. Shock absorbent material such as sand, pea gravel, wood chips, wood mulch, shredded tires,etc.,shallbe usedinusezoneareasunderandaroundplaygroundequipment which requires a use zone.
+a. When purchasing gravel, it is recommended that care be taken prior to purchase to insure that the gravel is actually pea gravel that is smooth and rounded, and not crushed rock or gravel with sharp edges. Crushed rock and sharp gravel will not be approved.
+b. Pea gravel used for use zones shall not be over 1⁄2 inch in diameter.
+c. Different types of protective surfacing materials shall not be combined within the same
+use zone area.
+5. Hard surface materials, such as asphalt and concrete shall not be used as base surfaces in the use zones except under commercial matting or other systems/products designed to be installed over hard surfaces as directed by the manufacturer.
+6. SLIDES: The use zone for slides measuring 6 feet or over, measured from the slide platform to the ground, shall extend 8 feet from the exit end of the slide. Use zones for slides measuring under 6 feet from the platform to the ground shall extend 6 feet from the exit end of the slide.
+7. SWINGS: The use zone for single-axis swings (standard swings) (except toddler swings) shall extend to the front and to the rear of the swing a minimum distance of two times the height of the pivot point (where the chain attaches to the frame) above the playing surface. The use zone for toddler swings shall extend to the front and rear of the swing a minimum of two times the distance from the pivot point to the swing seat. Use zones shall also extend 6 feet to the sides of the swing set.
+8. SWINGS: The use zone for multi-axis swings (such as tire swings or others with three or more suspending chains) shall extend in all directions a minimum of six feet, plus the height of the suspending rod or chain. The use zone from the end of the structure must also extend a minimum of 6 feet in all directions.
+9. Use zones shall be free of obstacles onto which children may fall.
+1000 SLEEPING ARRANGEMENTS
+1001 Sleeping Arrangement Requirements
+1. All manufacturer guidelines shall be followed for furniture and equipment that is used by or around children.
+33
+
+2. Any cribs or playpens that have been identified as unsafe, or have been subject to recall as defined by the Consumer Products Safety Commission (CPSC) guidelines or law, shall be removed or repaired as indicated.
+3. Each child under twelve (12) months of age shall have a separate well-constructed baby bed or play pen with a waterproof mattress or pad which shall be clean, dry and in good condition. Sheets and covers are required and shall be kept clean and dry. Bassinets shall not be used. (Please note that the CPSC does not recommend the use of playpens in licensed child care.)
+4. Waterbeds shall not be used for sleeping children under the age of two (2) years.
+5. The following guidelines shall also be required for cribs:
+a. Cribs that have end panels with decorative cutout areas shall not be used.
+b. Mattressesshallfitsnuglyinthecrib.
+c. The space between crib and mattress shall measure no more than 1 inch.
+d. Cornerpostshallbethesameheightasendpanels.
+e. End panels shall extend below mattress at the lowest position of the mattress.
+f. Baby beds shall have slats no greater than 2 3/8 inches apart.
+6. Each child twelve (12) months of age or older shall have a cot, bed, pallet, or mat which shall be placed at least one foot apart. Sheets and covers are required. Bedding shall be of washable material and shall be kept clean. If mats or pallets are used on floors, floors shall be clean, warm, dry and draft free. Any mat or pallet less than two (2) inches thick shall be placed on carpet.
+7. Doors in rooms where children are sleeping shall remain open.
+8. Swaddling of infants is not recommended and shall require a note from the child’s physician if continued past the age of three months.
+9. Bibs, necklaces and garments with ties or hoods shall be removed from infants prior to rest/naptime, to reduce the risk of entanglement and strangulation while sleeping.
+1100 HEALTH
+1101 General Health Requirements
+1. The home shall have an adequate supply of water that meets the Arkansas Health Department standards for drinking water.
+2. Water shall always be available to the children.
+3. The facility shall follow any health or medical care plans and/or medical documentation as provided by the child’s physician, parent, or guardian.
+4. Garbage shall be kept in a closed container out of children’s reach.
+5. All garbage, soiled diapers and trash shall be removed from the home daily and grounds at least once a week.
+34
+
+6. The home shall be free of insects and rodents.
+7. Water and sewage disposal and toilet facilities shall be safe and sanitary. The Health Department may be consulted for its recommendation.
+8. Child Care Family Homes shall comply with the Clean Indoor Air Act of 2006. Smoking (including e- cigarettes) in a Child Care Family Home is prohibited at all times. This includes:
+a. All areas of the home, regardless of whether children are in care (includes time periods such as nights, weekends, holidays, etc., also includes office areas or other areas of the facility that share the same ventilation systems)
+b. Outdoorplayarea
+c. Other outdoor areas when children are present on those areas
+d. Inanyvehicleusedtotransportchildren,whetherchildrenarepresentinthevehicleor
+not
+9. First-aid materials are required and shall be kept out of reach of children. A first aid kit containing medications shall be locked. The first-aid materials shall include:
+a. Adhesive band-aids (various sizes)
+b. Scissors
+c. Sterile gauze squares
+d. Rollofgauzebandages
+e. Adhesive tape
+f. Antiseptic
+g. Thermometer
+h. Tweezers
+i. Disposable gloves
+10. There shall be no adult in the home who poses a health risk to children in care.
+11. It is recommended that staff who have direct contact with children receive annual Influenza (flu) immunizations.
+12. It is recommended that staff who have direct contact with children receive a one-time Tdap (Diphtheria, Tetanus & Pertussis) immunization.
+13. It is recommended that staff who have direct contact with children be required to have therecommended seriesofimmunizationsforchickenpox,mumps,measlesandrubella or evidence of immunity.
+1102 Children’s Health
+1. No child or staff shall be admitted who has a contagious or infectious disease.
+2. The parent or legal guardian shall be notified as soon as possible when a child has any symptom that requires exclusion from the facility. The child shall be separated from other children and closely monitored until the parent arrives to pick the child up.
+35
+
+3. It is recommended that the caregiver determine if the illness prevents the child from participating comfortably in activities, results in a greater need for care than the child care staffcanprovidewithout compromisingthehealthandsafetyoftheotherchildren,or poses a risk of spread of harmful diseases to others.
+4. The caregiver shall temporarily exclude from child care if child has:
+a. Sudden change in behavior, such as:
+• Lethargy or lack of responsiveness
+• Unexplained irritability or persistent crying • Difficulty breathing
+• A quickly-spreading rash
+b. Feverover101degrees/oral,100/axillary(orequivalentmethod)inachildwhoalso has pain, behavior changes, or other symptoms of illness
+• An infant younger than 2 months with any increased temperature shall
+get urgent medical attention, within an hour.
+• An infant younger than 6 months with any increased temperature shall be medically
+evaluated.
+c. Diarrhea, defined as watery/runny stools if frequency exceeds 2 or more stools
+above normal for that child, and is not related to a change in diet or medication (Exclusion from child care is required if diarrhea cannot be contained in the diaper or if diarrhea is causing soiled clothing in toilet-trained children.)
+d. Bloodormucusinstools(unlesscausedbyhardstools)
+e. Vomiting illness (2 or more episodes of vomiting in the previous 24 hours)
+f. Abdominal pain which lasts more than 2 hours
+g. Mouthsoreswithdrooling
+h. Rashwithfeverorbehaviorchange
+i. Conjunctivitis or “pink eye” – with white, yellow, or green eye discharge and red
+(“bloodshot”) eyes, exclude only if child has: • fever
+• eye pain
+• redness and/or swelling of the skin around the eyes, or
+• if more than one child in the program has symptoms
+j. Pediculosis (head lice), from the end of the day until after the first treatment
+k. Active tuberculosis, until a health care provider or health official states that the child
+is on appropriate therapy and can attend child care
+l. Impetigo, until treatment has been started
+m. Strep throat, until 24 hours after antibiotic treatment has been started
+n. Chicken pox, until all lesions have crusted (usually 6 days after the rash appears)
+o. Rubella, until 6 days after onset of rash
+p. Pertussis(whoopingcough);until5daysofantibiotictreatment
+q. Mumps,until5daysafteronsetofglandswelling
+r. Measles, until 4 days after onset of rash
+s. Hepatitis A, until 1 week after onset of illness or as directed by the health department
+5. Illness in the home shall be handled to protect all children in care.
+6. In case of critical illness or injury, and if the parents cannot be reached, the physician named by the parent shall be called. If necessary, the child shall be taken to the nearest emergency room. Injuries that require the attention of medical personnel shall be reported to the parent
+36
+
+immediately.
+7. In case of critical illness or injury that requires the attention of medical personnel the Child Care Licensing Specialist shall be notified within one business day.
+8. The caregiver shall notify the child’s parents of significant events that affect the children. This shall include, but is not limited to:
+a. Cases of serious contagious disease b. Anyinjuryincurredbyachild
+9. The communicable diseases listed in Appendix B, whether suspected in a child or adult, shall be reported within twenty-four (24) hours to either the local County Health Unit or the toll free Reporting System (800- 482-8888). Immediate notification is recommended for the following:
+a. Hepatitis
+b. Rashillness(includingMeasles&Rubella)
+c. WHOOPING COUGH (Pertussis)
+d. MENINGITIS
+e. MUMPS
+f. Tuberculosis
+g. Salmonellas(includingtyphoid)
+h. E-coli
+10. Reporting data should include:
+a. The reporter’s name, location and phone number
+b. Thenameofdiseasereportedandthedateonset
+c. The patient’s name, address, phone number, age, sex and race (Please spell the
+patient’s name)
+d. Theattendingphysician’sname,locationandphonenumber
+e. Any pertinent clinical and laboratory used in the diagnosis (Please give the laboratory
+name)
+f. Any treatment information, if known
+11. It is recommended that universal precautions be used when handling and disposing of materials containing bodily secretions such as wet or soiled diapers, fecal matter, etc. Universal precautions shall be used when handling items contaminated by blood. These items shall be disposed of separately and by using rubber gloves that shall be properly disposed of after each use. (Note: hands must be washed even after gloves are used.)
+12. Within fifteen (15) days of enrollment of a child, the home shall verify that the child has been immunized as required by the Arkansas Department of Health or the child cannot remain in care. (Arkansas Code 20- 78-206 as amended by Act 870 of 1997.) (A current immunization schedule is provided as an insert in this publication.)
+13. Children shall be protected from overexposure to the sun. Sunscreen shall be used if needed and as directed by the parent. Suntan lotions and/or sunscreens used for infant/toddlersandpre-schoolchildren shallbekeptoutofthechildren’sreachandshall be administered only with written parental permission. School age children may apply
+ 37
+
+sunscreen to themselves with supervision. Blanket permission may be obtained annually.
+14. It is recommended that the facility have an automated external defibrillator on site and have a staff member(s) on-site who is trained in the proper use of this device.
+1103 Toilet Arrangements
+1. At least one (1) commode and one (1) sink shall be made available for the children’s use. Potty seats may be used by the younger children, if emptied, cleaned and disinfected after each use. Potty seats shall be located in the bathroom only.
+2. Toilet tissue shall be located within reach of the children when toileting.
+3. Individual cloth towels or paper towels shall be available for each child.
+4. Liquid soap shall be accessible in the hand washing area and used by caregivers and children.
+5. Running water shall be available in all lavatories.
+6. Caregiver’s and children’s hands shall be washed with liquid soap before meals, after toileting, after each diaper change and as needed. The use of hand sanitizer shall not be a replacement for soap and running water.
+7. There shall be a safe diaper changing table that meets the following requirements:
+a. Impervious (non-absorbent) smooth surfaces that do not trap soil and are easily disinfected
+b. Thereshallbeachangingpadcapableofbeingsanitizedusedasacushionbetweenthe child and
+the changing table surface.
+c. The table shall be sturdy and stable to prevent tipping over.
+d. Thetableshallbeaconvenientheightforusebycaregivers/teachers.
+e. Thetableshallbeequippedwitharaisededgeorotherprovisiontohelpreducetherisk
+of a child rolling off the table.
+8. Children shall always be attended during diapering.
+9. Soiled or wet diapers shall be removed, disposed of properly, and replaced with clean, dry diapers. The caregiver shall ensure that children are properly cleaned and dried.
+10. The caregiver shall assist children in toilet routine and hygiene practices.
+11. The following methods shall not be used in toilet training:
+a. Placing a child on toilet or potty chair for prolonged time periods
+b. Usingharshlanguage
+c. Punishing or berating in any way for soiling clothing
+d. Usingphysicalforcetoplacechildonatoiletorpottychairagainsttheirwill
+ 38
+
+e. Leaving child unsupervised on toilet
+1104 Medication Requirements
+1. Prescription medication shall be in the original container, with a child resistant cap, and labeled with the child’s name, instructions, and the physician’s name. It should not have an expired date.
+2. All non-prescription medicine (except aspirin substitutes, such as ibuprofen and acetaminophen) shall be labeled with the child’s name and dated.
+3. All medicines shall be given to a child only with the written permission of the child’s parent(s) or guardian which includes date, type, drug name, time and dosage, length of time to give medication, and what the medication is being given for.
+4. Medicines shall be kept in a locked area. Medicine shall be kept out of the reach of the children when dispensing.
+5. Medicine shall be stored at the proper temperature, separately from food at all times.
+6. Rescue medications such as inhalers or EpiPens shall be inaccessible to children (kept in a cabinet with a child proof type safety latch or carried by the caregiver.)
+7. Medication shall be returned to the parent or disposed of properly when a child withdraws from care or when the medication is out of date.
+8. Children with special health care needs (ex. asthma, seizures, diabetes, etc.) who require scheduled daily medications or medications to be given on an emergent basis (Benadryl, EpiPen, rescue asthma medication, etc.) shall have a care plan. Care plans shall have clearly stated parameters, directions, and symptoms for giving the medications. Care plans shall be updated as needed, but at least yearly.
+9. The facility shall share information with families regarding medical homes for children.
+1105 Phone Numbers Required
+1. The following phone numbers shall be available in the immediate area of the telephone:
+a. Ambulance service or emergency medical services
+b. Policeorsheriff’sdepartment
+c. Fire department
+d. Poison Control Center: 1-800-376-4766
+e. Child Abuse Hotline Number: 1-800-482-5964
+f. The physicians named by the parents
+g. ChildCareLicensingUnitCentralOfficeNumber:
+501-682-2350 or toll free 1-800-445-3316
+h. Homeandbusinessnumbersoftheparents
+1106 Pet Requirements
+1. Petswithwhichchildrenhavecontactshallreceivevaccinationsasrequiredbylaw.
+39
+
+Verification of vaccinations administered by a licensed veterinarian shall be maintained. Any pet that constitutes a threat to the welfare and safety of the children shall be kept in a confined area which prevents any contact with the children.
+1200 SAFETY
+It is highly suggested that the home have an evacuation crib or equivalent that could be used for the safe evacuation of infants.
+1201 Safety Requirements
+1. Within 30 days of licensure and within 30 days of any change or modification of the floor plan the facility shall file a copy of their floor plan with the local Office of Emergency Management including the following (§ 20-78-228 Act 1159 of 2013):
+a. A schematic drawing of the facility and property used by the child care facility including the configuration of rooms, spaces, and other physical features of the building
+b. Thelocationorlocationswherechildrenenrolledinchildcarespendtimeregularly
+c. The escape routes approved by the local fire department for the child care facility
+d. Thelicensedcapacityandagesofchildrenperroomatthefacility
+e. The contact information for at least two emergency contacts for the facility
+f. An aerial view of the child care facility and property used by the child care facility shall be included with the floor plan if available
+Homes already licensed on the effective date of this regulation shall have 30 days to comply.
+2. The Child Care Family Home shall have a written plan detailing the procedures to follow in the event of emergencies (fires, floods, tornadoes, utility disruptions, bomb threats, etc.) (Act 801 of 2009). The plan and procedures are required for emergencies that could cause structural damage to the facility, be identified as a threat by the Arkansas Department of Emergency Management or pose a health and/or safety hazard to the children and staff.
+3. The written plan shall include the following information:
+a. Designated relocation site and evacuation route
+b. Proceduresfornotifyingparentsofrelocation
+c. Procedures for ensuring family reunification
+d. Procedurestoaddresstheneedsofindividualchildren,includingchildrenwithspecial
+needs
+e. Procedures and documentation for annual training of staff regarding the
+plan and possible reassignment of staff duties in an emergency
+f. Plans to ensure that all caregivers and volunteers are familiar with the components of
+the plan
+4. The Child Care Family Home shall coordinate with local emergency management officials to plan for emergencies.
+5. Written procedures and evacuation diagrams for emergency drills shall be posted in
+40
+
+each room used for childcare.
+6. Fire and tornado drills shall be practiced as follows:
+a. Monthly
+b. Fireandtornadodrillsshallbepracticedonseparatedaysandatdifferenttimesofthe
+day.
+c. During all hours when children are in care (evenings, nights, weekends, etc.)
+d. EveryoneintheHomeatthetimeofthedrillshallparticipateinthedrill
+e. Caregivers, including volunteers, shall be trained in safety drill procedures
+7. The home shall maintain a record of emergency drills. This record shall include:
+a. Date of drill
+b. Typeofdrill
+c. Time of day
+d. Numberofchildrenparticipatinginthedrill
+e. Length of time taken to reach safety
+f. Notes regarding things that need improved upon
+8. The Child Care Family Home shall maintain an evacuation pack that shall be taken on all drills and during real emergencies evacuations. The pack shall be easily accessible in an emergency and all caregivers shall know the location of the pack. The evacuation pack shall include, but is not limited to the following:
+a. List of emergency numbers
+b. Listofallemergencyandcontactinformationforchildren
+c. List of all emergency and contact information for staff
+d. Firstaidkit(requirement1101.9)withextragloves
+e. Kleenex
+f. Battery powered flashlight and extra batteries
+g. Batterypoweredradioandextrabatteries
+h. Handsanitizer
+i. Notepad and pens/pencils
+j. Whistle
+k. Disposable cups
+l. Wet wipes
+m. Emergency survival blanket
+9. The home shall immediately notify the Licensing Unit of any damage to the building and/or grounds. If phone service is not available, notification shall be as soon as service is restored or available.
+10. Licensed Homes shall maintain a log of all child product recall and safety notices issued by CPSC or distributed the Attorney General’s Office and shall post or otherwise make these notices available for parents to review on site. The Licensee shall certify, on an annual basis, that these notices have been maintained and reviewed and that any identified items have been removed from the facility. Forms for self-certification will be provided by the Licensing Specialist and shall be submitted annually. (Act 1313 of 2001)
+11. Electrical outlets shall be guarded. Protective caps, if used, shall be large enough to prevent
+41
+
+swallowing.
+12. Indoor or outdoor cooling units shall have guards or barriers when necessary. All outdoor electrical boxes, gas lines, and exposed electrical cords shall be enclosed.
+13. Stairways shall be well lighted and guarded as needed.
+14. Dangerous equipment and/or objects shall be stored away from areas used by the children.
+15. All detergents and cleaning supplies shall be kept out of the reach of children. (This does not include hand soap in children’s or staff bathrooms.) Supplies used for children’s activities shall be carefully supervised.
+16. All poisonous substances shall be kept in a locked area.
+17. Guns shall be unloaded. Guns, other weapons, and ammunition shall be stored in a locked area in the home.
+18. Illegal drugs/paraphernalia shall not be in any part of the home, regardless if children are present or not.
+19. Tanks, ponds, swimming pools, open wells, drainage ditches and sewage drainpipes shall be fenced if located within the play area.
+20. Home swimming pools shall not be used by children in care unless permission is obtained from Child Care Licensing through an alternative compliance request. This request must include written approval from the Arkansas Department of Health for the use of the pool by children in care. (Home swimming pools used by children in care are considered semi- private pools by the Department of Health and approval for these pools requires inspection during the construction phase. Obtaining approval for existing pools is usually not possible.)
+21. Wading pools shall not be used.
+22. Alcoholic beverages shall be kept out of reach of children.
+1202 Fire
+The currently adopted Arkansas Fire Prevention Code does not allow the use of basements or floors above ground level by children, first grade and younger, unless there is a ground level exit. (Please be advised that the fire code also does not allow wood paneling in child care family homes. This will fall under the authority of the local fire jurisdiction.)
+1. A home caring for eleven (11) or more children at any time (this does include school age children not counting in the ratio) shall provide verification of an approved annual Fire Department inspection.
+2. A fire extinguisher with a minimum of five (5) lbs. ABC rating shall be installed in the kitchen area of the home and shall be properly maintained. Caregivers shall know how to operate the extinguisher. (Clarification: These fire extinguishers are required by State
+42
+
+Code to be inspected annually and have the approval verification tag attached. An alternative to the inspection is the purchase of a new fire extinguisher annually and retention of the receipt verifying the purchase.)
+3. A working smoke detector shall be installed near the kitchen area and in the children’s sleeping areas.
+4. All smoke detectors in the home shall be hard wired and operate in a manner that if one sounds, they all will sound. (Homes licensed prior to January 1, 2014 are exempt from this requirement, unless the Home’s capacity or ownership changes.)
+5. The home shall be maintained to be free from fire hazards at all times. The Child Care Licensing Specialist shall consult with the local Fire Department or the State Fire Marshal when it appears hazards exist.
+6. The structure and use of the home shall permit easy entry and exit and shall comply with the following:
+a. A home with more than one (1) level shall have second exits on all levels used by children.
+b. Ahomeshallhaveatleasttwo(2)exitstotheoutsidelocatedondifferentsidesofthe home.
+c. Doors opening to the outdoors shall be constructed so the children can open them easily from the inside.
+d. Doorsbetweenroomsintheexitrouteshallnotbelockedwhilechildrenareinthe home.
+e. Doors and pathways shall be clear of equipment that blocks the movement of children and caregivers.
+7. Wood burning stoves, gas logs, fireplaces, open flame space heaters, water heaters, floor furnaces or other sources of heat shall be guarded and/or vented when necessary for the protection of the children. Portable fuel fired heaters shall not be used.
+8. Cooking stoves or ovens shall not be used as a heating source in the home.
+9. Portable heaters shall not be placed within reach of children and shall be approved UL listed products.
+10. The Licensee shall notify the Child Care Licensing Specialist of any fires causing damage to the home. This notification shall be made no later than the end of the following working day.
+1300 TRANSPORTATION
+1301 Transportation Requirements
+1. The requirement in this section apply to all transportation provided by the Licensee, including transportation provided by any person on behalf of the Licensee, regardless of whether the person is employed by the Licensee. The requirements in this section are not limited to routinely scheduled transportation. Periodic transportation, such as a parent requesting that their child be picked up at school due to the parent’s work schedule or other conflicts, is also covered by these requirements, whether a fee is
+43
+
+charged for this service or not.
+2. When children are transported, emergency contact information shall be maintained on the vehicle at all times.
+3. Caregivers transporting children shall meet the following requirements:
+a. Be at least twenty-one (21) years old or the minimum age required by the Licensee’s commercial auto insurance
+b. Holdacurrentvaliddriver’slicenseorcommercialdriver’slicenseasrequiredby state law, and a readable copy shall be maintained in the employee’s record
+c. Successfully completed the training course in Driver Safety that is offered, or approved, by the Division prior to transporting children. Verification of the completed course in Driver Safety shall be maintained in the employee’s record.
+d. BecertifiedinCPRandFirstAid.
+4. The vehicle(s) used for the transportation of children shall be in compliance with Arkansas state laws on transportation of children.
+5. Vehicles shall be licensed and maintained in proper working condition including air conditioning and heating systems.
+6. Commercial insurance coverage shall be maintained for any vehicle used for transportation by the facility. Verification of commercial insurance coverage shall be provided to the Licensing Specialist prior to transportation of children. (Facilities licensed prior to the effective date of these regulations shall obtain required coverage within ninety (90) days.) Required coverage amounts to be maintained are:
+a. Minimum coverage of $100,000 Combined Single Limit (CSL)
+b. Minimumcoverageof$100,000forbothUninsuredMotorist(UM)andUnderInsured
+Motorist (UIM)
+c. Minimum coverage of $5,000 Personal Injury Protection (PIP) for each
+passenger (based on the number of passengers the vehicle is manufactured to transport)
+7. The driver may be counted in the staff/child ratio, but shall not be the only adult present when more than ten (10) children age three (3) and above are transported.
+8. Any child transported in a passenger automobile, van or pick-up truck, who is less than six (6) years old or weighs less than sixty (60) pounds, shall be restrained in a child passenger safety seat. Any child who is at least six (6) years old, or weighs at least sixty (60) pounds, must be restrained by a safety belt or any other approved safety devices. (Act 470 of 2001) Child passenger safety seats shall be used in accordance with manufacturer’s guidelines.
+9. The loading and unloading of children from vehicles shall be conducted in a safe manner.
+10. There shall be a seating space and an individual, appropriate restraint system provided for each child being transported.
+11. Rosters listing the date, names and ages/date of birth of all children being transported as well as the name of the driver and any other staff member on the vehicle shall be maintained. These rosters shall be used to check children on and off the vehicle when
+44
+
+they are picked up and dropped off at home, school, etc. and when they arrive at and leave the Licensed Home. Transportation rosters shall be kept by the facility and available for review for one (1) year.
+12. To insure that no children are left on the vehicle, the driver or a staff member must walk through the vehicle and physically check each seat before leaving the vehicle. The transportation roster must be signed by the driver or staff who conducts the walk through inspection, documenting that all children have exited the vehicle.
+13. To insure that children have safely arrived in the home classroom, the transportation roster shall be reviewed by the Licensee and compared with attendance records. The Licensee shall sign off on the transportation roster to verify that all children have safely transitioned from the vehicle to the home.
+14. Any vehicles designed or used to transport more than seven (7) passengers and one (1) driver must have approved child safety alarm devices installed. These devices must be properly maintained in working order at all times.
+Vehicles in service at licensed facilities prior to July 1, 2005, shall have the alarm installed by a qualified technician or mechanic no later than December 31, 2005. On or after July 1, 2005, all vehicles at newly licensed facilities and newly acquired vehicles at existing facilities shall have a child safety alarm installed before placing the vehicle in service.
+The Child Care Licensing Unit shall maintain a list of approved alarm systems.
+Clarification
+• The alarm system shall be installed so that the driver must walk to the very back of the vehicle to reach the switch that deactivates the alarm. Alarm switches installed in locations that do not require the driver to walk to the back of the vehicle and view all seating areas will not be acceptable.
+• The alarm systems may be installed by any certified technician or mechanic employed by a recognized electronics or automotive business in accordance with the device manufacturer’s recommendations.
+• The time delay from activation of the alarm until the alarm sounds shall be no longer than one minute. Any of the following three options are acceptable to meet the intent of Act 1979 when children are being delivered at the facility. Other options must be approved by the Licensing Unit.
+Options:
+1. Unload all of the children, walk through the vehicle to ensure that no children remain on board and deactivate the alarm. (This option will only work if you are able to unload all children in less than one minute.)
+2. Upon arrival, have one staff member immediately walk through the vehicle to deactivate the alarm system. That staff member will remain near the alarm switch at the back of the vehicle until all children have been unloaded to ensure that no child is left on board. (This option will require at least two staff members, one to supervise the children and one to remain inside the vehicle.)
+ 45
+
+3. Upon arrival, deactivate the alarm and unload the children. Immediately after unloading, start the vehicle and move it to a different location for final parking. (This will reactivate the alarm and require a final walk through.)
+1302 Infant & Toddler Transportation Requirements
+1. A vehicle transporting children under the age of thirty-six (36) months shall maintain a ratio of one (1) adult to three (3) children.
+1400 SPECIAL NEEDS
+Individuals with Disabilities Education Act (IDEA):
+• It is a law ensuring services to children with disabilities throughout the nation. IDEA governs how states and public agencies provide early intervention, special education and related services to eligible infants, toddlers, children and youth with disabilities.
+• It defines a child with Special Needs as:
+• A child determined eligible for special services under the Individual with Disabilities Education Act (IDEA) for whom a current IFSP (Individual Family Service Plan) or IEP (Individual Education Plan) exists and/or
+• A child whose physical condition has lasted or is expected to last at least two (2) years as diagnosed by a licensed medical or psychological examiner
+• It is specified in Public Law 108-466 §635.16 A-B (IDEA as reauthorized) as:
+• Children with disabilities including children in public or private institutions or other care facilities are educated to the maximum extent appropriate with children who are not disabled.
+• Special classes, separate schooling or other removal of children with disabilities from the regular educational environment occurs only when the nature or severity of the disability of the child is such that the child is not achieving a satisfactory education in a regular class that provides supplementary aids and services.
+All child care facilities are required by IDEA to refer a child with any suspected delays or disabilities to the appropriate lead agency (as determined by the child’s age).
+1401 Special Needs Requirements
+1. All child care facilities shall comply with all applicable provisions as specified in IDEA:
+a. The facility shall enroll children with special needs without regard to disability.
+(Programsare requiredtoprovidespaceandcareforachildwhocanbe placed in their facility with existing services, as well as added supports from specialeducationalservices,andaslong asthehealthandsafetyofthe child can be met.)
+b. Staff shall provide care in the general classroom with children who are not disabled c. The facility shall assist in facilitation of services required to meet the “special needs”
+    46
+
+of children in the center or in the classroom as specified on the individualized
+education/individual family service plan.
+d. Facility staff (regular classroom staff) shall be a partner in the IFSP/IEP plan process
+e. The facility shall allow service providers who are representatives of DHS, DDS or ADE
+access to the facility to provide special services as prescribed on the plan to enable the
+plan to be implemented in the classroom (natural/ least restrictive environment).
+f. The facility shall not charge special service providers for space, accept
+“gratuities”, or payment for allowing special service providers to provide services
+in their facility.
+g. The facility is not required to “displace” children or staff to make space available
+to special service providers.
+h. In order for a special service provider to provide special services in the facility, the
+IFSP/IEP planning team under the authority of the Arkansas Department of Education and/or the Arkansas Department of Human Services, Developmental Disabilities Services, shall identify the needed special services on the IFSP/IEP.
+i. Classroomstaffshallreinforcethespecifiedgoalsandobjectivesaspartofthe dailyroutineofthe classroom.
+1402 Infant & Toddler Special Needs Requirements
+1. To the maximum extent appropriate, children ages 0 – 2 shall participate in early intervention services provided in “natural environments.”
+2. When infants and toddlers cannot achieve satisfactory results from early intervention services in a natural environment, the provision of early intervention services shall occur in other appropriate settings as determined by the parent and the Individualized Family Service Team.
+47
+
+APPENDIX A
+CHILD CARE MEAL PATTERN
+When children over age one participate in the Program, the total amount of food authorized in the meal pattern set forth below shall be provided in order to qualify for reimbursement. Children age 12 and up may be served adult-size portions based on the greater food needs of older children, but shall be served not less than the minimum quantities specified in this section for children age 6 through 12 years. For purposes of the requirements outlined in this paragraph, a cup means a standard measuring cup.
+Bread, pasta or noodle products, and cereal grains shall be whole grain or enriched; cornbread, biscuits, rolls, muffins,etc.shallbe madewithwholegrainorenrichedmealorflour;cerealshallbewholegrainor enriched or fortified.
+CHILD CARE MEAL PATTERN
+      Breakfast
+(Select all three components for a reimbursable meal)
+    Food Components and Food Items1
+      Ages 1-2
+    Ages 3-5
+   Ages 6-12
+    Ages 13-182
+(at-risk afterschool programs and emergency shelters)
+ Fluid Milk3
+     4 fluid ounces
+        6 fluid ounces
+     8 fluid ounces
+    8 fluid ounces
+      Vegetables, fruits, or portions of both4
+  1⁄4 cup
+   1⁄2 cup
+   1⁄2 cup
+  1⁄2 cup
+  Grains (oz eq)5,6,7
+          Whole grain-rich or enriched bread
+    1⁄2 slice
+       1⁄2 slice
+     1 slice
+    1 slice
+  Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+  1⁄2 serving
+  1⁄2 serving
+ 1 serving
+ 1 serving
+Whole grain-rich, enriched
+or fortified cooked breakfast cereal8, cereal grain, and/or pasta
+        1⁄4 cup
+       1⁄4 cup
+     1⁄2 cup
+    1⁄2 cup
+   Whole grain-rich, enriched
+or fortified ready-to-eat breakfast cereal (dry, cold)8,9
+     Flakes or rounds
+   1⁄2 cup
+   1⁄2 cup
+     1 cup
+  1 cup
+   Puffed cereal
+   3⁄4 cup
+   3⁄4 cup
+     1 1⁄4 cup
+  1 1⁄4 cup
+   Granola
+     1⁄8 cup
+     1⁄8 cup
+        1⁄4 cup
+    1⁄4 cup
+     48
+
+1 Must serve all three components for a reimbursable meal. Offer versus serve is an option for at-risk afterschool participants.
+2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their nutritional needs.
+3 Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk for children six years old and older.
+4 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
+5 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards meeting the grains requirement.
+6 Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times a week. One ounce of
+meat and meat alternates is equal to one ounce equivalent of grains.
+7 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains.
+8 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+9 Beginning October 1, 2019, the minimum serving size specified in this section for ready-to-eat breakfast cereals must be served.
+Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereals is 1⁄4 cup for children ages 1-2; 1/3 cup for children ages 3-5; and 3⁄4 cup for children ages 6-12.
+CHILD CARE MEAL PATTERN
+     Lunch and Supper
+(Select all five components for a reimbursable meal)
+     Food Components and Food Items1
+      Ages 1-2
+    Ages 3-5
+    Ages 6-12
+    Ages 13-182
+(at-risk afterschool programs and emergency shelters)
+ Fluid Milk3
+   4 fluid ounces
+        6 fluid ounces
+     8 fluid ounces
+      8 fluid ounces
+     Meat/meat alternates
+     Lean meat, poultry, or fish
+     1 ounce
+     1 1⁄2 ounce
+        2 ounces
+     2 ounces
+      Tofu, soy product, or alternate protein products4
+ 1 ounce
+  1 1⁄2 ounce
+ 2 ounces
+ 2 ounces
+Cheese
+     1 ounce
+     1 1⁄2 ounce
+        2 ounces
+     2 ounces
+     Large egg
+ 1⁄2
+ 3⁄4
+  1
+ 1
+ Cooked dry beans or peas
+     1⁄4 cup
+     3⁄8 cup
+        1⁄2 cup
+     1⁄2 cup
+      Peanut butter or soy nut butter or other nut or seed butters
+ 2 tbsp
+  3 tbsp
+ 4 tbsp
+ 4 tbsp
+Yogurt, plain or flavored unsweetened or sweetened5
+     4 ounces or 1⁄2 cup
+     6 ounces or 3⁄4 cup
+        8 ounces or 1 cup
+     8 ounces or 1 cup
+     49
+
+   The following may be used to meet no more than 50% of the requirement:
+Peanuts, soy nuts, tree nuts, or seeds, as listed in program guidance, or an equivalent quantityof any combination of the above meat/meat alternates (1 ounces of nuts/seeds = 1 ounce of
+cooked lean meat, poultry, or fish)
+     1⁄2 ounce = 50%
+   3⁄4 ounce = 50%
+   1 ounce = 50%
+   1 ounce = 50%
+Vegetables6
+     1⁄8 cup
+        1⁄4 cup
+     1⁄2 cup
+     1⁄2 cup
+     Fruits6,7
+ 1⁄8 cup
+     1⁄4 cup
+   1⁄4 cup
+   1⁄4 cup
+   Grains (oz eq)8,9
+        Whole grain-rich or enriched bread
+       1⁄2 slice
+      1⁄2 slice
+     1 slice
+     1 slice
+  Whole grain-rich or enriched
+bread product, such as biscuit, roll or muffin
+     1⁄2 serving
+    1⁄2 serving
+   1 serving
+   1 serving
+   Whole grain-rich, enriched
+or fortified cooked breakfast cereal10, cereal grain, and/or pasta
+    1⁄4 cup
+    1⁄4 cup
+   1⁄2 cup
+   1⁄2 cup
+  1 Must serve all five components for a reimbursable meal. Offer versus serve is an option for at-risk afterschool participants.
+2 Larger portion sizes than specified may need to be served to children 13 through 18 years old to meet their 3 nutritional needs.
+Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent) or unflavored fat-free
+(skim) milk for children two through five years old. Must be unflavored low-fat (1 percent), unflavored fat-free 4 (skim), or flavored fat-free (skim) milk for children six years old and older.
+Alternate protein products must meet the requirements in Appendix A to Part 226.
+5 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+6 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, 7 including snack, per day.
+A vegetable may be used to meet the entire fruit requirement. When two vegetables are served at lunch or supper, two
+different kinds of vegetables must be served.
+8 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do 9 not count towards the grains requirement.
+Beginning October 1, 2019, ounce equivalents are used to determine the quantity of the creditable grain. 10 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams
+sucrose and other sugars per 100 grams of dry cereal).
+50
+
+CHILD CARE MEAL PATTERN
+Snack
+    (Select two of the five components for a reimbursable snack)
+  Food Components and Food Items1
+   Ages 1-2
+    Ages 3-5
+   Ages 6-12
+     Ages 13-182
+(at-risk afterschool programs and emergency shelters)
+  Fluid Milk3
+   4 fluid ounces
+      4 fluid ounces
+   8 fluid ounces
+     8 fluid ounces
+   Meat/meat alternates
+       Lean meat, poultry, or fish
+   1⁄2 ounce
+     1⁄2 ounce
+      1 ounce
+     1 ounce
+   Tofu, soy product, or alternate protein products4
+  1⁄2 ounce
+  1⁄2 ounce
+ 1 ounce
+ 1 ounce
+Cheese
+     1⁄2 ounce
+     1⁄2 ounce
+      1 ounce
+     1 ounce
+   Large egg
+ 1⁄2
+ 1⁄2
+  1⁄2
+ 1⁄2
+ Cooked dry beans or peas
+     1⁄8 cup
+     1⁄8 cup
+      1⁄4 cup
+     1⁄4 cup
+   Peanut butter or soy nut butter or other nut or seed butters
+  1 tbsp
+  1 tbsp
+ 2 tbsp
+ 2 tbsp
+Yogurt, plain or flavored unsweetened or sweetened5
+     2 ounces or 1⁄4 cup
+     2 ounces or 1⁄4 cup
+      4 ounces or 1⁄2 cup
+     4 ounces or 1⁄2 cup
+   Peanuts, soy nuts, tree nuts, or seeds
+  1⁄2 ounce
+  1⁄2 ounce
+ 1 ounce
+ 1 ounce
+Vegetables6
+     1⁄2 cup
+     1⁄2 cup
+      3⁄4 cup
+     3⁄4 cup
+   Fruits6
+   1⁄2 cup
+   1⁄2 cup
+    3⁄4 cup
+   3⁄4 cup
+  Grains (oz eq)7,8
+     Whole grain-rich or enriched bread
+      1⁄2 slice
+      1⁄2 slice
+     1 slice
+    1 slice
+ Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+  1⁄2 serving
+  1⁄2 serving
+ 1 serving
+ 1 serving
+Whole grain-rich, enriched
+or fortified cooked breakfast cereal9, cereal grain, and/or pasta
+        1⁄4 cup
+      1⁄4 cup
+     1⁄2 cup
+    1⁄2 cup
+ Whole grain-rich, enriched
+or fortified ready-to-eat breakfast cereal (dry, cold)9,10
+   Flakes or rounds
+     1⁄2 cup
+     1⁄2 cup
+      1 cup
+     1 cup
+   Puffed cereal
+   3⁄4 cup
+   3⁄4 cup
+    1 1⁄4 cup
+   1 1⁄4 cup
+  Granola
+   1⁄8 cup
+   1⁄8 cup
+     1⁄4 cup
+   1⁄4 cup
+          51
+
+APPENDIX B Infant Care Meal Pattern
+Reimbursable meals served to infants, children, or adult participants in the Child and Adult Care Food Program shall contain (as a minimum) the indicated meal pattern quantities and food components.
+INFANT CARE MEAL PATTERN
+Mealsservedtoinfantsagesbirththrough11monthsmustmeettherequirementsdescribedinthismealpattern. Foods included in the infant meal must be of a texture and a consistency that are appropriate for the age of the infant being served. Either breast milk or iron-fortified infant formula must be served for the entire first year.
+Breakfast
+       Birth through 5 months
+      6 through 11 months
+    4-6 fluid ounces breastmilk1 or formula2
+    6-8 fluid ounces breastmilk1 or formula2; and
+0-4 tablespoons infant cereal2,3 meat,
+fish, poultry, whole egg,
+cooked dry beans, or cooked dry
+peas; or
+0-2 ounces of cheese; or
+0-4 ounces (volume) of cottage cheese; or 0-4 ounces or 1⁄2cup of yogurt4; or a combination of the above5; and
+0-2 tablespoons vegetable or fruit or a combination of both5,6
+      1 Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
+2 Infant formula and dry infant cereal must be iron-fortified.
+3 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains. 4 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+5 A serving of this component is required when the infant is developmentally ready to accept it.
+6 Fruit and vegetable juices must not be served.
+52
+
+INFANT CARE MEAL PATTERN
+Lunch and Supper
+     Birth through 5 months
+         6 through 11 months
+      4-6 fluid ounces breastmilk1 or formula2
+   6-8 fluid ounces breastmilk1 or formula2; and
+0-4 tablespoons
+infant cereal2,3
+meat,
+fish, poultry,
+whole egg,
+cooked dry beans, or cooked dry peas; or
+0-2 ounces of cheese; or
+0-4 ounces (volume) of cottage cheese; or 0- 4 ounces or 1⁄2cup of yogurt4; or a combination of the above5; and
+0-2 tablespoons vegetable or fruit or a combination of both5,6
+  1 Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
+2 Infant formula and dry infant cereal must be iron-fortified.
+3 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains. 4 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+5 A serving of this component is required when the infant is developmentally ready to accept it.
+6 Fruit and vegetable juices must not be served.
+Snack
+     Birth through 5 months
+         6 through 11 months
+      4-6 fluid ounces breastmilk1 or formula2
+    2-4 fluid ounces breastmilk1 or formula2; and
+0-1⁄2 slice bread3,4; or 0-2 crackers3,4; or
+0-4 tablespoons infant cereal2,3,4 or
+ready-to-eat breakfast cereal3,4,5,6;
+and
+0-2 tablespoons vegetable or
+fruit, or a combination of both6,7
+   1 Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the
+53
+
+infant will consume more.
+2 Infant formula and dry infant cereal must be iron-fortified.
+3 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains. 4 A serving of grains must be whole grain-rich, enriched meal, or enriched flour.
+5 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+6 A serving of this component is required when the infant is developmentally ready to accept it.
+7 Fruit and vegetable juices must not be served.
+APPENDIX C
+ADULT CARE MEAL PATTERN
+ThemealsservedtoadultparticipantsintheChildandAdultCareFoodProgramshallcontainthe indicatedmealpattern quantitiesandfoodcomponentsinordertoqualifyforreimbursement. Adultcentersmaychoosetoimplementthe“offer vs. serve”option(asdescribedonfollowingpage).
+   Breakfast
+(Select all three components for a reimbursable meal)
+   Food Components and Food Items1
+    Minimum Quantities
+      Fluid Milk2
+   8 fluid ounces
+     Vegetables, fruits, or portions of both3
+     1⁄2 cup
+        Grains (oz eq)4,5,6
+   Whole grain-rich or enriched bread
+     2 slices
+         Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+  2 servings
+Whole grain-rich, enriched or fortified cooked breakfast cereal7, cereal grain, and/or pasta
+          1 cup
+    Whole grain-rich, enriched or fortified ready-to-eat breakfast cereal (dry, cold)7,8
+  Flakes or rounds
+     2 cups
+        Puffed cereal
+ 2 1⁄2 cups
+  Granola
+    1⁄2 cup
+      1 Must serve all three components for a reimbursable meal. Offer versus serve is an option for adult participants.
+2 Must be unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk. Six ounces (weight) or 3⁄4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of
+fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one
+meal,
+including snack, per day.
+4 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards meeting the grains requirement.
+5 Meat and meat alternates may be used to meet the entire grains requirement a maximum of three
+times
+a week. One ounce of meat and meat alternates is equal to one ounce equivalent of grains.
+6 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable
+54
+
+grains.
+7 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than
+21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+8 Beginning October 1, 2019, the minimum serving size specified in this section for ready-to-eat breakfast cereals must be served. Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereals is 1 1⁄2 cups for adults.
+Lunch and Supper
+(Select all five components for a reimbursable meal)
+      Food Components and Food Items1
+    Minimum Quantities
+      Fluid Milk2,3
+   8 fluid ounces
+     Meat/meat alternates
+        Lean meat, poultry, or fish
+   2 ounces
+     Tofu, soy product, or alternate protein product4
+   2 ounces
+     Cheese
+   2 ounces
+     Large egg
+   1
+     Cooked dry beans or peas
+     1⁄2 cup
+        Peanut butter or soy nut butter or another nut or seed butter
+   4 tbsp
+Yogurt, plain or flavored, sweetened or unsweetened5
+     8 ounces or 1 cup
+        The following may be used to meet no more than 50% of the requirement:
+Peanuts, soy nuts, tree nuts, or seeds, as listed
+in program guidance, or an equivalent quantity of any combination of the above meat/meat alternates (1 ounces of nuts/seeds = 1 ounce of cooked lean meat, poultry, or fish)
+   1 ounce = 50%
+Vegetables6
+     1⁄2 cup
+        Fruits6,7
+ 1⁄2 cup
+  Grains (oz eq)8,9
+             Whole grain-rich or enriched bread
+   2 slices
+     Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+   2 servings
+Whole grain-rich, enriched or fortified cooked breakfast cereal10, cereal grain, and/or pasta
+          1 cup
+   1 Must serve all five components for a reimbursable meal. Offer versus serve is an option for adult participants.
+2 Must be unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk.
+Six ounces (weight) or 3⁄4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces
+of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 A serving of fluid milk is optional for suppers served to adult participants.
+4 Alternate protein products must meet the requirements in Appendix A to Part 226.
+5 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+6 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
+7 A vegetable may be used to meet the entire fruit requirement. When two vegetables are served
+55
+
+at lunch or supper, two different kinds of vegetables must be served.
+8 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts
+do not count towards the grains requirement.
+9 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of the creditable grain. 10 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+   Snack
+(Select two of the five components for a reimbursable meal)
+   Food Components and Food Items1
+    Minimum Quantities
+     Fluid Milk2
+   8 fluid ounces
+    Meat/meat alternates
+       Lean meat, poultry, or fish
+   1 ounce
+    Tofu, soy product, or alternate protein product3
+   1 ounce
+    Cheese
+   1 ounce
+    Large egg
+   1⁄2
+    Cooked dry beans or peas
+     1⁄4 cup
+       Peanut butter or soy nut butter or another nut or seed butter
+  2 tbsp
+Yogurt, plain or flavored, sweetened or unsweetened4
+     4 ounces or 1⁄2 cup
+      Peanuts, soy nuts, tree nuts, or seeds
+ 1 ounce
+  Vegetables5
+     1⁄2 cup
+      Fruits5
+ 1⁄2 cup
+  Grains (oz eq)6,7
+           Whole grain-rich or enriched bread
+   1 slice
+     Whole grain-rich or enriched bread product, such as biscuit, roll or muffin
+  1 serving
+Whole grain-rich, enriched or fortified cooked breakfast cereal8, cereal grain, and/or pasta
+         1⁄2 cup
+   Whole grain-rich, enriched or fortified ready-to-eat breakfast cereal (dry, cold)8,9
+  Flakes or rounds
+     1 cup
+      Puffed cereal
+ 1 1⁄4 cup
+  Granola
+     1⁄4 cup
+       1 Select two of the five components for a reimbursable snack. Only one of the two components may be a beverage.
+2 Must be unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk. Six ounces (weight) or 3⁄4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of
+fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
+3 Alternate protein products must meet the requirements in Appendix A to Part 226.
+4 Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+5 Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal,
+including snack, per day.
+56
+
+6 At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards meeting the grains requirement.
+7 Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains.
+8 Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2
+grams sucrose and other sugars per 100 grams of dry cereal).
+9 Beginning October 1, 2019, the minimum serving sizes specified in this section for ready-to-eat breakfast
+cereals must be served. Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereals is 1 1⁄2 cups for adults.
+57
+
+APPENDIX D
+LIST OF REPORTABLE DISEASES
+The following are the more common reportable diseases, which occur with moderate frequency in Arkansas:
+ Gonorrhea
+Hepatitis (A, B, Non-A, Non-B Unspecified and results of serologies) Rash illnesses (including *MEASLES, & RUBELLA)
+*WHOOPING COUGH (pertussis)
+Salmonellosis (including typhoid) Shigellosis
+Syphilis
+MUMPS
+Tuberculosis MENINGITIS
+The following are less common reportable diseases that occur with low frequency in Arkansas
+*AIDS (Acquired Immune Deficiency Syndrome)
+Amebiasis
+ANTHRAX
+* Leprosy
+* Leptospirosis * Lyme Disease
+*Aseptic Meningitis Blastomycosis BOTULISM
+Lymphogranuloma Venereum * Malaria
+* Meningitis, Hemophilus
+ *Brucellosis Campylobacter Interitis Chancroid
+CHOLERA Coccidioidomycosis
+Influenza Type B
+* Meningococcal infection
+*Congenital Rubella Syndrome DIPHTHERIA
+Encephalitis (all types)
+FOOD POISONINGS(all types) Giardiasis
+* POLIOMYELITIS
+* Psittacosia (Ornithosis)
+Gonococcal Ophthalmia
+RABIES
+* Relapsing Fever * Reyes Syndrome
+Granuloma Inguinale *Guillain - Barre Syndrome
+Rheumatic Fever
+* Rocky Mountain Spotted Fever
+Histoplasmosis
+HIV [Human Immuno Deficiency Virus by (name & address)]
+SMALL POX
+* Tetanus
+* Toxic Shock Syndrome
+**Influenza *Kawasaki Disease *Legionellosis
+Toxoplasmosis * Trichinosis
+* Tularemia
+TYPHUS FEVER YELLOW FEVER
+*The reporting physician will be contacted for additional information.
+**Individual cases to be reported only when laboratory testing has determined the viral type.
+58
+Mumps
+Pesticide Poisoning PLAGUE
+Q Fever
+ 
+The diseases in capital letters are to be brought to the immediate attention of the State Epidemiologist when suspected.
+Reporting data shall include:
+a. Names & location of reporting person
+b. Diseaseorsuspecteddiseaseanddateofonset
+c. Name, age, sex, address and phone number of patient (please spell patient’s name) d. Nameofpatient’sphysician
+The following diseases are also of public health importance and it is recommended that they be reported whenever there is an unusual incidence or outbreak (including seasonal). It is necessary to report: (1) physician’s name and location (2) the suspected disease (3) the number of cases and interval during which the cases were seen:
+Acute respiratory disease Chicken pox
+Conjunctivitis Dermatophytosis (ringworm)
+s Enteropathogenic E. Coli Diarrhea
+aEpidemic Diarrhea of unknown cause Gastroenteritis
+Herpangina
+Hospital acquired infections Infectious Mononucleosis Influenza (estimate number)
+Pediculosi Pleurodyni
+Pneumonia (bacterial, Mycoplasma, viral) Staphylococcal-Infections Streptococcal
+Infections The following occupational disease also shall be reported:
+Asbestosis Mesothelioma Silicosis Coal Workers Pneumoconiosis Byssinosis
+FOR FURTHER ASSISTANCE CONTACT THE LOCAL COUNTY HEALTH UNIT.
+59
+
+APPENDIX E DISASTER/EMERGENCY PREPAREDNESS
+DISASTER/EMERGENCY NUMBERS       CONTACT/TOWN     TELEPHONE NUMBER AMBULANCE
+APPLIANCE REPAIR
+BUILDING INSPECTOR
+                 CHILD ABUSE HOT LINE
+CHILD CARE LICENSING UNIT
+CLEANING/MAINTENANCE
+ELECTRIC COMPANY
+ELECTRICIAN
+EMERGENCY CHILD LOCATOR
+FACILITY DIRECTOR
+FIRE DEPARTMENT
+FIRE DEPARTMENT (Non-Emergency)
+GAS COMPANY
+GLASS COMPANY
+HEALTH DEPARTMENT (Local)
+HEATING/AIR CONDITIONING
+INSURANCE AGENT AND POLICY NUMBER
+LICENSING SPECIALIST
+LOCKS
+NATIONAL EMERGENCY FAMILY
+REGISTRY AND LOCATOR PLUMBER
+POISON CONTROL
+POLICE
+POLICE (Local Non-Emergency) RED CROSS (Local)
+SHERIFF
+TRASH REMOVAL
+WATER DEPARTMENT
+Little Rock
+1-800-482-5964
+1-800-445-3316 or 501-682-8590
+1-866-908-9572
+                                                1-800-588-9822 1-800-376-4766
+                            60
+
+IMMUNIZATION REQUIREMENTS
+Table I:
+Immunization Requirements for Child Care and Early Childhood Education Facilities
+Instructions for utilizing Table I: Table I is not a recommendation of vaccines to get, but of doses requiredto alreadyhaveatthatage.Todeterminewhatvaccinesarerequiredforachildtoattenda licensed child care facility, refer to Column 1 on the left to see what age range is correct for the child. Then all the vaccines on the same row as the child’s age are required for attendance in a licensed child care facility. Vaccines are required based on the current age of the child. Column 1 is not an age range for when a child can be vaccinated.
+ 61
+
+ *5th DTaP/DTP/DT (Pre-school dose) must be given on/after the child's 4th birthday. Interval between 4th DTaP/DTP/DT and 5th DTaP/DTP/DT should be at least 6 months. If a child is currently ≥49 months of age and does not meet the above criteria or is in process within 15 days, they are not up-to-date and should be scheduled for immunization.
+** For Hib and Pneumococcal, children receiving the first dose of vaccine at age 7 months or older require fewer doses to complete theseries.
+*** 3rd dose of hepatitis B should be given at least 8 weeks after the 2nd dose, at least 16 weeks after the 1st dose, and it should not be administered before the child is 24 weeks of age.
+**** Vaccine doses administered up to 4 days before the minimum interval or minimum age can be counted as valid for doses already administered. Exception: The minimum interval between doses of live vaccines (such as MMR and Varicella) must be 28 days.
+*****A medical professional is a medical doctor (MD), advanced practice nurse (APN), doctor of osteopathy (DO), or physician assistant (PA). No self or parental history of disease will be accepted.
+62
+
+TABLE II: KINDERGARTEN THROUGH GRADE TWELVE IMMUNIZATION REQUIREMENTS*
+  63
+
+ 64
+
+ *Doses of vaccine required for school entry may be less than the number of doses required for age-appropriate immunization.
+**An alternative two-dose hepatitis B schedule for 11-15 year-old children may be substituted for the three-dose schedule. Only a FDA-approved alternative regimen vaccine for the two-dose series may be used to meet this requirement. If you are unsure if a particular child’s two-dose schedule is acceptable, please contact the Immunization Section for assistance at 501-661-2169.
+*** 3rd dose of hepatitis B should be given at least 8 weeks after the 2nd dose, at least 16 weeks after the 1st dose, and it should not be administered before the child is 24 weeks (168 days) of age. (All 3rd doses of hepatitis B vaccine given earlier than 6 months of age before 6/21/96 are valid doses and should be counted as valid until 6/21/2014.)
+**** Tdap vaccine can be administered regardless of the interval since the last tetanus and diphtheria toxoid-containing vaccine.
+***** Exception: If a student has previously received two doses of measles, one dose of mumps and one dose ofrubella beforeJanuary1,2010,thedoseswillbeacceptedascomplianttoimmunizationrequirements and 2 MMRs are not required.
+******A medical professional is a medical doctor (MD), advanced practice nurse (APN), doctor of osteopathy (DO), or physician assistant (PA). No self or parental history of disease will be accepted.
+******* For unvaccinated persons 7 years of age and older (including persons who cannot document prior vaccination), the primary series is 3 doses. The first two doses should be separated by at least 4 weeks, and the third dose at least 6 months after the second. One of these doses (preferably the first) should be administered as Tdap and the remaining two doses administered as Td.
+65
+

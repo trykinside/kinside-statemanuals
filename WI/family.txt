@@ -1,0 +1,1249 @@
+WISCONSIN ADMINISTRATIVE CODE
+Division of Early Care and Education
+         DCF 250
+LICENSING RULES FOR FAMILY CHILD CARE CENTERS
+                        DCF-P-PFS203 (R. 10/2019)
+effective September 30, 2019
+
+PREFACE
+DCF 250
+LICENSING RULES FOR FAMILY CHILD CARE CENTERS Effective September 30, 2019.
+DCF 250 was approved as an emergency rule effective 9/30/19. It is currently going through a permanent rule review process with an estimated completion date in Spring 2020.
+Section 48.65, Stats., requires that persons operating child care centers which provide care and supervision for 4 or more children under age 7 years for less than 24 hours a day be licensed. The statutes also require the Department of Children and Families to establish rules which must be met in order to qualify for a license and which protect and promote the health, safety and welfare of the children in the care of the child care center.
+Chapter DCF 250 is the rule governing Family Child Care Centers, which provide care and supervision to between 4 and 8 children under age 7 years for less than 24 hours a day. There are also other rules governing the out-of-home care of children. DCF 251 is the rule for Group Child Care Centers where care and supervision is provided for 9 or more children under age 7. DCF 252 is the rule for day camps which are licensed child care centers that provide an experience in a seasonal program oriented to the out-of-doors for periods of less than 24 hours a day.
+Licensing rules should not be confused with certification for public funding of child care providers who care for between 1 and 3 children under age 7.
+Clearly, the fact that a child care center is licensed in no way diminishes the responsibility of parents for vigilance in ensuring that their children are receiving care which protects their physical well-being and encourages healthy intellectual and emotional development.
+Whenever the rules in this chapter indicate that materials such as an application for licensure, a request for exception to a specific rule, or a complaint about a center are to be sent to or requested from the Department, please refer to Appendix A which identifies the appropriate regional licensing office serving the county or tribe in which the center is located.
+There is a header on each page that contains the rule cite for the section of the rule beginning on that page. A table of contents and an index are also included in this document as are appendices that contain key statutes related to the child care rules, a copy of DCF 13 (administrative rules governing child care background checks), a list of items needed for a family child care center and other appendices referenced in the rule.
+This publication may be duplicated. It is available from the Department’s web page https://dcf.wisconsin.gov/cclicensing/rules.
+The Department of Children and Families is an equal opportunity employer and service provider. If you have a disability and need to access services, receive information in an alternate format, or need information translated to another language, please contact the Bureau of Early Care Regulation at dcfcclicreg@wisconsin.gov or (608) 421-7550. Individuals who are deaf, hard of hearing, deaf-blind or speech disabled can use the free Wisconsin Relay Service (WRS) – 711 to contact the department.
+El Department of Children and Families es un empleador y proveedor de servicios que ofrece igualdad de oportunidades. Si tiene alguna discapacidad y necesita acceder a servicios, recibir información en un formato alternativo o necesita que le traduzcan la información a otro idioma, comuníquese con el Bureau of Early Care Regulation at dcfcclicreg@wisconsin.gov or (608) 421-7550. Las personas sordas, con dificultades auditivas, sordo-ciegas o con discapacidad del habla pueden utilizar el Wisconsin Relay Service (WRS) – llame al 711 para comunicarse con el departamento.
+Lub Department of Children and Families yog ib lub chaw hauj lwm thiab chaw muab kev pab uas muaj vaj huam sib luag. Yog koj muaj ib qho tsis taus thiab xav tau kev pab, xav tau cov ntaub ntawv muab sau ua ib hom ntawv, los sis xav kom muab cov ntaub ntawv txhais ua lwm hom lus, thov hu rau Bureau of Early Care Regulation ntawm dcfcclicreg@wisconsin.gov 608-421-7550. Cov neeg uas lag ntseg, hnov lus tsis zoo, dig muag los sis muaj ib qho tsis taus tshwj xeeb tuaj yeem siv tus xov tooj hu dawb Wisconsin Relay Service (WRS) – 711 hu mus rau lub chaw ua haujlwm.
+    
+TABLE OF CONTENTS
+DCF 250.01 AUTHORITY AND PURPOSE .....................................................................................1
+DCF 250.02 APPLICABILITY............................................................................................................1 (1) Included and excluded care arrangements..............................................................................1 (2) Exception to the requirement..................................................................................................1
+DCF 250.03 DEFINITIONS.................................................................................................................2
+DCF 250.04 OPERATIONAL REQUIREMENTS............................................................................5 (1) Terms of license......................................................................................................................5 (2) Administration. .......................................................................................................................5 (3) Reports....................................................................................................................................6 (4) Parents. ...................................................................................................................................7 (6) Children’s records...................................................................................................................8 (7) Confidentiality. .......................................................................................................................9 (8) Reporting child abuse or neglect. ...........................................................................................9
+DCF 250.05 STAFF.............................................................................................................................10 (1) Definition..............................................................................................................................10 (2) Staff records..........................................................................................................................10 (3) Qualifications of staff. ..........................................................................................................10 (4) Staff development.................................................................................................................11
+DCF 250.055 SUPERVISION AND GROUPING OF CHILDREN. .............................................14 (1) Supervision. ..........................................................................................................................14 (2) Grouping of children. ...........................................................................................................14
+DCF 250.06 PHYSICAL PLANT AND EQUIPMENT. ..................................................................15 (1) Building. ...............................................................................................................................15 (2) Protective measures. .............................................................................................................15 (3) Emergency plans and drills...................................................................................................16 (4) Fire protection.......................................................................................................................16 (6) Water. ...................................................................................................................................16 (7) Exits, doors and windows.....................................................................................................17 (9) Food preparation and service................................................................................................17 (11) Outdoor space. ......................................................................................................................18 (12) Swimming areas. ..................................................................................................................19
+DCF 250.07 PROGRAM. ...................................................................................................................20 (1) Program planning and scheduling. .......................................................................................20 (2) Child guidance......................................................................................................................20 (3) Equipment and furnishings...................................................................................................21 (4) Rest periods. .........................................................................................................................21 (6) Health. ..................................................................................................................................22 (7) Pets and animals. ..................................................................................................................24
+DCF 250.08 TRANSPORTATION....................................................................................................25 (1) Applicability. ........................................................................................................................25 (2) Permission and Emergency information...............................................................................25 (3) Required information for each trip. ......................................................................................25 (4) Driver....................................................................................................................................25 (5) Vehicle..................................................................................................................................26 (6) Seat belts and child safety restraints.....................................................................................26 (7) Vehicle capacity and supervision. ........................................................................................27 (8) Child care vehicle safety alarm.............................................................................................27
+DCF 250.09 ADDITIONAL REQUIREMENTS FOR INFANT AND TODDLER CARE. ........28 (1) Applicability, qualifications and general requirements. .......................................................28 (2) Daily program.......................................................................................................................28 (3) Feeding. ................................................................................................................................28 (4) Diapering and toileting. ........................................................................................................29
+
+DCF 250.095 ADDITIONAL REQUIREMENTS WHEN THE LICENSEE IS NOT PROVIDING CARE AT LEAST 50% OF THE CENTER’S LICENSED HOURS............. 30
+DCF 250.10 ADDITIONAL REQUIREMENTS FOR NIGHT CARE. ........................................ 31 (1) Applicability......................................................................................................................... 31 (2) General requirements. .......................................................................................................... 31 (3) Program. ............................................................................................................................... 31 (4) Preventive measures............................................................................................................. 31 (5) Feeding. ................................................................................................................................ 31 (6) Sleep..................................................................................................................................... 31
+DCF 250.11 LICENSING ADMINISTRATION. ............................................................................ 32 (1) Licensing requirement.......................................................................................................... 32 (2) General conditions for approval of license. ......................................................................... 32 (3) Initial application for a probationary license........................................................................ 32 (4) Obtaining a regular license................................................................................................... 33 (5) Continuing a regular license................................................................................................. 33 (6) Amending a license. ............................................................................................................. 34 (7) Additional license................................................................................................................. 34 (8) License denial or revocation. ............................................................................................... 34 (9) Effect of notice to deny or revoke a license. ........................................................................ 35 (10) Summary suspension of a license......................................................................................... 35 (11) Appeal of decision to deny or revoke a license.................................................................... 36
+DCF 250.12 COMPLAINTS, INSPECTIONS AND ENFORCEMENT ACTIONS.................... 37 (1) Complaints. .......................................................................................................................... 37 (2) Inspection. ............................................................................................................................ 37 (3) Enforcement action. ............................................................................................................. 37
+APPENDIX A REGIONAL OFFICES OF THE DIV. OF EARLY CARE & EDUCATION.... 38 INDEX ................................................................................................................................................. 39
+
+WISCONSIN ADMINISTRATIVE CODE 1
+250.01
+DCF 250.01 Authority and purpose. This chapter is promulgated under the authority of s. 48.67, Stats., to carry out licensing requirements under s. 48.65, Stats., for family child care centers. The purpose of the chapter is to protect the health, safety and welfare of children being cared for in family child care centers.
+DCF 250.02 Applicability.
+(1) INCLUDED AND EXCLUDED CARE ARRANGEMENTS. This chapter applies to all family child care centers, but does not include any of the following:
+Note: Section 48.65(2), Stats., exempts parents, guardians and certain other relatives; public and parochial (private) schools; persons employed to come to the home of the child’s parent to provide care for less than 24 hours per day; and counties, cities, towns, school districts and libraries that provide programs for children primarily intended for social or recreational purposes from the requirement for a license. As specified under s. 49.155(4), Stats., or s. DCF 201.04(1), programs, other than those operated by public schools, are required to be licensed by the department or certified by a county agency in order to be eligible to receive a child care subsidy.
+(a) Care and supervision of children in a program that operates no more than 4 hours a week.
+(b) Group lessons to develop a talent or skill, such as dance or music, social group meetings and activities and group athletic activities.
+(c) Care and supervision while the parents are on the premises and are engaged in shopping, recreation or other non-work activities.
+(d) Seasonal programs of 10 days or less duration in any 3-month period, including day camps, vacation bible school and holiday child care programs.
+(e) Care and supervision in emergency situations.
+(f) Care and supervision while the parent is employed on the premises if the parent’s child receives care and supervision for no more than 3 hours a day.
+(g) Care and supervision provided at the site to the child of a recipient of temporary assistance to needy families, or Wisconsin works, who is involved in orientation, enrollment or initial assessment prior to the development of an employability plan or the child care is provided where parents are provided training or counseling.
+(2) EXCEPTION TO THE REQUIREMENT. The department may grant an exception to a requirement of this chapter when a family child care center demonstrates to the satisfaction of the department that granting the exception will not jeopardize the health, safety or welfare of any child served by the center. A request for an exception shall be in writing, shall be sent to the department and shall include justification for the requested action and a description of any alternative provision planned to meet the intent of the pertinent provision in this chapter.
+Note: A request for an exception to a requirement of this chapter should be sent to the regional licensing representative of the Department’s Division of Early Care and Education. See Appendix A for addresses of the regional offices.
+
+2 WISCONSIN ADMINISTRATIVE CODE DCF 250.03 Definitions. In this chapter:
+(1) “Background check request form” means a form prescribed by the department on which a person completes required information for the child care background check under s. 48.686, Stats., and ch. DCF 13.
+Note: Form DCF-F-5296, Background Check Request, is available on the department’s website, https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+(2) “Care” means providing for the safety and the developmental needs of a child in a family child care center.
+(3) “Center-provided transportation” means transportation in a vehicle owned by or contracted for the center or a vehicle owned by the licensee or an employee that is used to transport children, but does not include a vehicle owned and driven by a parent or volunteer.
+(3m) “Childcarebackgroundcheck”meanstherequirementsins.48.686,Stats.,andch.DCF13.
+(4) “Complaint” means an allegation of violation of this chapter or ch. 48, Stats.
+(4m) “Crib” means a bed for an infant or young child that is enclosed on 4 sides including play pens and portable cribs.
+(5) “Department” means the Wisconsin department of children and families.
+(5m) “Early childhood education” means the teaching of children who are 8 years of age or less. (6) “Emergency” means unforeseen circumstances that require immediate attention.
+(7) “Emergency back-up provider” means a designated adult available within 5 minutes of the premises who can provide assistance in the event an emergency occurs that requires a provider to leave the premises occasionally for a short period of time.
+(8) “Employee” means any adult who is compensated to provide care and supervision of children enrolled in a family child care center, including a helper or assistant to a child care provider.
+(9) “Family child care center” or “center” means a facility where a person provides care and supervision for less than 24 hours a day for at least 4 and not more than 8 children who are not related to the provider.
+(10) “Field trip” means any experience a child has away from the premises of the center while in the care of center staff, whether a child walks or is transported.
+(11) “Fit and qualified” means displaying the capacity to successfully nurture and care for children and may include consideration of any of the following:
+(a) Abuse of alcohol or drugs.
+(b) A history of a civil or criminal conviction or administrative rule violation that is substantially related to the care of children, as determined under s. DCF 13.05.
+(c) Exercise of unsound judgment.
+(d) A history of civil or criminal offenses or any other action that demonstrates an inability to manage the activities of a center.
+(12) “Foster care” means care and maintenance provided to a child in a foster home pursuant to a court order or voluntary placement agreement.
+ (13) “Foster home” means any facility operated by a person licensed under s. 48.62(1), Stats.
+
+WISCONSIN ADMINISTRATIVE CODE 3
+250.03(13m) (13m) “Hazard” means a potential source of harm that can jeopardize the health, safety or well-
+being of a child in care.
+(14) “HealthCheck provider” means a provider of health assessment and evaluation services eligible to be certified under s. DHS 105.37(1)(a).
+(14m) “Household member” means any person who resides, or is expected to reside, at the family child care center and who has or may have direct contact with a child in the care of the center, whether or not related to the licensee.
+(15) “Inclement weather” means stormy or severe weather such as any of the following: (a) Heavy rain.
+(b) Temperatures above 90 degrees Fahrenheit.
+(c) Wind chills of 0 degrees Fahrenheit or below for children age 2 and above.
+(d) Wind chills of 20 degrees Fahrenheit or below for children under age 2.
+(16) “Infant” means a child under one year of age.
+(17) “In care” means enrolled in the center, with the center providing supervision, either on or
+off the premises, including during center-provided transportation, for the safety and the developmental needs of the child or children.
+(17m) “Licensed hours” means the authorized hours specified on the license certificate and letter of transmittal within which the center may provide care.
+(18) “Licensee” means the individual that has the legal and fiscal responsibility for the operation of a center and for meeting the requirements of this chapter. Licensee” also includes a corporation, partnership, limited liability company, or non-incorporated association that has a license to operate a family child care center on September 30, 2019, until the licensee’s next continuation review date under s. DCF 250.11 (5).
+(19) “Licensing representative” means a department employee responsible for licensing family child care centers.
+(21) “Night care” means any care that is offered by a licensed family child care center between 10:00 p.m. and 5:00 a.m.
+(22) “Parent” means either “parent” as defined in s. 48.02(13), Stats., or “guardian” as defined in s. 48.02(8), Stats.
+(23) “Physical restraint” means the use of physical force to restrict the free movement of all or a portion of a child’s body.
+(24) “Physician” has the meaning given in s. 448.01(5), Stats.
+(25) “Physician assistant” has the meaning given in s. 448.01(6), Stats.
+(26) “Premises’’ means the tract of land on which the center is located, including all buildings
+and structures on that land.
+(27) “Provider” means an adult who has met the requirements specified in s. DCF 250.05(3) in a family child care center and who provides care and supervision of the children in the care of the center.
+
+4 WISCONSIN ADMINISTRATIVE CODE
+250.03(28)
+(28) “Provider’s own children” means a provider’s natural or adopted children, foster children,
+stepchildren, or other children who reside in the family child care center.
+(29) “Representative of the department” means a department employee or a representative from an agency the department contracts with to provide pre-licensing services.
+(30) “School-age child” means a child 5 years of age or older who is enrolled in a public or private school.
+(30m) “Shaken baby syndrome” or “SBS” means a severe form of brain injury that occurs when an infant or young child is shaken or thrown forcibly enough to cause the brain to rebound against his or her skull.
+(31) “Sleeping bag” means a padded fabric bag that is closed or capable of being closed on 3 sides.
+(32) “Substitute” means a provider who replaces another provider on a pre-arranged basis.
+(33) “Sudden infant death syndrome” or “SIDS” means the sudden death of an infant under one
+year of age that remains unexplained after a thorough case investigation, including performance of a complete autopsy, examination of the death scene and a review of the clinical history.
+(34) “Supervision” means guidance of the behavior and activities of children while awake and asleep for their health, safety and well-being by a provider who is within sight or sound of the children except as specified in ss. DCF 250.055(1)(m) and (n) and 250.07(7)(e).
+(35) “Toddler” means a child at least one year of age but less than 2 years of age.
+(36) “Universal precautions” means measures taken to prevent transmission of infection from
+contact with blood or other potentially infectious material, as recommended by the U.S. public health service’s centers for disease control and adopted by the U.S. occupational safety and health administration (OSHA) as 29 CFR 1910.1030.
+Note: “Standard precautions” for infection control measures incorporate universal precautions. Information on the OSHA requirements related to standard or universal precautions is available on the OSHA web site at http://www.osha.gov. Information is also available from the Child Care Information Center, 1-800-362-7353.
+(37) “Volunteer” means a person who is not paid, but who agrees to give time, with or without reimbursement for expenses, to transport children attending a family child care center or to work in a family child care center.
+(38) “Wading pool” means a shallow pool, with sides of 15 inches or less in height, capable of being dumped to change water and used primarily for small children.
+
+DCF 250.04 Operational requirements.
+(1) TERMS OF LICENSE.
+250.04
+WISCONSIN ADMINISTRATIVE CODE 5
+(a) The number of children in the care of a family child care center at any time may not exceed the number for which the center is licensed.
+(b) The age of children served by a center may not be younger or older than the age range specified in the license issued.
+(c) Thehours,daysandmonthsofacenter’soperationmaynotexceedthosespecifiedinthelicense.
+(2) ADMINISTRATION. A licensee shall do all of the following:
+(a) Comply with all laws governing the facility and its operation.
+Note: Denying admission on the basis of race, disability, religion, or certain other characteristics may be
+illegal under the state public accommodations law, federal law related to the use of federal funding, and some local anti-discrimination ordinances.
+(b) Comply with all requirements in this chapter.
+(bm) Comply with all conditions placed on the license. (
+(c) Ensure that all information provided to the department is current and accurate.
+(d) Prior to receiving or continuing a license, complete all application forms and pay all fees and
+forfeitures due to the department.
+Note: The Department will provide an application after a Department representative completes the
+provision of pre-licensing technical assistance.
+(e) Develop, submit to the department, implement, and provide to the parents written policies
+and procedures consistent with the requirements of this chapter related to all of the following:
+1. Enrollment and discharge of enrolled children.
+2. Fee payment and refunds.
+3. Child and provider absences, including a procedure to contact a parent if a child is absent
+from the center without prior notification from the child’s parent.
+4. Children’s and staff’s health care, including those policies and procedures pertaining to SIDS
+risk reduction, if the center is licensed to care for children under one year of age. 5. Nutrition.
+6. Daily activities of the children.
+7. Child guidance, including appropriate ways to manage crying, fussing or distraught children. 8. Transportation of children for any purpose including field trips. The policy shall include a
+procedure to ensure that no child has been left unattended in a vehicle.
+9. Religious instruction or practices, if any.
+10. Information related to the numbers, types and location of pets or other animals located on the
+premises of the center and the type of access the children will have to the pets.
+(f) Develop, submit to the department, and implement a written orientation plan for any
+employees, substitutes, and emergency back-up providers. The orientation plan shall cover all the items described in s. DCF 250.05(4)(a) and (b).
+Note: See s. DCF 250.05(2)(a) and (b) regarding providing an orientation to employees, substitutes and emergency back-up providers.
+(g) Provide written information to parents on whether a licensee has insurance coverage on the premises and on the child care business. Liability insurance on the child care business is required if cats or dogs are allowed in areas accessible to children during the hours of operation as specified in s. DCF 250.07(7)(h).
+Note: The information provided could be included as a rider on a homeowner policy or a separate insurance policy on the child care business. A certificate of insurance or other documentation from an insurance company that indicates the number of children covered, dates of coverage and types of pets covered is acceptable.
+(h) Post the child care license in a location where parents can see it during the hours of operation. (i)1. Post next to the child care license all of the following:
+a. The current licensing statement of compliance or noncompliance statement and correction
+plan, including any rule violations the department has not verified as corrected and in compliance. b. Any notice from the department related to rule violations, such as a warning letter or
+enforcement action.
+
+6 WISCONSIN ADMINISTRATIVE CODE
+250.04(2)(i)1.c.
+c. Any stipulations, conditions, temporary closures, exceptions, or exemptions that affect the license. 2. All items posted as required under this paragraph shall be visible to parents.
+(j) Ensure that any action, by commission or omission, or any condition or occurrence relating to
+the operation or maintenance of the child care center does not adversely affect the health, safety or welfare of any child under the care of the licensee.
+(k) Meet, upon request of the department, with a licensing representative on matters pertaining to the license.
+(L) Submit a completed background check request form to the department for each potential household member prior to the date on which the individual becomes a household member, unless the person is less than 10 years of age.
+(m) When a current household member turns 10 years of age, submit a completed background check request form to the department by the department’s next business day.
+Note: For more information on child care background checks, see ch. DCF 13. Information on requesting a background check is available on the department’s website, http://dcf.wisconsin.gov, through the Child Care Provider Portal, or from any regional licensing office in Appendix A.
+(3) REPORTS. The licensee shall report to the department all of the following. If the report is made by telephone, the licensee shall submit a written report to the appropriate regional licensing office within 5 business days of the incident. Fax, e-mail and letter are acceptable ways of filing a written report:
+(a) Anyincidentoraccidentthatoccurswhilethechildisinthecareofthecenterthatresultsin professional medical evaluation, within 24 hours of the licensee becoming aware of the medical evaluation.
+Note: The licensee may use the licensee’s own form or the department’s form, Incident Report — Regulated Child Care. The department’s form is available on the department’s website, https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+(am) Any death of a child in care, within 24 hours after the death.
+Note: The licensee may use either the licensees own form or the department’s form, Incident Report – Regulated Child Care. The form is available on the department’s website, https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+(ar) Any injury caused by an animal to a child in care, within 24 hours of the incident.
+(b) Any damage to the premises that may affect compliance with this chapter, or any incident at the premises that results in the loss of utility services, within 24 hours after the occurrence.
+(c) Any construction or remodeling on the premises that has the potential to affect an area accessible to children or a condition of the license. Notification shall be provided in writing before the construction or remodeling begins.
+Note: See s. DCF 250.11(6)(a) for items that affect a condition of the license.
+Note: It is recommended that the licensee check with the local municipality to determine whether a building permit is required before beginning any construction or remodeling.
+(d) If requested by the department, a plan of correction for cited violations of this chapter or ch. 48, Stats., in a format specified by the department. The department shall receive the plan of correction by the date the department specifies and be approved by the department licensing representative.
+Note: The licensing representative will notify the licensee whether a plan of correction will be required and will provide the plan of correction format with the notification.
+(e) Any known convictions, pending charges, or other offenses of the licensee, a provider, household member, or other person subject to a child care background check, by the department’s next business day.
+(f) Anyincidentrelatedtoachildwholeavesthepremisesofthecenterwithouttheknowledge of a provider or any incident that results in a provider not knowing the whereabouts of a child in attendance at the center within 24 hours of the incident.
+(g) Any incident involving law enforcement within 24 hours after the occurrence that:
+1. Involves a licensee, a household resident or an employee of the center in an incident that causes, or threatens to cause, physical or serious emotional harm to an individual, including a child in the care of the center.
+2. Involves any traffic-related incident where a person responsible for the violation transports children in the care of the center.
+   
+WISCONSIN ADMINISTRATIVE CODE 7
+250.04(3)(h)
+(h) Any change in room usage, such as using rooms not previously approved for use at least 20 working days prior to the change. Changes in room usage shall be approved by the department prior to the change.
+(i) Any suspected abuse or neglect of a child by a provider, volunteer, or household member that was reported under sub. (8)(a), including any incident that results in a child being forcefully shaken or thrown against a hard or soft surface during the child’s hours of attendance, within 24 hours after the incident.
+(im) Any prohibited actions specified in s. DCF 250.07(2)(c) by a provider, volunteer, or household member to a child in care, within 24 hours after the incident.
+Note: See also s. DCF 250.07(2) for information on guiding children’s behavior and s. DCF 250.07(6)(b) regarding recording injuries in a center medical log,
+(j) A change in transportation services at least 5 calendar days prior to the change. A change in transportation services shall be approved by the department.
+(k) Statistical data required by the department on forms provided by the department.
+Note: The Department periodically requests statistical data from licensees. An example of the type of data collected relates to the immunization status of children in care. When the Department requests statistical data, the Department will supply the appropriate form.
+(L) Temporary closings lasting more than 2 weeks, at least 5 calendar days before the closing.
+(m) Any confirmed case of a communicable disease reportable under ch. DHS 145 in a child enrolled in the child care center or a person in contact with children at the center, within 24 hours after the center is notified of the diagnosis. The licensee shall also notify the parents of all enrolled children and the local health department within 24 hours after the center is notified of the diagnosis.
+(4) PARENTS.
+(a) The center shall permit parents to visit and observe the center’s operations at any time during the center’s hours of operation unless parental access is prohibited or restricted by court order.
+(b) The licensee shall give parents of each enrolled child a summary of this chapter.
+Note: Copies of a summary of this chapter may be obtained from the Child Care Information Center by calling 1-800-362-7353.
+(c) The licensee shall notify a parent of a child in care of all of the following circumstances:
+1. The child is or has been exposed to a diagnosed or suspected communicable disease reportable under ch. DHS 145 as specified under sub. (3)(m).
+Note: The Department of Health Services, Division of Public Health, has developed materials that identify those communicable diseases that are required to be reported to a local public health officer. These materials also provide information on the symptoms of each disease and guidance on how long an infected child must be excluded from child care. Copies of the communicable disease chart are available on the Department of Health Services website at https://www.dhs.wisconsin.gov/publications/p44397b.pdf.
+2. Notification shall be made immediately in all of the following situations:
+a. The child becomes ill.
+b. The child needs professional evaluation of an injury.
+c. The child experiences a head injury, has a seizure, consumes incorrect breastmilk, consumes
+food or drink that may contain the child’s allergen, consumes or comes in contact with poisonous materials, or is given incorrect medication. For purposes of this subdivision, a “head injury” means a bump, blow, or jolt to the head.
+3. The child has sustained a minor injury that does not appear to require professional medical treatment. Notification may be made when the child is picked up at the center or delivered to the parent or other authorized person.
+4. The child will be going on a field trip that is not considered part of the regularly scheduled program. Notification of the date, time, and destination shall be prior to the field trip.
+
+8 WISCONSIN ADMINISTRATIVE CODE
+250.04(6)
+(6) CHILDREN’S RECORDS.
+(a) The licensee shall maintain a current written record at the center on each child enrolled, including the provider’s own children under age 7, and shall make the record available to the licensing representative on request. Each record shall include all of the following:
+1. Enrollment information and health history on forms provided by the department. The enrollment information and health history shall be on file prior to the child’s first day of attendance.
+Note: Form DCF-F-CFS0062, Child Care Enrollment, and Form DCF-F-CFS2345, Health History and Emergency Care Plan, are available at https://dcf.wisconsin.gov/cclicensing/ccformspubs or from any regional office listed in Appendix A.
+2. If field trips and other off-premises activities are a part of the program, written authorization from the parent indicating that the child has permission to participate.
+Note: The department’s form, Child Care Enrollment, includes a blanket authorization to take children on field trips. The department’s form, Field Trip or Other Activity Notification, or another type of notification such as a note to a parent may be used to provide specific information about a field trip. Information on how to obtain department forms is available on the department’s website, http://dcf.wisconsin.gov, or from any regional licensing office in Appendix A.
+3. A written agreement, signed by the parent, outlining the plan for a child to come to the center from school, home or other activities and to go from the center to school, home or other activities unless the child is accompanied by a parent or other authorized person or the child is transported by the center.
+Note: The licensee may use either the department’s form, Alternate Arrival/Release Agreement — Child Care, or the licensee’s own form for securing the parent’s signed agreement. Information on how to obtain the form is available on the department’s website, http://dcf.wisconsin.gov, or from any regional licensing office in Appendix A.
+4. Documentation of each child’s most recent physical examination subject to the following:
+a. Each child under 2 years of age, including a provider’s own children in care, shall have an initial health examination not more than 6 months prior to nor later than 3 months after being admitted to the center, and a follow-up examination at least once every 6 months thereafter.
+b. Each child who is at least 2 years of age but who is not 5 years of age or older, including a provider’s own children in care, shall have an initial health examination not more than one year prior to nor later than 3 months after being admitted to a center, and a follow-up health examination at least once every 2 years thereafter.
+c. Children 5 years of age and above are not required to have a health exam.
+d. A health examination report shall be made on an electronic printout from a licensed physician, physician assistant, or other HealthCheck provider or a form provided by the department that is signed and dated by a licensed physician, physician assistant, or other HealthCheck provider.
+Note: To document a health examination, use either an electronic printout from a medical professional or the department’s Form DCF-F-CFS0060, Child Health Report — Child Care Centers. The department’s form is available at https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+4m. Documentation that the child’s immunization history is in compliance with s. 252.04, Stats., and ch. DHS 144.
+Note: To record immunization information, use either an electronic printout from the Wisconsin Immunization Registry or other registry maintained by a health provider or the Department of Health Services Form F-44192, Child Care Immunization Record. The form is available on the department’s website at https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+5. Written permission from the parents under s. DCF 250.07(6)(k) for medical attention to be sought for the child if the child is injured.
+(b) The licensee shall maintain a current, accurate written record of the daily attendance on a form prescribed by the department that includes the actual time of arrival and departure for each child for the length of time the child is enrolled in the program.
+Note: The department’s form, Daily Attendance Record — Child Care, is used for recording a child’s daily attendance. Information on how to obtain the department’s form is available on the department’s website, http://dcf.wisconsin.gov, or from any regional licensing office in Appendix A.
+
+(7) CONFIDENTIALITY.
+WISCONSIN ADMINISTRATIVE CODE 9
+250.04(7)
+(a) The licensee is responsible for compliance by the center with s. 48.78, Stats., and this subsection.
+(b) The licensee shall ensure that all of the following occur:
+1. Persons with access to children’s records do not discuss or disclose personal information regarding the children and facts learned about the children and their relatives. This subdivision does not apply to any of the following:
+a. The child’s parent.
+b. Any person, business, school, social services provider, medical provider, or other agency or organization if written parental consent has been given.
+c. Agencies authorized under s. 48.78, Stats.
+2. A parent, upon request, has access to all records and reports maintained on his or her child. 3. All records required by the department under this chapter for licensing purposes are available
+to the licensing representative.
+(8) REPORTING CHILD ABUSE OR NEGLECT.
+(a) A licensee or provider who knows or has reasonable cause to suspect that a child has been abused or neglected as defined in ss. 48.02(1) and 48.981(1), Stats., shall immediately contact the county department of social services or human services or local law enforcement agency in compliance with s. 48.981, Stats.
+Note: Child care providers are required to report known or suspected child abuse or neglect as specified in par. (a). Reporting to the licensee does not lessen this legal duty if the licensee fails to report as specified in par. (a).
+(b) The licensee shall document that each provider and substitute has received training at least every 2 years in all of the following:
+1. Child abuse and neglect laws.
+2. How to identify children who have been abused or neglected.
+3. The procedure for ensuring that all known or suspected cases of child abuse or neglect are
+immediately reported to the proper authorities.
+Note: See s. DCF 250.07(6)(b) for information about logging evidence of unusual bruises, contusions,
+lacerations or burns received by a child in or out of center care in the center medical log book.
+
+10
+WISCONSIN ADMINISTRATIVE CODE
+DCF 250.05 Staff.
+(1) DEFINITION. In this section, “The Registry” means a professional development recognition agency.
+Note: For further information, see https://www.the-registry.org/TheRegistry/AboutUs.aspx.
+(2) STAFF RECORDS. A licensee shall maintain a file for each provider, employee, volunteer, or substitute and shall make the file immediately available for review by a licensing representative at the center. The file shall contain all of the following:
+(a) A completed staff record on a form prescribed by the department.
+Note: Form DCF-F-CFS0053, Staff Record — Child Care Centers, is used for recording staff information. The form is available on the department’s website at https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+(b) Documentation from the department, either paper or electronic, that indicates that a child care background check was completed in compliance with the timelines and requirements specified in s. 48.686, Stats., and ch. DCF 13, and the person is eligible to work in a child care program.
+(c) Documentation of the actual hours a provider, substitute, employee, or volunteer worked if the hours were used to meet the applicable staff-to-child ratio under Table DCF 250.055.
+(d)1. Exceptasprovidedundersubd.2.,aphysicalexaminationreportcompletedwithin12months before or 30 days after the person became licensed or began working with children in care. The physical examination report may be a printout of an electronic record from a medical professional or on a form provided by the department. The report shall be dated and signed by a licensed physician, physician’s assistant, or other HealthCheck provider and shall indicate all of the following:
+a. The person is free from illness detrimental to children, including tuberculosis.
+b. The person is physically able to work with young children.
+Note: The optional Form DCF-F-CFS0054, Staff Health Report — Child Care Centers, is available on the
+department’s website, https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+2. The health examination requirement under subd. 1. does not apply to a provider who requests
+an exemption from subd. 1. based on the provider’s adherence to religious belief in exclusive use of prayer or spiritual means for healing in accordance with a bona fide religious sect or denomination.
+(e)1. All of the following, except as provided in subd. 2.
+a. A certificate from The Registry that indicates the person is qualified for the position within 6 months after becoming licensed or beginning to work with children in care.
+b. An updated certificate from The Registry within one year following the effective date of a significant revision of this chapter, as determined by the department.
+2.a. A person is exempt from the requirement under subd. 1. a. and b. if the person has been licensed or provided care for children in licensed child care continuously since December 31, 2008, including any combination of licensure or employment in a family child care center licensed under this chapter, a group child care center licensed under ch. DCF 251, or a day camp licensed under ch. DCF 252.
+b. A substitute is not required to have a certificate from The Registry until the substitute has worked for 240 cumulative hours.
+(f) Documentation of compliance with continuing education requirements under sub. (4) (c).
+(3) QUALIFICATIONS OF STAFF.
+(a) A provider shall meet all of the following conditions:
+1. Be physically, mentally, and emotionally able to provide responsible care to all children,
+including children with disabilities.
+2. Be at least 18 years of age.
+(b) Before receiving a license or beginning to work with children in care, a licensee or provider
+shall satisfactorily complete one of the following:
+1. All of the following:
+a. Three credits in early childhood education or a department-approved, non-credit course in
+early childhood education.
+Note: The non-credit course called Introduction to the Child Care Profession is the course that has been
+approved by the department. Information on other acceptable courses and agencies offering department- approved courses is available on the department’s website at https://dcf.wisconsin.gov/cclicensing.
+ 
+WISCONSIN ADMINISTRATIVE CODE 11
+250.05(3)(b)1.b.
+b. A non-credit, department-approved course in operating a child care business or a course for credit in business or program administration. A person is exempt from this requirement if the person has been licensed or provided care for children in regulated child care continuously since December 31, 2008, including any combination of licensure under s. 48.65, Stats., certification under s. 48.651, Stats., or employment in a licensed child care center or for a certified child care operator.
+Note: The non-credit course entitled Fundamentals of Family Child Care is approved by the department to meet this requirement. A credit-based course in a business topic may also be used. Information on agencies offering the department-approved course is available on the department’s website at https://dcf.wisconsin.gov/cclicensing.
+2. The Wisconsin Family Child Care Credential.
+3. A child development associate credential in family child care issued by the Council for Professional Recognition.
+(c) A substitute or volunteer that is used to meet the required staff-to-child ratio shall meet the training requirements specified in par. (b) after the substitute or volunteer has worked in the center for 240 hours.
+(cm) A volunteer that is used to meet the required staff-to-child ratios under s. DCF 250.055 shall be at least 18 years of age.
+(d) If more than one provider is needed to meet the required staff-to-child ratio, each additional provider shall meet the training requirements in par. (b) within 6 months of beginning to work with children in care.
+(e)1. Within 3 months after licensure or date of hire, each licensee and provider shall obtain a certificate of completion for a department-approved course in infant and child cardiopulmonary resuscitation, including training in the use of an automated external defibrillator.
+2. Each licensee and provider shall maintain a current cardiopulmonary resuscitation certification as specified under subd. 1.
+3. The time spent obtaining or renewing cardiopulmonary resuscitation training may be counted towards the required continuing education hours under sub. (4)(c).
+(f) Eachlicenseeandprovidershallhavesatisfactorilycompletedatleast10hoursof department-approved training in the care of infants and toddlers within 6 months after becoming licensed or working with children in care under 2 years of age.
+(g) Prior to obtaining a license or working with children in care under 5 years of age, a licensee, provider, substitute, volunteer, emergency back-up, or any other person providing care and supervision shall satisfactorily complete department-approved training in shaken baby syndrome and abusive head trauma, and appropriate ways to manage crying, fussing, or distraught children.
+Note: The department-approved training is included in the course called Health, Safety and Nutrition offered by a Wisconsin technical college or in the non-credit, department-approved courses called Introduction to the Child Care Profession and Fundamentals of Infant and Toddler Care, if the course was taken after July 1, 2005. Information on agencies offering the department-approved courses is available on the department’s website at https://dcf.wisconsin.gov/cclicensing.
+(h) No person or agency may offer non-credit child care training as specified in this subsection unless the person or agency and the course have been approved by the department. The department may at any time withdraw its approval of a non-credit course. Instructors of non-credit department−approved courses shall be approved by the department prior to teaching a course.
+Note: Information on the approval process for non-credit courses is available on the department’s website at https://dcf.wisconsin.gov/cclicensing.
+(4) STAFF DEVELOPMENT.
+(a) Orientation of employees, volunteers, and substitutes. Each employee, volunteer, or substitute shall receive an orientation before the individual begins to work with children in care. The orientation shall be documented on a form prescribed by the department and kept in the employee file. The orientation shall cover all of the following:
+1. The names and ages of all the children in care.
+2. Current arrival and departure information for each child enrolled and the names of people authorized to pick up the child.
+ 3. A review of children’s records, including emergency contact information.
+
+12 WISCONSIN ADMINISTRATIVE CODE
+250.05(4)(a)4.
+4. Specific information relating to each child’s health care needs, including medications, disabilities, or special health conditions.
+5. If the center is licensed to care for children under one year of age, procedures to reduce the risk of sudden infant death syndrome.
+6. An overview of the daily schedule, including meals, snacks, nap, and any information related to the eating and sleep schedules of infants and toddlers enrolled in the center.
+7. A review of the center’s procedures for dealing with emergencies, including natural disasters, human-caused events, food emergencies, and allergic reactions.
+8. The procedure for reporting suspected abuse or neglect of a child.
+9. If the center is licensed to care for children between the hours of 10:00 p.m. and 5:00 a.m., the plan for evacuating sleeping children.
+10. The prevention and control of infectious diseases, including immunizations.
+11. The administration of medications.
+12. The handling and storage of hazardous materials and disposal of biocontaminants. In this
+subdivision, ‘biocontaminants” includes blood, body fluids, or excretions that may spread infectious disease.
+13. The center policies and procedures required under s. DCF 250.04 (2) (e).
+14. The provisions in this chapter.
+15. The reporting requirements for the child care background check under s. DCF 13.07 (3).
+Note: Form DCF-F-CFS2255, Staff Orientation Checklist - Family Child Care Centers, is used to document completion of employee orientation. The form is available at https://dcf.wisconsin.gov/cclicensing/ccformspubs or from any regional licensing office in Appendix A.
+(b) Orientation of emergency back-up providers. Each time an emergency back-up provider cares for the children, the emergency back-up provider shall receive an orientation immediately before being left alone with the children. The orientation shall cover all of the following:
+1. The names and ages of all the children in care.
+2. Arrival and departure information for each child in care, including the names of people authorized to pick up the child.
+3. The location of children’s files, including emergency contact information and consent for emergency medical treatment.
+4. Information on any children with special health care needs.
+5. Procedures to reduce the risk of sudden infant death syndrome, if the center is licensed to care for children under one year of age.
+(c) Continuing education.
+1. Each licensee and provider shall satisfactorily complete at least 15 hours of qualifying continuing education annually. Continuing education qualifies under this paragraph if it covers any of the following:
+a. Prevention and control of infectious diseases.
+b. Medication administration.
+c. Prevention of and response to emergencies due to food and allergic reactions. d. Identification of and protection from hazards.
+e. Building and physical premises safety.
+f. Emergency preparedness and response planning.
+g. Handling and storage of hazardous materials.
+h. Handling and disposal of bio-contaminants.
+i. Child growth and development.
+j. Caring for children with disabilities.
+k. Guiding children’s behavior.
+L. Nutrition.
+m. Physicalactivity.
+
+WISCONSIN ADMINISTRATIVE CODE 13
+250.05(4)(c)1.n.
+n. Transportation safety.
+o. Identification and reporting of suspected child abuse or neglect.
+p. Cardiopulmonary resuscitation.
+q. First aid.
+r. Business operations.
+s. Any other topic that promotes child development or protects children’s health or safety.
+2. Continuing education under subd. 1. may be obtained through attendance at training events,
+workshops, conferences, consultation with community resource people, web-based training that results in a certificate of completion, or observation of child care programs.
+3. Up to 5 hours of independent reading, viewing educational materials, internet searches, or completion of a web-based course that does not result in a certificate of completion may be used to meet the continuing education requirements under subd. 1.
+4. A provider shall have documentation of the 12-month period included in the provider’s training year for meeting continuing education requirements and begin a new training year in the same month each year.
+Note: The licensee may use either the department’s form, Staff Continuing Education Record-Child Care Centers, a copy of the individual’s learning record from The Registry, or the licensee’s own form to document the completion of continuing education. The department’s form is available at https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+
+14 WISCONSIN ADMINISTRATIVE CODE
+DCF 250.055 Supervision and grouping of children.
+(1) SUPERVISION.
+(a) Each child shall be supervised by a provider to guide the child’s behavior and activities, prevent harm, and ensure safety.
+(b) A provider shall be awake at all times when children are in care.
+(c) No individual provider may care for children for more than 16 hours in any 24-hour period. (d) No child may be in care for more than 14 hours in any 24-hour period.
+(e) At least one provider who has completed the training required under s. DCF 250.05(3)(b)
+shall supervise children at all times, except when a substitute is providing care. A substitute shall meet the requirements under s. DCF 250.05(3)(c) and (4)(a).
+(f) Nopersonunder18yearsofagemaybeleftinsolechargeofthechildren.
+(g) The center shall have a written plan reviewed by the department for ensuring supervision of the children in an emergency or during a provider’s absence.
+(h) A provider may not be engaged in any other activity or occupation during the hours of operation of the center when children are in care, except for daily maintenance of the home.
+(i) The licensee may not combine the care of children enrolled in the child care center with foster care of other non-related children or adults without the prior written approval of both licensing agencies.
+(j) During the hours of the center’s operation, no provider or any other person in contact with children in care may consume or be under the influence of beverages containing alcohol or any non- prescribed controlled substance specified in ch. 961, Stats.
+(k) A child may not be released to any person who has not been previously authorized by the parent to receive the child.
+(L) The licensee shall implement and adhere to a procedure to ensure that the number, names, and whereabouts of children in care are known to the provider at all times.
+(m) A provider shall be outside with children and provide sight and sound supervision of the children, unless the children are playing inside the enclosed outdoor area on the premises specified under s. DCF 250.06(11)(b).
+(n) Aprovidershallbeoutsidewithchildrenprovidingsightandsoundsupervisionofthechildren when a wading pool containing water is present in the outdoor play space specified in s. DCF 250.06(11)(b).
+(2) GROUPING OF CHILDREN.
+(a) At no time may more than 8 children be in the care of the center. This limitation applies to all of the following:
+1. All children under 7 years of age, including a provider’s own children.
+2. All children 7 years of age or older who are not a provider’s own children.
+(b) ThemaximumnumberofchildrenthatoneprovidermaycareforisspecifiedinTable250.055. (c) If the size of the group or the age distribution of the children exceeds the number that may be
+served by one provider, an additional qualified provider shall be present.
+Note: For example, if there are 3 children under 2 years of age present at one time and 5 children between the 2 years of age
+and 6 years of age present, a second provider is required. At no time may the maximum number of children in care exceed 8.
+(d) If there is more than one provider with the children, no more than a total of 4 children under 2
+years of age may be in the care of the center when care is provided on a level that is more than 6 feet above or below the ground level.
+Note: Section DCF 250.06 (4) (e) requires an interconnected smoke detection system in operating condition if one or more children under 2 years of age will be cared for in a location that is more than six feet above or below the ground level.
+Table DCF 250.055
+Maximum Number of Children in Family Child Care per Provider
+        Children Under 2 Years of Age
+   Children 2 Years of Age and Older
+Maximum Number of Additional School-age Children in Care for Fewer Than 3 Hours a Day
+ Maximum Number of Children Permitted At One Time
+     0
+   8
+   0
+ 8
+     1
+   7
+   0
+ 8
+     2
+    5
+     1
+  8
+        3
+  2
+ 3
+8
+  4
+     0
+     2
+  6
+        
+DCF 250.06 Physical plant and equipment.
+(1) BUILDING.
+250.06
+WISCONSIN ADMINISTRATIVE CODE 15
+(a) Conformance with building codes. Family child care centers located in a building that is not a one or 2-family dwelling shall conform to the applicable Wisconsin commercial building codes. A copy of a building inspection report evidencing compliance with the applicable building codes shall be submitted to the department prior to the department’s issuance of a license.
+Note: The building inspection report should be sent to the appropriate regional office listed in Appendix A. (b) Space and temperature.
+1. A center shall have at least 35 square feet of usable floor space per child. Usable floor space
+for children does not include passageways, bathrooms, lockers, storage areas, the furnace room, the part of the kitchen occupied by stationary equipment, and space occupied by furniture that is not intended for children’s use.
+2. The inside temperature of the center may not be less than 67 degrees Fahrenheit.
+3. If the inside temperature at the center exceeds 80 degrees Fahrenheit, the licensee shall provide for air circulation with safe fans, air conditioning, or other means.
+4. There shall be at least one toilet with plumbing and one sink with hot and cold running water available for use by children in care in the center. The hot water temperature may not exceed 120 degrees Fahrenheit.
+(2) PROTECTIVE MEASURES.
+(a) Furnaces, water heaters, steam radiators, fireplaces, wood burning stoves, electric fans, electric outlets, electric heating units and hot surfaces such as pipes shall be protected by screens or guards so that children cannot touch them.
+(b) Firearms, ammunition, and bows and arrows with sharp tips located on the premises or in a vehicle used to transport children shall be kept in locked storage and may not be accessible to children.
+(c) Potentially dangerous items and materials harmful to children, including power tools, flammable or combustible materials, insecticides, matches, drugs and any articles labeled hazardous to children, shall be in properly marked containers and stored in areas inaccessible to children.
+(d) The center shall have at least one working telephone with a list of emergency telephone numbers, including telephone numbers for the local fire department, police department, law enforcement agency, poison control center and emergency medical service, posted in a location known to all providers.
+(e) The center’s indoor and outdoor child care space shall be free of hazards including any recalled products.
+Note: Lists of recalled products are available on the Department of Agriculture, Trade and Consumer Protection website at https://datcp.wi.gov/Pages/Publications/KeepYourKidsSafeNewsletter.aspx or by contacting the United States Consumer Products Safety Commission (US CPSC) at 1-800-638-2772.
+(f) Amotorvehicleshallbeimmediatelyavailableatthecenteratalltimesincaseofan emergency if an ambulance or first response unit cannot arrive within 10 minutes of a phone call.
+(g) Differences in elevation of more than 18 inches, either indoors or outdoors, including open sides of stairways, elevated platforms, walks, balconies, and mezzanines used by children shall be protected by railings at least 36 inches high and designed to prevent the passage of an object with a diameter larger than 4 inches through any openings in the railing bars.
+(h) Smoking is prohibited anywhere on the premises of a center or in a vehicle used to transport children when children are in care.
+Note: Section DCF 250.03(26) defines “premises” as a building and the tract of land on which the building is located.
+(i) A hot tub located in a room or area accessible to children shall have a visible, locked, rigid cover or be enclosed by a locked fence at least 4 feet tall. The lock shall be installed so that the lock is inaccessible to children.
+(j) If a hot tub is located in a room or area that is not intended for use by children, access to the room or area shall be controlled through the use of a visibly locked door. The lock shall be installed so that the lock is inaccessible to children.
+(k) The premises shall have no flaking or deteriorating paint on exterior or interior surfaces in areas accessible to children. Lead-based paint or other toxic finishing material may not be used on any surface on the premises.
+
+16 WISCONSIN ADMINISTRATIVE CODE
+250.06(2)(L)1.
+(L)1. A family child care center in a one-family or two-family residence shall have a carbon monoxide detector installed in the basement and on each floor level, except the attic, garage, or storage area of each unit, in accordance with the requirements of s. 101.647, Stats.
+2. A family child care center in a building with at least 3 residential units shall have one or more functional carbon monoxide detectors installed in accordance with the requirements of s. 101.149, Stats.
+(m) The premises shall be well-drained, free from litter and vermin, in good repair, and maintained in a sanitary condition.
+(3) EMERGENCY PLANS AND DRILLS.
+(a) Eachcentershallhaveawrittenplanfortakingappropriateactionintheeventofanemergency, including a fire; a tornado; a flood; extreme heat or cold; a loss of building services, including no heat, water, electricity, or telephone; human-caused events such as threats to the building or its occupants; allergic reactions; lost or missing children; vehicle accidents; or other circumstances requiring immediate attention. The plan shall include specific procedures that address all of the following:
+1. Evacuation, relocation, shelter-in-place, and lock–down.
+2. Ensuring that the needs of children under age 2 and children with disabilities are met.
+3. Communication with parents.
+4. Connecting children with their parents if the center is required to evacuate the building.
+(b) The center shall practice the fire evacuation plan monthly, and the tornado plan monthly from
+April through October, with the children and shall document when the plans were practiced. Note: The licensee may use either the department’s form, Fire Safety and Emergency Response
+Documentation — Family Child Care Centers, or the licensee’s own form to document when the fire and tornado emergency plans were practiced. Information on how to obtain the department’s form is available on the department’s website, http://dcf.wisconsin.gov, or from any regional licensing office in Appendix A.
+(4) FIRE PROTECTION.
+(a) Smoke detectors shall be installed and maintained in operating condition on each level of the center and in all areas used for nap or rest periods. All smoke detectors shall be tested monthly and a record kept of the time, date and results of the test.
+Note: The licensee may use either the department’s form, Fire Safety and Emergency Response Documentation — Family Child Care Centers, or the licensee’s own form to record the results of smoke detector tests. Information on how to obtain the department’s form is available on the department’s website, http://dcf.wisconsin.gov, or from any regional licensing office in Appendix A.
+(b) An operable fire extinguisher with a minimum rating of 2A-10BC shall be provided for the kitchen and cooking area and inspected annually, and a provider shall know how to use it. Inspection tags are not required, but documentation of the inspection must be kept on file at the center.
+Note: Licensees or a commercial fire extinguisher inspector may inspect fire extinguishers.
+(c) Unvented gas, oil or kerosene space heaters are prohibited.
+(d) A woodburning stove may be used only if it meets standards specified under s. SPS 323.045. (e) The center shall be equipped with an interconnected smoke detection system in operating
+condition if one or more children under age 2 will be cared for on a level that is more than 6 feet above or below the ground level.
+(6) WATER.
+(a) If the center gets its water from a private well, water samples from the well shall be tested annually by a laboratory certified under ch. ATCP 77 and shall be found bacteriologically safe. The laboratory report shall be available to the department upon request.
+(b) Ifthecenterislicensedtocareforinfantsunder6monthsofage,thecentershallhavenitrate levels in the water tested annually by a laboratory certified under ch. ATCP 77. Bottled water shall be used for infants under 6 months of age if the water tests above the maximum allowable levels of nitrates.
+Note: Section NR 809.11 sets the maximum allowable level of nitrate-nitrogen in public drinking water at 10 milligrams per liter (10 parts per million).
+(c) If water test results indicate the water is bacteriologically unsafe, the water shall be appropriately treated and re-tested until it is determined to be safe. Bottled water shall be used until the water is determined to be safe.
+
+WISCONSIN ADMINISTRATIVE CODE 17
+250.06(7)
+(7) EXITS, DOORS AND WINDOWS.
+(a) Exits.
+1. All exits shall be clear of obstructions.
+2. Each floor or level occupied by children shall have at least 2 exits.
+3. Exits shall be located as far apart as practical.
+4. The width of every exit door shall be at least 2 feet 6 inches.
+5. The primary exit shall be a door or stairway providing unobstructed travel to the outside of
+the building at street or ground level.
+6. The secondary exit shall be one of the following:
+a. A door or stairway that provides unobstructed travel to the outside of the building at street or
+ground level.
+b. A door or stairway leading to a platform or roof with railings complying with sub. (2)(g),
+which has an area of at least 25 square feet, is at least 4 feet long, and is not more than 15 feet above ground level.
+c. Except in an upstairs duplex, a window that is not more than 46 inches above the floor, capable of being opened from the inside without the use of a tool or removal of a sash, and which has a nominal window opening size of at least 20 inches in width and 24 inches in height.
+d. A center located in the upstairs unit of a duplex shall have 2 exits leading directly to the ground floor or to a platform as described in subd. 6. a. and b.
+7. If care is provided in a basement, all of the following apply:
+a. The primary exit shall be a door or stairway that provides unobstructed travel to the outside of the building at street or ground level.
+b. The secondary exit shall be either a door or stairway leading to the ground level or a window not more than 46 inches above the floor that is capable of being opened from the inside without the use of tool or removal of a sash, and which has a nominal window opening size of at least 20 inches in width and 24 inches in height. The window shall open directly to the ground or to a window well with an area of at least 6 square feet that is not more than 46 inches below the ground.
+(b) Doors and windows.
+1. Every closet door latch shall be capable of being opened by children from inside the closet. 2. Every toilet room door lock shall be designed to permit the locked door be opened from the
+outside in an emergency, and the opening device shall be readily accessible to a provider.
+3. Windows that are capable of being opened and located in areas of the center that are
+accessible to children shall have screens.
+(9) FOOD PREPARATION AND SERVICE.
+(a) Equipment and utensils for preparing, serving and storing food shall be clean and equipped for the safe handling of food. Eating surfaces shall be washed before use.
+(b) Reusable eating and drinking utensils shall be thoroughly cleaned with detergent and hot water and rinsed after use. Single use articles such as food containers designed to be used only once and discarded including plastic silverware, paper or styrofoam cups and plates may not be reused.
+(c) Food shall be clean, wholesome, free from spoilage and from adulteration and misbranding, and safe for human consumption.
+(d) Food shall be covered and stored at temperatures that protect against spoilage. Refrigerators shall be maintained at 40 degrees Fahrenheit or lower and freezers shall be maintained at 0 degrees Fahrenheit or lower.
+(e) Extra food that was prepared but not served shall be dated, refrigerated promptly, and used within 36 hours, or frozen immediately for use within 6 months.
+(f) Foodshallbeprovidedbasedontheamountoftimechildrenareincare,asspecifiedinTable250.06.
+TABLE 250.06
+Meals and Snacks to be Served to Children
+     Time Present
+        Number of Meals and Snacks
+     At least 21⁄2 but less than 4 hours
+  1 snack
+ At least 4 but less than 8 hours
+        1 snack and 1 meal
+     At least 8 but less than 10 hours
+  2 snacks and 1 meal
+ 10 or more hours
+        2 meals and 2 or 3 snacks
+     
+18 WISCONSIN ADMINISTRATIVE CODE
+250.06(10)(g)
+(g) Food shall be served at flexible intervals, but no child may go without nourishment for longer than 3 hours.
+(h) At a minimum, children shall be provided food for each meal and snack that meets the U.S. department of agriculture child and adult care food program minimum meal requirements.
+Note: The USDA meal program requirements are found on the U.S. Department of Agriculture website, http://www.fns.usda.gov/cacfp/meals-and-snacks.
+(i) Additional portions of vegetables, fruits, bread, and milk shall be available.
+(j) Accurate records of meals and snacks served to children shall be available for review by parents and the licensing representative. Written records of meals and snacks served to children shall be retained for 3 months.
+(k) When food for a child is provided by a child’s parent, the licensee shall give the parent information about the requirements for food groups and quantities specified by the U.S. department of agriculture child and adult care food program minimum meal requirements.
+(L) A child enrolled in school who is in attendance at the center when a meal or snack is served shall be offered the meal or snack.
+(m) A special diet based on a medical condition, excluding food allergies, but including nutrient concentrates and supplements, may be served only upon written authorization of a child’s physician and upon the request of the parent.
+(n) A special diet based on a food allergy may be served upon the written request of the parent.
+(11) OUTDOOR SPACE.
+(a) Requirement for outdoor play space. A center shall have outdoor play space if any child is receiving care for more than 3 hours a day.
+(b) Required features of outdoor play space. Except when an exemption is requested and approved by the department under par. (c), a center shall comply with all of the following requirements for outdoor play space:
+1. The outdoor play space shall be on the premises of the center.
+2. There shall be at least 75 square feet of outdoor place space for each child using the space at a given time. A center with a licensed capacity of 8 children is required to have a minimum of 600 square feet.
+3. Structures such as playground equipment, railings, decks, and porches accessible to children and built with CCA-treated lumber shall be sealed with an oil-based sealant or stain at least every 2 years.
+3m.Wood treated with creosote or pentachlorophenol (PCP), including railroad ties, may not be used in areas accessible to children.
+4. A permanent enclosure not less than 4 feet high shall be provided to protect the safety of children in care. Fencing, plants, or landscaping may be used to create a permanent enclosure. The permanent enclosure may not have any open areas that are greater than 4 inches.
+5. Concrete and asphalt are prohibited under climbing equipment, swings and slides.
+(c) Exemption for off-premises play space.
+1. In this paragraph, “main thoroughfare” means a heavily traveled street or road used by
+vehicles as a principal route of travel.
+2. If a center has no outdoor play space available on the premises of the center, the licensee may
+request an exemption from the requirements under subd. 3. for the center’s outdoor play space.
+3. A request for an exemption under subd. 2. shall be in writing and shall be accompanied by a
+plan for outdoor play space that does all the following:
+a. Identifies and describes the location to be used, the travel distance from the center to that
+location and the means of transporting the children to that location.
+b. Provides for adequate supervision of the children as specified in Table 250.05.
+c. Provides for daily vigorous exercise in the out-of-doors for the children.
+d. Describes the arrangements to meet the toileting and diapering needs of the children.
+e. Affirms the center’s compliance with the requirements included in subds. 4. to 7.
+Note: Send the request for an exemption, including the plan for the use of that space, to the licensing
+representative at the appropriate regional office of the Department’s Division of Early Care and Education. See Appendix A for addresses of the regional offices.
+
+WISCONSIN ADMINISTRATIVE CODE 19
+250.06(11)(c)4.
+4. The off-premises outdoor play space shall be free of hazards such as bodies of water, railroad tracks, unfenced swimming pools, heavily wooded areas and nearby highways and main thoroughfares.
+5. There shall be at least 75 square feet of play space for each child using the space at a given time. 6. No climbing equipment, swing or slide in the play space may have concrete or asphalt under it. 7. When the off-premises outdoor play space is reached by walking, the center shall transport
+children under 3 years of age in wheeled vehicles, such as strollers or wagons, with a seating capacity equal to the number of children under 3 years of age to be transported.
+8. A center’s plan for use of an off-premises outdoor play space is subject to approval by the department. Within 30 days after receipt of a plan and request for an exemption from the requirements under par. (b), the department shall either approve the plan and grant the exemption or not approve the plan and deny the request for exemption. The department shall notify the center in writing of its decision and if it does not grant an exemption, shall state its reasons for not granting the exemption.
+9. If any circumstance described in an approved plan for use of off-premises outdoor play space changes or if any condition for plan approval is not met, the department may withdraw its approval of the plan and cancel the exemption. A center with an approved plan shall immediately report to the department’s licensing representative any significant change in any circumstance described in the plan.
+(12) SWIMMING AREAS.
+(a) Swimming pools on the premises of the center may not be used by children in care. Swimming pools on the premises shall be surrounded by a permanent enclosure as specified under sub. (11)(b)4. In addition, the all of the following restrictions apply:
+1. If access to the pool is through a gate, the gate shall be closed and locked during the center’s hours of operation.
+2. If access to the pool is through a door, the door shall be closed, visibly locked and equipped with an alarm at the door that signals when someone has entered the pool area. The door may not be used as an exit.
+3. Locks shall be located so that the locks cannot be opened by the children.
+4. The free-standing wall of an above ground pool may not serve as an enclosure unless it is at least 4 feet in height and not climbable. If a ladder is present, the ladder shall be removed or raised up so that it is inaccessible to children.
+5. The area around the pool enclosure shall be free of toys or equipment that would allow a child to climb or otherwise gain access to the pool.
+(b) A wading pool on the premises may be used if the water is changed daily and the pool is disinfected daily. Supervision requirements and staff-to-child ratios under s. DCF 250.05(3) and (4) shall be met.
+(c) A pool, wading pool, water attraction, or beach that is not located on center premises may be used by children if all of the following conditions are met:
+1. The construction and operation of the pool meet the requirements of chs. SPS 390 and ATCP 76 for public swimming pools and the beach complies with any applicable local ordinance.
+2. Certified lifesaving personnel are on duty.
+3. While children are in the water of a pool, wading pool, water attraction, or beach, the following staff-to-child ratios for providers who can swim shall be met:
+a. For children under 2 years of age: 1:1.
+b. For children 2 and 3 years of age years of age: 1:3.
+c. For children 4 and 5 years of age: 1:6.
+d. For children 6 years of age and older: 1:8.
+4. When a mixed age group of children are swimming, the staff-to-child ratio shall be adjusted
+based on to the number of children in the water and each child’s age.
+Note: A worksheet to help calculate the staff to child ratio for mixed aged groupings during swimming is
+available from the department upon request. Requests may be made to the licensing representative or regional office in Appendix A.
+5. A child shall be restricted to the area of the pool or beach that is within the child’s swimming ability.
+6. If some of the children are in the water and others are not, there shall be at least 2 providers supervising the children. One provider shall supervise the children who are in the water, and the other provider shall supervise the children who are not in the water.
+
+20
+WISCONSIN ADMINISTRATIVE CODE
+DCF 250.07 Program.
+(1) PROGRAM PLANNING AND SCHEDULING.
+(a) A provider shall plan activities so that each child may be or do all of the following:
+1. Be successful and feel good about himself or herself.
+2. Use and develop language.
+3. Use large and small muscles.
+4. Use materials and take part in activities that encourage creativity.
+5. Learn new ideas and skills.
+6. Participate in imaginative play.
+7. Be exposed to a variety of cultures.
+8. Develop literacy skills.
+Note: The Wisconsin Model Early Learning Standards are voluntary standards that were designed to help
+centers develop programs and curriculum to help ensure that children are exposed to activities and opportunities that will prepare them for success in school and into the future. The Standards are primarily intended as guidance on developmentally appropriate expectations and are not intended to be used as a checklist to gauge a child’s progress. The Standards are based on scientific research. Copies of the Wisconsin Model Early Learning Standards are available on the Wisconsin Early Childhood Collaborating Partners website at http://www.collaboratingpartners.com/ or through the Child Care Information Center at 1-800-362-7353.
+Wisconsin has an information and referral service for persons with questions or concerns about a child’s development called First Step that is available to the public 24 hours a day, 7 days a week. When a call is placed to First Step at 1-800-642-7837, the caller will learn about early intervention services as well as other related services in the area. When a provider or a parent has concerns about a child’s growth or development a referral to a Birth-to-Three agency or the local public school should be considered to determine if the child is eligible for special services. With parental consent and consultation, it is recommended that centers who care for children who have an Individualized Family Service Plan (IFSP) or an Individualized Education Program (IEP) coordinate programming activities with the local school district or Birth to Three agency.
+(b) A provider shall plan daily activities according to the age and developmental level of each child in care and shall include a flexible balance of all of the following:
+1. Daily indoor and outdoor activities when a child is in care for more than 3 hours except that outdoor activities are not required during inclement weather or when not advisable for health reasons.
+2. Active and quiet play.
+3. Protection from excess fatigue and over stimulation.
+4. Individual and group activities.
+(c) Television, including videotapes and DVDs, may be used only to supplement the daily plan
+for children. No child may be required to watch television.
+(2) CHILD GUIDANCE.
+(a) Each family child care center shall provide positive guidance and redirection for the children and shall set clearly specified limits for the children. A provider shall help each child develop self- control, self-esteem and respect for the rights of others.
+(b)1. For purposes of this paragraph, a “time−out” is an interruption of unacceptable behavior by the removal of the child from the situation, not to isolate the child, but to allow the child an opportunity to pause, and with support from the provider, reflect on behavior and gain self-control.
+2. If a provider uses time-out periods to deal with unacceptable behavior, a time-out may not exceed 3 minutes and may not be used for a child under 3 years of age.
+3. The procedures for time-out periods shall be included in the center’s written child guidance policy.
+(c) Actionsthatmaybepsychologically,emotionallyorphysicallypainful,discomforting,dangerousor potentially injurious are prohibited. Examples of prohibited actions include all of the following:
+1. form of
+2.
+3. child in
+4. 5.
+Spanking, hitting, pinching, shaking, slapping, twisting, throwing, or inflicting any other corporal punishment on the child.
+Verbal abuse, threats or derogatory remarks about the child or the child’s family.
+Physical restraint, binding or tying the child to restrict the child’s movement or enclosing the a confined space such as a closet, locked room, box or similar cubicle.
+Withholding or forcing meals, snacks or naps.
+Actions that are cruel, aversive, humiliating or frightening to the child.
+
+WISCONSIN ADMINISTRATIVE CODE 21
+250.07(2)(d) Note: See s. DCF 250.04(8) for information on reporting suspected child abuse and s. DCF 250.04(3)(i) for
+(d) A child may not be punished for lapses in toilet training.
+rules requiring that prohibited actions to a child be reported to the department within 24 hours after the occurrence.
+(3) EQUIPMENT AND FURNISHINGS.
+(a) Safe indoor and outdoor play equipment shall be provided and shall be all of the following:
+1. Scaled to the size and developmental level of the children.
+2. Of sturdy construction with no sharp, rough, loose, or pointed edges, in good operating
+condition, and anchored when necessary.
+3. Placed so as to avoid danger of accident or collision and to permit freedom of action. 4. Maintained in a clean and sanitary condition.
+5. Used in accordance with all manufacturer’s instructions and any manufacturer’s
+recommendations that may affect the safety of children in care.
+(b) Various types of play equipment shall be provided to allow for large and small muscle
+activity, dramatic play, creative expression and intellectual stimulation.
+(c) Indoor play equipment shall be provided to allow each child a choice of at least 3 activities
+involving equipment when all children are involved in using equipment.
+(d) Outdoor play equipment shall be provided to allow each child at least one activity when all
+children are using equipment at the same time.
+(e) Trampolines and inflatable bounce surfaces on the premises shall not be in areas accessible to
+children and may not be used by the children in care.
+(f) Furnishings shall be clean, durable, and safe with no sharp, rough, loose, or pointed edges. (g) The furnishings shall include all of the following:
+1. Table space and seating for each child.
+2. Storage space for equipment, bedding, and children’s clothing and personal belongings.
+Note: Lists suggesting kinds and numbers of equipment for centers are available from the Child Care Information Center by calling 1-800-362-7353.
+(4) REST PERIODS.
+(a) Children under 5 years of age in care for more than 4 consecutive hours shall have a nap or rest period.
+(b) A provider shall permit children who do not sleep after 30 minutes and children who wake up early to get up and shall help them to have a quiet time through the use of equipment or activities which do not disturb other children.
+(c) Each child one year of age or older who has a nap or rest period shall be provided with a sleeping surface that is clean, safe, washable, and placed at least 2 feet from the next sleeping child. The sleeping surface may be any of the following:
+1. A bed.
+2. A cot.
+3. A padded mat.
+4. A sleeping bag.
+5. A crib or playpen.
+(cm) Eachchildunderoneyearofagewhonapsorsleepsshallbeprovidedwithaclean,safe,
+washable crib or playpen that meets the applicable safety standards in 16 CFR Part 1219 or 1220 and shall be placed at least 2 feet from the nearest sleeping child. Cribs or playpens may be placed end-to- end if a solid partition separates the crib or playpen, and an aisle not less than 2 feet in width is maintained between sleeping surfaces.
+(d) Each child one year of age or older who is not using a sleeping bag shall be provided with an individually identified sheet and blanket that may be used only by that child until it is washed. Sleeping bags and bedding shall be stored in a sanitary manner and washed at least after every 5 uses or as soon as possible if wet or soiled.
+(e) Infants shall sleep alone in cribs or playpens. Two related children may share a double bed. No more than one child may occupy a single size bed, cot, mat or sleeping bag.
+
+22 WISCONSIN ADMINISTRATIVE CODE
+250.07(6)
+(6) HEALTH.
+(a) Contact with others who are ill.
+1. A licensee, provider, household member, employee, volunteer, visitor or parent who has
+symptoms of illness or of a communicable disease that may be transmitted through normal contact may not be in contact with the children in care.
+1m. A licensee, provider, household member, employee, volunteer, visitor, parent, or a child in care may be admitted or readmitted to the family child care center if the person provides a written statement from a physician that the condition is no longer contagious or if the person has been absent for a period of time equal to the longest usual incubation period for the disease under ch. DHS 145.
+Note: The Wisconsin Department of Health Services, Division of Public Health, has developed materials that identify those communicable diseases that are required to be reported to the local public health officer. These materials also provide additional guidance on the symptoms of each disease and information on how long an infected child shall be excluded from the center. Copies of the communicable disease chart are available on the Department of Health Services website, https://www.dhs.wisconsin.gov/publications/p4/p44397.pdf.
+2.a. A licensee, provider, household member, employee, volunteer, visitor or parent whose behavior with respect to any child, adult, animal or property, on or off the center’s premises, raises reasonable concern for the safety of the children, may not be in contact with the children in care.
+b. The department may require a licensee, provider, household member or other adult in contact with the children whose behavior gives reasonable concern for the safety of children to submit to an examination by a licensed mental health professional as a condition of licensure or employment.
+Note: See also s. DCF 250.11(2)(e) which requires a written statement from a physician or licensed mental health professional when there is reason to believe that the physical and mental health of a person may endanger children in care.
+3. No person with a health history of typhoid, paratyphoid, dysentery or other diarrheal disease may work in a center until it is determined by appropriate medical tests that the person is not a carrier of the disease.
+4. Any child who appears to be ill shall be moved to a separate room or area and shall be provided with a bed, crib, or cot and a sheet and blanket or a sleeping bag. The licensee shall notify the parent or emergency contact and arrange for the child to be removed from the center as soon as possible.
+(b) Medical log book.
+1. The licensee shall maintain a medical log book that has a stitched binding with pages that are lined and numbered.
+2. Pages may not be removed from the medical log book under subd. 1. and lines may not be skipped. Each entry in the log book shall be in ink, dated, and signed or initialed by the person making the entry.
+3. A provider shall record all of the following in the medical log under subd. 1.:
+a. Any evidence of unusual bruises, contusions, lacerations, or burns seen on a child, regardless of whether received in or out of the care of the center.
+b. Any injuries received by a child while in the care of the center on the date the injury occurred. The record shall include the child’s name, the date and time of the injury, and a brief description of the facts surrounding the injury.
+c. Any medication dispensed to a child, on the date the medication is dispensed. The record shall include the name of the child, type of medication given, dosage, time, date, and the initials or signature of the person administering the medication.
+d. Any incident or accident that occurs when the child is in the care of the center that results in professional medical evaluation.
+Note: See s. DCF 250.04 (8) for requirements related to reporting suspected child abuse or neglect. (f) Medications.
+1. A provider may give prescription or non-prescription medications such as pain relievers,
+teething gels or cough syrup to a child only under the following conditions:
+a. A completed written authorization on a form provided by the department, dated and signed by
+the parent is on file. Authorizations that exceed the period of time specified on the label are prohibited. Note: The department’s form, Authorization to Administer Medication — Child Care Centers, is used to
+obtain the parent’s authorization to provide medications. Information on how to obtain the form is available on the department’s website, http://dcf.wisconsin.gov, or from any regional licensing office in Appendix A.
+
+WISCONSIN ADMINISTRATIVE CODE 23
+250.07(6)(f)1.b.
+b. The medication is in the original container and labeled with the child’s name and with dosage and administration directions.
+c. A written record, including the name of the child, type of medication given, dosage, time, date and the initials or signature of the person administering the medication shall be made in the medical log on the same day that the medication is administered.
+3. Medications shall be stored so that they are not accessible to children.
+4. Medications requiring refrigeration shall be kept in the refrigerator in a separate, covered container clearly labeled “medications.”
+5. No medication intended for use by a child in the care of the center may be kept at the center without a current medication administration authorization from the parent.
+6. Medication for a child in care shall be administered by the center as directed on the label and as authorized by the parent.
+(g)1. Exceptasprovidedinsubd.2.,achild’shandsshallbewashedwithsoapandwarmrunning water before meals or snacks, after handling pets or other animals, and after toileting or diapering. A child’s hands and face shall be washed when soiled. For children under one year of age, hands may be washed with soap and a wet fabric or a paper washcloth that is used once and discarded.
+2. If running water is not immediately available when outdoors or on field trips, soap and water- based wet wipes may be used. When running water becomes available, hands shall be washed immediately with soap and running water.
+3. Disinfecting hand sanitizers may not replace the use of soap and water for washing hands.
+4. Bodily secretions from a child shall be wiped with a disposable tissue.
+5. All providers shall use universal precautions when exposed to blood or bodily fluids or
+discharges containing blood.
+6. All persons working with children in care shall wash their hands with soap and warm running
+water before handling food, before and after assisting with toileting or diapering, after handling pets or animals, and after being exposed to blood or bodily fluids containing blood or other types of bodily secretions. If gloves are used, hands shall be washed after removal of gloves.
+7. Single use disposable gloves shall be worn if there is contact with bodily fluids or tissue discharges that contain blood. Gloves shall be discarded in plastic bags.
+(h) Health precautions.
+1. Surfaces exposed to bodily secretions, including toys, equipment, and furnishings, shall be washed with soap and water and disinfected. The disinfectant solution used shall be one that is registered with the U.S. environmental protection agency as a disinfectant and has instructions for use as a disinfectant on the label. The solution shall be prepared and applied as indicated on the label.
+2. Soap, towels or an air dryer, toilet paper, and a waste paper container shall be provided in the washroom and accessible to children.
+3. Towels and washcloths shall be individual to each person and used only once. Cups, eating utensils, or toothbrushes may not be shared.
+4. Wet or soiled clothing shall be changed promptly from an available supply of clean clothing.
+5. Section DCF 250.09 (4) applies when a child 2 years of age or older needs attention for diapering or toileting.
+6. As appropriate, children shall be protected from sunburn and insect bites with protective clothing, sunscreen, or insect repellent. Sunscreen and insect repellent may only be applied upon the written authorization of the parent. The authorization shall include the ingredient strength and be reviewed and updated periodically. If sunscreen or insect repellent is provided by the parent, the sunscreen or repellent shall be labeled with the child’s name. Recording the application of sunscreen or insect repellent is not necessary.
+
+24 WISCONSIN ADMINISTRATIVE CODE
+250.07(6)(k)
+(k) Injuries.
+1. Written permission from the parent to call the child’s physician or refer the child for medical care in case of injury shall be on file at the center. A provider shall contact a parent of the injured child as soon as possible after an emergency has occurred or, if the injury is minor, when the child is picked up.
+Note: See DCF 250.04(3)(a) regarding reporting injuries that require medical attention to the Department within 48 hours after the occurrence.
+Note: The department’s form, Child Care Enrollment, includes authorization for the center to obtain emergency medical care for a child. Information on how to obtain forms is available on the department’s website, http://dcf.wisconsin.gov, or from any regional licensing office in Appendix A.
+2. Superficial wounds shall be cleaned with soap and water only and protected with a bandaid or bandage.
+3. Suspected poisoning shall be treated only after consultation with a poison control center.
+4. The licensee shall designate a planned source of emergency medical care, such as a hospital emergency room, clinic or other constantly staffed facility and shall advise parents about that designation.
+(7) PETS AND ANIMALS.
+(a) Animals shall be maintained in good health and appropriately immunized against rabies. Rabies vaccinations shall be documented with a current certificate from a veterinarian.
+(b) Animals that pose any risk to the children shall be restricted from the indoor and outdoor areas used by children.
+(c) Licensees shall ensure that parents are aware of the presence of pets and animals in the center. If pets and animals are allowed to roam in areas of the center occupied by children, written acknowledgement from the parents shall be obtained. If pets are added after a child is enrolled, parents shall be notified in writing prior to the pets’ addition to the center.
+(d) Reptiles, amphibians, ferrets, poisonous animals, psittacine birds, exotic and wild animals may not be accessible to children.
+Note: Psittacine birds are hooked bill birds of the parrot family that have 2 toes forward and 2 toes backward, including macaws, grays, cockatoos and lovebirds.
+(e) All contact between pets or animals and children shall be under the sight and sound supervision of a provider who is close enough to remove the child immediately if the pet or animal shows signs of distress or aggression or the child shows signs of treating the animal inappropriately.
+(f) Pets are prohibited in any food preparation or serving area when food is being prepared or served unless the pet is confined in a cage or kennel. Litter boxes are prohibited in any food preparation, storage or serving areas. Litter boxes and animal feeding dishes, excluding water dishes, may not be placed in areas accessible to children.
+(g) Indoor and outdoor areas accessible to children shall be free of pet and animal excrement.
+(i) Licensees shall ensure that the center is in compliance with all applicable local ordinances regarding the number, types and health status of pets and animals.
+
+DCF 250.08 Transportation.
+(1) APPLICABILITY.
+250.08
+WISCONSIN ADMINISTRATIVE CODE 25
+(a) Except as provided in par. (b), this section applies to all transportation of children in care, including both regularly scheduled transportation to and from the center and field trip transportation, if any of the following apply:
+1. The licensee owns or leases the vehicle used.
+2. The licensee contracts with another person or organization that owns or leases the vehicle used. 3. Employees, parents, or volunteers are transporting children other than their own at the
+direction of, at the request of, or on behalf of the licensee.
+(b) Thefollowingrequirementsdonotapplytotransportationprovidedinvehiclesownedanddriven
+by parents or volunteers who are not counted in the staff-to-child ratios specified in Table DCF 250.055: 1. The requirement that a licensee obtain a copy of the driver’s driving record and review it
+under sub. (4)(c).
+2. The requirement to provide evidence that the vehicle is in safe operating condition at 12-month
+intervals under sub. (5) (b).
+3. The requirements related to child care vehicle safety alarms under sub. (8).
+(c) The licensee shall document in the licensee’s policies that transportation provided through a
+written or verbal contract with another person or organization meets the requirements of this section.
+(2) PERMISSION AND EMERGENCY INFORMATION. Before transporting a child, a licensee shall obtain signed permission from the parent for transportation and emergency information for each child. The form shall include all of the following information:
+(a) Thepurposeofthetransportationandtheparent’spermissiontotransportthechildforthatpurpose. (b) Anaddressandtelephonenumberwhereaparentorotheradultcanbereachedinanemergency. (c) The name, address, and telephone number of the child’s health care provider.
+(d) Written consent from the child’s parent for emergency medical treatment.
+Note: The licensee may use the department’s form, Child Care Enrollment, to obtain consent of the child’s parent for emergency medical treatment. Information on how to obtain forms is available on the department’s website, https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+(3) REQUIRED INFORMATION FOR EACH TRIP. The licensee shall ensure that written documentation of all of the following is maintained at the center and in any vehicle transporting children while the children are being transported:
+(a) A list of the children being transported.
+(b) A copy of the completed permission and emergency information form under sub. (2) for each child being transported.
+(c) Fortransportationtoorfromachild’shomeorschool,thetransportationrouteandscheduledstops.
+(4) DRIVER.
+(a) Thedriverofavehicleusedtotransportchildrenincareshallbeatleast18yearsofageandshall hold a valid driver’s license from the state where the driver resides and for the type of vehicle driven.
+(b) Before a driver who is not the licensee first transports children and annually thereafter, the licensee shall provide the driver with an orientation. The licensee shall document the training. The training shall include all of the following:
+1. safety 2. 3. 4. 5. 6. 7. 8. 9.
+The procedure for ensuring that all children are properly restrained in the appropriate child seat.
+The procedure for loading, unloading, and tracking of children being transported. The procedure for evacuating the children from a vehicle in an emergency. Behavior management techniques for use with children being transported.
+A review of applicable statutes and rules affecting transportation of children.
+A review of applicable center policies.
+First aid procedures.
+A review of child abuse and neglect laws and center reporting procedures.
+Information on any special needs a child being transported may have and the plan for how
+those needs will be met.
+
+26 WISCONSIN ADMINISTRATIVE CODE
+250.07(4)(b)10.
+10. A review of the use of the vehicle alarm, if applicable.
+11. Any other job responsibilities as determined by the licensee.
+(c)1. Priortothedayadriverfirsttransportschildrenincareandannuallythereafter,thelicensee
+shall obtain a copy of the driving record for each driver and place the record in the staff file. The licensee shall review each driving record to ensure that the driver has no accidents or traffic violations that would indicate that having children ride with the driver could pose a threat to the children.
+2. In determining whether a driver may pose a threat to the children, the licensee shall consider the totality of the driver’s record, any other relevant facts, and the following factors in combination:
+a. The seriousness of any accidents or violations.
+b. The amount of time that has passed since an accident or violation occurred.
+c. The number of accidents or violations.
+d. The likelihood that a similar incident will occur.
+3. A driver whose driving record indicates that the driver poses a threat to the children may not
+transport children.
+Note: Information on how to obtain driving records may be obtained by contacting the Department of
+Transportation at (608) 261-2566 or http://dot.wisconsin.gov/drivers/drivers/point/abstract.htm.
+(d)1. Except as provided in subd. 2., a driver of a vehicle that is transporting children in care may
+not use a cellular phone or other wireless telecommunication device while loading, unloading, or transporting children, except when the vehicle is out of traffic, not in operation, and any of the following applies:
+a. The phone or device is used to call 911.
+b. The phone or device is used to communicate with emergency responders.
+c. The phone or device is used to communicate with the center regarding an emergency situation. 2. A navigation device may be used during transportation of children if the device is
+programmed to a destination when the vehicle is out of traffic and not in operation.
+(5) VEHICLE.
+(a) Thelicenseeshallensurethateachvehiclethatisusedtotransportchildrenisallofthefollowing: 1. Registered with the Wisconsin department of transportation or the appropriate authority in
+another state.
+2. Clean, uncluttered, and free of obstruction on the floors, aisles, and seats.
+3. In safe operating condition.
+(b) At 12-month intervals, the licensee shall provide the department with evidence of a vehicle’s
+safe operating condition on a form provided by the department.
+Note: The department’s form, Vehicle Safety Inspection, is used to record evidence of the vehicle’s safe
+operating condition. Information on how to obtain forms is available on the department’s website, https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+(c) The licensee shall obtain and maintain vehicle liability insurance with minimums no less than those specified in subch. VI. of ch. 344, Stats.
+(d) Hired or contracted school buses used to transport children shall be in compliance with ch. Trans 300.
+(e) At least once per year, the licensee shall make available to the department each vehicle that is required to have a child safety alarm under sub. (8) (a) to determine whether the child safety alarm is in good working order.
+(6) SEAT BELTS AND CHILD SAFETY RESTRAINTS.
+(a) No person may transport a child under 8 years of age in a motor vehicle, unless the child is restrained in a child safety restraint system that is appropriate to the child’s age and size in accordance with s. 347.48 Stats., and ch. Trans 310.
+Note: For further information on child safety restraints, see https://wisconsindot.gov/Pages/safety/education/child-safety/default.aspx.
+
+WISCONSIN ADMINISTRATIVE CODE 27
+250.08(6)(b)1.
+(b)1. Each child who is not required to be in an individual child car safety seat or booster seat when being transported under par. (a) shall be properly restrained by a seat belt in accordance with 347.48, Stats., and ch. Trans 315.
+2. Each adult in the vehicle shall be properly restrained by a seat belt in accordance with 347.48, Stats., and ch. Trans 315.
+3. Seat belts may not be shared.
+(c) Children transported in school buses or vehicles built to school bus standards shall be properly seated according to the manufacturer’s specifications.
+(d) Children under 13 years of age who are in the care of the center may not ride in the front seat of a vehicle.
+(7) VEHICLE CAPACITY AND SUPERVISION.
+(a) The center shall be responsible for a child from the time the child is placed in a vehicle until the child reaches his or her destination and is released to a person responsible for the child. A parent of a school age child may authorize a child to enter a building unescorted.
+Note: Form, Transportation Permission - Child Care Centers, may be used to designate an adult to receive a child being transported. The form is available on the department’s website at https://dcf.wisconsin.gov/cclicensing/ccformspubs.
+(b) Children may not be left unattended in a vehicle.
+(c) When children are transported in a vehicle, there shall be at least one adult supervisor in addition to the driver whenever there are more than 3 children who are either under 2 years of age or who have a disability that limits their ability to respond to an emergency.
+(d) The licensee shall develop and implement a procedure to ensure that all children exit the vehicle after being transported to a destination.
+(e) No child may be in a vehicle for transport to or from a center, a field trip, or other center activity for more than 60 minutes for a one-way trip.
+(8) CHILD CARE VEHICLE SAFETY ALARM.
+(a) A vehicle shall be equipped with a child safety alarm that prompts the driver to inspect the vehicle for children before exiting if all of the following conditions apply:
+1. The vehicle is owned or leased by a licensee or a contractor of a licensee.
+2. The vehicle has a seating capacity of 6 or more passengers plus the driver. The seating capacity of the vehicle shall be as determined by the manufacturer.
+3. The vehicle is used to transport children in care.
+(b) No person may shut off a child safety alarm unless the driver first inspects the vehicle to ensure that no child is left unattended in the vehicle.
+(c) The child safety alarm shall be in good working order each time the vehicle is used for transporting children to or from a center.
+Note: Information on the required vehicle safety alarm is available on the department’s website at http://dcf.wisconsin.gov/ccregulation/providers.
+
+28 WISCONSIN ADMINISTRATIVE CODE
+DCF 250.09 Additional requirements for infant and toddler care.
+(1) APPLICABILITY, QUALIFICATIONS AND GENERAL REQUIREMENTS.
+(a) Family child care centers providing care and supervision to infants and toddlers shall comply with the additional requirements of this section.
+(c) General requirements.
+1. A provider shall use information obtained on a department-provided form for children under 2 years of age to individualize the program of care for each child. The information shall be at the center before the child is left for care on the child’s first day of attendance. A provider and the child’s parents shall periodically discuss the child’s development and routines.
+Note: The department’s form, DCF-F-CFS0061-E, Intake for Child under 2 Years – Child Care Centers, is used to record information for individualizing the program of care for each child. Information on how to obtain the form is available on the department’s website, http://dcf.wisconsin.gov, or from any regional licensing office in Appendix A. Wisconsin has an information and referral service for persons with questions or concerns about a child’s development called Well Badger Resource Center that is available to the public 24 hours a day, 7 days a week. When a call is placed to Well Badger Resource Center at 1-800-642-7837, the caller will learn about early intervention services as well as other related services in the area. When a provider or a parent has concerns about a child’s growth or development a referral to a Birth-to-Three agency should be considered to determine if the child is eligible for special services. With parental consent and consultation, it is recommended that centers who care for children who have an Individualized Family Service Plan (IFSP) coordinate programming activities with the local Birth-to-Three agency.
+2. Cribs and playpens shall contain a tight fitting mattress and any mattress covering shall fit snugly over the mattress. Waterbeds may not be used by children under age 2.
+3. Sheets or blankets used to cover a child one year of age or older shall be kept away from the child’s mouth and nose, and if sleeping in a crib or playpen shall be tucked tightly under the mattress.
+4. A child under one year of age may not sleep in a crib or playpen that contains soft or loose materials, such as sheepskins, pillows, blankets, flat sheets, bumper pads, bibs, pacifiers with attached soft objects, or stuffed animals. No blankets or other items may be hung on the sides of a crib or playpen.
+5. Safety gates shall be used at open stairways when children are awake.
+(2) DAILY PROGRAM.
+(a) Child care providers shall respond promptly to a crying child’s needs.
+(b) Each infant and toddler shall be allowed to form and follow his or her own patterns of
+sleeping and waking.
+(c) Each child under one year of age shall be placed to sleep on his or her back in a crib unless
+otherwise specified in writing by the child’s physician. The child shall be allowed to assume the position most comfortable to him or her when able to roll over unassisted.
+(d) Emphasis in activities shall be given to play as a learning and growth experience.
+(e) Throughout the day, each infant and toddler shall receive physical contact and attention such as being held, rocked, talked to, sung to and taken on walks inside and outside the center.
+(f) Routinesrelatedtoactivitiessuchastakinganap,eating,diaperingandtoiletingshallbeused as occasions for language development and other learning experiences.
+(g) When a non-mobile child is awake, a provider shall change the child’s body position and location in the room periodically. Non-mobile awake children shall be placed on their stomach occasionally throughout the day.
+(h) Each non-walking child who can creep or crawl shall be given opportunities each day to move freely in a safe, clean, open, warm and uncluttered area.
+(i) A provider shall encourage infants and toddlers to play with a wide variety of safe toys and objects.
+(3) FEEDING. A provider shall do all of the following:
+(a) Feed each infant and toddler on the child’s own feeding schedule.
+(b) Ensure that food, breastmilk, and formula brought from home are labeled with the child’s
+name, dated, and refrigerated, if required
+(c) Ensure that the food, breastmilk, or formula offered to infants and toddlers is consistent with
+the requirements of the U.S. department of agriculture child and adult care food program.
+Note: Information on the meal program requirements of the USDA Child and Adult Care Food Program
+may be found on the website, http://www.fns.usda.gov/cacfp/meals-and-snacks.
+
+WISCONSIN ADMINISTRATIVE CODE 29
+250.09(3)(d)
+(d) Provide formula or breast milk to all children under 12 months of age.
+(e) Provide another type of milk or milk substitute only on the written direction of the child’s physician.
+(f) Discardleftovermilkorformulaaftereachfeeding,andrinsebottlesafteruse.
+(g) Refrain from heating breast milk or formula in a microwave oven.
+(h) Offer drinking water to infants over 6 months of age and toddlers several times daily.
+(i) Hold a child unable to hold a bottle whenever a bottle is given. Bottles may not be propped. (j) Hold or place a child too young to sit in a highchair or feeding table in an infant seat during
+feeding. Wide-based highchairs with safety straps or feeding tables with safety straps shall be provided for children who are not developmentally able to sit at tables and chairs.
+(k) Ensure that eating utensils and cups are scaled to the size and developmental level of the children.
+(L) Infant bottles and nipples may not be reused without first being cleaned and sanitized.
+(4) DIAPERING AND TOILETING. A provider shall do all of the following:
+(a) Change wet or soiled diapers and clothing promptly.
+(b) Change the child on an easily cleanable surface that is cleaned with soap and water and a
+disinfectant solution after each use. The disinfectant solution used shall be one that is registered with the U.S. environmental protection agency as a disinfectant and has instructions for use as a disinfectant on the label. The disinfectant shall be used according to label instructions.
+(c) If the diapering surface is above floor level, use a strap, restraint, or other structural barrier to prevent falling. A child may not be left unattended on the diapering surface.
+(d) Place soiled cloth diapers in a plastic bag labeled with the name of the child and send them home daily.
+(e) Placesoileddisposablediapersinaplastic-lined,coveredcontaineranddisposeofthemdaily.
+(g) Apply lotions, powders or salves to the child during diapering only at the specific direction of a parent or the child’s physician.
+(h) Wash the child during diapering with a disposable towel used only once.
+
+30 WISCONSIN ADMINISTRATIVE CODE
+DCF 250.095 Additional requirements when the licensee is not providing care to children at least 50% of the center’s licensed hours. A licensee who does not provide care and supervision to children at least 50% of the center’s licensed hours shall comply with the following requirements:
+(1) The licensee shall complete at least one course from the Wisconsin Professional Credential for Child Care Administrators program within one year from the initial date that the licensee is not providing care and supervision for at least 50% of the hours of the center’s operation.
+(2) The licensee shall be responsible for the following:
+(a) Management, finance, physical plant, and day-to-day operations of the center.
+(b) Supervision of the planning and implementation of the center’s program for children.
+(c) Supervision of center staff, including the following duties:
+1. Implement and maintain a written job description for each staff position.
+2. Implement and maintain a written personnel policy that addresses hours of work, lunch and
+break times, holidays, vacations, sick leaves, leaves of absence, probationary periods, performance evaluations, grievance procedures, and the disciplinary process. The personnel policy shall contain a procedure that requires staff to notify the licensee and the licensee to notify the department as soon as possible, but no later than the next business day, when any of the following occurs:
+a. The employee has been convicted of a crime.
+b. The employee has been or is being investigated by any governmental agency for any other act, offense, or omission, including an investigation related to the abuse or neglect or threat of abuse or neglect, to a child or other client, or an investigation related to misappropriation of a client’s property.
+c. The employee has a substantiated governmental finding against them for abuse or neglect of a child or adult or for misappropriation of a client’s property.
+d. A professional license held by the employee has been denied, revoked, restricted, or otherwise limited.
+3. Ensure that each employee is familiar with the employee’s job description, personnel policies, and applicable licensing rules.
+4. Conduct staff meetings at least 9 times in a calendar year and document that the meetings have been held.
+5. Ensure staff compliance with continuing education requirements.
+(3) The licensee shall be at the center for at least 30 hours per month for the exclusive purpose of carrying out licensee responsibilities in sub. (2).
+
+WISCONSIN ADMINISTRATIVE CODE 31
+250.10 (1) APPLICABILITY. Family child care centers that operate during any period of time between
+10:00 p.m. and 5:00 a.m. shall comply with the requirements of this section.
+(2) GENERAL REQUIREMENTS.
+(a) When the same premises are used for the operation of both day care and night care, the number of children during any overlapping of the day care and night care periods may not exceed the maximum licensed capacity of the center.
+(b) Minimum staff-to-child ratios and group sizes under Table DCF 250.055 shall be maintained during night care.
+(c) The parent or center shall provide each child in care after 10:00 p.m. with an individually labeled sleeping garment and a toothbrush.
+(3) PROGRAM.
+(a) Child care staff shall ascertain from a child’s parent a child’s typical family activities during the period the child is at the center for night care and strive to replicate those activities with the child. (b) A center offering night care shall provide a self-contained room away from sleeping children
+where an awake child may engage in activities.
+(c) An evening and morning schedule of program activities shall be planned for the hours that
+children in night care are awake.
+(d) School-age children shall have an opportunity to read or do school work.
+(4) PREVENTIVE MEASURES.
+(a) A provider shall develop, submit to the department, and implement a plan to evacuate sleeping children in an emergency. Review of the plan shall be part of orientation under s. DCF 250.05(3).
+(b) Centers operating during hours of darkness shall have emergency lighting, such as an operable flashlight, readily available to a provider.
+(c) Providers shall be awake, available, within call and able to respond to the needs of the children whenever children are in care.
+(5) FEEDING.
+(a) Breakfast shall be served to all children in care for the night, unless the parent specifies otherwise.
+(b) A nighttime snack shall be available to all children in care.
+(c) A child present at the time the evening meal is served shall be served the evening meal.
+(6) SLEEP.
+(a) Children who attend the center for the evening hours but not the whole night shall have an opportunity to sleep, as needed.
+(b) Sleep routines for individual children shall be based on information provided by the parents.
+(c) A bed, crib or cot with sheets and blankets individual to each child shall be provided for children spending the night.
+(d) The center shall maintain a supply of extra sleeping garments and bedding for emergencies and accidents.
+(e) Children under 2 years of age in night care shall sleep in cribs.
+DCF 250.10 Additional requirements for night care.
+
+32 WISCONSIN ADMINISTRATIVE CODE
+DCF 250.11 Licensing administration.
+(1) LICENSING REQUIREMENT. If a person provides care on a regular basis to 4 or more children under the age of 7 years, that person shall be deemed to be providing care for compensation and shall be licensed.
+(2) GENERAL CONDITIONS FOR APPROVAL OF LICENSE.
+(a) Prior to receiving or continuing a license, an applicant for a license under this chapter shall complete all application forms truthfully and accurately and pay all fees and forfeitures that are due to the department.
+(am) Anapplicantforalicensetooperateafamilychildcarecentershallbeanindividual.
+(b) The department may refuse to issue or continue a license if another center operated by the licensee is in substantial non-compliance with the licensing rules or has any outstanding fines or forfeitures.
+(c) Persons licensed to operate a family child care center shall be responsible, mature individuals who are fit and qualified. In determining whether an applicant is fit and qualified, the department shall consider any history of civil or criminal violations or other offenses substantially related to the care of children by the applicant, owner, manager, representative, employee, center resident or other individual directly or indirectly participating in the operation of the family child care center. A determination that a person is unfit and unqualified includes substantiated findings of child abuse or neglect under ch. 48, Stats., or substantiated abuse under ch. 50, Stats., or under similar statutes in another state or territory whether or not the abuse or neglect results in a criminal charge or conviction.
+(d) The department shall issue a family child care license to an applicant within 60 working days after receipt and department approval of a properly completed application, satisfactory department investigation and determination that the applicant is fit and qualified. Continued licensure requires a licensee to remain fit and qualified.
+Note: See DCF 250.03(11) for the definition of “fit and qualified.”
+(e) Ifthedepartmenthasreasontobelievethatthephysicalormentalhealthofanyperson associated with the care of children at the center or any household resident of the center may endanger children in care, the department may require that a written statement be submitted by a physician or, if appropriate, by a licensed mental health professional that certifies the condition of the individual and the possible effect of that condition on the family child care center or the children in care.
+(f) Thedepartmentmaydenyorrevokethelicenseiftheexaminationspecifiedunderpar.(e) gives the department reasonable concern for the care of children.
+(g) The department may not process an application for a license if the applicant has had a license or certification to operate a child care center revoked or denied within the last 2 years prior to the date of the application. An applicant is deemed ineligible to submit an application for a license and a person may not hire an employee within 2 years from the date an applicant or employee had a child care license or certification revoked or denied.
+(h) The department shall consider a licensee who fails to submit any of the materials described in sub. (4) or (5) by the expiration or continuation date of a license to have surrendered the license and to no longer hold title to the license. The former licensee may not continue to operate the child care center.
+(3) INITIAL APPLICATION FOR A PROBATIONARY LICENSE.
+(a) An applicant for a license shall have obtained pre-licensing technical assistance that results in a completed initial licensing study checklist from a representative of the department prior to submitting an application for a license.
+Note: 1. Information on how to obtain pre-licensing technical assistance is available from the appropriate regional office in Appendix A. The Department will provide the application form to an applicant upon completion of the pre-licensing technical assistance.
+Note: 2. An initial licensing study checklist includes a list of those rules that must be met before a license can be issued. A copy of the checklist is available from a representative of the Department or the appropriate regional office in Appendix A.
+(b) An applicant for a license shall submit an application at least 60 days before the date proposed for the center to begin operating.
+
+WISCONSIN ADMINISTRATIVE CODE 33
+250.11(3)(c)
+(c) An applicant for an initial license shall include all the following with the application form:
+1. The license fee required under s. 48.65(3)(a), Stats., applicable fees for child care background checks under s. 48.686, Stats., any unpaid forfeiture under s. 47.715(3) or 49.155(7m)(a)3., Stats, and any unpaid penalty under s. 48.76., Stats.
+2. A completed background check request form for the applicant and, if the center will be located in a residence, any household member 10 years of age and above, and any applicable fees.
+3. A statement from a representative of the department that details the results of any pre- licensing technical assistance.
+4. A statement from the applicant that indicates the center is in compliance with all applicable items in this chapter.
+5. Results of a water test if the center has a private well.
+6. Results of a vehicle safety inspection if the center will transport children.
+6m. Documentation of liability insurance on a vehicle used to transport children, as required
+under s. DCF 250.08(5)(c).
+7. Documentation of liability insurance on the child care business required under s. DCF
+250.04(2)(g) if the center has cats or dogs that are in areas accessible to children.
+8. A copy of all center policies as specified under s. DCF 250.04(2)(e).
+9. Any other materials determined by the department as necessary to complete the department’s
+licensing investigation.
+(d) Upon submission of a complete application, the department shall conduct an investigation to
+determine whether the applicant is eligible for a license.
+(e) If the department determines that the applicant is eligible for a license, the department shall
+issue a probationary license having a 6 month duration. A probationary license may be renewed for one 6-month period.
+(f) Ifthedepartmentdeterminesthatanapplicationdoesnotcomplywiththeapplicable requirements of this chapter or the department’s investigation determines that the applicant is not eligible for a license, the department may deny the application.
+(4) OBTAINING A REGULAR LICENSE.
+(a) At least 30 days before the expiration date of a probationary license, an applicant for license renewal shall submit to the department the following materials:
+1. A completed license application.
+3. The license renewal fee under s. 48.65(3)(a), Stats., applicable fees for child care background checks under s. 48.686, Stats., any unpaid forfeiture under s. 48.715(3), Stats., and any unpaid penalty under s. 48.76, Stats.
+4. Any changes to center policies, if not previously submitted.
+5. Results of a water test if the center has a private well.
+6. Results of a vehicle safety inspection if the center will transport children.
+6m. Documentation of liability insurance on a vehicle used to transport children as required under
+s. DCF 250.08(5)(c).
+7. Documentation of liability insurance on the child care business required under s. DCF
+250.04(2)(g) if the center has cats or dogs that are in areas accessible to children.
+8. Any other materials determined by the department as necessary to complete the department’s
+licensing investigation.
+(b) If the department determines that the applicant has met the minimum requirements for a
+license under this chapter and if the applicant has paid the applicable fees under ss. 48.65 and 48.686, Stats., any unpaid forfeiture under s. 48.715(3)(a) or 49.155(7m)(a)3., Stats., and any unpaid penalty under s. 48.76, Stats., the department shall issue the applicant a regular license.
+(5) CONTINUING A REGULAR LICENSE.
+(a) A regular license shall be valid indefinitely, unless suspended or revoked by the department or surrendered by the licensee. The department shall review a regular license every 2 years after the date of issuance under this subsection.
+
+34 WISCONSIN ADMINISTRATIVE CODE
+250.11(5)(b)
+(b) At least 30 days before the continuation review date of the license, an applicant for license renewal shall submit to the department the following materials:
+1. A completed license continuation application.
+3. The license renewal fee under s. 48.65(3)(a), Stats., applicable fees for child care background checks under s. 48.686, Stats., any unpaid forfeitures under s. 48.715(3) or 49.155(7m)(a)3., Stats., and any unpaid penalties under s. 48.76, Stats.
+4. Any changes to center policies, if not previously submitted.
+5. Results of a water test if the center has a private well.
+6. Results of a vehicle safety inspection if the center will transport children.
+6m. Documentation of liability insurance on a vehicle used to transport children required under s.
+DCF 250.08(5)(c).
+7. Documentation of the liability insurance on the child care business required under s. DCF
+250.04(2)(g) if the center has cats or dogs that are in areas accessible to children.
+8. Any other materials determined by the department as necessary to complete the department’s
+licensing investigation.
+(c) If the department determines that the licensee has met the minimum requirements for a
+license under this chapter, and if the applicant has paid the applicable fees under ss. 48.65 and 48.686, Stats., any unpaid forfeiture under s. 48.715(3)(a) or 49.155(7m)(a)3., Stats., and any unpaid penalty under s. 48.76, Stats., the department shall issue the applicant a regular license. Regular licenses shall be reviewed and continued for a 2-year period.
+(6) AMENDING A LICENSE.
+(a) A licensee shall submit to the department a written request for an amendment to the license if the licensee wishes to change any of the following aspects of the license:
+1. A change in the number of children served.
+2. The age range of the children.
+3. The hours of the center’s operation.
+4. The days of the week the center is in operation. 5. The months of the year the center is in operation. 6. The name of the center.
+(b) Alicenseemaynotmakeachangethataffectsaconditionofthelicenseidentifiedunderpar.(a) without the prior written approval of the department.
+(c) A licensee may not move the center to a new location or change ownership of the center without notifying the department at least 30 days prior to the change. A new application and license is required when a center moves or changes ownership.
+Note: The department’s form CFS-0067, Initial License Application – Family Child Care Centers, is used to apply for a new license. The department will provide an application prior to the continuation date for a new license.
+(7) ADDITIONALLICENSE.Alicenseeapplyingforalicenseforanadditionalcenterlocationshall demonstrate compliance with this chapter in the operation of any existing center he or she operates and compliance with rules for any other facility licensed by the department and operated by the licensee. The licensee shall pay any fines, forfeitures or other fees due and owing under s. 48.715, Stats., or s. 48.65, Stats., on other facilities licensed by the department before the department issues an additional license.
+(8) LICENSE DENIAL OR REVOCATION.
+(a) The department may deny, revoke or suspend a license, initiate other enforcement actions specified in this chapter or in ch. 48, Stats., or place conditions on the license if the applicant or licensee, a proposed or current employee, a volunteer, a household member or any other person having regular contact with the children is, has or has been any of the following:
+1. The subject of a pending criminal charge for an action that substantially relates to the care of children or activities of the center.
+2. Convicted of a felony, misdemeanor or other offense that substantially relates to the care of children or activities of the center.
+
+WISCONSIN ADMINISTRATIVE CODE 35
+250.11(8)(a)3.
+3. Determined to have abused or neglected a child pursuant to s. 48.981, Stats., or has been determined to have committed an offense which substantially relates to the care of children or the activities of the center.
+4. The subject of a substantiated finding of misconduct in the department’s nurse aide registry under s. DHS 129.10.
+5. The subject of a court finding that the person has abandoned his or her child, has inflicted sexual or physical abuse on a child or has neglected or refused, for reasons other than poverty, to provide necessary care, food, clothing, medical or dental care or shelter for his or her child or ward or a child in his or her care so as to seriously endanger the physical health of the child.
+6. Had a child care license or certification revoked or denied within the last 5 years.
+7. Violated any provision of this chapter or ch. 48, Stats., or fails to meet the minimum requirements of this chapter.
+8. Made false statements or withheld information.
+(b) The department may deny, revoke, refuse to renew or suspend a license, initiate other enforcement actions specified in this chapter or in ch. 48, Stats., or place conditions on the license if the applicant or licensee is not fit and qualified as determined under sub. (2).
+Note: See s. DCF 250.0(11) for the definition of “fit and qualified.” Examples of charges, actions or offenses the Department will consider when making a determination under this paragraph that an act substantially relates to the care of children include but are not limited to the following: abuse or neglect of a child; sexual assault; abuse of a resident of a facility; a crime against life and bodily security; kidnapping; abduction; arson of a building or of property other than a building; robbery; receiving stolen property from a child; a crime against sexual morality, such as enticing a minor for immoral purposes or exposing a minor to harmful materials; and interfering with the custody of a child. This list is illustrative. Other types of offenses may be considered.
+(c) The department shall deny or refuse to continue or revoke a license if the applicant or licensee has failed to pay court-ordered payments of child or family support, maintenance, birth expenses, medical expenses or other expenses related to the support of a child or former spouse or for the failure of the applicant or licensee to comply, after appropriate notices, with a subpoena or warrant issued by the department or a county child support agency under s. 59.53(5), Stats., and related to paternity or child support proceedings, as provided in a memorandum of understanding entered into under s. 49.857, Stats. Notwithstanding s. 48.72, Stats., an action taken under this subsection is subject to review only as provided in the memorandum of understanding entered into under s. 49.857, Stats., and not as provided in s. 48.72, Stats.
+(d) The department shall deny an application for the issuance or continuation of a license or revoke a license if the department of revenue certifies under s. 73.0301, Stats., that the applicant or licensee is liable for delinquent taxes. An action taken under this subsection is subject to review only as provided under s. 73.0301(5), Stats., and not as provided in s. 48.72, Stats.
+(9) EFFECT OF NOTICE TO DENY OR REVOKE A LICENSE.
+(a)1. If the department decides under sub. (8) to deny the grant of a license or to revoke a license, the department shall notify the applicant or licensee in writing of its decision and the reasons for that decision.
+2. If the department revokes a license, the effective date of the revocation shall be either immediately or 30 days after the date of the department notice in subd. 1., based on the criteria under s. 48.715(4m)(a) and (b), Stats., unless the decision is appealed under sub. (11).
+(b) Upon receipt of the notice in par. (a) and during any revocation or denial procedures that may result, a family child care center may not accept for care any child not enrolled and in care as of the date of receipt of the notice without the written approval of the department.
+(10) SUMMARY SUSPENSION OF A LICENSE.
+(a) Under the authority of s. 227.51(3), Stats., the department shall summarily suspend a license and close a family child care center when the department finds that the public health, safety or welfare requires emergency action and incorporates a finding to that effect into its order. A finding of a requirement for summary suspension of the license may be based on any of the following:
+1. Failure of the licensee to provide environmental protections for the children, such as heat, water, electricity or telephone service.
+
+36 WISCONSIN ADMINISTRATIVE CODE
+250.11(10)(a)2.
+2. The licensee, an employee, a volunteer or any other person in regular contact with the children in care has been convicted of or has a pending charge for a crime against life or bodily security.
+3. The licensee, an employee, a volunteer or any other person in regular contact with the children in care has been convicted of a felony, misdemeanor or other offense which substantially relates to the care of children or activities of the center or has a pending charge which substantially relates to the care of children or activities of the center.
+4. The licensee, employee, volunteer or any other person in regular contact with the children in care is the subject of a current investigation for alleged child abuse or neglect pursuant to s. 48.981, Stats., or has been determined by a child protective services agency or law enforcement agency to have abused or neglected a child.
+5. The licensee or a person under the supervision of the licensee has committed an action or has created a condition relating to the operation or maintenance of the child care center that directly threatens the health, safety or welfare of any child under the care of the licensee.
+(b) An order summarily suspending a license and closing a family child care center may be a verbal order by a licensing representative of the department. Within 72 hours after the order takes effect, the department shall either permit the reopening of the center or proceed under subs. (8) or (9) to revoke the license. A preliminary hearing shall be conducted by the department of administration’s division of hearings and appeals, within 10 working days after the date of the initial order to close, on the issue of whether the license shall remain suspended during revocation proceedings.
+(11) APPEAL OF DECISION TO DENY OR REVOKE A LICENSE. Any person aggrieved by the department’s decision to deny an initial license or the renewal of a license or to revoke a license may request a hearing on that decision under s. 227.42, Stats. The request for a hearing shall be in writing and submitted to the department of administration’s division of hearings and appeals. The request for a hearing shall be sent to the division of hearings and appeals within 10 days after the date of the notice under sub. (9). A request for a hearing is considered filed upon its receipt by the division of hearings and appeals. A request for a hearing transmitted by facsimile to the division of hearings and appeals shall be considered filed on the date and time imprinted by the division’s facsimile machine on the transmission report that accompanies the document.
+Note: A request for hearing should be submitted by mail to the Division of Hearings and Appeals, P.O. Box 7875, Madison, Wisconsin 53707-7875, or should be delivered to the Division at 5005 University Ave., Room 201, Madison, WI. Hearing requests may be faxed to 608-264-9885. A copy of the request should be sent to the appropriate Division of Early Care and Education regional office listed in Appendix A.
+
+WISCONSIN ADMINISTRATIVE CODE 37
+DCF 250.12 Complaints, inspections and enforcement actions.
+(1) COMPLAINTS.
+250.12
+(a) Anyone having a complaint about a licensed or illegally operating family child care center may submit that complaint to the department by telephone, letter or personal interview. A representative of the department shall investigate every complaint. If requested by the complainant, the department shall provide the complainant a written report of the investigation findings.
+Note: A complaint should be sent, phoned or delivered to the appropriate Division of Early Care and Education regional office listed in Appendix A.
+(b) The licensee may not discharge an employee because the employee has reported violations of this chapter to the licensing representative.
+(2) INSPECTION. Pursuant to s. 48.73, Stats., the department may visit and inspect any family child care center at any time during licensed hours. A department licensing representative shall have unrestricted access to the premises identified in the license, including access to children in care, staff and child records, and any other materials or individuals with information on the family child care center’s compliance with this chapter.
+(3) ENFORCEMENT ACTION. The department may order any sanction or impose any penalty on a licensee in accordance with s. 48.686, 48.715, or 48.76, Stats.
+
+38 WISCONSIN ADMINISTRATIVE CODE
+APPENDIX A
+REGIONAL OFFICES OF THE DIVISION OF EARLY CARE AND EDUCATION
+The Department of Children and Families licenses child care centers through five Division of Early Care and Education regional offices. Below are addresses and phone numbers of the regional offices and the counties and tribes within each region.
+REGIONS
+Northeastern Regional Office
+200 North Jefferson, Suite 411 Green Bay, WI 54301
+Gen: (920) 785-7811
+Fax: (920) 785-7869
+Northern Regional Office
+2187 North Stevens Street, Suite C Rhinelander, WI 54501
+Gen: (715) 361-7700
+Fax: (715) 365-2517
+Southeastern Regional Office
+141 NW Barstow, Room 104 Waukesha, WI 53188-3789 Gen: (262) 446-7800
+Fax: (262) 446-7991
+Southern Regional Office
+1 West Wilson Street, Room 655 P.O. Box 8947
+Madison, WI 53708-8947
+Gen: (608) 422-6765
+Fax: (608) 422-6766
+Western Regional Office
+610 Gibson Street, Suite 2 Eau Claire, WI 54701-3696 Gen: (715) 930-1148
+Fax: (715) 930-1139
+COUNTIES
+Counties: Brown, Calumet, Door, Fond du Lac, Green Lake, Kewaunee, Manitowoc, Marinette, Marquette, Menominee, Oconto, Outagamie, Ozaukee, Shawano, Sheboygan, Washington, Waupaca, Waushara, Winnebago
+Tribes: Menominee, Oneida, Stockbridge-Munsee, Ho- Chunk
+Counties: Ashland, Bayfield, Florence, Forest, Iron, Langlade, Lincoln, Marathon, Oneida, Portage, Price, Sawyer, Taylor, Vilas, Wood
+Tribes: Bad River, Lac Courte Oreille, Lac du Flambeau, Red Cliff, Sokaogon, Forest County Potawatomi, Ho- Chunk
+Counties: Kenosha, Milwaukee, Racine, Waukesha
+Counties: Adams, Columbia, Crawford, Dane, Dodge, Grant, Green, Iowa, Jefferson, Juneau, Lafayette, Richland, Rock, Sauk, Walworth
+Tribes: Ho-Chunk
+Counties: Barron, Buffalo, Burnett, Chippewa, Clark, Douglas, Dunn, Eau Claire, Jackson, LaCrosse, Monroe, Pepin, Pierce, Polk, Rusk, St. Croix, Trempealeau, Vernon, Washburn
+Tribes: Ho-Chunk
+         
+A
+Absence
+Policies ..................................................................... 5
+Accident Reporting........................................................... 6 Activities
+Equipment................................................................21 Infants and toddlers..................................................28 Night care ................................................................31 Planning ...................................................................20
+Additional Center ...........................................................34 Address Change ............................................................34 Administration ..........................................................5, 32 Age
+Terms of the license.................................................. 5 Amending a License .....................................................34 Application
+Continuation application..........................................33
+Initial application...................................................32 Attendance Record......................................................... 8
+B
+Background Check Request form Definition.................................................................. 2
+BandAids ......................................................................24 Bedding...................................................................21, 31 Beds
+Night care ................................................................31 Rest periods .............................................................21 Sharing.....................................................................21 Waterbeds ................................................................28
+Blanket
+Infants and toddlers..................................................28 Night care ................................................................31 Rest periods .............................................................21
+Bottles ...........................................................................29 Building........................................................................15
+C
+Capacity ......................................................................... 5 Night care ................................................................31
+Caregiver Background Check
+Submit to department................................................ 6
+Certificate
+Rabies vaccination ...................................................24
+Change
+Center location.........................................................34 Center policies .........................................................34 Off-premises play space plan ....................................19 Ownership of the center...........................................34 Room usage .............................................................. 7 Terms of the license.................................................34 Transportation services ............................................. 7
+Child Abuse
+Prohibited actions ...................................................... 20 Reporting to department............................................ 7 Staff training ............................................................. 9
+Child Abuse or Neglect Reporting................................................................... 9
+Child Guidance
+Policy .................................................................. 5, 20 Prohibited actions ...................................................... 20 Time outs.................................................................. 20
+Children's Records ....................................................... 8 Cleanliness
+Diaper changing surface.......................................... 29
+Kitchens .................................................................. 17 Commercial Building Codes ........................................ 15 Communicable Disease ............................................ 7, 22 Complaint Investigation and Reporting........................ 37 Confidentiality................................................................ 9 Continuing Education
+Licensee responsibility ............................................ 30 Cot
+Night care................................................................ 31 Rest periods............................................................. 21 Sharing .................................................................... 21
+Creativity ...................................................................... 20 Crib
+Night care................................................................ 31 Rest periods............................................................. 21 Sharing .................................................................... 21 Soft materials............................................................ 28 Tight-fitting mattress............................................... 28
+Cultural Diversity ......................................................... 20
+D
+Daily Acctivities
+Planning .................................................................. 20
+Daily Activities
+Age-appropriate ...................................................... 20 Indoor and outdoor .................................................. 20 Policy ........................................................................ 5
+Dangerous Items ........................................................... 15 Days of Operation ............................................................ 5 Denial........................................................................... 34 Diapering
+Infants and toddlers ................................................. 29 Differences of Elevation............................................... 15 Discipline ......................................... See Child Guidance Dishwashing ................................................................. 17 Disinfecting
+Diaper changing surface.......................................... 29
+Wading pool............................................................ 19 Doors ............................................................................ 17 Drugs........................................See Controlled Substance Duplex .......................................................................... 17
+INDEX
+    
+  EI
+Electrical Outlets .......................................................... 15 Elevation....................................................................... 15 Emergency
+Lighting ................................................................... 31 Telephone numbers ................................................. 15 V ehicle .................................................................... 15 Written plan ....................................................... 16, 31
+Enforcement Ac tion
+Summary Suspension .............................................. 35
+Enforcement Action
+Denial or revocation ................................................ 34 Posting requirements ................................................. 5 Statutory authority ................................................... 37
+Enrollment
+Infants and toddlers ................................................. 28 Information................................................................8 Policy ........................................................................ 5
+Equipment
+Kitchen .................................................................... 17 Outdoor space..................................................... 18, 21
+Equipment and Furnishings
+Requirements ......................................................... 21
+Exception to a Requirement........................................1, 6 Exits.............................................................................. 17
+F
+Fee Payment Policy ........................................................ 5 Feeding
+Infants and toddlers ................................................. 28
+Night care ................................................................ 31 Fence
+Hot tub.....................................................................15
+Outdoor space..........................................................18 Field Trips
+Parental authorization................................................8 Parental notification ..................................................7 Transportation policy ................................................5
+Fire Extinguisher .......................................................... 16 Firearms ........................................................................ 15 Fit and Qualified...........................................................32 Food........................................................................ 17, 28 Formula ........................................................................28 Freezer .......................................................................... 17
+Ill Child .......................................................................... 7 Imaginative Play .......................................................... 20 Immunization ................................................................. 8 Incident
+Reporting ................................................................... 6 Indoor Space ................................................................ 15 Indoor Temperature...................................................... 15 Infant Seat .................................................................... 29 Inflatable Bounce Surface ............................................ 21 Injury
+Authorization for emergency care ............................. 24 Parental notification............................................ 7, 24 Reporting ................................................................... 6 Superficial wounds ................................................. 24
+Inspection
+Building safety........................................................ 15 Fire extinguisher ..................................................... 16 Licensing................................................................ 37
+Insurance
+Written information to parents.................................. 5
+Intake forms ................................................................. 28 Intellectual Stimulation ................................................ 21
+K
+Kitchen........................................................................ 17
+L
+Language................................................................ 20, 28 Large Muscle
+Equipment............................................................... 21
+Programming .......................................................... 20 Law Enforcement........................................................... 6 Lead-based Paint.......................................................... 15 Leftovers ...................................................................... 17 License
+Amending ............................................................... 34 Continuation application......................................... 33 Denial or revocation................................................ 34 Initial application .................................................... 32 Posting requirements................................................. 5 Summary suspension .............................................. 35 Terms of operation.................................................. 5
+Literacy ........................................................................ 20
+M
+Meals
+Night care ............................................................... 31 Prohibited actions ................................................... 20
+Medical Log ................................................................. 23 Medication
+Requirements .......................................................... 22 Missing Child ............................................................... 16 Months of Operation ........................................................ 5 Moving......................................................................... 34
+N
+Naps............................................................................. 21 Night Care.................................................................... 31 Nutrition Policy.............................................................. 5
+    G
+ Guns.............................................................................. 15
+H
+Hazards ................................................................... 15, 18 Health Care Policies ....................................................... 5 Health Examination
+Child .......................................................................... 8 Health History .......................................................... 8, 22 Highchair ...................................................................... 29 Hot Surfaces ................................................................. 15 Hot Tub......................................................................... 15 Hours of Operation...........................................................5
+  
+  OS
+Orientation
+Written plan .........................................................5, 31
+Outdoor Activities.........................................................20 Outdoor Space
+Equipment................................................................21 Exemption for off-premises play space ...................18 Hazards ....................................................................15 Requirements ...........................................................18 Swimming................................................................19
+P
+Safety Gates.................................................................. 28 Sanitation
+Bedding ................................................................... 21 Screens ......................................................................... 17 Self-control................................................................... 20 Sleeping Bag ................................................................ 21 Small Muscle
+Equipment ............................................................... 21
+Programming........................................................... 20 Smoke Detectors........................................................... 16 Smoking ....................................................................... 15 Snacks
+Night care................................................................ 31
+Prohibited actions.................................................... 20 Space
+Indoor ...................................................................... 15
+Outdoor ................................................................... 18 Staff Development
+Child abuse and neglect training ............................... 9 Staff Qualifications....................................................... 30 Staff-To-Child Ratio..................................................... 19 Storage
+Bedding ................................................................... 21 Food ........................................................................ 17 Medication .............................................................. 23 Potentially dangerous items...................................... 15
+Summary of Chapter ...................................................... 7 Summary Suspension ................................................... 35 Supervision
+Pets or animals ........................................................ 24
+Swimming areas ...................................................... 19 Swimming .................................................................... 19
+T
+Telephone ..................................................................... 15 Television ..................................................................... 20 Temperature
+Food storage ............................................................ 17 Indoor ...................................................................... 15 Outdoor ..................................................................... 3
+Terms of License..................................................... 5, 34 Toilet Training.............................................................. 21 Tornado Drill ................................................................ 16 Toys .............................................................................. 28 Training
+Child abuse and neglect ............................................ 9 Trampoline ................................................................... 21 Transportation
+Change in service ...................................................... 7 Parental authorization................................................ 8 Policy ........................................................................ 5 Requirements .......................................................... 25
+V
+Vehicle Safety Alarm ................................................... 27
+W
+Wading Pool................................................................. 19 Water ...................................................................... 16, 29 Water Test .................................................................... 16 Weather .................................................................... 3, 20 Windows ...................................................................... 17
+ Padded Mat
+Rest periods .............................................................21
+Parents
+Insurance coverage ................................................... 5 Notifications ............................................................. 7 Policies and procedures ............................................ 5 Visitation .................................................................. 7
+Permanent Enclosure.....................................................18 Personnel Policy............................................................30 Pets
+Policy........................................................................ 5
+Requirements ...........................................................24 Physical Examination
+Child ......................................................................... 8 Physical Plant................................................................15 Play .........................................................................20, 28 Playpen
+Rest periods .............................................................21 Poisoning ................................................................15, 24 Policies........................................................................... 5 Pools .............................................................................19 Program .......................................................................20 Protective Measures ....................................................15 Provider
+Qualifications...........................................................30 Punishment........................................ See Child Guidance
+Q
+Qualifications of Provider .............................................30
+R
+Railings .........................................................................15 Ratio
+Swimming................................................................19 Recalled Products..........................................................15 Records
+Access....................................................................... 9 Children .................................................................... 8 Confidentiality .......................................................... 9 Medication administration .......................................23
+Refrigerator ...................................................................17 Refund Policy ................................................................ 5 Religious Instruction Policy........................................... 5 Relocation .....................................................................34 Reports........................................................................6, 9 Rest Periods .................................................................21 Revocation ...................................................................34 Rule Exception............................................................1, 6
+     

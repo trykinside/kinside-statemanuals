@@ -1,0 +1,1001 @@
+CHAPTER 54
+MANUAL OF REQUIREMENTS
+FOR FAMILY CHILD CARE REGISTRATION
+STATE OF NEW JERSEY DEPARTMENT OF CHILDREN AND FAMILIES
+EFFECTIVE - March 20, 2017 EXPIRES - February 21, 2024
+DEPARTMENT OF CHILDREN AND FAMILIES OFFICE OF LICENSING
+PO BOX 717
+TRENTON, NEW JERSEY 08625-0717
+Toll - Free Telephone 1-877-667-9845
+   
+N.J.A.C. 3A:54
+MANUAL OF REQUIREMENTS FOR FAMILY CHILD CARE REGISTRATION
+SUBCHAPTER 1. GENERAL PROVISIONS................................................................................ 1
+3A:54-1.1 Legal authority ................................................................................................................ 1 3A:54-1.2 Definitions ....................................................................................................................... 2 3A:54-1.3 Approval requirements for sponsoring organizations ..................................................... 4 3A:54-1.4 Public access to records................................................................................................... 6
+SUBCHAPTER 2. ADMINISTRATION OF SPONSORING ORGANIZATIONS ................... 8
+3A:54-2.1 Sponsoring organization eligibility ................................................................................. 8 3A:54-2.2 Administrative responsibility .......................................................................................... 8 3A:54-2.3 Reporting requirements ................................................................................................... 9 3A:54-2.4 Sponsoring organization records ................................................................................... 10 3A:54-2.5 Complaints against a sponsoring organization.............................................................. 12
+SUBCHAPTER 3. STAFF REQUIREMENTS FOR SPONSORING ORGANIZATIONS ... 13
+3A:54-3.1 General staff requirements ............................................................................................ 13 3A:54-3.2 Types and responsibilities of staff................................................................................. 14 3A:54-3.3 Staff qualifications ........................................................................................................ 15 3A:54-3.4 Staff training.................................................................................................................. 15
+SUBCHAPTER 4. SERVICE REQUIREMENTS FOR SPONSORING
+ORGANIZATIONS ......................................................................................................................... 16
+3A:54-4.1 Evaluation of family child care provider applicants ..................................................... 16 3A:54-4.2 Training of family child care providers......................................................................... 17 3A:54-4.3 Issuance of a Certificate of Registration ....................................................................... 19 3A:54-4.4 Issuance of a temporary Certificate of Registration ...................................................... 19 3A:54-4.5 Collection of registration fees ....................................................................................... 19 3A:54-4.6 Complaints against a provider ....................................................................................... 20 3A:54-4.7 Monitoring of family child care providers .................................................................... 20 3A:54-4.8 Technical assistance ...................................................................................................... 20 3A:54-4.9 Information to parents ................................................................................................... 21 3A:54-4.10 Referral procedures ..................................................................................................... 22 3A:54-4.11 Outreach and public relations...................................................................................... 23
+SUBCHAPTER 5. PROVIDER REGISTRATION AND OPERATION PROCEDURES ...... 24
+3A:54-5.1 Provider eligibility......................................................................................................... 24 i
+
+3A:54-5.2 Application for registration ........................................................................................... 24 3A:54-5.3 Child Abuse Record Information background check procedures ................................. 26 3A:54-5.4 Issuance of a Certificate of Registration ....................................................................... 28 3A:54-5.5 Issuance of a temporary Certificate of Registration ...................................................... 29 3A:54-5.6 Registration fees ............................................................................................................ 29 3A:54-5.7 Renewal of a Certificate of Registration ....................................................................... 29 3A:54-5.8 Denials, suspensions, revocations, nonrenewals, and provider appeal procedures....... 30 3A:54-5.9 Special requirements to prevent child abuse and neglect.............................................. 32 3A:54-5.10 Provider reporting requirements.................................................................................. 33 3A:54-5.11 Provider record requirements ...................................................................................... 33
+SUBCHAPTER 6. SAFETY, HEALTH, AND PROGRAM REQUIREMENTS FOR PROVIDERS .................................................................................................................................... 35
+3A:54-6.1 Maximum number of children....................................................................................... 35 3A:54-6.2 Ages of children ............................................................................................................ 35 3A:54-6.3 Building and equipment ................................................................................................ 36 3A:54-6.4 Emergency preparedness ............................................................................................... 37 3A:54-6.5 General safety................................................................................................................ 39 3A:54-6.6 Outdoor space................................................................................................................ 40 3A:54-6.7 Transportation and trips ................................................................................................ 41 3A:54-6.8 Health examinations for children .................................................................................. 42 3A:54-6.9 Sick children.................................................................................................................. 43 3A:54-6.10 Injury to a child while in the provider's care ............................................................... 44 3A:54-6.11 Environmental sanitation and personal hygiene.......................................................... 45 3A:54-6.12 Activities for children.................................................................................................. 46 3A:54-6.13 Rest and sleep.............................................................................................................. 47 3A:54-6.14 Food and nutrition ....................................................................................................... 47 3A:54-6.15 Bottle and cup feeding................................................................................................. 48 3A:54-6.16 Toilet training and diaper changing ............................................................................ 48 3A:54-6.17 School age children ..................................................................................................... 49 3A:54-6.18 Children with special needs......................................................................................... 49 3A:54-6.19 Supervision.................................................................................................................. 50 3A:54-6.20 Guidance and discipline .............................................................................................. 52 3A:54-6.21 Communicating with parents ...................................................................................... 52 3A:54-6.22 Night time child care ................................................................................................... 53
+ii
+
+SUBCHAPTER 1. GENERAL PROVISIONS 3A:54-1.1 Legal authority
+(a) This chapter is promulgated pursuant to the Family Day Care Provider Registration Act of 1987, N.J.S.A. 30:5B-16 et seq. (P.L. 1987, Chapter 27), which became effective April 27, 1987.
+(b) Under N.J.S.A. 30:5B-16 et seq., the Department of Children and Families has the author- ity to:
+1. Adopt regulations for the:
+i. Operation and maintenance of family child care sponsoring organizations; and ii. Voluntary registration of family child care providers; and
+2. Contract with certain agencies or organizations to serve as sponsoring organizations for the voluntary registration of family child care providers.
+(c) Responsibility for ensuring that a sponsoring organization complies with all applicable provisions of N.J.S.A. 30:5B-16 et seq., and of this chapter is delegated by the Department to the Office of Licensing, which shall:
+1. Inspect and monitor the sponsoring organization to determine compliance with appli- cable provisions of this chapter;
+2. Conduct random inspections of family child care homes to ensure compliance with ap- plicable provisions of this chapter; and
+3. Provide technical assistance to the sponsoring organization. (d) A sponsoring organization is authorized to:
+1. Register family child care provider applicants within a specific geographic area. A ge- ographic area may include:
+i. A single county; or
+ii. A group of several counties;
+2. Issue new and renewal Certificates of Registration to family child care providers;
+3. Provide administrative services, including but not limited to technical assistance, train- ing and consultation to providers;
+4. Evaluate and monitor providers at least once every two years;
+5. Annually monitor no less than 20 percent of providers specified in (d)4 above on a random basis in addition to their evaluation and monitoring every two years;
+6. Collect a $ 25.00 registration fee payable to the sponsoring organization each time a Certificate of Registration is initially granted or renewed;
+7. Maintain permanent records on each provider;
+1
+
+8. Ensure that each provider complies with all applicable requirements of N.J.A.C. 3A:54, the Manual of Requirements for Family Child Care Registration; and
+9. Provide a program of outreach and public relations to inform providers and potential providers of the provisions of this chapter.
+3A:54-1.2 Definitions
+The following words and terms, when used in this chapter, shall have the following mean- ings, unless the context clearly indicates otherwise:
+"Alternate provider" means a person who shares child care responsibilities with a registered provider at the provider's residence and meets all applicable requirements, as specified in N.J.A.C. 3A:54-5 and 6.
+"Approved caregiver" means a person at least 18 years of age who has met all applicable re- quirements for a substitute provider or an alternate provider, as specified in N.J.A.C. 3A:54-5 and 6.
+"Certificate of Registration" means a document issued by a sponsoring organization to a fam- ily child care provider, acknowledging that the provider is in compliance with all applicable pro- visions of this chapter.
+"Chapter" means the rules contained in the Manual of Requirements for Family Child Care Registration, as specified in N.J.A.C. 3A:54, which reflect provisions that constitute minimum baseline requirements below which no family child care sponsoring organization or registered family child care provider that is subject to the authority of N.J.S.A. 30:5B-16 et seq. is legally permitted to operate.
+"Child" means any person under 13 years of age.
+"Denial of a Certificate of Registration" means a refusal by the sponsoring organization to is- sue an initial Certificate of Registration.
+"Department" means the New Jersey Department of Children and Families.
+“Developmentally appropriate” means an approach to caregiving that considers the cognitive, physical, and emotional needs of a child in addition to the child’s age.
+"Division" means the Division of Child Protection and Permanency, in the New Jersey De- partment of Children and Families.
+“Distance learning” means education that takes place via electronic or digital media linking instructors and students who are not together in a classroom.
+"Evaluate" or "evaluation" means the review of a family child care provider by a sponsoring organization upon receipt of an application for a Certificate of Registration to determine the ap- plicant's compliance with the requirements of this chapter.
+"Family child care home" means the private residence of the family child care provider in which child care services are provided to no fewer than three and no more than five children at any one time for no fewer than 15 hours per week, except that the Department shall not exclude a family child care home with fewer than three children from voluntary registration.
+2
+
+"Family child care provider applicant" or "provider applicant" or "applicant" means a person at least 18 years of age who has applied for a Certificate of Registration.
+"Family child care provider" or "registered family child care provider" or "provider" means a person who has received an initial, renewal or temporary Certificate of Registration issued by a sponsoring organization.
+"Family child care sponsoring organization" or "sponsoring organization" means an agency or organization that contracts with the Department of Human Services to assist in the voluntary registration of family child care providers and that complies with all applicable requirements of the Manual of Requirements for Family Child Care Registration.
+"Health care provider" means a physician, nurse practitioner, physician's assistant or other health care professional who is licensed or otherwise authorized by the state in which he or she practices to perform the applicable health care services specified in this manual.
+"Household member" means an individual at least 14 years of age who resides in the home of a registered family child care provider or applicant for registration.
+“Lockdown” means occupants of the home are directed to remain confined to a room or area with specific procedures to follow regarding locking of doors, closing of windows, and shades, seeking cover, etc. This procedure is implemented when a criminal element is believed to be on the premises and officials expect that these measures will minimize the risk of exposure of the occupants to the criminal element.
+"Manual of Requirements for Family Child Care Registration" or "Manual of Requirements" means the requirements contained in this chapter (N.J.A.C. 3A:54).
+"Monitor" or "monitoring inspection" means to inspect a registered family child care provid- er to review the provider's compliance with the applicable requirements of the Manual of Re- quirements.
+"Night time care" means child care provided in the evening or overnight between the hours of 8:00 P.M. and 6:00 A.M.
+"Office of Licensing" or "Office" means the Office of Licensing in the Department of Chil- dren and Families.
+"Parent" means a natural, foster or adoptive parent, guardian, or any person with responsibil- ity for, or custody of, a child.
+"Provider assistant" means a person at least 14 years of age who has been designated by the provider and approved by the sponsoring organization to assist the provider in caring for children in the home.
+"Refusal to renew a Certificate of Registration" or "nonrenewal" means the nonissuance of a Certificate of Registration by the sponsoring organization after the expiration of the existing Cer- tificate of Registration.
+"Registration fee" means payment to a sponsoring organization by a provider or applicant upon issuance of a temporary or regular Certificate of Registration.
+"Renewal of a Certificate of Registration" means the issuance of a Certificate of Registration by the sponsoring organization after the expiration of the existing Certificate of Registration.
+“Reside” means to be in a residence, to dwell permanently or continuously, and to occupy a place as one’s legal domicile.
+3
+
+"Revocation of a Certificate of Registration" means a permanent removal of a provider's cur- rent Certificate of Registration for failure to comply with the applicable requirements of the Manual of Requirements.
+“Shelter-in-place” means occupants in the building seek shelter in the home from an external threat, such as a weather-related situation or chemical spill.
+"Should" denotes a recommendation reflecting goals toward which a sponsoring organization or a family child care provider is encouraged to work.
+"Staff member" means a person employed by or working for a sponsoring organization on a regularly scheduled basis. This includes full-time, part-time, and voluntary staff, whether paid or unpaid.
+"Substitute provider" means a person at least 18 years of age designated by the provider and approved by the sponsoring organization who is readily available to provide child care on a tem- porary basis in the provider's home when the provider cannot be present. When the substitute provider cares for enrolled children for more than five consecutive days, or more than five days per month, a substitute provider shall meet the qualifications of an alternate provider.
+"Supervision" means having awareness of and responsibility for the ongoing activity of each child, knowledge of activity requirements, children's needs, and accountability for their care. Ad- equate supervision requires the provider, substitute provider, provider assistant or alternate pro- vider, if any, to be awake and have immediate access to children as needed.
+"Suspension of a Certificate of Registration" means a temporary removal of a provider's cur- rent Certificate of Registration, which can be reinstated by the sponsoring organization upon the provider's compliance with the applicable requirements of the Manual of Requirements.
+"Temporary Certificate of Registration" means a document issued by the sponsoring organi- zation to a provider which indicates that the provider is in substantial compliance with the re- quirements of the Manual of Requirements, provided that no imminent hazard affecting the chil- dren exists in the home.
+3A:54-1.3 Approval requirements for sponsoring organizations
+(a) A sponsoring organization shall obtain approval from the Office of Licensing pursuant to the legal authority specified in N.J.A.C. 3A:54-1.1(c) upon execution of a contract with the De- partment of Human Services.
+(b) The Office of Licensing will conduct a triennial comprehensive programmatic inspection of the sponsoring organization to determine compliance with the applicable provisions of this chapter.
+(c) If the sponsoring organization meets all applicable provisions of this chapter, the Office of Licensing will issue a letter of approval.
+(d) The Office of Licensing will notify the sponsoring organization in writing if a letter of approval will not be issued.
+4
+
+(e) If the Office of Licensing determines that the sponsoring organization is in substantial compliance with all applicable provisions of this chapter, the Office of Licensing may issue a letter of temporary approval.
+(f) The Office of Licensing may issue as many temporary approvals as it deems necessary. Each letter of temporary approval, however, may be issued for a period not to exceed six months.
+(g) When a letter of temporary approval is issued, the Office of Licensing will provide a writ- ten statement explaining what the sponsoring organization must do to achieve full compliance.
+(h) Each approval period, which may include the issuance of one or more letters of temporary approval and/or one letter of approval, shall be three years.
+1. In determining the expiration date of the first letter of approval, the Office of Licensing shall compute the three-year approval period from the date of issuance of the first letter of approval or temporary approval.
+2. In determining the expiration date of a renewed approval, the Office of Licensing shall compute the three-year approval period from the date on which the sponsoring organiza- tion's previous letter of approval expired.
+(i) The letter of approval or temporary approval shall be maintained on file at the sponsoring organization's offices.
+(j) An authorized representative of the Office of Licensing may make an announced or unan- nounced visit at any time during the sponsoring organization's normal operating hours to inspect the sponsoring organization or review files, reports, or records to determine its compliance with provisions of this chapter or to investigate a complaint.
+(k) A sponsoring organization's approval may be denied or revoked for any activity, policy or conduct that presents a serious or imminent hazard to the health, safety and well-being of a child or that otherwise demonstrates the sponsoring organization's unfitness or inability to operate a sponsoring organization or to administer the family child care registration program in accordance with the provisions of this chapter and with sound and effective administrative and financial pol- icies, procedures and practices.
+(l) When a sponsoring organization is found to be in violation of any provision(s) of this chapter, the Office of Licensing will notify the sponsoring organization of the violation(s) in writing and afford the sponsoring organization an opportunity to abate the violation(s). If the sponsoring organization fails to abate the violation(s), the Office of Licensing may deny, sus- pend, revoke or refuse to renew the sponsoring organization's approval.
+(m) When the Office of Licensing proposes to deny, suspend, revoke or refuse to renew a sponsoring organization's approval, the Office of Licensing will:
+1. Notify the sponsoring organization in writing of the reasons for such action; and
+2. Afford the sponsoring organization an opportunity to request an administrative hear- ing, pursuant to the Administrative Procedure Act, N.J.S.A. 52:14B-1 et seq., and the Uniform Administrative Procedure Rules, N.J.A.C. 1:1.
+5
+
+3A:54-1.4 Public access to records
+(a) The Office of Licensing shall make the following items in its files available for public re- view:
+1. Correspondence between the Office of Licensing and the sponsoring organization or other parties in matters pertaining to the Office of Licensing's review and inspection of the sponsoring organization;
+2. Inspection/violation reports, where applicable, reflecting results of Office of Licensing inspections/reinspections of the sponsoring organization or of providers;
+3. Forms and other standard documents used to collect routine data on the sponsoring or- ganization and its program as part of its record of compliance with the Manual of Re- quirements;
+4. Enforcement letters from the Office of Licensing requiring abatement of violations of the Manual of Requirements;
+5. Completed complaint investigation reports, except for child abuse or neglect investiga- tions or other information restricted from public access under the requirements of N.J.S.A. 9:6-8.10a or other State law; and
+6. Any other documents, materials, reports or correspondence that would normally be in- cluded as part of the public record.
+(b) The sponsoring organization shall make the following items in its files available for pub- lic review:
+1. Applications for Certificates of Registration and related materials and documentation;
+2. Copies of temporary and regular Certificates of Registration;
+3. Correspondence between the sponsoring organization and the provider or other parties in matters pertaining to the sponsoring organization's monitoring or registration of the provider;
+4. Evaluation/monitoring reports, where applicable, reflecting the results of the sponsor- ing organization's evaluation/monitoring of the provider;
+5. Forms and other standard documents used to collect routine data on the provider as part of the provider's record of compliance with the Manual of Requirements;
+6. Enforcement letters from the sponsoring organization requiring abatement of violations of the Manual of Requirements;
+7. Correspondence to the sponsoring organization from the Office of Licensing regarding enforcement actions against the provider;
+8. Chronological lists of events about the provider on compliance/enforcement matters;
+9. Completed complaint investigation reports, except for child abuse or neglect investiga- tions or other information restricted from public access under the requirements of N.J.S.A. 9:6-8.10a or other State law; and
+6
+
+10. Any other documents, materials, reports or correspondence that would normally be included as part of the public record.
+(c) The Office of Licensing and the sponsoring organization shall keep confidential and not part of the public record the following:
+1. Records, reports or correspondence that pertain to child abuse or neglect investigations that are restricted from public access under the requirements of N.J.S.A. 9:6-8.10a or other State law;
+2. Records, reports, correspondence, or forms containing names or any other information pertaining to children, parents, or providers that are restricted from public access under the requirements of N.J.S.A. 9:6-8.10a or other State law;
+3. Records, reports, correspondence, or forms containing names of enrolled children or their parents;
+4. Confidential information with regard to specific sponsoring organization personnel;
+5. Memoranda and other internal correspondence between and among public agencies, including internal communication between the Office of Licensing and the Office of the Attorney General;
+6. Any items that deal with reports of inspections or complaint investigations that are still in progress;
+7. Health care provider's statements and results of Mantoux tests or chest X-rays received from providers, applicants and others, as specified in N.J.A.C. 3A:54-5.2(b) and (c);
+8. Disclosures of criminal convictions received from providers, applicants and others, as specified in N.J.A.C. 3A:54-5.2(a)10; and
+9. Other material required by State law to be maintained as confidential.
+7
+
+SUBCHAPTER 2. ADMINISTRATION OF SPONSORING ORGANIZATIONS 3A:54-2.1 Sponsoring organization eligibility
+(a) Any public agency or private not-for-profit agency or organization may apply to become a family child care sponsoring organization, provided the agency meets the eligibility require- ments specified in (b) below.
+(b) A family child care sponsoring organization, in order to secure, maintain or renew a con- tract to provide registration services, shall:
+1. Demonstrate the capability of providing administrative services, including, but not lim- ited to, training, technical assistance, consultation, inspection, supervision and monitoring of family child care providers.
+2. Meet the contracting requirements of the Department of Human Services, as specified in the Department of Human Services's Contract Policy and Information Manual and Cost Reimbursement Manual and all applicable requirements of the Manual of Require- ments; and
+3. Comply with all performance provisions and level of service provisions, as specified in the executed contract and its annexes.
+3A:54-2.2 Administrative responsibility
+(a) A privately operated sponsoring organization shall have a governing board that has the authority to:
+1. Set overall administrative and operational policies for the sponsoring organization; 2. Ensure the financial viability of the sponsoring organization;
+3. Establish policies pertaining to, but not limited to:
+i. Program services; and
+ii. Personnel recruitment, selection, training and performance evaluation; and 4. Oversee fiscal operations, including budget and resource development.
+(b) A publicly operated sponsoring organization shall have an advisory board or committee that offers advice and counsel to the sponsoring organization on the fiscal and administrative op- eration of the family child care registration program.
+(c) The sponsoring organization shall delegate responsibility for day-to-day operations to an executive director or administrator and clearly delineate in writing the respective duties of the governing or advisory board and of the executive director or administrator.
+(d) The sponsoring organization shall appoint an appeals committee, which shall: 8
+
+1. Hear appeals made by providers or provider applicants on actions taken by the spon- soring organization to deny, suspend, revoke or refuse to renew a Certificate of Registra- tion;
+2. Exclude from its membership staff members responsible for decisions regarding the denial, suspension, revocation or refusal to renew a Certificate of Registration; and
+3. Maintain on file documentation of its findings, as specified in N.J.A.C. 3A:54- 2.4(a)1ix.
+(e) The sponsoring organization shall provide family child care registration services through- out all municipalities in its designated geographic area.
+(f) The sponsoring organization may subcontract for the provision of services to providers and/or provider applicants. The sponsoring organization shall ensure that:
+1. An agency under subcontract complies with all applicable requirements of the Manual of Requirements in the delivery of services to providers and/or provider applicants;
+2. An agency under subcontract to register providers does not deny a Certificate of Regis- tration to any provider applicant who is in full compliance with the applicable require- ments of the Manual of Requirements; and
+3. A copy of the subcontract between the sponsoring organization and the agency subcon- tracted to perform services related to family child care registration is maintained on file, as specified in N.J.A.C. 3A:54-2.4(a)1xi.
+(g) The Office of Licensing will notify the sponsoring organization in writing whenever the Office of Licensing determines that the sponsoring organization is operating in violation of any of the requirements of the Manual of Requirements, in which case the notification will specify the corrective action that must be taken by the sponsoring organization in order to abate the vio- lation(s).
+3A:54-2.3 Reporting requirements
+(a) The sponsoring organization or any staff member shall verbally notify the Department's State Central Registry at 1-877-NJ-ABUSE (1-877-652-2873) immediately, whenever there is reasonable cause to believe that a child has been subjected to abuse or neglect by a provider or any other person, pursuant to N.J.S.A. 9:6-8.10.
+(b) The sponsoring organization or any staff member shall notify the Office of Licensing at 1-877-667-9845 immediately of any imminent danger(s) or hazard(s) that threaten the health and safety of children in the provider's home.
+(c) The sponsoring organization shall notify the Department and the Office of Licensing, verbally, at 1-877-667-9845 of any of the following changes or events by the next working day after the sponsoring organization learns of their occurrence:
+1. Injury that results in the admittance of a child to a hospital while in the care of a pro- vider;
+2. The death of a child while in the care of a provider; 9
+
+3. Damage to the sponsoring organization's offices that affects the operation of family child care registration;
+4. Any criminal conviction(s) of the staff of the sponsoring organization or of a provider, alternate provider, substitute provider, provider assistant, or member of a provider's household;
+5. Cancellation of the sponsoring organization's general/comprehensive liability insur- ance coverage; and
+6. Unanticipated permanent or temporary closing of the sponsoring organization.
+(d) The sponsoring organization shall track and document all reported injuries and deaths of children while in the provider’s care as required in N.J.A.C. 3A:54-5.10(b)1 and 2, as part of the DCF, Office of Licensing Sponsoring Organization Quarterly Report on Family Child Care Reg- istration.
+(e) The sponsoring organization shall notify the Department and the Office of Licensing, verbally, at 1-877-667-9845 within three working days, of any changes in the name, location, executive director or administrator of the sponsoring organization.
+3A:54-2.4 Sponsoring organization records
+(a) The sponsoring organization shall maintain in files located at its office the following rec- ords:
+1. Administrative records:
+i. The Manual of Requirements for Family Child Care Registration;
+ii. The document providing information to parents, as specified in N.J.A.C. 3A:54-4.9(a);
+iii. Staff records, as specified in N.J.A.C. 3A:54-3.1(g);
+iv. Documentation of training sessions provided to staff members, as specified in N.J.A.C. 3A:54-3.4(a)2;
+v. A copy of the sponsoring organization's insurance policies, as specified in the Department of Human Services's Contract Policy and Information Manual;
+vi. Financial records, as specified in the Department of Human Services's Con- tract Policy and Information Manual;
+vii. Documentation of provider training sessions, as specified in N.J.A.C. 3A:54- 4.2(f);
+viii. Files documenting denials, suspensions, revocations and nonrenewals of Cer- tificates of Registration, as specified in N.J.A.C. 3A:54-4.6(d);
+ix. Documentation of findings by the appeals committee, as specified in N.J.A.C. 3A:54-2.2(d)3;
+x. Documentation of registration fees collected from providers, as specified in N.J.A.C. 3A:54-4.5(b); and
+10
+
+xi. A copy of contracts between the sponsoring organization and any subcontract- ed agency to perform services related to family child care registration, as speci- fied in N.J.A.C. 3A:54-2.2(f)3.
+2. Records on providers:
+i. The provider's completed application form, as specified in N.J.A.C. 3A:54- 5.2(a);
+ii. A copy of the provider's Certificate of Registration, as specified in N.J.A.C. 3A:54-5.4 and 5.5;
+iii. Health records received for the provider or applicant and the alternate provider and provider assistant, if any, as specified in N.J.A.C. 3A:54-5.2(b) through (d);
+iv. Letters of reference received for the provider or applicant and the alternate provider, if any, as specified in N.J.A.C. 3A:54-5.2(e);
+v. Disclosure(s) of criminal conviction(s) if any, as specified in N.J.A.C. 3A:54- 5.2(a)10;
+vi. A written report of each visit by the sponsoring organization to the home of the provider or applicant, as specified in N.J.A.C. 3A:54-4.1(c)5 and 4.7(d);
+vii. A record of pre-service and in-service training sessions completed by the pro- vider or applicant and the alternate provider, if any, as specified in N.J.A.C. 3A:54-4.2(f);
+viii. A record of any complaints of alleged violations of the Manual of Require- ments against the provider, as specified in N.J.A.C. 3A:54-4.6(d) and the findings of each complaint investigation;
+ix. Files on providers who have discontinued family child care services; and
+x. Additional information as may be received regarding the provider's compliance with the requirements of the Manual of Requirements.
+(b) The sponsoring organization shall provide to the Office of Licensing upon request: 1. A list of names, addresses and telephone numbers of all registered providers; and 2. Statistical records, including:
+i. The number of providers registered; and
+ii. The number and ages of the children served.
+(c) The administrative records specified in (a)1 and 2 above shall be maintained by the spon- soring organization for two calendar years.
+(d) The sponsoring organization shall contact all registered providers at least twice a year to confirm the provider's name, address, telephone number and continued participation in the regis- tration program.
+11
+
+3A:54-2.5 Complaints against a sponsoring organization
+(a) Whenever the Office of Licensing receives a complaint questioning the compliance of a sponsoring organization with the requirements of the Family Day Care Provider Registration Act or of the Manual of Requirements, the Office of Licensing will initiate an investigation of the allegation within 10 working days to determine whether the complaint is substantiated.
+(b) The Office of Licensing will notify the sponsoring organization of the results of the com- plaint investigation within 15 working days after the report of the Office of Licensing's investi- gation has been finalized. Such notification shall include the results of the investigation, in keep- ing with the New Jersey Open Public Records Act (N.J.S.A. 47:1A-1 to 4), with the exception of any information not permitted to be disclosed under N.J.S.A. 9:6-8.10a or other State law.
+(c) If the complaint is substantiated or if any violations are cited as a result of the complaint investigation, the sponsoring organization shall abate the violation(s), in accordance with the time frame established by the Office of Licensing.
+(d) Any individual filing a complaint against a sponsoring organization may do so anony- mously. If the complainant reveals his or her identity, the name of the complainant shall be in- cluded in the Office of Licensing's records.
+(e) A description of the complaint allegations and the substantiation or non-substantiation of each allegation shall be included in the Office of Licensing's records and shall be available for public review upon completion of the investigation by the Office of Licensing, with the excep- tion of any information not permitted to be disclosed under N.J.S.A. 9:6-8.10a or other State law.
+(f) The sponsoring organization shall cooperate with the Office of Licensing whenever com- plaint investigations are conducted.
+12
+
+SUBCHAPTER 3. STAFF REQUIREMENTS FOR SPONSORING ORGANIZATIONS 3A:54-3.1 General staff requirements
+(a) The executive director or administrator and every staff member of a sponsoring organiza- tion shall:
+1. Be of good character and reputation;
+2. Be in sufficient physical, mental and emotional health to perform his or her duties sat- isfactorily; and
+3. Possess skills, attributes and characteristics conducive to and suitable for directing a sponsoring organization and/or providing services to parents and providers, as specified in the Manual of Requirements.
+(b) Prior to the employment or utilization of the executive director/administrator or a staff member, the sponsoring organization shall require the applicant for executive direc- tor/administrator and each staff applicant to complete and sign an application for employment, indicating the applicant's:
+1. Name, address and telephone number;
+2. Education and work experience; and
+3. Disclosure of criminal convictions, if any.
+(c) Prior to the executive director/administrator's or any staff member's employment, the sponsoring organization shall obtain two references, either in writing or verbally, from former employers or other persons who have knowledge of the applicant's work experience, education, and character.
+(d) The executive director/administrator and every staff member shall notify the sponsoring organization by the end of the sponsoring organization's next working day, of any criminal con- victions during their employment or utilization by the sponsoring organization.
+(e) Evidence of conviction for crimes of violence, anti-social behavior, child abuse/neglect or other crimes which may relate adversely to the operation of the sponsoring organization shall be among those actions that are considered in determining an individual's fitness and suitability to serve as executive director/administrator or as a staff member.
+(f) Evidence of conviction of a crime, in itself, shall not automatically preclude an individual from serving as executive director/administrator or as a staff member and shall not automatically result in the removal or termination of the executive director/administrator or a staff member from his or her position or job. Such determination shall be made on a case by case basis, in keeping with the provisions of the State Rehabilitated Convicted Offenders Act (N.J.S.A. 2A:168A-1 et seq.), which provides that a person convicted of a crime may not be disqualified or discriminated against by a licensing authority unless the conviction relates adversely to the occu- pation, trade, vocation, profession or business for which a license is sought.
+(g) The sponsoring organization shall maintain on file for the executive direc- tor/administrator and for each staff member:
+13
+
+1. A completed employment application;
+2. Written documentation of references; and
+3. Disclosure(s) of criminal convictions, if any.
+3A:54-3.2 Types and responsibilities of staff
+(a) Each sponsoring organization shall have an executive director or administrator who is re- sponsible for the overall management and administration of the sponsoring organization's family child care registration program. The executive director or administrator shall designate a person to assume this responsibility in his or her absence.
+(b) Each sponsoring organization shall have an on-site manager for each Department of Hu- man Services (DHS) contracted county who is responsible for the daily operation for family child care registration in that county. The executive director or administrator may serve as the on-site manager.
+(c) The sponsoring organization shall have sufficient staff to carry out the family child care registration program.
+(d) The executive director/administrator may also serve as a staff member. (e) The executive director/administrator or designee shall ensure:
+1. That the sponsoring organization operates in full compliance with all applicable re- quirements of the Manual of Requirements;
+2. That each provider operates in full compliance with all applicable requirements of the Manual of Requirements;
+3. The supervision of all staff members assigned to the sponsoring organization's family child care registration program;
+4. The development and implementation of policies and procedures for the day-to-day operation of the sponsoring organization's family child care registration program;
+5. The orientation of staff members to the policies and procedures of the sponsoring or- ganization;
+6. The development and maintenance of administrative, fiscal and program records;
+7. The training of staff members, as specified in N.J.A.C. 3A:54-3.4, and providers, as specified in N.J.A.C. 3A:54-4.2; and
+8. The development and implementation of a program of outreach and public relations, as specified in N.J.A.C. 3A:54-4.11, and technical assistance, as specified in N.J.A.C. 3A:54-4.8.
+14
+
+3A:54-3.3 Staff qualifications
+(a) The executive director or administrator and designee, if applicable, designated in N.J.A.C. 3A:54-3.2(a) shall possess the following:
+1. A bachelor's degree; or
+2. Three years of managerial or supervisory experience in the field of human services, child care services, child development, education, nursing, social work, or business.
+(b) Staff members responsible for provider evaluation, monitoring, support, technical assis- tance, and training shall possess the following:
+1. An associate's degree in human services, child care services, child development, educa- tion, nursing or social work and one year of experience working with children; or
+2. A high school diploma or General Education Development (GED) diploma and three years of full-time experience providing or administering human services in a group pro- gram for children under the age of 13 or three years of full-time experience in the fields of child development, education, nursing, or social work.
+3A:54-3.4 Staff training
+(a) The executive director/administrator shall:
+1. Provide staff members with access to a copy of the Manual of Requirements for Fami- ly Child Care Registration; and
+2. Ensure that staff, as appropriate, are trained in:
+i. Recognizing and reporting child abuse/neglect, as specified in N.J.A.C. 3A:54- 2.3(a);
+ii. Evaluating provider applicants, as specified in N.J.A.C. 3A:54-4.1;
+iii. Conducting pre-service and in-service training sessions for providers, as speci- fied in N.J.A.C. 3A:54-4.2;
+iv. Monitoring providers, as specified in N.J.A.C. 3A:54-4.7;
+v. Providing technical assistance to providers, as specified in N.J.A.C. 3A:54-4.8;
+vi. Procedures for identification and referral of special needs children, as specified in N.J.A.C. 3A:54-4.9(b);
+vii. Implementing outreach and public relations for family child care, as specified in N.J.A.C. 3A:54-4.11; and
+viii. The requirements of the Manual of Requirements for Family Child Care Reg- istration.
+15
+
+SUBCHAPTER 4. SERVICE REQUIREMENTS FOR SPONSORING ORGANIZATIONS
+3A:54-4.1 Evaluation of family child care provider applicants
+(a) The sponsoring organization shall provide to each applicant for a Certificate of Registra- tion the following:
+1. A copy of the Manual of Requirements for Family Child Care Registration; 2. An application form;
+3. The names and addresses of all family child care networks known to the sponsoring organization and serving the applicant's geographic area; and
+4. The name, address, and telephone number of the local resource and referral agency of the New Jersey Child Care Resource and Referral System serving the applicant's area, if other than the sponsoring organization.
+(b) The sponsoring organization shall evaluate each applicant prior to the issuance of a Cer- tificate of Registration.
+(c) The sponsoring organization's evaluation of each applicant shall include a review of:
+1. The provider application form, designated by the Office of Licensing;
+2. Disclosures by the provider or applicant, the substitute provider, all members of the provider's household who are at least 14 years old, and the provider assistant and the al- ternate provider, if any, of any criminal conviction(s), as specified in N.J.A.C. 3A:54- 5.2(a)10;
+3. Child Abuse Record Information (CARI) background checks of the provider or appli- cant, the substitute provider, all members of the provider’s household who are at least 14 years old, the provider assistant, and the alternate provider, if any, as specified in N.J.A.C. 3A:54-5.3(a)1;
+4. Letters of reference received for the provider or applicant and the alternate provider, if any, as specified in N.J.A.C. 3A:54-5.2(e);
+5. Health records submitted by the provider or applicant, the alternate provider and pro- vider assistant, if any, and any household members who are present during the care of en- rolled children as specified in N.J.A.C. 3A:54-5.2(b) and (c);
+6. A written report of the evaluation visit to the applicant's family child care home, as specified in (d) below;
+7. Evidence showing that the applicant and the alternate provider, if any, have completed pre-service training, as specified in N.J.A.C. 3A:54-4.2; and
+8. Documentation for the applicant, substitute provider, and alternate provider, if any, of current certification in cardiopulmonary resuscitation (CPR) and completion of a first aid course taken every three years if there is no expiration date.
+16
+
+i. Cardiopulmonary resuscitation (CPR) training shall be certified through one of the following: American Heart Association; American Red Cross; National Safety Coun- cil: Infant and Toddler CPR (if care is limited to infants and toddlers), or Medic Pedi- atric Course.
+ii. The child care provider shall maintain current CPR and first aid certification, as long as the provider maintains their Certificate of Registration.
+iii. The first aid training and CPR certification shall be applicable to any of the ages of the children enrolled in the Family Child Care Home at any given time.
+iv. The CPR card and first aid certificate shall be available for review upon request.
+v. The CPR and first aid training shall include an in-person learning component.
+(d) Applicants who fail to submit all documentation within 90 days will be deemed to have withdrawn their application.
+(e) The sponsoring organization shall visit each applicant's home to evaluate the applicant's compliance with all applicable requirements of the Manual of Requirements.
+(f) The sponsoring organization shall complete and maintain on file a Home Inspec- tion/Violation Report designated by the Office of Licensing for each home evaluated, identifying the date the violation was cited, the nature of the violation and the date that the reinspection oc- curred or will occur.
+3A:54-4.2 Training of family child care providers
+(a) The sponsoring organization shall provide 18 hours of pre-service training for each pro- vider or applicant and alternate provider prior to the issuance of a Certificate of Registration.
+(b) The sponsoring organization shall ensure that the pre-service training includes an over- view and information regarding, but is not limited to, the following subjects:
+1. Child growth and development;
+2. Discipline;
+3. Safety, first aid and emergency evacuation procedures;
+4. Health and sanitation;
+5. Nutrition, developmentally appropriate and age-appropriate feeding;
+6. Developmentally-appropriate program activities;
+7. Parent-provider communication;
+8. Recognizing and reporting child abuse and neglect;
+9. Reducing the risk and recognizing potential signs and symptoms of Abusive Head Trauma and Shaken Baby Syndrome;
+10. Preventing Sudden Infant Death Syndrome and using safe sleeping practices, as rec- ommended by the American Academy of Pediatrics (AAP);
+11. Administering medication to children; 17
+
+12. Prevention of and response to emergencies due to food and allergic reactions as spec- ified in N.J.A. C. 3A:54-6.14(i)1 and 2;
+13. Including children with special needs in the family child care home; 14. Care plan implementation for children with special health care needs;
+15. Prevention and control of infectious diseases (including immunization), as specified in N.J.A.C. 3A:54-6.8, 6.9, and 6.11;
+16. Building and physical premises safety, including identification of and protections from hazards that can cause bodily injury, such as electrical hazards, bodies of water, and vehicular traffic, as specified in N.J.A.C. 3A:54-6.3 through 6.6.
+17. Understanding New Jersey's family child care registration rules;
+18. Understanding sponsoring organization operations, policies, and procedures;
+19. Emergency preparedness and response planning for emergencies resulting from a natural disaster or a man-made caused event in the family child care home, as specified in N.J.A.C. 3A:54-6.4;
+20. Appropriate precautions when transporting children, if applicable, as specified in N.J.A.C. 3A:54-6.7;
+21. Cardiopulmonary resuscitation (CPR); and
+22. First aid.
+(c) The pre-service training session(s) for providers, applicants and alternate providers shall include group or individual instruction provided by persons with expertise in areas listed in (b) above, and may be supplemented by:
+1. Printed materials;
+2. Television broadcasts; or 3. Audio-visual materials.
+(d) The sponsoring organization shall also provide in-service training for providers on a semi-annual basis by means of group or individual instruction and written material. In-service training shall include continued reinforcement of the subjects listed in (b) above. A total of at least eight hours of in-service training shall be offered to providers each year.
+(e) The sponsoring organization shall arrange each pre-service and in-service training session in an appropriate location that is accessible to the providers.
+(f) The sponsoring organization shall maintain on file documentation of all pre-service and in-service training, including for each training session:
+1. A description; 2. A schedule; and 3. Attendance lists.
+(g) The sponsoring organization shall provide to each provider:
+1. Prior to the issuance of a Certificate of Registration, a copy of appropriate informa- tional materials supplied by the Office of Licensing; and
+18
+
+2. From time to time, any other available materials that may assist the provider in operat- ing a family child care home.
+(h) The sponsoring organization shall inform providers about available sources of training in first aid and cardiopulmonary resuscitation.
+3A:54-4.3 Issuance of a Certificate of Registration
+If the sponsoring organization determines that the provider applicant is in full compliance with all applicable requirements of the Manual of Requirements, the sponsoring organization shall issue a regular Certificate of Registration.
+3A:54-4.4 Issuance of a temporary Certificate of Registration
+(a) If the sponsoring organization determines that the provider applicant is in substantial compliance with the applicable requirements of the Manual of Requirements, and provided that there are no serious or imminent hazards to the health, safety and well-being of the children, the sponsoring organization shall issue a temporary Certificate of Registration.
+(b) When a temporary Certificate of Registration is issued, the sponsoring organization shall explain in writing what the provider must do to secure a regular Certificate of Registration.
+(c) In determining the expiration date of the first regular Certificate of Registration, the spon- soring organization shall compute the three-year registration period from the date of the issuance of:
+1. The first temporary Certificate of Registration, if any; or
+2. The regular Certificate of Registration, if no temporary Certificate of Registration has been issued.
+3A:54-4.5 Collection of registration fees
+(a) The sponsoring organization shall collect a registration fee of $ 25.00 from the provider upon the issuance of an initial temporary, or initial or renewal regular Certificate of Registration.
+(b) The sponsoring organization shall retain the funds generated by registration fees and shall maintain a record of the registration fees collected from the providers, in accordance with De- partment of Human Services contract requirements.
+(c) The sponsoring organization shall ensure and document that the registration fees collected are directed to the maintenance or improvement of the sponsoring organization's family child care registration program.
+19
+
+3A:54-4.6 Complaints against a provider
+(a) When the sponsoring organization receives a complaint of alleged violation(s) of the Manual of Requirements by a provider, other than child abuse or neglect, the sponsoring organi- zation shall investigate the complaint within 10 working days to determine whether the com- plaint is substantiated and shall require the provider to abate any violations found. The sponsor- ing organization shall advise complainants that complaints may be made anonymously. The sponsoring organization's investigation shall include an inspection of the home whenever such an inspection is necessary to substantiate the complaint.
+(b) If, during the course of investigating an allegation of child abuse or neglect, the Depart- ment determines that in order to protect the children it is necessary for the Department to remove children from a provider's home, the sponsoring organization shall suspend the Certificate of Registration, if the Office of Licensing recommends such action.
+(c) The sponsoring organization shall maintain on file documentation of complaints against providers, and a Complaint Investigation Report designated by the Office of Licensing docu- menting the findings of the complaint.
+3A:54-4.7 Monitoring of family child care providers
+(a) The sponsoring organization shall monitor each provider at least once every two years to evaluate the provider's compliance with the applicable requirements of the Manual of Require- ments.
+(b) The sponsoring organization shall annually monitor no less than 20 percent of the provid- ers on a random basis.
+(c) The sponsoring organization shall conduct annual, unannounced monitoring inspections prior to renewing the Certificate.
+(d) The sponsoring organization shall monitor each provider prior to renewing the provider's Certificate of Registration.
+(e) The sponsoring organization shall maintain on file a written report of each monitoring visit to the provider's home.
+3A:54-4.8 Technical assistance
+(a) The sponsoring organization shall provide technical assistance to providers and parents of enrolled children, which shall address, but not be limited to, the following areas:
+1. Improving the provider's care of and service to children in the home;
+2. Improving and strengthening communications between providers and parents; 3. Educating parents and providers in child care and child development; and
+4. Answering providers' and parents' questions regarding family child care.
+20
+
+(b) The sponsoring organization shall maintain a listing of support services available in the community and shall refer providers and parents of enrolled children upon request.
+(c) The sponsoring organization shall make the following information available to providers:
+1. A list of physical symptoms or conditions that indicate a child may have a communi- cable disease;
+2. Guidelines for administration of medication, if applicable, which shall include that:
+i. All medication shall be kept in its original container;
+ii. The provider shall maintain, at the home, documentation of the child's name and written authorization from the parent or legal guardian for the provider to administer medication or health care procedures; and
+iii. The provider shall maintain, at the home, documentation of the date and time medication or a health care procedure was administered to a child and the name of the person who administered it;
+3. Guidelines for the care of sick children, if applicable; and 4. A list of services to which a provider is entitled, including:
+i. Participating in at least two provider in-service training sessions per year of- fered by the sponsoring organization; and
+ii. Receiving technical assistance from the sponsoring organization.
+3A:54-4.9 Information to parents
+(a) The sponsoring organization shall supply to providers sufficient copies of a written In- formation to Parents Statement designated by the Office of Licensing for the parents of all en- rolled children. The Information to Parents Statement shall indicate that:
+1. The provider has received a Certificate of Registration;
+2. The provider is required to display the Certificate of Registration in a prominent loca- tion within the family child care home during its operating hours;
+3. The provider is required to comply with all applicable requirements of the Manual of Requirements;
+4. Parents may receive a copy of the Manual of Requirements by contacting the sponsor- ing organization;
+5. Parents may report alleged violations of the Manual of Requirements to the sponsoring organization or to the Office of Licensing;
+6. Any person who has reasonable cause to believe that a child enrolled in the family child care home has been or is being subjected to any kind of child abuse/neglect by any person, whether in the family child care home or not, is required by State law to report such allegations to the Department's State Central Registry at 1-877 NJ-ABUSE (1-877- 652-2873). Such reports may be made anonymously;
+21
+
+7. Parents of enrolled children shall be permitted to visit the family child care home at any time when enrolled children are present without having to secure the prior approval of the provider. Parents may be restricted to visit only those areas of the home designated for family child care;
+8. The operation of the family child care home is subject to monitoring by the sponsoring organization at least once every two years and by the Office of Licensing;
+9. The provider is required to comply with the inspection/investigation functions of the sponsoring organization and the Office of Licensing, including the interviewing of adults and children in the family child care home;
+10. Parents may request that the sponsoring organization provide technical assistance to the parent or the provider, and referrals to appropriate community resources;
+11. The provider shall notify the parents in writing when a substitute or alternate provider will be caring for the children, unless there is an emergency on a particular day, in which case the provider shall verbally notify the parent; and
+12. The provider shall notify parents if weapons are present and explain precautions tak- en to ensure that they are inaccessible to the children.
+(b) When an enrolled child has been identified as or is suspected of having a developmental delay or disability, the sponsoring organization shall:
+1. Inform the parent of the child's right to early intervention and special education ser- vices, if eligible;
+2. For preschool special education services, refer the parent to the New Jersey Depart- ment of Education Project Child Find at 1-(800) 322-8174 (toll-free) in order to refer a child for an evaluation to determine eligibility, and if eligible, the development of an In- dividualized Education Plan to address the child's need for preschool education services; and
+3. Refer the parent of a child under 13 years of age with special health care needs to the New Jersey Department of Health, Special Child Health and Early Intervention Services Program at (609) 777-7778 for information about programs and services.
+3A:54-4.10 Referral procedures
+(a) The sponsoring organization shall provide to the New Jersey Child Care Resource and Referral System the names, addresses, and telephone numbers of all providers who have agreed to receive referrals through that system.
+(b) The sponsoring organization shall refer requests from parents seeking family child care or other child care services to the New Jersey Child Care Resource and Referral System serving the area(s) for which the parent is seeking child care information.
+(c) The sponsoring organization may also refer parents seeking family child care services to any registered provider.
+22
+
+3A:54-4.11 Outreach and public relations
+The sponsoring organization shall provide information on family child care registration to agencies, organizations and the general public.
+23
+
+SUBCHAPTER 5. PROVIDER REGISTRATION AND OPERATION PROCEDURES
+3A:54-5.1 Provider eligibility
+(a) A family child care provider, in order to be eligible for a Certificate of Registration, shall: 1. Be at least 18 years of age;
+2. Be of good character and reputation, with sufficient knowledge, intelligence, stability, energy and maturity to maintain a family child care home and to care for children;
+3. Be in sufficient physical, mental and emotional health to care properly for children to be placed in the home;
+4. Reside in the family child care home; and
+5. Demonstrate to the satisfaction of the sponsoring organization and the Office of Li- censing that he or she complies with all applicable requirements of the Manual of Re- quirements.
+3A:54-5.2 Application for registration
+(a) An applicant for an initial or renewal Certificate of Registration shall submit to the spon- soring organization a completed application form, which shall include:
+1. The provider applicant's name, address and telephone number; 2. A statement indicating:
+i. The provider applicant, the alternate provider, if any, and the substitute provider are at least 18 years of age; and
+ii. The provider assistant, if any, is at least 14 years of age;
+3. A list of all adults residing in the provider applicant's household;
+4. The number and ages of all children under 18 years of age residing in the provider ap- plicant's household;
+5. The hours in which the provider applicant plans to provide child care;
+6. The name, address and telephone number of the provider assistant and the alternate provider, if any, and the substitute provider;
+7. A statement from the provider applicant indicating that all pets are domesticated, free from disease, non-aggressive and meet all applicable State and local codes or ordinances pertaining to the keeping of pets and, as applicable:
+i. All household pets shall be vaccinated; and
+ii. Proof of current vaccination(s) as documented by a veterinarian shall be kept on the premises;
+24
+
+8. An indication as to whether the provider applicant wishes to be listed with either or both of the following:
+i. The New Jersey Child Care Resource and Referral System; and
+ii. A list of registered providers that is available to the public through the Office of Licensing;
+9. A disclosure of information about and circumstances surrounding any previous denial, suspension, revocation or nonrenewal of a Certificate of Registration as a family child care provider in New Jersey or of a license, certificate or other approval as a family child care provider in any other state; and
+10. A disclosure of the presence or absence of criminal convictions by the provider appli- cant, the substitute provider, all members of the provider's household, and any individual who frequents the home on an intermittent basis, who are at least 14 years old, and the al- ternate provider and the provider assistant, if any, and any individual who expects to re- main in the home longer than 15 consecutive days, or on a frequent intermittent basis..
+i. Evidence of conviction of a crime, in itself, shall not automatically preclude an in- dividual from serving as a provider, provider assistant, alternate provider or substitute provider, and shall not automatically result in denying the application or revoking, suspending or refusing to renew the Certificate of Registration. Such determination shall be made on a case by case basis, in keeping with the provisions of the State Re- habilitated Convicted Offenders Act (N.J.S.A. 2A:168A-1 et seq.) which provides that a person convicted of a crime may not be disqualified or discriminated against by a licensing authority unless the conviction relates adversely to the occupation, trade, vocation, profession or business for which a license is sought.
+ii. The provider shall notify the sponsoring organization by the end of the sponsoring organization's next business day of any criminal conviction(s) during the three-year registration period by the provider, the substitute provider, a member of the provider's household who is at least 14 years old, and the alternate provider and the provider as- sistant, if any.
+(b) An applicant for an initial or renewal Certificate of Registration shall also submit to the sponsoring organization a health care provider's statement(s) for the applicant, the alternate pro- vider and the provider assistant, if any, the substitute provider, and any household member(s) who are present during the care of enrolled children, as applicable, verifying the applicant, the alternate provider, the provider assistant, the substitute provider, and any household member(s), are in good health, free from communicable disease, and able to care for children. Such state- ment(s) shall be based on a medical examination conducted within the six months immediately preceding the submission of the application.
+(c) An applicant for an initial Certificate of Registration shall also submit to the sponsoring organization written proof of the results of either (c)1 or 2 below for the applicant, the alternate provider, the provider assistant, and any household member(s) who are present during the care of enrolled children, if any:
+1. A Mantoux tuberculin skin test with five TU (tuberculin units) of PPD tuberculin, con- ducted within the six months immediately preceding the submission of the application; or
+2. A chest x-ray if the individual has had a previous positive Mantoux tuberculin test or has a medical contraindication that precludes a Mantoux test.
+25
+
+(d) The provider, the alternate provider, the provider assistant, and any household member(s) who are present during the care of enrolled children shall obtain additional Mantoux tests when required by the Office of Licensing based on a recommendation by the New Jersey Department of Health.
+(e) An applicant for an initial Certificate of Registration shall also submit to the sponsoring organization one of the following, for both the applicant and the alternate provider, if any:
+1. Two letters of reference, dated within three years immediately preceding the submis- sion of the application, including at least one from a person who can attest to the individ- ual's character, reputation and suitability to work with children; or
+2. The names, addresses and telephone numbers of at least two persons who can provide letters of reference upon request.
+(f) The provider applicant shall permit and participate in an announced or unannounced eval- uation of the applicant's home by the sponsoring organization. The evaluation shall include:
+1. Inspection of all rooms, furniture and equipment in areas designated for use by en- rolled children; and
+2. Access to all areas on the premises not designated for use by enrolled children, to ob- serve whether any hazards to children exist, including, but not limited to, the basement, the attic (if accessible), the storage shed, garage, and carport.
+(g) The provider applicant and the alternate provider, if any, shall attend eight hours of pre- service training provided by the sponsoring organization.
+(h) The sponsoring organization shall process all applications for a Certificate of Registration without regard to the applicant's race, national origin, religion, sex, age, or geographic location.
+3A:54-5.3 Child Abuse Record Information background check procedures
+(a) Prior to the issuance or renewal of a Certificate of Registration, the applicant or provider shall obtain written consent from the applicant or provider, substitute provider, provider assistant and alternate provider, if any, all members of the applicant's or provider's household who are at least 14 years of age, and any other persons who are or will be working at the home on a regular basis, for the Department to conduct a Child Abuse Record Information (CARI) background check to determine whether an incident of child abuse or neglect has been substantiated against any such person.
+1. Each person specified in (a) above shall complete a signed consent form provided by the Department that indicates the identifying information necessary to conduct a CARI background check, including the person's name, address, date of birth, sex, race, and So- cial Security number. Pursuant to the Federal Privacy Act of 1974 (P.L. 93-579), the De- partment will advise each such person that the disclosure of his or her Social Security number is voluntary, and that the Social Security number will only be used for the pur- pose of conducting a CARI background check.
+2. The applicant or provider shall submit to the sponsoring organization the consent forms specified in (a)1 above for all persons specified in (a) above.
+26
+
+3. The provider shall inform the sponsoring organization of any additional persons at least 14 years of age who begin living or working in the home during the three-year regis- tration period, and expect to remain in the home longer than 15 consecutive days, or on a frequent intermittent basis. The provider shall submit to the sponsoring organization a signed consent form as specified in (a)1 above for each such person.
+(b) If any person specified in (a) above refuses to consent to a CARI background check, the sponsoring organization shall deny the application or suspend, revoke or refuse to renew the Cer- tificate of Registration, as applicable, in keeping with P.L. 1993, c. 350. The applicant or provid- er may choose to remove or replace the person who refuses to consent to a CARI background check, if other than the applicant or provider, before the denial, suspension, revocation or nonre- newal takes effect. If the applicant or provider removes or replaces such person, and submits a signed statement attesting to the person's removal, the sponsoring organization shall continue the registration process.
+(c) The sponsoring organization shall submit the completed consent forms specified in (a)1 above to the Department upon receipt of the forms from the applicant or provider. The Depart- ment will conduct a search of its records for child abuse and neglect incidents for which the per- petrator was afforded an opportunity to appeal the substantiation. Within 30 working days of re- ceipt of the completed forms from the sponsoring organization, the Department will inform the sponsoring organization in writing as to whether a substantiated incident of child abuse or ne- glect by any person specified in (a) above has been found. If such an incident has been found, the Department will inform the sponsoring organization in writing of the name of the perpetrator.
+(d) If the CARI background check reveals no substantiated incident of child abuse or neglect involving a person specified in (a) above, the sponsoring organization may issue or renew the Certificate of Registration, provided that all other applicable requirements of N.J.A.C. 3A:54, this chapter, have been met.
+(e) If the CARI background check reveals that an incident of child abuse or neglect has been substantiated against a person specified in (a) above, the sponsoring organization shall deny the application or suspend, revoke or refuse to renew the Certificate of Registration, as applicable, in accordance with P.L. 1993, c.350.
+1. The sponsoring organization shall notify the applicant or provider in writing that the denial, suspension, revocation or nonrenewal is based on the results of a CARI back- ground check.
+2. The sponsoring organization shall disclose to the applicant or provider the name of the perpetrator, but shall not disclose any other information concerning the incident.
+3. The applicant or provider may choose to remove or replace the perpetrator, if other than the applicant or provider, before the denial, suspension, revocation or nonrenewal takes effect. If the applicant or provider removes or replaces such a perpetrator, the spon- soring organization shall continue the registration process.
+4. The sponsoring organization and the applicant or provider shall keep confidential and shall not disclose to any other person the identity of the perpetrator and all other infor- mation concerning the incident, in accordance with the confidentiality provisions of the State Child Abuse and Neglect Law, N.J.S.A. 9:6-8.10a.
+27
+
+(f) The sponsoring organization shall inform the applicant or provider in writing that he or she may appeal the denial, suspension, revocation or nonrenewal to the Office of Licensing, as specified in N.J.A.C. 3A:54-5.8.
+3A:54-5.4 Issuance of a Certificate of Registration
+(a) If the sponsoring organization determines that the provider or applicant is in full compli- ance with all applicable requirements of the Manual of Requirements, the sponsoring organiza- tion shall issue a regular Certificate of Registration. The sponsoring organization's determination shall include a visit to the provider's or applicant's home when one or more enrolled children are present.
+(b) Each registration period shall be three years, and may include the issuance of a regular Certificate of Registration, or one or more temporary Certificates of Registration and a regular Certificate of Registration.
+(c) The Certificate of Registration shall be posted in a prominent location within the family child care home during the hours enrolled children are in the home.
+(d) The Certificate of Registration shall be issued to a specific provider at a specific location and shall not be transferable.
+(e) If it is necessary to change any information noted on the application, other than a change of residence, after the Certificate of Registration has been issued, the provider shall advise the sponsoring organization in writing no later than 15 calendar days after the change.
+(f) If the provider changes residence:
+1. The provider shall notify the sponsoring organization in advance, or by no later than the beginning of the sponsoring organization's next working day, as specified in N.J.A.C. 3A:54-5.10(b)5;
+2. The Certificate of Registration at the previous residence shall be void;
+3. The provider shall submit a new application for registration to the sponsoring organiza- tion;
+4. The provider shall permit and participate in an evaluation of the new residence; and
+5. A new Temporary Certificate of Registration shall be issued by the sponsoring organi- zation if the provider is in substantial compliance with the applicable requirements of the Manual of Requirements, and provided there are no serious imminent hazards to the health, safety, and well-being of children.
+6. A new Regular Certificate of Registration shall be issued if the provider is in full compliance with all applicable requirements of the Manual of Requirements.
+(g) The provider shall permit and participate in all monitoring inspections by the sponsoring organization and by the Office of Licensing. Monitoring inspections shall be conducted at least once every two years.
+28
+
+(h) The provider shall not claim in advertising or in any written or verbal announcement to be registered with the Department of Children and Families or the State of New Jersey unless a Cer- tificate of Registration is currently in effect.
+3A:54-5.5 Issuance of a temporary Certificate of Registration
+(a) If the sponsoring organization determines that the provider applicant is in substantial compliance with the applicable requirements of the Manual of Requirements, and provided that there are no serious or imminent hazards to the health, safety, and well-being of the children, the sponsoring organization shall issue a temporary Certificate of Registration.
+(b) A temporary Certificate of Registration may be issued for a period not to exceed six months. The sponsoring organization may issue as many temporary Certificates of Registration as it deems necessary. However, a provider shall not operate pursuant to temporary Certificates of Registration for more than one year.
+3A:54-5.6 Registration fees
+(a) At the time the regular Certificate of Registration is issued, the provider shall pay a non- refundable registration fee of $ 25.00 in the form of a check or money order made payable to the sponsoring organization.
+(b) If the provider is issued a temporary Certificate of Registration, the registration fee shall be payable at that time, with no additional registration fee required upon the issuance of a regular Certificate of Registration.
+(c) An additional registration fee shall not be required if a change in information on a current Certificate of Registration occurs before the expiration date of the current Certificate of Registra- tion.
+3A:54-5.7 Renewal of a Certificate of Registration
+(a) The regular Certificate of Registration shall be subject to renewal upon the expiration of the three-year registration period.
+(b) The sponsoring organization shall send a renewal application packet to the provider no later than 90 days prior to the expiration of the current Certificate of Registration.
+(c) No later than 45 days prior to the expiration of the current Certificate of Registration, the provider shall submit to the sponsoring organization:
+1. A completed application form, as specified in N.J.A.C. 3A:54-5.2(a);
+2. Health care provider's statement(s) for the provider, the alternate provider, and the pro- vider assistant, if any, as specified in N.J.A.C. 3A:54-5.2(b); and
+29
+
+3. Written consent(s) for Child Abuse Record Information (CARI) background checks of the provider, the substitute provider, all members of the provider’s household who are at least 14 years old, the provider assistant, and the alternate provider, if any, as specified in N.J.A.C. 3A:54-5.3(a)1.
+(d) The provider shall permit and participate in an inspection prior to renewal of the Certifi- cate of Registration.
+(e) Prior to the renewal of a Certificate of Registration, the provider and alternate provider shall provide documentation of attendance at 20 hours of in-service training, other than first aid or CPR training, provided or approved by the sponsoring organization, during the last three-year registration period.
+1. Distance learning training will be allowed up to a maximum of 10 hours of in-service training if the following criteria are met:
+i. The training addresses a required topic and is accomplished through instruction and interaction between an instructor or the ability to contact the instructor by phone or e- mail to discuss training materials; and
+ii. The provider maintains a record of the course curriculum and all documentation validating completion of the course.
+2. Credit bearing courses offered by an accredited college or university that address re- quired topics will be accepted, as long as the provider documents that credit was earned and can provide accreditation of the college program.
+3A:54-5.8 Denials, suspensions, revocations, nonrenewals, and provider appeal procedures
+(a) The sponsoring organization may deny an application for a Certificate of Registration or suspend, revoke, or refuse to renew a Certificate of Registration for good cause, including:
+1. Failure to comply with the provisions of the Family Day Care Provider Registration Act or the requirements of the Manual of Requirements;
+2. Use of fraud or misrepresentation in obtaining a Certificate of Registration or in the subsequent operation of the family child care home;
+3. Any conduct or activity that adversely affects or presents a serious hazard to the health, safety, and general well-being of an enrolled child, or that otherwise demonstrates unfit- ness by a provider to operate a family child care home; or
+4. A determination by the Department of Children and Families' Institutional Abuse In- vestigation Unit or Division that children in the home are at risk of harm.
+(b) When a provider or applicant is found to be in violation of any of the provisions of (a) above, the sponsoring organization shall notify the provider or applicant of the violation(s) in writing and shall afford the provider or applicant an opportunity to abate the violation(s). If the provider or applicant fails to abate the violation(s), or commits the same or another violation subsequently, the sponsoring organization may deny the application or suspend, revoke or refuse to renew the Certificate of Registration.
+30
+
+(c) When the sponsoring organization proposes to deny an application or to suspend, revoke or refuse to renew a Certificate of Registration, the sponsoring organization shall give written notice to the provider or applicant, specifying the reason for such action, either by hand-delivery or by certified mail with return receipt requested.
+1. The notice shall afford the provider or applicant an opportunity for a review before the sponsoring organization's appeals committee, except as specified in (c)2 below.
+2. If the action specified in the notice is based on an investigation or substantiation by the Department of Children and Families of alleged child abuse or neglect, or on a criminal conviction, the sponsoring organization's appeals committee shall not review the matter, in keeping with the confidentiality requirements of the State Child Abuse and Neglect Law, N.J.S.A. 9:6-8.10a, and the rules of the Department of Law and Public Safety, as specified in N.J.A.C. 13:59-1.8. In such a case, the notice shall afford the provider or ap- plicant an opportunity to appeal directly to the Office of Licensing, which will follow the procedures specified in (f) below.
+3. The notice shall advise the provider or applicant of the provisions specified in (d) through (g) below.
+4. If the provider or applicant does not appeal to either the appeals committee or the Of- fice of Licensing, the action specified in the notice shall take effect.
+(d) The sponsoring organization's appeals committee shall review within 15 days each appeal presented to it and shall afford the provider or applicant an opportunity to be heard. The appeals committee shall issue a written report of its findings to the provider or applicant within five working days after completing its review.
+(e) If the provider or applicant is not satisfied with the sponsoring organization's appeals committee's findings, the provider or applicant may appeal to the Office of Licensing, which will review the matter and, as appropriate, refer the matter through the Department of Children and Families to the Office of Administrative Law for an administrative hearing pursuant to the Ad- ministrative Procedure Act (N.J.S.A. 52:14B-1 et seq.) and the Uniform Administrative Proce- dure Rules (N.J.A.C. 1:1).
+(f) If the provider or applicant does not want the matter reviewed by the sponsoring organiza- tion's appeals committee, or if the action specified in the notice is based on an investigation or substantiation by the Department of Children and Families of alleged child abuse or neglect, or on a criminal conviction, the provider or applicant may appeal directly to the Office of Licens- ing, which will review the matter and, as appropriate, refer the matter through the Department of Children and Families to the Office of Administrative Law for an administrative hearing.
+(g) If the provider or applicant is not satisfied with the decision of the Department of Chil- dren and Families, the provider or applicant may appeal the final decision or action of the De- partment of Children and Families within 45 days from the date of service of the decision or no- tice of the action taken, to the Appellate Division of the Superior Court of New Jersey.
+(h) As long as the Department of Children and Families determines that children are not at risk and no serious or imminent hazards exist, a provider who has requested an appeal, as speci- fied in (d) through (f) above, may be permitted to operate if the provider complies with monitor- ing inspections by the sponsoring organization until a final decision is rendered as a result of the appeal.
+31
+
+(i) If the provider's Certificate of Registration is suspended, revoked or refused for renewal, the sponsoring organization shall ensure that the parent of each enrolled child is notified in writ- ing within 10 days of the action.
+(j) An applicant whose application has been denied, or a provider whose Certificate of Regis- tration has been revoked or refused for renewal, shall be prohibited from reapplying for registra- tion for one year from the date of the denial, revocation or refusal to renew. After the one-year period has elapsed, the provider or applicant may submit a new application for registration.
+3A:54-5.9 Special requirements to prevent child abuse and neglect
+(a) When the Department of Children and Families determines that an imminent danger or hazard exists that threatens the health or safety of a child in a family child care home, the Office of Licensing may direct the sponsoring organization to deny an application or to suspend, revoke or refuse to renew a Certificate of Registration immediately.
+(b) The Office of Licensing may institute a civil action in a court of competent jurisdiction for injunctive relief to enjoin the operation of a family child care home for good cause, including any imminent danger(s) or hazard(s) that threaten the health and safety of the children in the home.
+(c) The Department of Children and Families, during the course of investigating an allegation of child abuse or neglect, may determine that corrective action is necessary to protect the chil- dren whenever:
+1. The provider or another person in the home has been found by the Department of Chil- dren and Families to pose a risk of harm to children;
+2. An allegation has been received by the Department of Children and Families that the provider or another person in the home has committed an act of child abuse or neglect; or
+3. The provider or another person in the home has been convicted of an act of child abuse or neglect.
+(d) Whenever the Department of Children and Families determines that such corrective ac- tion is necessary to protect the children in the home, the sponsoring organization shall ensure that the provider carries out the Department of Children and Families' recommendation for corrective action. Such corrective action may include:
+1. Removal or suspension of the affected person from the home, or reassignment to other duties that do not involve contact with the children; or
+2. Removal of the affected person from the home for a period of time extending from one hour prior to the arrival of the children until one hour after the children have left; or
+3. Suspension of the provider's Certificate of Registration.
+(e) Such removal, suspension or reassignment, as specified in (d) above, shall remain in ef- fect until the results of the Department of Children and Families' investigation have been deter- mined, and a final decision in the matter has been rendered by the Office of Licensing.
+(f) If the allegation of child abuse or neglect is substantiated by the Department of Children and Families, the sponsoring organization shall deny the application for registration or suspend,
+32
+
+revoke or refuse to renew the Certificate of Registration, as applicable, as specified in N.J.A.C. 3A:54-5.3(e) and (f).
+3A:54-5.10 Provider reporting requirements
+(a) The provider shall verbally notify the Department's State Central Registry at 1-877-NJ- ABUSE (1-877-652-2873) immediately whenever there is reasonable cause to believe that a child has been or is being subjected to any kind of child abuse or neglect by any person, pursuant to N.J.S.A. 9:6-8.10.
+(b) The provider shall report the following incidents to the sponsoring organization as soon as possible, but by no later than the beginning of the sponsoring organization's next working day:
+1. Any injury that results in the admittance of a child to a hospital or when care is provid- ed by any medical facility while in the provider's care;
+2. The death of a child while in the provider's care;
+3. Any damage to the provider's home that affects the provider's compliance with the re- quirements of the Manual of Requirements;
+4. Any criminal conviction(s) of the provider, the substitute provider, a member of the provider's household who is at least 14 years old, and the alternate provider and the pro- vider assistant, if any, as specified in N.J.A.C. 3A:54-5.2(a)10;
+5. A change of residence by the provider; and
+6. The termination of all family child care services by the provider.
+(c) A Certificate of Registration issued by the sponsoring organization to a provider is the property of the State of New Jersey. The provider shall surrender the Certificate of Registration to the sponsoring organization immediately if any of the following occurs or becomes effective:
+1. The provider voluntarily closes the family child care home; 2. The registration is revoked;
+3. The registration is suspended; or
+4. The provider has not applied for a renewed registration.
+3A:54-5.11 Provider record requirements
+(a) The provider's records shall be open for inspection by authorized representatives of the sponsoring organization and of the Department of Children and Families.
+(b) The provider shall maintain on a file a signed statement from each parent, affirming re- ceipt of the Information to Parents statement, as specified in N.J.A.C. 3A:54-6.21(a).
+(c) The provider shall maintain an individual record for each child in care. This record shall include:
+33
+
+1. The child's full name, address and birth date;
+2. Name, address, and telephone number of each parent;
+3. Name, address and telephone number of each parent's place of employment;
+4. Name, address and telephone number of one or more persons designated by the par- ent(s) to be called in case of emergency when a parent cannot be reached;
+5. Name, address and telephone number of the child's health care provider; 6. The child's allergies to medication or drugs, if applicable;
+7. The name of the parent's hospitalization plan and number or medical assistance plan, if applicable;
+8. The parent's signed authorization for the child's emergency medical treatment;
+9. The child's date of enrollment in and date of withdrawal, when applicable, from the family child care home;
+10. Results of the health examination for each child, as specified in N.J.A.C. 3A:54- 6.8(a);
+11. An immunization record for each child, as specified in N.J.A.C. 3A:54-6.8(b)3;
+12. Authorization for a school age child to leave the provider's premises, if applicable, as specified in N.J.A.C. 3A:54-6.17(b);
+13. Authorization for the provider to transport an enrolled child, if applicable, as speci- fied in N.J.A.C. 3A:54-6.7(c)1;
+14. Authorization for a child to use a pool or other body of water, if applicable, as speci- fied in N.J.A.C 3A:54-6.6(d);
+15. A record of any accidents and injuries sustained by a child, as specified in N.J.A.C. 3A:54-6.10(d); and
+16. A record of visitors and volunteers in the home during the scheduled operating hours.
+(d) The emergency contact information listed in (c)1 through 8 above shall be made available to a health care provider, hospital or emergency care unit as appropriate in the event of a child's illness or injury while in the provider's care.
+(e) Whenever the provider leaves the home with the child(ren), the provider shall have the emergency contact information in his or her possession.
+(f) The provider shall ensure that daily attendance records are maintained for children, which identify the hours of the children's attendance each day, including the time the child arrives and departs from the home.
+(g) The provider shall maintain the records noted above for at least one year following the discontinuance of child care services for each child.
+34
+
+SUBCHAPTER 6. SAFETY, HEALTH, AND PROGRAM REQUIREMENTS FOR PROVIDERS
+3A:54-6.1 Maximum number of children
+(a) The provider shall care for no more than five children at any one time, except as specified in (b) below.
+(b) The provider shall be permitted to care for up to three additional children, up to a maxi- mum of eight children at any one time, only if:
+1. The additional children reside with the provider and are below six years of age. Chil- dren six years of age or older who reside with the provider shall not be included in the limit of eight children; or
+2. The additional children reside with the alternate provider, the substitute provider or the provider assistant, and receive care in the family child care home for no payment. The al- ternate provider, the substitute provider or the provider assistant shall be present when any child who resides with that person is present.
+(c) The sponsoring organization may restrict the maximum number of children who may be in care on a specific date or time in a family child care home when:
+1. The useable indoor and outdoor space does not permit safety and comfort; 2. There is insufficient equipment to meet the needs of the children;
+3. The number and ages of the provider's own children limit the ability to provide ade- quate supervision;
+4. There are additional responsibilities of the provider to care for another household member who may require special attention or care including, but not limited to, an elderly person or a child with a serious medical, physical, emotional or behavioral condition;
+5. There are restrictions regarding the fire, zoning, health, environmental or other codes; or
+6. Other factors that may cause a risk to a child's health, safety or welfare, such as dam- age to the home, construction or renovations.
+3A:54-6.2 Ages of children
+(a) The provider shall care for no more than the following numbers of infants and toddlers unless a second caregiver is present:
+1. Three children below one year of age; or
+2. Four children below two years of age, of whom no more than two shall be below one year of age.
+35
+
+(b) Both the provider and a second caregiver (either the alternate provider, substitute provider or provider assistant) shall be present whenever one or more children below six years of age are present in addition to the maximum number of infants or toddlers specified in (a) above.
+(c) All children present who are below six years of age, including those who reside with the provider, alternate provider, substitute provider or provider assistant, shall be included in the provisions in (b) above for determining when a second caregiver shall be present.
+3A:54-6.3 Building and equipment
+(a) The provider shall ensure that:
+1. Adequate floor space is available for the children's activities.
+i. The provider shall arrange the play space and the furniture within the family child care home in order to allow adequate room for active and quiet play and for individual and group activities.
+ii. Program space shall not include the food preparation areas within the kitchen, bathrooms, hallways, stairways, closets, laundry rooms or areas, furnace rooms and storage spaces;
+2. The temperature of rooms used by children is maintained at a minimum of 65 degrees Fahrenheit;
+3. Floors, walls, ceilings, furniture, equipment and other surfaces are kept clean and in good repair;
+4. Adequate ventilation is provided by means of open windows, fans, air conditioning or other mechanical ventilation systems;
+5. Warm and cold running water are available;
+6. Working indoor toilets are easily accessible to children;
+7. Play equipment, materials, and furniture for indoor and outdoor use are of sturdy and safe construction, non-toxic, easy to clean, and free of hazards that may be injurious to young children.
+i. Furniture, appliances, or equipment with tipping hazards, such as chests, book- shelves, and televisions are secured’
+ii. Any hazardous equipment is made inaccessible to children or removed until rendered safe or replaced; and
+iii. Bathtubs, buckets, and other containers of water are emptied immediately after use;
+8. Electricity is in service in the home;
+9. The home contains sufficient furniture and equipment to accommodate the needs of the children in care;
+10. A telephone shall be in service in the home at all times when children are in care; and 36
+
+11. Pesticides for indoor and outdoor use shall be used according to the manufacturer's directions and in keeping with the applicable provisions specified in N.J.A.C. 7:30-10, Pesticide Control Code.
+i. No pesticides shall be applied while children are present.
+ii. Before applying pesticides, all toys and play equipment shall be removed from the area.
+iii. Children shall be removed from the area until the pesticide has dried or as long as recommended on the label.
+3A:54-6.4 Emergency preparedness
+(a) The provider shall maintain and post in a prominent location a written plan for the emer- gency evacuation, relocation, shelter-in-place, or lockdown of the children in the event of natural or civil disaster or other emergency, which shall include:
+1. The location of the first aid kit and any additional first aid supplies;
+2. An anticipated relocation site able to provide adequate, safe shelter for providers and enrolled children;
+3. The hospital or clinic to which injured or ill children will be taken;
+4. The telephone numbers for obtaining police, fire, ambulance, and poison control ser- vices; including the National Poison Emergency Hotline at (800) 222-1222;
+5. The location of written authorization from parent(s) for emergency medical care for each child;
+6. A diagram showing how the home is to be evacuated in case of emergency;
+7. Procedures for notifying each child’s parent of the relocation, shelter-in-place, or lockdown, including the procedures for communicating with each parent before and dur- ing the emergency and ensuring family reunification after the emergency;
+8. The local law enforcement agency or emergency management office to be notified of the provider’s identifying information as required in (b) below;
+9. The procedure for obtaining emergency transportation for children, including those with special needs; and
+10. Procedures to address the needs of the individual children; such as assistance for in- fants, toddlers, and children with special needs or chronic medical conditions.
+(b) In the event of an evacuation, shelter-in-place, or lockdown, the registered family child care provider shall notify the appropriate local law enforcement agency or emergency manage- ment office of:
+1. The name of the family child care provider; 2. The location of the family child care home;
+3. The number of children, age, and special needs, if any, of each child enrolled and each child residing in the home;
+37
+
+4. The number of adults in the home;
+5. The need for emergency transportation;
+6. The location to which children will be evacuated;
+7. The plan for shelter-in-place;
+8. The plan for a lockdown;
+9. The plan for reuniting each child with his or her parents.
+(c) The provider shall practice fire, shelter-in-place, lockdown, and evacuation drills with each child from all exit locations at varied times of day and during varied activities, including nap-time. Documentation of the fire, shelter-in-place, lockdown, and evacuation drills shall in- clude the type of drill simulated, date, start time, total amount of time taken to evacuate the home for the evacuation drill, total amount of time taken after warning is issued to direct movement of providers and children to location for shelter-in-place and lockdown drills, and the number of children and providers present for each drill.
+1. When multiple shifts of care are provided, such drills must be conducted monthly dur- ing each shift of care;
+2. The provider shall ensure that all children present are evacuated from the home within three minutes during each fire drill;
+3. Outdoor assembly areas shall be located a safe distance from the home as to avoid in- terference with fire department operations in the event of a fire;
+4. The provider shall have a warning system (for example, loud bell or whistle), to alert occupants of the home of an emergency or drill;
+5. The provider shall implement and document a monthly practice for the evacuation and relocation drills;
+6. The provider shall implement and document two shelter-in-place and two lockdown drills per year; and
+7. The provider shall maintain a 72-hour emergency supply, including food, water, med- ications (if applicable), first aid, and other safety equipment, as needed, to allow for the protection of the health and safety of children, in the event parents are unable to pick up their children due to a disaster. Food supplies shall be non-perishable and of sufficient quantity for all children for an overnight stay.
+(d) The provider shall ensure that:
+1. At least one working smoke detector is installed on each floor of the home. If smoke detectors operate from electric power within the home, such detectors must have a bat- tery-powered back-up energy source;
+2. All interior doors that can be locked from the inside have a means to be unlocked from the outside in case of emergency;
+3. All heating or cooling devices are adequately vented, protected by guards or barriers and kept clear of combustible materials;
+4. Wood or wood pellet, coal burning stoves, and fireplaces have protective barriers and are not accessible to children;
+38
+
+5. Portable electric space heaters and portable liquid fuel-burning heating appliances are not in use when children are in care;
+6. Radiators and pipes located in rooms occupied by children are covered when the heat- ing system is in use; and
+7. Stairways, hallways, and exits from rooms and from the home are unobstructed, except for safety barriers.
+i. Each room used for child care has at least two means of egress.
+ii. Egress doors from the residence shall be readily operable from the egress side without the operation of a key.
+iii. A means of egress shall be free of obstructions that would prevent its use, in- cluding the accumulation of ice and snow.
+iv. The second means of egress may be an unobstructed, operable window not less than 820 square inches and large enough to allow all adults and children to es- cape.
+v. The provider shall not allow rest and sleep in a basement unless there are two approved means of egress that meet the provisions of the New Jersey Uniform Construction Code (NJUCC) and the New Jersey Uniform Fire Code as specified in N.J.A.C. 5:70.
+vi. Security bars, when present, must be hinged with a quick release mechanism inside the home that requires one motion to operate.
+vii. Every stairway is maintained free of obstructions and provides safe passage.
+viii. Stairways within the exits with four or more steps have a railing; 8. Electrical cords are maintained in good condition;
+9. Major appliances shall be plugged directly into electric outlets; and
+10. Approved carbon monoxide detectors shall be located and installed on every level in the family child care home in accordance with the provisions of the State codes and guidelines.
+3A:54-6.5 General safety
+(a) The provider shall ensure that:
+1. The home and its furnishings present no hazard to the health and safety of the children in care;
+2. All items that may be hazardous to children, including medicines, poisonous plants, toxic substances, tobacco products, matches and sharp objects, are stored out of the reach of children;
+3. Safety barriers are installed to prevent children from falling from stairs, ramps, balco- nies, porches (when used for child care activities), elevated play areas, and any areas that subject children to falls.
+39
+
+i. Gates shall be provided at the top and bottom of each stairway, as appropriate, in areas of the home where infants and toddlers are in care.
+ii. Gates at the top of the stairs shall be hardware mounted to the wall for stability;
+4. All electrical outlets that are accessible to the children are covered with safety caps, ground fault interrupters or have safety outlets installed;
+5. A working flashlight is available for emergency lighting;
+6. All firearms, other weapons (such as bb guns, paintball guns, hunting knives, bows, swords, and martial arts weapons), and ammunition are stored in locked areas out of the reach of children;
+7. The home shall be free of exposed lead-based paint surfaces, which are flaking, peel- ing or chipped;
+8. Unfinished areas of the home including, but not limited to, attics, basements, and addi- tions shall not be used for the care of children;
+9. Portable fans shall be kept out of reach of children; and
+10. The use of trampolines by enrolled children is prohibited, and shall be inaccessible to the children during operating hours.
+3A:54-6.6 Outdoor space
+(a) The provider shall ensure that an adequate, safe outdoor play area is available either adja- cent to or within walking distance of the home.
+(b) Swimming pools, and other containers and natural bodies of water at the family child care home shall be physically inaccessible to children, except when they are supervised as specified in (d) below and all local ordinances that apply to a swimming pool or natural bathing area must be adhered to.
+(c) Spa pools, hot tubs, and wading pools shall be inaccessible to children and their use shall be prohibited.
+(d) The following supervision requirements shall apply whenever enrolled children use a pool or other container or body of water at the family child care home or any other location:
+1. For pools and other bodies of water that are 24 inches or more in depth:
+i. One person at least 18 years old shall directly supervise up to two children;
+ii. Two people, one of which is at least 18 years old shall directly supervise three or more children; and
+iii. The provider shall maintain a ring buoy with a rope, extension pole, or other device that can be used to rescue a swimmer in distress;
+2. For pools and other containers or bodies of water that are less than 24 inches in depth, one person at least 18 years old shall directly supervise all the children. When the number of children using the pool requires a second caregiver to be present, as specified in
+40
+
+N.J.A.C. 3A:54-6.1(b)2 or 6.2(b), both caregivers shall directly supervise the children; and
+3. At least one person providing supervision shall be certified in cardiopulmonary resus- citation (CPR).
+(e) The provider shall obtain written consent from the parent(s) of each enrolled child before the child uses a pool or other body of water as specified in (c) above.
+(f) The provider shall ensure that each child riding a bicycle, using roller skates, inline skates, skate boards or who is a passenger on a bicycle, or towed by a bicycle, wears a safety helmet, as specified in the State Bicycle Helmet Law, N.J.S.A. 39:4-10.1.
+(g) The provider shall ensure that outdoor equipment, such as swings, slides and climbing apparatus:
+1. Are installed and in keeping with the manufacturer's specifications and instructions; and
+2. Are in good repair and that:
+i. Openings do not pose entrapment hazard;
+ii. Equipment and apparatus shall be used only by the children for whom it is de- velopmentally appropriate; and
+iii. All fencing shall be maintained in good condition.
+(h) All garbage and refuse will be collected, stored and disposed of in a manner, which will not attract rodents or insects.
+3A:54-6.7 Transportation and trips
+(a) Whenever the provider transports enrolled children, the provider shall comply with all applicable State laws and rules regarding:
+1. The use of infant seats, child passenger restraint systems, and seat belts pursuant to N.J.S.A. 39:3-76.2a et seq.;
+2. The possession of a valid automobile driver's license and valid vehicle inspection sticker; and
+3. The possession of vehicle liability insurance.
+(b) The provider shall ensure that the parents of all enrolled children are informed when their children are taken on walks away from the home. The provider may utilize a blanket permission slip for taking children on walks only if:
+1. Walks are within the provider's neighborhood;
+2. The provider makes arrangements for the handling of visits or calls from parents either by:
+i. Having someone remain at the home; or 41
+
+ii. Utilizing a cellular telephone or telephone answering machine, and posting a notice on the entrance door of the home to inform parents of the children's loca- tion;
+3. The route of the walk involves no safety hazards; and
+4. The walk involves no entrance into a facility unless the facility has been indicated on the blanket permission slip.
+(c) The provider shall inform the parent(s) of enrolled children in advance of any field trip(s), outing(s) or special event(s) involving the transportation of children away from the home, includ- ing whether a school bus, school vehicle or private passenger vehicle is used, and whether the driver will be a staff member, a parent or another person. Before taking a child on such a field trip, outing or special event, the provider shall either:
+1. Secure individual permission slips signed by a parent for his or her child(ren) for each proposed trip, outing or special event;
+2. Post a notice of a proposed individual field trip, outing or special event in a place of prominence within the home, on which a parent shall be asked to sign consent for his or her child to attend; or
+3. Issue to every parent a written schedule of all field trips, outings or special events to be taken during any given time frame (that is, weekly, monthly, yearly). A parent shall be asked to sign this schedule indicating his or her consent for any or all field trips, outings or special events listed.
+(d) The provider shall maintain on file a record of blanket permission slips for walks and signed individual permission slips for field trips, outings or special events.
+3A:54-6.8 Health examinations for children
+(a) Each child shall have had a health examination performed by a health care provider with- in:
+1. Six months prior to or within one month following admission to the home for children who are 2 1/2 years of age or younger; or
+2. One year prior to or within one month following admission to the home for children who are above 2 1/2 years of age.
+(b) For each child not enrolled in a public school or private school, the provider shall main- tain on file at the family child care home a Universal Child Health Record (Department of Health Form CH-14), or its equivalent, updated annually, and a care plan for children with special health care needs, as specified in N.J.A.C. 3A:54-6.8(b)1, if applicable.
+(c) A record of the health examination shall be provided by the child's parent to the provider upon or within one month following admission to the home. The record shall include:
+1. The name and address of the health care provider;
+2. A statement by the health care provider indicating, when applicable:
+i. Information on any condition or handicap affecting the child; and 42
+
+ii. Any recommendations for needed medical treatment or special requirements as to diet, rest, allergies, avoidance of certain activities and other care;
+3. An up-to-date immunization record in accordance with the recommended immuniza- tion schedule established by the Advisory Committee on Immunization Practice of the Center for Disease Control and Prevention, as provided by the New Jersey Department of Health at N.J.A.C. 8:57-4. The immunization record shall be appropriate to the child's age or shall document that the child is under a prescribed medical program to obtain im- munizations and a timetable for doing so; and
+4. For children enrolled in a public or private school, the provider shall obtain a written statement from each child's parent indicating:
+i. That the child is in good health and can participate in the normal activities of the program; and
+ii. Any conditions or specific needs that may require special accommodations.
+(d) If immunizations are not given to a child for medical reasons, the provider shall require the parent to submit a written statement from a health care provider attesting to:
+1. The reason the immunization is medically contraindicated; and
+2. The specific time period that the immunization is medically contraindicated.
+(e) A child shall be exempted from a physical examination, immunization or medical treat- ment if the parent objects thereto in a written statement submitted to the provider, signed by the parent, explaining how the examination, immunization or medical treatment conflicts with the child's exercise of bona fide religious tenets or practices.
+(f) The immunization exemption may be suspended during the existence of a health emer- gency, as determined by the Commissioner of the State Department of Health.
+(g) After admission, each child shall have an annual physical health examination, including age-appropriate screenings and up-to-date immunizations. Such examination shall be performed by a health care provider within the preceding year period.
+(h) Children who are in foster care or experiencing homelessness as defined by the McKin- ney-Ventro Act can receive child care services while parents or guardians are taking necessary actions to comply with immunization requirements. Upon, or within one month following, ad- mission to the home, the parents or guardians shall have an up-to-date immunization record or provide a written plan for catching up with immunizations, if applicable.
+3A:54-6.9 Sick children
+(a) The provider shall inform the sponsoring organization and the parents of enrolled children regarding the circumstances under which:
+1. Sick children will be admitted to or excluded from the home; and
+2. Medication will or will not be administered to children.
+(b) The provider shall follow policies and procedures recommended by the sponsoring organ- ization if the provider chooses to:
+43
+
+1. Care for sick children in the home; or
+2. Administer medication to children.
+(c) The provider shall inform the parents of all enrolled children when any person in the home has a communicable disease as indicated by the New Jersey Department of Health as re- quiring such notification (a list of the communicable diseases and the reporting requirements can be found on New Jersey Department of Health web site at www.state.nj.us/health). The sponsor- ing organization shall make such information available to the providers.
+3A:54-6.10 Injury to a child while in the provider's care
+(a) When an incident resulting in injury to a child occurs while in the provider's care, the provider shall take the necessary action to protect the child from further harm and arrange for any necessary emergency medical attention. The provider shall notify the child's parent(s):
+1. Immediately in the event of an injury that requires professional medical attention; or
+2. By the end of the operating day, if the injury does not require professional medical at- tention.
+(b) Basic first aid supplies shall be in the home, and shall be stored out of children's reach but readily accessible to the provider, and shall minimally include: adhesive tape, band-aids, gauze pads, gauze roller bandage, disposable, non-latex gloves, cold pack, scissors, tweezers and ther- mometer.
+(c) Telephone numbers of the nearest police department, fire department, ambulance service or rescue squad, and poison control center, the provider's address, and the telephone number through which the provider can be reached shall be posted in a readily accessible area of the home.
+(d) The provider shall maintain on file a record of injuries sustained by a child while under the provider's care that receive professional medical attention. The record shall include:
+1. The name of the injured child;
+2. The date, time and location of the incident; 3. A written description of the:
+i. Incident;
+ii. Injury to the child;
+iii. Follow-up action taken by the provider, including application of first aid and consultation or treatment by a medical professional, if applicable; and
+iv. Names of witnesses to the incident.
+(e) The provider shall provide to the child's parent a copy of the record specified in (d) above by the end of the next working day after the incident or injury.
+44
+
+3A:54-6.11 Environmental sanitation and personal hygiene
+(a) The provider shall ensure that children wash their hands with soap and running water as follows:
+1. Upon arrival for the day;
+2. Before eating;
+3. Immediately after using the toilet;
+4. Immediately after coming into contact with blood, saliva, and other body secretions or fluids; and
+5. After caring for animals or their equipment or after coming in contact with an animal's body secretions.
+(b) The provider shall ensure that an infant's hands are washed with soap and water immedi- ately after a diaper change.
+(c) The provider and all other adults caring for children in the home shall wash their hands with soap and running water immediately:
+1. Upon arrival for the day and after breaks;
+2. Before and after preparing or serving food or beverages;
+3. Before and after eating or feeding a child;
+4. Before and after brushing or helping a child brush teeth;
+5. Before and after giving medication or applying an ointment or cream in which a break in the skin (for example, sores, cuts, or scrapes) may be encountered;
+6. Before and after playing with children in water (including swimming); 7. After diapering a child;
+8. After toileting;
+9. After assisting a child in toileting;
+10. After contact with blood, diarrhea, vomit, or other body secretions or fluids; and
+11. After caring for animals or their equipment or after coming in contact with an ani- mal's body secretions.
+(d) The provider shall ensure that each child is supplied with:
+1. A clean towel and washcloth for his or her exclusive use; or 2. Disposable towels and washcloths.
+(e) The provider shall ensure that:
+1. A change of clothing is provided for each child;
+2. A child's clothing is changed when wet or soiled; and
+3. Each child's personal hygiene items, such as toothbrushes, hairbrushes, and combs, are stored separately from those of others.
+(f) The provider shall use disposable rubber gloves, which shall be discarded after each use, when cleaning up blood, vomit, urine, fecal matter or other body secretions.
+45
+
+(g) The provider shall ensure that areas in the home, bedding, furniture, carpeting and cloth- ing that come into contact with blood, vomit, urine, fecal matter or other body or animal secre- tions are cleaned with soap and water and disinfected with a commercially prepared disinfectant. This solution shall be used in accordance with label instructions.
+(h) The following equipment items or surfaces shall be cleaned with soap and water and dis- infected with commercially prepared disinfectant after an incident, as specified in (g) above oc- curs:
+1. Toilet seats;
+2. Sinks and faucets;
+3. Mops that were used in the clean-up;
+4. Washcloths, towels and sponges that were used in the clean-up; and 5. Thermometers.
+(i) Toys that children have placed in their mouths or that are otherwise contaminated by body secretion or excretion shall be set aside until they are cleaned by hand with water and de- tergent, rinsed, sanitized, and air-dried or in a mechanical dishwasher.
+3A:54-6.12 Activities for children
+(a) Activities for the children shall be structured to include: 1. Active and quiet play;
+2. Indoor and outdoor play;
+3. Rest or sleep; and
+4. Meals and snacks.
+(b) The provider shall supply safe toys, play equipment, and creative materials to ensure each child the opportunity to participate in a variety of activities appropriate for the ages, interests, and number of children present.
+1. Programs for pre-school age children shall offer materials from the following catego- ries:
+i. Dramatic play and language development (for example, dress-up clothes, pup- pets, books, play telephones and unbreakable dishes);
+ii. Visual and small muscle development (for example, mobiles, unbreakable mir- rors, blocks, rattles, puzzles, sorting and stacking toys);
+iii. Auditory development (for example, records, musical instruments and tapes);
+iv. Creative expression (for example, clay, non-toxic paint, paper and blunt scis- sors); and
+v. Large muscle development (for example, swings, balls, bicycles, large boxes and wagons).
+46
+
+2. Programs for infants and toddlers shall include the applicable items for (b)1 above, and a daily routine adapted to the individual needs of each infant and toddler that fits, as much as possible, into the schedule set up by the parent.
+i. Infants shall have age-appropriate, supervised tummy time at least twice a day; and
+ii. Infants shall have developmentally appropriate outdoor activities and/or car- riage/stroller rides daily, weather permitting.
+3. The provider shall maintain on file a written schedule of daily activities and provide a copy for the parents.
+(c) The provider shall ensure that children are supervised while in swings, high chairs or sta- tionary activity centers and do not remain in such equipment for more than 30 consecutive minutes; and that the majority of every child's waking hours are spent out of cribs and playpens in a safe, clean place where he or she may move and explore freely.
+(d) The provider shall plan the day to allow for time to offer each child individual attention, affection and comfort.
+(e) Television, computers, and other video equipment shall be used with discretion and shall not be used as a substitute for planned activities.
+3A:54-6.13 Rest and sleep
+Providers shall comply with the rest and sleep requirements in N.J.A.C. 3A:52-6.4, including provisions related to safety standards for cribs and sleeping surfaces.
+3A:54-6.14 Food and nutrition
+(a) The provider shall ensure that all enrolled children receive nutritious meals that have been prepared by:
+1. The provider;
+2. The parent(s) of an enrolled child; or
+3. Another source, such as a caterer who is licensed, registered, certified, or otherwise approved, as appropriate by the local or county health department or State Department of Health, as applicable.
+4. If the provider chooses to have parents provide food, the provider shall have a supply of food at the home for any child whose parent forgets.
+(b) The provider shall ensure the provision of: 1. Breakfast for all children who:
+i. Have not eaten breakfast; and
+ii. Are present during the hours of 7:00 A.M. to 10:00 A.M.;
+47
+
+2. Lunch for all children who: i. Have not eaten lunch;
+ii. Are present during the hours of 10:00 A.M. to 1:00 P.M.; and
+iii. Are under the provider's care for at least five consecutive hours; 3. Dinner for all children who:
+i. Have not eaten dinner;
+ii. Are present during the hours of 5:00 P.M. to 7:00 P.M.; and
+iii. Are under the provider's care for at least five consecutive hours; and
+4. A snack for all children who are under the provider's care for at least three consecutive hours, or who have arrived from school.
+(c) The provider shall consult with each child's parent(s) regarding the feeding schedule, nu- tritional needs and introduction of new foods for each child.
+(d) Clean, and sanitary drinking water shall be made available to the children at all times.
+3A:54-6.15 Bottle and cup feeding
+(a) Formula, prepared from concentrate or in an opened container, and expressed breast milk shall be refrigerated.
+(b) Bottles and sipping cups shall be clearly identified for use by a specific child. (c) When a child is feeding, the bottle shall not be propped at any time.
+3A:54-6.16 Toilet training and diaper changing
+(a) The provider shall discuss and agree upon toilet training methods with the parent(s) of each child being toilet trained.
+(b) The provider shall ensure that:
+1. Diapers are changed promptly when wet or soiled;
+2. A clean nonporous surface or pad is used for diaper changes and sanitized after each use;
+3. Caregivers wash their hands thoroughly with soap and warm water after each diaper change;
+4. Sufficient quantities of clean diapers are available; and
+5. A container with a lid for soiled diapers is used.
+(c) The diaper changing area and potty chairs shall be cleaned and disinfected after each use.
+48
+
+3A:54-6.17 School age children
+(a) The provider shall give each school age child opportunities to: 1. Participate in outdoor, active play;
+2. Rest, relax and enjoy quiet socialization;
+3. Complete homework assignments, if necessary; and
+4. Participate in indoor play, table games, cooking and arts and crafts activities.
+(b) A school age child shall be permitted to leave the provider's supervision only with written permission from the child's parent(s).
+(c) The provider and the parent(s) shall discuss and agree upon:
+1. The child's use of the telephone, television, computer and electronic devices; and 2. Time allocated for the child's homework assignments.
+3A:54-6.18 Children with special needs
+(a) When a provider identifies or suspects an enrolled child as having a developmental delay or disability, the provider shall inform the child's parent and contact the sponsoring organization for technical assistance in meeting the child's needs.
+(b) When the provider enrolls a child with special needs:
+1. The provider shall request that the parent provide a written up-to-date special needs care plan completed by the child’s primary health care provider or any other person who has eval- uated or treated the child with input from the parent or guardian regarding the specialized care or accommodations that a child with special needs requires;
+2. The special needs care plan shall include the following: i. A list of the child’s diagnoses;
+ii. Contact information for the primary care provider and any relevant specialists;
+iii. Medications to be administered on a scheduled basis’
+iv. Medications to be administered on an emergent basis with clearly stated pa- rameters of signs and symptoms that warrant giving the medication written in plain language;
+v. Procedures to be performed; vi. Any allergies;
+vii. Dietary modifications;
+viii. Activity modifications;
+ix. Environmental modifications;
+x. Stimulus that initiates or precipitates a reaction or series of reactions (triggers to avoid);
+49
+
+xi. Symptoms for caregivers to observe; and
+xii. Emergency response plan, if the child has an emergency.
+3. The provider shall make reasonable accommodations to serve a child with special needs unless such accommodations impose an undue hardship on the family child care home. If the accommodations cause undue hardship, written notification shall be provid- ed to the parent and the sponsoring organization regarding the reasons for not enrolling the child. A copy of which shall be maintained by the provider.
+3A:54-6.19 Supervision
+(a) The provider shall be responsible for supervising the children and ensuring their safety at all times, including awareness and responsibility for the ongoing activity of each child. The pro- vider shall be near enough to respond when redirection or intervention strategies are needed. Children who are asleep shall be within hearing and easy access of the provider, alternate pro- vider, provider assistant, or substitute provider.
+(b) The provider shall not engage in any activity while on duty during operating hours that distracts his or her attention from providing family child care services. Such activities shall in- clude, but not be limited to, other employment, volunteer services, recreation, hobbies or fre- quent or prolonged socialization with adults.
+(c) The provider shall not leave the premise of the family child care home unless an approved caregiver is present with the children.
+(d) The provider shall be scheduled to care for children at least 75 percent of the home's op- erating hours. When a provider and an alternate provider share child care responsibilities, the provider shall be scheduled to care for children at least 50 percent of the home's operating hours.
+(e) When a family child care home operates 24 hours a day, an alternate provider is required. No caregiver may work more than 16 consecutive hours.
+(f) If the provider cannot be present, the designated substitute or the alternate provider, if any, as specified in N.J.A.C. 3A:54-5.2(a)6, shall assume the provider's responsibility for super- vision of the children.
+1. The substitute provider and the alternate provider, if any, shall be familiar with all ap- plicable requirements of the Manual of Requirements.
+2. Prior to caring for children, the provider shall provide and document orientation train- ing to newly hired substitute provider(s) and the alternate provider, if any, including the following:
+i. The provider’s policies and procedures;
+ii. The names and ages of all enrolled children;
+iii. Any special needs or health concerns of enrolled children; iv. Any nutrition needs of enrolled children;
+v. The planned program of activities;
+50
+
+vi. The location of emergency contact information; vii. Procedures for emergency preparedness; and viii. Mandatory reporting of child abuse and neglect.
+3. When the provider is absent for six or more consecutive weeks and enrolled children continue to receive care in the home, another registered provider or the alternate provider, if any, shall temporarily assume the provider's responsibility for operating the home.
+(g) When a provider assistant is present, the provider shall ensure that:
+1. The provider assistant and the provider are involved in direct interaction with the chil- dren for a major portion of the day;
+2. The provider assistant is familiar with all applicable requirements of the Manual of Requirements;
+3. An assistant under 18 years of age is not left alone with the children except in an emergency; and
+4. An assistant under 16 years of age:
+i. Does not work in the home at any time when his or her school is in session;
+ii. Does not work an excessive number of hours to the detriment of his or her health or schoolwork; and
+iii. Obtains working papers as required by State law.
+(h) No provider, alternate provider, substitute provider, assistant provider, if any, nor any other person in the home or while transporting children shall:
+1. Consume alcoholic beverages when supervising children during operating hours; or
+2. Smoke while supervising children or during operating hours.
+(i) No provider nor any other person shall supervise children when he or she:
+1. Has a communicable disease or illness, as specified in the chart in N.J.A.C. 3A:54- 6.9(c); or
+2. Appears to be physically, emotionally or mentally impaired, or appears to have a drug- induced or alcohol-induced condition that would endanger the health, safety or well- being of a child in the home.
+(j) Children shall be released from the home only to:
+1. The child's parent(s); or
+2. A person designated by the parent(s) in writing or by telephone.
+(k) When a child's parent or person designated by the parent(s), as specified in (g)2 above, appears to be physically, emotionally or mentally impaired, or appears to have a drug-induced or alcohol-induced condition that would endanger the health, safety or well-being of the child, the provider shall:
+1. Attempt to prevent the child's release to such an impaired individual; and
+2. Attempt to contact the child's other parent or an alternate person authorized by the par- ent(s).
+51
+
+(l) The provider shall call the Department's State Central Registry at 1-877-NJ-ABUSE (1- 877-652-2873) if:
+1. The provider's attempts to prevent the child's release to an impaired person, as speci- fied in (k)1 above, are unsuccessful; or
+2. The provider's attempts to make alternative arrangements for the child's care, as speci- fied in (k)2 above, are unsuccessful and the provider cannot continue to care for the child in the home.
+3A:54-6.20 Guidance and discipline
+(a) The method of guidance and discipline used by the provider shall: 1. Be positive;
+2. Be consistent with the age and needs of the child; and
+3. Help the child maintain self-control. (b) The provider shall not subject a child to:
+1. Humiliating or frightening treatment;
+2. Loud, profane or abusive language;
+3. Derogatory remarks about the child or the child's family;
+4. Spanking, hitting, kicking, biting, shaking or inflicting physical pain in any manner; 5. Deprivation of food, sleep, or toilet access;
+6. Force feeding;
+7. The withholding of emotional responses or attention;
+8. Long periods of enforced silence;
+9. Physical or chemical restraints; or
+10. Isolation in any area that cannot be seen and supervised by the provider.
+(c) Napping, toilet training or eating shall not be associated with punishment.
+(d) The provider and the child's parent(s) shall discuss and agree upon positive methods of discipline, in accordance with the provisions of (a), (b), and (c) above.
+3A:54-6.21 Communicating with parents
+(a) The provider shall supply each parent of an enrolled child with an Information to Parents statement that has been supplied to the provider by the sponsoring organization.
+(b) The provider shall discuss the child's daily activities and routines with each child's par- ent(s) upon enrollment and periodically thereafter.
+52
+
+(c) The provider shall inform each child's parent(s) of the names of the provider assistant and the alternate provider, if any, the substitute provider and any other persons caring for children in the home.
+(d) The provider shall inform each child's parent(s) upon enrollment about: 1. The presence of pets in the home; and
+2. Smoking by any person in the home.
+(e) The provider shall permit the parents of enrolled children to visit the home at any time when enrolled children are present. Parents may be restricted to visit only those areas of the home designated for family child care.
+(f) The provider shall inform parents that they may request the sponsoring organization to provide technical assistance or referral to appropriate community resources.
+(g) The provider shall develop and follow a written policy on the use of social media includ- ing, but not limited to, social networking sites, websites, the use of e-mail, text messages, and/or other electronic means of communication with staff, household members who are present during the family child care home’s operating hours, and parents.
+1. The social media policy shall include:
+i. The types of social media that are used at the family child care home;
+ii. The methods and devices the provider will use for parent communication;
+iii. Guidelines for appropriate conduct by each alternate provider, substitute pro- vider, and provider assistant, including, but not limited to, what methods will be used to ensure private e-mails, phone numbers, addresses, and other personal in- formation pertaining to enrolled children are not shared or posted; and
+iv. Guidelines for parents.
+2. The provider shall distribute a copy of the social media policy to the parent or guardi- an of each enrolled child and to each alternate provider, substitute provider, and provider assistant and secure and maintain on file, a record of each parent’s or guardian’s and each alternate provider’s, substitute provider’s, and provider assistant’s signature attesting to receipt of the policy.
+3A:54-6.22 Night time child care
+(a) The provider, substitute or alternate provider shall be awake and alert to meet the needs of the children at all times.
+(b) If a child is in the care of the provider after 6:00 P.M., the provider shall establish a bed- time routine, in consultation with that child's parent(s) or guardian(s) and taking into account the age and developmental needs of the child and the time of the child's scheduled pick-up from the home.
+(c) The provider shall provide, or shall ensure that each enrolled child's parent(s) or guardi- an(s) provide, appropriate clothing for the child to wear while sleeping;
+53
+
+(d) If a provider has one or more bunk beds for the use of enrolled children, the provider shall ensure that no child under seven years of age is placed in a top bunk, and the bunk bed meets requirements as specified in N.J.A.C. 3A:54-6.13(h).
+(e) The provider shall ensure that no enrolled child shares a sleeping room with an adult.
+(f) The provider shall ensure that all beds, cots, cribs and mattresses have firm surfaces and meet the standards established by the Consumer Product Safety Commission, which can be found at http://www.cpsc.gov/.
+(g) Breakfast shall be served to each child who goes directly to school from nighttime care, unless breakfast is provided by the school or by the parent(s) or guardian(s).
+54
+

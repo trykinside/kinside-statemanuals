@@ -1,0 +1,767 @@
+STATE OF MAINE
+FAMILY CHILD CARE PROVIDER LICENSING RULE
+10-144 CODE OF MAINE RULES CHAPTER 33
+Department of Health and Human Services Maine Center for Disease Control and Prevention 11 State House Station
+Augusta, Maine 04333-0111
+Effective Date for Routine Technical and Emergency Major Substantive Parts of the Rule: September 20, 2017
+Effective Date for Final Adoption of Major Substantive Parts of the Rule: July 5, 2018
+ 
+ SECTION 1:
+A. B.
+SECTION 2:
+A. B. C. D. E.
+SECTION 3:
+A.
+SECTION 4:
+A. B. C. D. E. F.
+SECTION 5:
+A. B. C. D. E. F.
+SECTION 6:
+A. B. C. D. E. F. G. H. I. J.
+SECTION 7:
+A. B. C. D.
+SECTION 8:
+A. B.
+TABLE OF CONTENTS
+Purpose and Definitions 1
+Purpose 1 Definitions 1
+Application and Licensing 3
+Application 3 Timely renewal 4 Temporary license 4 Licensing 4 Waivers 5
+Fees 5
+Fees 5
+Inspections and Investigations 6
+Inspections 6 Right of entry 6 Elements of an inspection 6 Inspection report 6 Investigations 7 Informal dispute resolution 7
+Records 8
+Record retention 8 Falsification of records 8 Child records 8 Personnel records 9 Provider records 9 Confidentiality 9
+Background Checks 10
+Pre-employment comprehensive background checks 10 Individuals subject to comprehensive background checks 10 Individuals not subject to comprehensive background checks 10 Background checks prior to notification to use the Maine Background Check Center 10 Components of a comprehensive background check 10 Frequency of background checks 11 Disqualifying offenses 11 Disqualifying drug-related felonies 11 Eligibility for hire 11 Evaluation requirements 12
+Reporting 12
+Family child care changes 12 Mandatory reporting of suspected abuse and/or neglect 13 Reporting adverse drinking water results to the Department 13 Reporting wastewater failure 13
+Provider-Child Ratios and Supervision 13
+Provider-child ratios Supervision
+13 14
+i
+
+ SECTION 9:
+A. B. C. D.
+SECTION 10:
+A. B.
+SECTION 11:
+A. B.
+SECTION 12:
+A. B. C. D. E. F. G. H. I.
+SECTION 13:
+A. B. C. D. E. F.
+SECTION 14:
+A. B. C. D. E. F.
+SECTION 15:
+A. B. C. D. E.
+SECTION 16:
+A. B.
+Training 14
+Pre-licensing training 14 Licensee responsibility 14 Orientation training 14 Ongoing training 15
+Child Guidance, Management, and Discipline 15
+Constructive methods of guidance 15 Detrimental practices 15
+Child Abuse and Neglect 15
+Abuse and neglect in the child care 15 Reporting requirement 15
+Health and Medical 16
+Immunization 16 Accidents and sudden illness 16 Medication administration 16 First aid kit and manual 16 Trained provider present 16 Exclusion of children due to illness 17 Prevention of exposure to blood and body fluids 17 Allergies 17 Handwashing 17
+Drinking Water and Wastewater 17
+Initial testing requirement for licensees serving water from a municipal water source 17 Initial testing requirement for licensees serving water from their own well 17 Ongoing annual water tests for providers with wells 17 Five-year water tests for providers with wells 18 Bottled water agreements 18 Capacity 18
+Environment and Safety 18
+General condition of the building and surrounding premises 18 Routine cleaning and disinfecting 19 Refuse and recycling 19 Buildings and furnishings 19 Outdoor play areas 20 Pets 21
+Swimming and Wading 21
+Procedures regarding swimming and wading activities and safety procedures 21
+Wading pools
+Swimming pools
+Off-site swimming
+Use of natural bodies of water
+Food and Kitchen Facilities
+Meals and snacks Kitchen facilities
+21 21 21 22
+22
+22 22
+ii
+
+ SECTION 17: Transportation 23
+A. Driver requirements 23 B. Vehicle requirements 23
+SECTION 18: Infant and Toddler Care 23
+A. General standards 23 B. Feeding 23 C. Diapering 24 D. Toilet training 24 E. Napping and resting 24
+SECTION 19: Nighttime Care 25
+A. Additional rules for nighttime care 25 B. Limitation for overnight care 25 C. Rooms above the first floor 25 D. Emergency planning 25 E. Beds and bedding 25 F. Privacy 25 G. Bathing 25
+SECTION 20: Enforcement 26
+A. Directed plan of action 26 B. Restrictions 26 C. Administrative fines 26 D. Conditional license 27 E. Suspension of a license 27 F. Referral to the Office of the Attorney General 27
+G. Refusal to issue or renew a license H. Revocation
+I. V oid
+J. Right to appeal
+HISTORY
+27 27 27 27
+28
+iii
+
+10-144 CMR Chapter 33
+Department of Health and Human Services Maine Center for Disease Control and Prevention
+FAMILY CHILD CARE PROVIDER LICENSING RULE SUMMARY STATEMENT
+This rule is established to govern the licensing of family child care providers in the State of Maine, and to protect the health, safety, and welfare of the children served.
+AUTHORITY
+This rule is promulgated under the authority of 22 M.R.S. Ch. 1661, 1663, and 1673.
+EFFECTIVE DATE
+This rule repealed the routine technical parts of 10-148 C.M.R. Ch. 33, Rule Relating to the Certification of Family Child Care Providers, and replaced it with the routine technical changes on September 20, 2017.
+This rule repealed the major substantive parts of 10-148 C.M.R. Ch. 33 and replaced it with the major substantive changes on July 5, 2018.
+  iv
+
+SECTION 1: PURPOSE AND DEFINITIONS
+A. Purpose. The Family Child Care Provider Licensing Rule describes the minimum requirements established to protect the health and safety of Maine’s children cared for by licensed family child care providers. This rule, promulgated in accordance with 22 M.R.S., Chapters 1661, 1663 and 1673, governs application and inspection procedures; routine health, sanitation and fire safety standards; provider qualifications, staff supervision and staffing ratios; and record keeping and reporting.
+B. Definitions. Definitions in this rule supplement the definitions in applicable statutes. The definitions in applicable Maine statutes are not repeated in this rule.
+1. Abuse or neglect means a threat to a child’s health or welfare by physical, mental or emotional injury or impairment, sexual abuse or exploitation, deprivation of essential needs or lack of protection from these, by a person responsible for the child.
+2. Adult means an individual at least 18 years old.
+3. Applicant means a person seeking a license to operate a family child care.
+4. Child, for the purpose of this rule, means an individual over the age of six weeks and not yet 13 years old.
+5. Conditional license means a license issued for a term not to exceed 12 months, which specifies when and what corrections the licensee must complete to achieve compliance with this rule. A conditional license may be issued by the Department, in accordance with 22 M.R.S. §7802.
+6. Corporal punishment means physical actions harmful to a child’s body, including, but not limited to, the following:
+a. Slapping, striking, shaking, shoving, spanking, pinching, twisting, kicking, biting, ear pulling or ear twisting;
+b. Forcing a child to taste or eat spicy, bitter or otherwise distasteful products for the purpose of discipline;
+c. Spraying with water as a means of controlling behavior;
+d. Placing tape over a child’s mouth;
+e. Mechanical restraints, such as tying a child to a chair;
+f. Requiring or forcing a child to take an uncomfortable position such as: squatting, kneeling, standing and holding arms outstretched at sides or overhead, bending, or requiring or forcing a child to repeat physical movements; or
+g. Other forms of aggressive contact harmful to a child’s body.
+7. Critical violation means that a requirement within this rule was not met by a provider and this violation may possibly result in serious injury to a child. A critical violation, if not corrected by the measures described in Section 20 of this rule, may result in an administrative fine of $250 per critical violation. Critical violations include failing to comply with Sections 2(A)(7), 2(D)(10), 5(B), 5(C)(7), 5(C)(9), 5(C)(14), 5(C)(18), 5(C)(19), 5(C)(20),5(D)(4), 5(E)(3), 6(E), 7(A)(5), 7(B), 7(C), 7(D), 8(A)(1), 8(A)(3), 8(B), 10(B), 11(B), 12(B), 12(C), 12(E),13(C), 13(D),
+1
+10-144 C.M.R. Chapter 33
+ 
+10-144 C.M.R. Chapter 33
+13(E)(1), 14(A)(4), 14(A)(7), 14(A)(9), 14(A)(10), 14(D)(1)(b), 14(E)(3)(b), 14(E)(6)(a), 14(F), 15(C)(2), 15(D), 15(E)(4), 16(A)(4), 16(B)(5), 17(B),18(A)(1), 18(B)(6), 18(C)(3), 18(E)(1), 18(E)(3), 19(C), 19(D)(3), 19(E)(2) and 19(G)(5).
+8. Department means the Maine Department of Health and Human Services.
+9. Directed plan of action means an order issued by the Department when the licensee fails to complete or comply with the plan of action included in an inspection report. The directed plan of action is intended to ensure the licensee’s compliance with this rule’s licensing standards.
+10. Infant means a child at least six weeks old, but younger than one year old.
+11. Inspection means a site visit to the licensee’s child care during which the Department determines
+compliance with this rule.
+12. Inspection report means the written summary of all areas of compliance and non-compliance with this rule identified during an inspection, and the plan of action developed with the provider to correct any violations of this rule.
+13. License means written permission by the Department, whether initial, renewal, temporary or conditional, that authorizes a person to be a family child care provider. For purposes of this rule license has the same meaning as the certification referred to in 22 MRS §8301-A.
+14. Licensee means the person who has been issued a license by the Department to operate a family child care. A licensee means a “family child care provider” as defined at 22 M.R.S. §8301-A (1-A)(C).
+15. Licensed capacity means the number of children in care for remuneration, and children of the provider under the age of three, allowed to be on the premises at any one time as specified on the license.
+16. Natural body of water means an ocean, lake, pond, river, reservoir, quarry, spring, stream or wading area that may be used for recreational water activities.
+17. Parent means a birth or adoptive father, mother, legal guardian or legal custodian who is legally authorized to act on behalf of a child.
+18. Plan of action means a plan completed by the licensee and the Department which is written on an inspection report. This plan describes the licensee’s procedures, methods and timelines to correct the violations of this rule that were identified by the Department during an inspection.
+19. Premises means all parts of contiguous real estate, including, but not limited to, lands, private ways, and any buildings or structures, over which the provider occupies, or has direct or indirect control or interest, even though children may not be served in all parts of the contiguous real estate.
+20. Preschool child means a child age three to five years old.
+21. Provider or family child care provider means an individual providing care for children in a
+licensed family child care.
+22. School-age child means a child who is at least five years old and under 13 years old.
+ 2
+
+23. Serious injury means:
+a. An injury or illness which requires medical attention from a physician or other medical personnel, including, but not limited to, an emergency room visit and/or hospitalization, including those that are the result of an accident involving transportation to or from a facility sponsored event; or
+b. Any illness which is a notifiable condition, as identified by the Department at https://www1.maine.gov/dhhs/mecdc/infectious-disease/epi/disease- reporting/documents/notifiable-list.pdf.
+24. Substitute means an individual who takes the place of any regular provider who is absent.
+25. Swimming pool means any water-filled container, basin, chamber, or tank located indoors or outdoors for swimming or recreational activity, and having a depth of more than 24 inches and a diameter wider than 48 inches at any point.
+26. Toddler means a child one to three years old.
+27. Toxic substance means any chemical or mixture that may be harmful to the environment and to
+human health if inhaled, swallowed, or absorbed through the skin.
+28. Wading pool means a pool with a water level maintained at 24 inches or less that is no more than 48 inches in diameter.
+29. Waiver means written permission from the Department to modify a provision of this rule. A waiver may not be issued by the Department if the rule requirement is mandated by statute.
+SECTION 2: APPLICATION AND LICENSING
+A. Application. Applicants must comply with the following requirements and procedures in this subsection
+to obtain a license.
+1. The applicant must be at least 18 years old.
+2. A provider must be at least 16 years old, and, if younger than 18 years old, must be under the direct supervision of an adult.
+3. An application for an initial license must be filed with the Department. Applications filed with the Department that remain incomplete for 60 days are void.
+4. The Department shall only review a complete application. A complete application for an initial license includes the completed application form furnished by the Department, the application fee and the following:
+a. Documentation of current certification in adult, child and infant cardiopulmonary resuscitation (CPR) and first aid.
+b. A site plan that clearly identifies:
+i. The premises;
+ii. A floor plan indicating all areas where children will be served; and 3
+10-144 C.M.R. Chapter 33
+   
+10-144 C.M.R. Chapter 33
+iii. Any businesses co-located on the premises.
+c. Water testing results from a Maine-certified laboratory in accordance with Section 13 of
+this rule.
+d. Verification of completion of Department-approved pre-licensing training, as described in Section 9.
+e. Clearance by the Department regarding background checks as described in Section 6 of this rule.
+5. All applicants must comply with the State Fire Marshal’s Office, Department of Public Safety, regarding any restrictions on the ages of children or limitations on the use of basements, specific rooms within the property, or floors above the ground level.
+6. The Department and a representative of the State Fire Marshal’s Office will conduct onsite inspections of the premises to evaluate compliance with this rule and applicable statutes including but not limited to the Life Safety Code (16-219 C.M.R. Chapters 2, 5, 6, 17 and 20). The Department and State Fire Marshal must complete their inspections, and the applicant must be in compliance with these requirements before the Department will issue a license.
+7. The licensee must have a written plan for evacuation in the event of a fire, natural disaster or other threatening situation that may pose a health or safety hazard to the children in the family child care.
+B. Timely renewal. Licensees must submit a renewal application at least 60 days prior to the expiration of a license.
+1. If a complete and timely application for renewal is made, the existing license will continue to be in effect until a final decision on the renewal is made.
+2. A complete renewal application consists of the renewal form and fee.
+3. A renewal may not be issued until the licensee has corrected any violations of this rule and any
+fines due have been paid.
+4. The Department must obtain verification of a satisfactory inspection every two years from the State Fire Marshal’s Office prior to issuing a renewal license.
+5. The licensee must submit an application for a license when they change locations. Operation at the new location is prohibited until the Department issues the license for the new location
+C. Temporary license. Whenever a licensee temporarily relocates as a result of an emergency, the Department may issue a temporary license in accordance with 22 M.R.S. §8301-A.
+D. Licensing
+1. A license shall be issued for a term of two years and shall state the licensed capacity.
+2. A temporary license shall be issued for a specific term not to exceed six months.
+  4
+
+10-144 C.M.R. Chapter 33
+3. The licensee shall post a copy of the current license, including the most recent inspection report, any conditional license, lead hazard notices, or other notices or correspondence from the Department indicating that they must be posted in a conspicuous location.
+4. The licensee must notify the parents of any licensing actions, as described in Section 20(D)-(I) of this rule, taken against the provider.
+5. Licenses are non-transferable.
+6. The licensee is responsible for ensuring compliance with this rule and all applicable statutes
+for themselves and any providers working in the child care.
+7. Licensees may request an increase or decrease in licensed capacity by submitting the request in writing.
+8. The Department may allow increases in capacity subject to the approval of the State Fire Marshal’s Office. The Department must issue a revised license before the licensee may increase their licensed capacity.
+9. Illegal drugs, drug paraphernalia, marijuana and any product containing tetrahydrocannabinol, tobacco and nicotine products, and alcohol shall not be consumed by a provider during operating hours. Illegal drugs may not be present on the premises at any time. Tobacco and nicotine products, alcohol, marijuana and any product containing tetrahydrocannabinol must be inaccessible to children.
+10. Fire evacuation drills must be conducted at least once each month for all children and adults present, using at least two means of exit. Fire drills must be conducted according to posted procedures.
+11. Licensees must allow parents to visit and observe at any time during the hours of operation.
+E. Waivers. Upon the written request of an applicant or licensee, the Department may waive or modify a provision of these rules, as long as the provision is not mandated by statute and the waiver does not adversely affect the health and safety of a child in care.
+1. Application for a waiver or modification must be made on forms supplied by the Department and must include:
+a. A statement of the provision for which waiver or modification is requested;
+b. An explanation of the reasons why the provision cannot be met and why a waiver or
+modification is being requested; and
+c. A description of the alternative method proposed for meeting the intent of the provision sought to be waived or modified.
+2. A waiver must be time-limited and will not exceed the term of the license. Prior to the expiration of the license the provider shall submit a new application for a waiver if the waiver continues to
+ be necessary.
+SECTION 3: FEES
+A. Fees. A licensing fee must be submitted with an initial, renewal or temporary application. Fees for licensing are non-refundable.
+5
+
+10-144 C.M.R. Chapter 33
+ 1. The application fee for an initial or renewed license is $160.
+2. The application fee for a temporary license is $80.
+SECTION 4: INSPECTIONS AND INVESTIGATIONS
+A. Inspections. The Department generally conducts unannounced site inspections. The Department may
+conduct more frequent inspections at its discretion. Routine inspections occur at the following times:
+1. Upon application;
+2. Annually, after the date of initial licensure;
+3. When the licensee has requested an increase in capacity, or a change in premises or services; or
+4. To investigate a complaint of rule violation, or an allegation of suspected abuse and/or neglect.
+B. Right of entry
+1. The Department has the right to enter upon and into the premises of any licensee pursuant to
+22 M.R.S. §7804.
+2. The Department may enter upon the premises of an individual reported to be operating without a license, pursuant to 22 M.R.S. §7702-B (7).
+C. Elements of an inspection. In order to determine compliance with this rule, the licensee must provide access to all records and any part of the premises occupied or used by children.
+1. The Department may speak with children, parents, and providers during inspections.
+2. At the time of inspection, the licensee must supply the Department with all requested records.
+3. The Department may photograph any part of the premises or make a photographic record of documents. The Department will provide copies of photographs upon request.
+D. Inspection report. The Department will document all violations of this rule on an inspection report, and will explain any violation noted at the time of inspection. The licensee may correct violations at the time of inspection. All violations corrected on-site shall be noted on the inspection report.
+1. The licensee and the Department shall determine a plan of action, to include timelines for correction, for any violations that cannot be corrected at the time of inspection.
+2. If the plan of action cannot be completed at the time of inspection, the plan shall be completed by the licensee and the Department within five business days of the inspection. The licensee and the Department shall sign the inspection report at the exit interview and following the completion of the plan of action. The Department will supply the licensee with a copy of the inspection report at the time of inspection.
+3. Following the inspection, the licensee must demonstrate compliance with this written plan of action.
+4. The Department may post inspection reports to a website available to the general public. 6
+
+10-144 C.M.R. Chapter 33
+5. No inspection reports shall be posted until the Department issues its written decision regarding any requested informal dispute resolution.
+E. Investigations. The Department will conduct an investigation after receiving a complaint of alleged violations of this rule or an allegation of child abuse and/or neglect.
+1. Any rule violations identified in the course of a complaint investigation will be presented to the licensee in writing.
+2. Investigations of child abuse and/or neglect will be conducted in accordance with 22 M.R.S. Ch. 1674.
+F. Informal dispute resolution. If the licensee wishes to dispute any licensing violations identified during an inspection or investigation, the licensee must submit a written request for an informal conference to the Department within ten business days of the inspection, or receipt of written notification of licensing violations.
+1. The written request must identify all disputed rule violations.
+2. Upon receipt of the request, the Department will review the request and determine whether it meets the criteria for an informal conference within ten business days. The Department will consider the following criteria to determine if an informal conference will be held:
+a. Timeliness of filing;
+b. Sufficient evidence for contesting each disputed finding; and
+c. Evidence presented after-the-fact was not required by rule or statute to be available at the time of the inspection.
+3. The Department may determine that an informal conference is not necessary when:
+a. A paper review supports the licensee’s case, and the violations will be removed; or
+b. The evidence submitted by the licensee does not meet the criteria of Section 4(F)(2)above.
+4. The Department will inform the licensee of the date, time and location of the informal conference within ten business days if the licensee’s request for an informal conference is granted.
+a. During the informal conference, the licensee will be able to introduce additional evidence to support changes to a violation.
+b. The Department will receive the evidence and make a decision after the conclusion of the informal conference.
+5. The Department will issue a written decision to the licensee within ten business days of either the informal conference or the Department’s review of the licensee’s request. The decision will state whether any disputed violations will be amended or removed and may include an amended plan of action.
+6. The Department may take further action, in accordance with Section 20 of this rule, if the licensee fails to comply with any plan of action in effect.
+ 7
+
+10-144 C.M.R. Chapter 33
+ SECTION 5: RECORDS
+A. Record retention. All child, personnel and licensee records must be kept on-site. All child records must be retained for a minimum of two years after discharge. Licensees must be able to locate and have access to child records during business hours. All personnel records must be retained for a minimum of two years after termination.
+B. Falsification of records. Falsification of records is a Class D crime under 17-A M.R.S. §453 and may result in action by the Department.
+C. Child records. Licensees must keep records for all children served. Child records shall be confidential, but made available for inspection by the Department for licensing and investigative purposes. Child records may also be released upon written authorization by a child’s parent, except as otherwise specified by 22 M.R.S. §7703. Child records must include:
+1. The child’s name, birth date, street address and mailing address;
+2. The name, street address, mailing address and telephone number of the child’s parents;
+3. Places of employment, telephone number, and street address of the child’s parents’ employers;
+4. The method of contacting the parents while the child is in care;
+5. The name, street address and telephone number of an emergency contact other than the parents, for use in the event of an emergency, if the parents cannot be reached;
+6. Dates of enrollment and termination;
+7. Immunization records;
+8. The names, addresses and telephone numbers of the child's physician;
+9. Written authorization to obtain emergency medical care for the child;
+10. A record of all serious injuries and reportable incidents sustained by the child while in care as defined in 22 M.R.S. §7701(5), recorded on the same day of the injury and including the date and time of the notification of a parent, signed by the parent within 48 hours of the incident in accordance with 22 M.R.S. §7702(2);
+11. A record that the provider has shared the following information with the child’s parent at the time of admission:
+a. Child guidance practices;
+b. Expulsion and suspension practices;
+c. Management of child illness;
+d. Emergency preparedness for natural disasters and human-caused events, including but
+not limited to, fire drills;
+e. Release of children to non-custodial caregivers;
+f. Mandated reporting; and
+g. Serious injury and child death reporting.
+12. The names of individuals who are permitted by the parents to remove the child from the premises; 8
+
+10-144 C.M.R. Chapter 33
+13. Notation of any known significant changes in the child’s appearance, hygiene, health or behavior including, but not limited to, aggression, withdrawal, sexual acting out and prolonged tantrums;
+14. The child’s known allergies and other health conditions, including any related health plans;
+15. Written permission or denial for use or distribution of images or personal information of the child
+on any publications, social media or promotional materials;
+16. A complete record if suspected child abuse or neglect is reported to the Department’s child protective intake;
+17. Any professional developmental assessments of the child provided by the parent, if available;
+18. Any relevant documentation of medical necessity (for example, sleeping in a non-horizontal
+position or avoiding the use of sunscreen), if applicable; and
+19. Written permission from the child’s parents before allowing the child to participate in any high- risk activity. The permission must describe all types of high-risk activities provided and the authorization must be updated at least annually and must list the child’s name, type of activity, location of activity, parent’s signature and date. High-risk activities include but are not limited to swimming, horseback riding and using a trampoline.
+20. If any information is missing from the child’s record, licensees must include a written explanation in the child’s record that states why the information is missing.
+D. Personnel records. The licensee must keep a personnel record for every provider who has access to children in the care of the licensee. Personnel records must include:
+1. The name, street and mailing address, birth date and telephone number of the individual;
+2. Documentation of training, as required by this rule;
+3. Dates of employment and termination of employees. Documentation regarding the reasons for termination must be kept in the personnel record for at least one year;
+4. A comprehensive background check report initiated prior to the date of hire; and
+5. Documentation of any disciplinary action.
+E. Provider records. The licensee must keep:
+1. Records of hours worked by providers, including the arrival and departure time for each provider;
+2. A daily attendance list that includes all children served, including the arrival and departure
+time(s) for each child; and
+3. A record of fire drills, available for inspection by the Maine Department of Public Safety, Office of the State Fire Marshal and local fire inspectors.
+F. Confidentiality. Confidential information may not be released without a court order or a written release from the parent of the child about whom the confidential information has been requested in accordance with 22 M.R.S. §§ 7703(3) and (4). All personnel records shall be provided to the Department upon request. The following information is confidential, when it identifies a person directly or indirectly:
+ 9
+
+10-144 C.M.R. Chapter 33
+1. Child records, daily attendance lists, and all other information about children in care or formerly in care; and
+2. All personnel records.
+SECTION 6: BACKGROUND CHECKS
+A. Pre-employment comprehensive background checks.
+1. In addition to the requirements of Section 2(A)(4)(e), licensees must request comprehensive background checks for all individuals over the age of 18, who will have unsupervised access to children.
+2. Licensees may hire an individual on a contingent basis in accordance with 22 M.R.S. §9057(4).
+B. Individuals subject to comprehensive background checks. Licensees must obtain comprehensive background checks for providers, all individuals who are at least 18 years old and reside at the home where services are provided, and other individuals who have unsupervised access to children in care, including, but not limited to substitutes, unless otherwise provided in this rule.
+C. Individuals not subject to comprehensive background checks. Individuals who are not subject to comprehensive background checks may only have supervised access to children who are served by the provider. Comprehensive background checks are not required for individuals who are not providers and who only have infrequent and irregular supervised access to children, including but not limited to, parents, delivery persons, contractors performing maintenance and repairs and waste removal persons.
+D. Background checks prior to notification to use the Maine Background Check Center. Criminal history reports, motor vehicle reports, out-of-home investigation reports and child protection reports must be obtained for each applicant, and for each paid, unpaid, temporary or regular provider.
+1. Criminal history reports, out-of-home investigation reports, and child protection reports must also be obtained for any adult living on the family child care premises.
+2. The applicant must provide signed release forms permitting the Department to obtain criminal history and child protective services information for him or herself, and for each adult member of the household. If any of these persons will be transporting children in care, the applicant must also provide releases for motor vehicle checks.
+E. Components of a comprehensive background check. Upon notification by the Maine Background Check Center Program, licensees must request comprehensive background checks for providers and other individuals who have unsupervised access to children who are served. A comprehensive background check includes the following database searches:
+1. Federal Bureau of Investigation fingerprint check;
+2. National Crime Information Center’s National Sex Offender Registry;
+3. The following records and registries in Maine:
+a. The Maine Criminal History Record Information using the State Bureau of Identification’s Automated Fingerprint Identification System;
+b. The Maine Sex Offender Registry; 10
+ 
+10-144 C.M.R. Chapter 33
+c. Maine child protective records and out-of-home investigation reports;
+d. Maine adult protective records; and
+e. Licensing boards or registry records, if applicable.
+4. A search of the following records and registries in each state, other than Maine, where an individual resided during the preceding five years:
+a. State criminal records or registries;
+b. State sex offender records or registries; and
+c. State child abuse and neglect records or registries.
+F. Frequency of background checks. The initial background check shall be conducted according to the schedule established by the Maine Background Check Center, and at least every five years thereafter.
+G. Disqualifying offenses. Individuals are not eligible for employment in a family child care setting if they:
+1. Refuse to consent to a criminal background check;
+2. Knowingly make a materially false statement in connection with a comprehensive background check;
+3. Are required to be registered on a state or national sex offender registry;
+4. Were convicted of any of the following crimes:
+a. Murder;
+b. Child abuse or neglect;
+c. A crime against children, including child pornography;
+d. Spousal abuse;
+e. A crime involving rape or sexual assault;
+f. Kidnapping;
+g. Arson;
+h. Physical assault or battery; or
+i. Violent misdemeanors committed as an adult against a child, including child abuse, child
+endangerment, sexual assault or a misdemeanor involving child pornography.
+H. Disqualifying drug-related felonies. Individuals are ineligible to work in a child care setting if they have been convicted of a Class A, B or C drug-related offense committed during the preceding five years, unless the Department determines an individual to be eligible, pursuant to a review of the conviction or convictions.
+1. An individual who obtains comprehensive background check results that contain only disqualifying offenses for Class A, B or C drug-related offenses committed during the preceding five years may request a waiver in accordance with 22 M.R.S. §9054(13).
+I. Eligibility for hire
+1. The Department will provide the results of the background check to the licensee in a statement that indicates only whether the individual is eligible or ineligible, without revealing information regarding the disqualifying offense.
+ 11
+
+10-144 C.M.R. Chapter 33
+ 2. If the individual is ineligible, the Department will provide the information to the individual about each specific disqualifying offense, as well as information on how to appeal the results of the background check.
+J. Evaluation requirements. When the Department has reasonable cause to believe that a licensee, provider or applicant may be unable to provide safe care for children, the Department may request a report from a qualified professional or an appropriate official that includes the evaluator’s determination of the person’s ability to safely care for children.
+1. A physical examination or other evaluation is not required if the applicant, licensee or provider states in writing that it is contrary to the person’s religious teachings and practice.
+2. If the applicant, licensee or provider refuses to be evaluated, the Department shall determine whether sufficient evidence exists to ensure that the person can safely care for children.
+SECTION 7: REPORTING
+A. Family child care changes. Licensees must provide notification to the Department of the following,
+within 24 hours of occurrence:
+1. Closure and date of closure;
+2. Any renovations, reductions, expansions, changes to a heating system or additions to indoor or outdoor child care space previously approved by the Department;
+3. Intent to operate at any new location;
+4. Any changes in phone numbers or email contact information;
+5. Information about the following circumstances, which may have occurred either in, or outside the State of Maine, regarding the provider, applicant, or other persons living or employed at the child care:
+a. Arrests, indictments or convictions for sexual or violent crimes involving children or adults, or any illegal acts involving children, whether prosecuted or not;
+b. Any condition related to physical health, mental health or substance abuse that would interfere with one's ability to perform one’s duties safely;
+c. Any arrest, indictment or conviction for operating under the influence of intoxicants or with an excessive blood-alcohol level (OUI), or for any other activity involving substance abuse;
+d. Investigation by Child Protective Services or the Out-of-Home Investigations Team of the Department;
+e. The removal of children from the provider’s or applicant’s care or custody by court order;
+f. Any protection from abuse order or any other order that makes a finding of domestic
+abuse or family violence; or
+12
+
+10-144 C.M.R. Chapter 33
+g. Any other information regarding the provider’s or applicant’s circumstances or treatment of children, such as the serious injury or death of a child in the licensee’s care, to enable the Department to determine whether there is a present threat to the health, safety and welfare of children.
+B. Mandatory report of suspected abuse and/or neglect. Any provider suspecting abuse and/or neglect must report this information to Child Protective Intake Services, 1-800-452-1999, TTY 1-800-963-9490 which is staffed 24 hours a day, 7 days a week. The provider must maintain documentation that a report has been made.
+C. Reporting adverse drinking water results to the Department. For those licensees required to test in accordance with Sections 13(A) through (C) of this rule, the provider must report any unsatisfactory water quality levels to the Department within 24 hours of receiving the result.
+Unsatisfactory water quality results include any levels reported by the laboratory to exceed standards within Maine’s Rules Relating to Drinking Water (10-144 CMR Ch. 231, App. A).
+D. Reporting wastewater failure. The licensee must notify the Department and the local plumbing inspector if the wastewater disposal system fails to operate properly.
+SECTION 8: PROVIDER-CHILD RATIOS AND SUPERVISION
+A. Provider-child ratios. Provider-child ratios in this section are based on the chronological ages of the
+children in care.
+1. The licensee must assure supervision in the following ratios, based on the ages of the children served:
+     CHILD AGES
+     PROVIDER:CHILD RATIO
+All children 6 weeks to 2 years old
+    1 Provider : 4 Children
+  2 Providers : 8 Children
+   3 Providers : 12 Children
+        All children 2 to 5 years old
+  1 Provider : 8 Children
+2 Providers : 12 Children
+    Not applicable
+All children over 5 years old
+      1 Provider : 12 Children
+     Not applicable
+       Not applicable
+     Mixed ages
+  1 Provider :
+3 children under 2 years old + 3 children 2 to 5 years old + 2 children over 5 years old, or 8 children 2 to 5 years old + 2 children over 5 years old.
+ 2 Providers :
+6 children under 2 years old + 6 children over 2 years old.
+  3 Providers : 12 children (No
+more than 9 children may be under 2 years of age).
+     2. Ratios are always based upon the age of the youngest child present.
+3. The number of children in care must not exceed licensed capacity. Children of the licensee aged
+four and over are not included in licensed capacity.
+a. Children of the licensee under the age of four are counted in determining the provider- child ratio and are included in licensed capacity.
+b. Children of providers who are not the licensee must be counted in the appropriate age groups when determining the provider-child ratio.
+13
+
+10-144 C.M.R. Chapter 33
+4. Older children may fill younger children’s spaces but younger children may not fill older children’s spaces.
+5. Capacity may only be exceeded when the following conditions exist: family emergencies or emergency school closings.
+a. Planned school closures are considered predictable circumstances and, therefore, capacity may not be exceeded.
+b. Proper supervision and ratios, as defined in this rule, must be maintained. Procedures for managing such events must be explained in the written emergency plan and reasons for exceeding capacity and the reason for exceeding capacity must be documented on the attendance record.
+B. Supervision. Providers must have knowledge of the activity and whereabouts of each child in care, be able to see or hear all children at all times and be able to provide prompt intervention when needed.
+1. The licensee shall develop and follow a written plan for obtaining help in an emergency when only one provider is present, or when provider-child ratios are exceeded.
+2. Monitors providing both video and audio may be considered as an acceptable form of supervision during quiet indoor activities.
+3. Providers must be awake during hours of operation. SECTION 9: TRAINING
+A. Pre-licensing training. Applicants must complete Department-approved training as part of the application process. Applications are not considered complete until the training requirements are satisfied.
+B. Licensee Responsibility. The licensee is responsible for ensuring that all providers are familiar with the operation of the child care and understand the relevant requirements of this rule.
+C. Orientation training. Provider training in the first twelve months of employment must include first aid, adult, child, and infant CPR with hands-on skills demonstration, mandated reporter training in accordance with 22 M.R.S. §4011-A and at least two of the following:
+1. Fire drill and other emergency and disaster procedures;
+2. Prevention of Sudden Infant Death Syndrome (SIDS) or Sudden Unexplained Infant Death
+(SUID), Shaken Baby Syndrome and safe sleep practices;
+3. Administration of medication and parental consent;
+4. Prevention of and response to food and allergy emergencies;
+5. Building and physical premises safety;
+6. Infectious disease prevention and control and blood borne pathogens;
+7. Handling and storage of hazardous material and disposal of bio-contaminants; or
+ 14
+
+10-144 C.M.R. Chapter 33
+8. Transportation of children (if the individual will be responsible for the transportation of children; required every two years thereafter);
+D. Ongoing Training. The licensee must ensure that each provider receives a minimum of 12 hours of ongoing training per year. This training must be documented in the personnel records. First aid and CPR training may be counted as part of the 12 hours.
+1. The calculation of training hours per year shall be based upon the date of hire for providers, and upon the date of issuance of the license for licensees.
+2. In order to count toward the required number of training hours per year, the training shall be documented by proof of completion from a qualified on-line or in-person source.
+SECTION 10: CHILD GUIDANCE, MANAGEMENT AND DISCIPLINE
+A. Constructive methods of guidance. All providers must use only constructive methods of guidance, which may include, but are not limited to, interventions such as conflict resolution, encouraging the use of language skills, redirecting, providing choices, positive reinforcement, recognition of a child’s strengths and allowance for individual differences.
+B. Detrimental practices. Actions that might be harmful to children are strictly prohibited. The licensee shall ensure that no child is subjected to an action or practice detrimental to the welfare of children, including, but not limited to:
+1. Corporal punishment as defined in Section 1;
+2. Cruel or severe punishment, humiliation or verbal abuse, including, but not limited to:
+a. Shaming and embarrassing; or
+b. Punishment for soiling, wetting or not using the toilet.
+3. Withholding food, drink or rest as punishment or threat of punishment, or being forced to eat or drink
+against the child’s will.
+4. Exposing a child to profane language, depictions of violence, use of illicit drugs or sexual content.
+5. Requiring a child to be silent or inactive as a disciplinary measure for a period exceeding that child’s age in minutes.
+6. Unusual confinement, including but not limited to: developmentally inappropriate use of high chairs, play yards, cribs or leaving a child unattended in any room.
+7. Withholding any adaptive equipment that would result in loss of a child’s independence.
+8. Using physical restraints, unless trained, and with the review and approval of a licensed clinician.
+SECTION 11: CHILD ABUSE AND NEGLECT
+A. Abuse and neglect in the child care. The licensee must ensure that providers, students, and persons living on the premises do not abuse or neglect children in care in any way, including physical, sexual or emotional abuse.
+B. Reporting requirement. All providers are required to report to the Department when there is reasonable cause to suspect abuse or neglect of a child. The licensee must inform all child care personnel of their status and responsibility as mandated reporters of suspected abuse or neglect of a child. The licensee must ensure that the
+ 15
+
+10-144 C.M.R. Chapter 33
+telephone number of the Department’s Child Protective Intake Unit (1-800-452-1999) is readily available to providers.
+SECTION 12: HEALTH AND MEDICAL
+A. Immunization. Immunization records must be maintained to ensure proper medical treatment is
+determined and given in the event of a disease outbreak or public health emergency.
+1. The licensee must have a current record of immunization on file for each child who is not attending public or private school, which clearly documents each child’s present immunization status based on the Department’s Day Care Immunization Standards (available at http://www.maine.gov/dhhs/mecdc/infectious-disease/immunization/family/ and published in September 2011), within 30 days of the child's first admission to the child care.
+2. The record must include the dates of immunization (month/day/year) and vaccine type, or documentation of immunity.
+3. In the event of a disease outbreak, a child not immunized for religious, philosophical or medical reasons must be excluded from the child care until the outbreak no longer exists or until the child receives the necessary immunization.
+4. The licensee must maintain a list of children and providers exempt from immunizations, due to religious, philosophical or medical reasons.
+B. Accidents and sudden illness. The provider must immediately notify the child's parent of any serious illness, injury, or accident involving the child. If the parent is not available at the time of emergency, the provider must notify an adult designated by the parent. For any serious illness or injury, the provider must seek appropriate medical attention.
+C. Medication administration. A provider may give a child prescription medication only when the provider has a written, signed and dated order from either a parent or a physician.
+1. The provider must only give medication prescribed for the specified child, according to the label instructions on the original container.
+2. The provider must not give any nonprescription medications to a child without written permission from the parent. Verbal (including text or email messages) permission is allowed in emergencies if the provider documents giving the medication and obtains written permission from the parent as soon as possible.
+3. The provider must keep a written record, noting each time a prescription and nonprescription medication is given to a child.
+D. First aid kit and manual. The licensee must have a first aid kit and a current first aid manual. The type of supplies that must be included in a complete first aid kit include, but are not limited to, adhesive tape, band aids, gauze pads, gauze roller bandage, disposable non-latex gloves, instant cold pack, scissors, tweezers, thermometer, CPR mouth guard, and antiseptic wipes.
+E. Trained provider present. A provider who is currently certified in basic adult, child, and infant first aid and CPR must be present at all times while child care is being provided.
+  16
+
+10-144 C.M.R. Chapter 33
+F. Exclusion of children due to illness. When a child becomes ill, but does not require immediate medical help, the provider shall determine if the child should be sent home. The provider shall notify the parent/guardian of the child who has symptoms that require exclusion.
+G. Prevention of exposure to blood and body fluids. The provider must take measures to prevent potential exposure to blood and other potentially infectious fluids, which may include use of disposable gloves. When touching blood, body fluids, secretions, excretions, mucous membranes, or non-intact skin, providers shall:
+1. Wash their hands after contact, even if gloves are worn;
+2. Ensure safe waste management by immediately discarding contaminated single use items; and
+3. Immediately clean and disinfect surfaces and reusable equipment.
+H. Allergies. Documentation regarding children’s food allergies/food intolerance, as verified by a physician, must be readily accessible and reviewed by all providers responsible for food preparation and distribution.
+I. Handwashing. Handwashing must be done with soap and running water. The provider shall ensure that all adults and all children wash their hands in at least the following circumstances:
+1. Immediately before and after eating snacks and meals, including washing the hands of all infants and toddlers before all feedings;
+2. After each diaper change; and
+3. Before and after handling food.
+SECTION 13: DRINKING WATER AND WASTEWATER
+A. Initial testing requirement for licensees serving water from a municipal public water source. In order to hold a license, applicants serving water from a municipal public water system, must collect one first-draw lead sample prior to receiving a license or enter into a bottled water agreement from the Department. The sample container must be from a Maine-certified laboratory and consist of a one-liter capacity.
+B. Initial testing requirements for licensees serving water from their own well. Applicants serving drinking water from their own well must demonstrate satisfactory water quality by testing for the following contaminants by a Maine-certified laboratory:
+1. Fluoride,
+2. Uranium,
+3. Arsenic,
+4. Lead (first-draw sample),
+5. Total coliform bacteria, and
+6. Nitrates.
+C. Ongoing annual water tests for providers with wells. Licensees serving water from their own well shall test their water annually for coliform bacteria and nitrates. Samples must be analyzed
+and results reported by a Maine-certified laboratory. Licensees must maintain water quality reports for Department inspection.
+ 17
+
+10-144 C.M.R. Chapter 33
+D. Five-year water tests for providers with wells. In addition to the annual testing required by Section 13(C) above, licensees serving water from their own wells must test their water every five years for at least the following contaminants: fluoride, uranium, lead (first-draw sample) and arsenic.
+E. Bottled water agreements. If the licensee chooses to use and serve bottled water for all food preparation and drinking purposes, then the licensee may operate under a written bottled water agreement with the Department. Under this agreement the licensee shall:
+1. Use bottled water for all consumption and food preparation;
+2. Provide written notification to parents of enrolled and prospective children that the provider is
+required to use bottled water for all consumption and food preparation;
+3. Conspicuously post the agreement where it can be seen by parents; and
+4. Continue to conduct annual water testing in accordance with Section 13(C) of this rule.
+F. Capacity. During all hours of operation, drinking water and wastewater disposal must meet the standards of the Department to accommodate the licensed capacity of the licensee.
+SECTION 14: ENVIRONMENT AND SAFETY
+A. General condition of the building and surrounding premises. A licensee must take immediate steps to correct any condition in the physical building or on the premises, which poses a danger to children’s life, health or safety.
+1. Stairs used by children must be equipped with solidly mounted handrails.
+2. Stairs must be enclosed by walls or railings. Stairs in areas used by infants, toddlers and
+preschool age children must be protected by a gate or door.
+3. Electrical outlets in areas used by infants, toddlers and preschool children must be protected by safety caps, plugs or other means.
+4. Providers must comply with Maine’s Lead Poisoning Control Act about the use of lead-based paint on toys, furniture or any interior or exterior surfaces (22 M.R.S. Ch. 252).
+5. The licensee must have an annual screening for potential lead hazards, unless the child care site meets the exemptions outlined in 22 M.R.S. §1319-C.
+6. Any medications, toxic substances (for example: cleaning supplies, pesticides, and solvents), matches, lighters, fireworks, power tools and other items dangerous to children must be kept where children cannot access them.
+7. Firearms must be kept unloaded and must be locked to prevent contact by children. Ammunition must be locked in a separate location from firearms.
+8. Smoking is prohibited on the premises when children are present.
+9. Strings and cords (e.g. those that are found on window shades) long enough to encircle a child’s neck (six inches or more) must not be accessible to children unless the child is engaged in a recreational or educational activity with an adult.
+ 18
+
+10-144 C.M.R. Chapter 33
+ 10. The provider must have a phone in working condition on the premises.
+11. A provider may lock the main entrance of the child care premises to prevent access from the exterior, provided that the door can be freely opened from the interior and there is a means to inform the provider of the arrival of visitors.
+12. Toys and equipment must be kept clean and in safe working order.
+13. The fall zone under and around all indoor play equipment which would buffer a fall from a height of more than 29 inches shall be covered with shock-absorbing mats or materials which extend at least 39 inches beyond the outside edge of the equipment in all directions. If the play structure exceeds 48 inches in height, the shock absorbing mat must be at least two inches thick.
+B. Routine cleaning and disinfecting. The provider shall follow a daily schedule of cleaning and disinfecting. Disinfecting products should not be used in close proximity to children and adequate ventilation should be maintained during use.
+C. Refuse and recycling. Providers shall empty trash, recycling and compost containers and remove the contents from child care space when the containers are filled, or sooner, if contents create an odor or a health risk.
+D. Buildings and furnishings
+1. The temperature of the space used by the children must be maintained at a safe and comfortable
+level for the children.
+a. A minimum temperature of at least 68o Fahrenheit (measured within two feet of the floor) must be maintained in children’s playrooms during the heating season.
+b. Heating units must be shielded in a manner to prevent injuries and burns.
+c. If indoor temperatures exceed 82o Fahrenheit, then providers must use methods to cool the space when children are indoors. Air conditioners, electric fans, and heaters must be mounted and anchored out of all children’s reach or have safeguards that keep any child from being injured.
+2. Every room used by children must be properly lighted to allow safe movement through the space. Natural light is required in any room used by children for more than four hours per day.
+3. All indoor space used by children must be adequately ventilated. Windows should be open when outside temperature and air quality allow.
+a. Doors and windows used for ventilation must be equipped with securely fastened screens.
+b. The licensee shall resolve any damp conditions which result in visible mold, mildew, or
+musty odors before children may occupy the space.
+4. A separate mat, bed or cot, with a blanket or sleeping bag, must be assigned to each child under the age of five in care for longer than four hours. All bedding must be cleaned before being used by another child. Bedding must be cleaned as needed, or at least weekly.
+a. A crib or play yard must be provided for each child up to 18 months old. 19
+
+10-144 C.M.R. Chapter 33
+b. No crib or play yard shall be used for sleeping by more than one child at a time.
+c. There must be two feet of space to allow walking between beds, mats and cribs.
+5. The licensee shall have a working bathroom.
+a. A step, low platform or other means must be placed next to toilets and sinks, for children who need help reaching and using them.
+b. Either disposable paper products, or clean, individually assigned wash cloths and towels may be used.
+c. Sinks must have both hot and cold running water. The licensee must provide a means of maintaining a water temperature of 120° Fahrenheit or lower in sinks available for use by children.
+E. Outdoor play areas. The provider must have access to an outdoor play area with sufficient space for safe play for all children.
+1. Children must have regular time for outdoor play, barring weather that presents a risk to children. Indoor physical activity will be substituted for outdoor time when weather does not permit outdoor time.
+2. A variety of equipment suitable for the age and needs of all children in care shall be available. Climbers, swings and slides must be:
+a. Firmly secured, clean, in proper repair and safely constructed; and
+b. Located at a sufficient distance to prevent injury from any hard surfaces, including poles,
+fences, sheds and other play equipment.
+3. Equipment that exceeds 36 inches in height at the climbable or standing surface shall have energy-absorbing materials beneath it. Energy absorbing materials include loose-fill materials, such as playground wood chips, pea gravel, sand, or rubber tiles and mats.
+a. Concrete or asphalt must not be used.
+b. If using loose-fill energy-absorbing materials, all swings with climbers and slides, as well as climbers and slides must have a sufficient amount of energy absorbing materials to prevent injury, based upon equipment height.
+c. Energy-absorbing material must extend beyond the equipment in all directions to prevent injury in the event of a fall.
+4. Outdoor play areas must provide shade.
+5. The provider shall ensure sun safety for children by keeping infants younger than six months out of direct sunlight, limiting sun exposure when UV rays are strongest, wearing hats, or applying sunscreen (unless directed otherwise by the child’s parent).
+6. Where hazardous conditions exist in the outdoor play area, the children shall be protected from those conditions by fencing or other appropriate barriers.
+ 20
+
+10-144 C.M.R. Chapter 33
+a. Hazardous conditions include, but are not limited to, a street, a road, any natural body of water, an active railroad track or crossing, sharp inclines or embankments or any dangerous area.
+b. Fencing should be a minimum of 48 inches high. Any fully enclosed area must have at least one gate, which is secured with a childproof latching mechanism.
+F. Pets. When animals are on the premises, there must be proof of rabies vaccinations for household dogs and cats.
+1. Pets must not present a danger to children or guests.
+2. The premises must be free of pet or other animal waste and the interior of the home must be free
+of pet waste odors.
+SECTION 15: SWIMMING AND WADING
+A. Procedures regarding swimming and wading activities and safety procedures. The licensee must develop safety procedures regarding swimming and wading activities. Procedures must include all swimming or wading activities that take place on or off the premises. Direct supervision of children by providers, within sight and sound of all children in the swimming and wading activity area, is required at all times.
+B. Wading pools. Wading pools must be emptied and cleaned daily when in use.
+C. Swimming Pools. Licensees with swimming pools on the premises must be familiar with emergency
+procedures, the use of safety equipment and emergency contacts.
+1. Providers using a swimming pool must complete a Department-approved basic water safety course that includes training in non-swimming water rescue techniques. A copy of the current training certificate must be in the personnel file.
+2. Swimming pools must be protected by fencing or suitable barriers to prevent children from gaining access without provider approval and supervision.
+a. All in-ground pools located in areas accessible to the children must be fenced. The fence must be at least four feet in height and secured with a locked gate.
+b. All above-ground pools must have non-climbable sidewalls that are at least four feet high or must be enclosed with a fence. When the pool is not in use, steps must be removed from the pool or otherwise made inaccessible to prevent unsupervised access by children.
+3. All non-swimmers must be protected by a Coast Guard-approved flotation device properly fitted for age and weight, except during swim instruction programs.
+4. Swimming pools must be equipped with a filtration and/or treatment system.
+5. The water in a swimming pool must have sufficient clarity. The bottom must be clearly visible in
+the deepest part of the pool.
+D. Off-site swimming. The provider must comply with the supervision requirement in this rule during swimming and wading activities away from the premises. The provider must directly supervise children at
+ 21
+
+10-144 C.M.R. Chapter 33
+all times during swimming or wading activities. Children must be within sight and sound of the providers.
+E. Use of natural bodies of water. For the use of the ocean, lakes and other natural bodies of water, the provider must comply with all applicable sections of this rule to protect children’s safety, including the following measures:
+1. All non-swimmers must be clearly identified as non-swimmers in a way that is visually and easily recognized. Commonly used identifiers are specified bathing suits or caps, wristbands or colored zinc-oxide sun block.
+2. All non-swimmers must be protected by a Coast Guard-approved flotation device properly fitted for age and weight, except during swim instruction programs.
+3. When no lifeguard is on duty, no fewer than two providers who are at least 18 years old must be present.
+4. At least one provider present at the natural body of water must have completed a Department- approved basic water safety course.
+SECTION 16: FOOD AND KITCHEN FACILITIES
+A. Meals and snacks
+1. Meals and snacks provided by the licensee shall be nutritious and well-balanced. Each meal (breakfast, lunch, and dinner) and snack provided by the licensee shall include items such as proteins, dairy products, fruits and vegetables, water and whole grains.
+2. All food must be stored in a manner to prevent spoilage, and kept hot or cold, as required.
+3. All formula and breast milk must be served and stored in accordance with the standards of the national Center for Disease Control, available at www.cdc.gov/breastfeeding/recommendations/handling_breastmilk.htm.
+4. Children must be within sight and sound of the provider during meal and snack times.
+B. Kitchen facilities
+1. Kitchen areas must be clean and well-lighted.
+2. All surfaces where food is prepared and served must be disinfected before and after use.
+3. Dishes must be washed in an automatic dishwasher or thoroughly hand-washed in warm soapy water and rinsed in hot water.
+4. Paper products shall be used only once and must be thrown away immediately after use.
+5. Refrigerators used for the storage of food consumed by children in care must be kept at a temperature not to exceed 41° Fahrenheit. A thermometer must be kept in the refrigerator at all times.
+6. Freezers used for the storage of food consumed by children in care must be kept at a temperature not to exceed 0° Fahrenheit. A thermometer must be kept in the freezer at all times.
+   22
+
+SECTION 17: TRANSPORTATION
+A. Driver requirements. Any person, including providers, driving children enrolled in care, must have the proper license to drive the class of motor vehicle being used and must complete training for transportation of children every two years.
+B. Vehicle requirements.
+1. A provider shall not leave a child alone in a motor vehicle.
+2. Firearms shall not be carried in a vehicle occupied by a child.
+3. The Maine Child Passenger Safety Law (29-A M.R.S. Ch. 19, §2081) must be observed at all times when a child or children are being transported:
+a. A child under 40 pounds must be properly secured in a child safety seat in accordance with the manufacturer’s instructions.
+b. A child between 40 and 80 pounds and less than eight years of age must be properly secured in a federally approved child restraint system.
+c. A child between the ages of eight and 12 and more than 4 feet 9 inches tall must be properly secured in a seat belt.
+d. A child under 12 and weighing less than 100 pounds must be properly secured in the rear seat of a vehicle, if possible.
+SECTION 18: INFANT AND TODDLER CARE
+A. General standards
+1. Infants and toddlers must not be allowed to use toys or objects which could be swallowed or cause choking. Foods that are choking hazards due to the size, shape or texture must not be served to infants and toddlers.
+2. The provider must ensure that infants and toddlers are given a variety of activities to promote proper development.
+3. Each infant or toddler's position must be changed at least each half hour, when the child is awake.
+B. Feeding. The provider shall:
+1. Hold infants in their arms for bottle-feeding when such infants are not independently bottle- feeding;
+2. Feed each infant and toddler according to the child's needs;
+3. Place the child in a chair or table designed to prevent the child from slipping or falling when
+feeding infants and toddlers;
+4. Feed the child with dishes and bottles made of unbreakable material or sheathed in material that prevents shattering;
+23
+10-144 C.M.R. Chapter 33
+ 
+5. Warm bottles of breast milk or formula by placing them in a pan of hot (not boiling) water for no longer than five minutes, after which the bottle must be shaken well and the milk temperature tested before feeding. Bottles of formula or breast milk must never be warmed in a microwave oven; and
+6. Immediately inform the parent if a child is accidentally fed another child’s breast milk.
+C. Diapering. The provider shall check each child for wet or soiled diapers or clothing at least every two
+hours, and wash and/or change the child, as needed.
+1. Wet or soiled disposable diapers must be placed in a lined, lidded container, separate from other trash or garbage and separate from play or food-preparation areas, or individually bagged and tied within a lidded shared garbage container.
+2. Diapering must be done on a changing table or washable vinyl mat which is cleaned and disinfected after each use, or has a disposable single-use covering.
+3. The changing table or mat must not be located in the kitchen or food preparation area.
+4. Providers may use cloth diapers at the parent’s request.
+a. Cloth diapers must have a clean, absorbent inner lining completely contained within an outer covering made of waterproof material that prevents the escape of feces and urine.
+b. Cloth diapers and clothing that are wet or soiled must be immediately placed in a clean, sealable bag or container and sent home with the child’s parent that day. This sealable bag or container must be stored out of reach of children.
+5. All containers of soiled cloth or disposable diapers must be emptied daily.
+D. Toilet training. The provider must work with parents to determine the best toileting practice for each
+child.
+1. Potty chair receptacles must be emptied immediately after each use.
+2. Potty chair receptacles must be rinsed and sanitized in a sink not used for food preparation.
+E. Napping and resting. Infants must be placed on their backs on a flat surface for sleeping, unless the child’s parent provides a physician’s recommendation. Written documentation from the physician must be stored in the child’s file. The provider shall ensure that:
+1. A crib or play yard that meets current Consumer Product Safety Commission (CPSC) safety standards, available at https://www.cpsc.gov/s3fs-public/5023.pdf, is provided for each child up to 18 months of age.
+2. Bassinets that meet current CPSC safety standards may be used for infants up to five months of age, within appropriate weight limits. A provider may not use a bassinet for an infant who can independently lift their chest off the sleep surface.
+3. Cribs, bassinets and play yards for infants less than 12 months old must not include soft or loose bedding including, but not limited to: bumper pads, pillows, quilts, comforters, blankets, sleep positioning devices, bibs or stuffed toys.
+10-144 C.M.R. Chapter 33
+  24
+
+4. Sleeping infants must be checked in person at least every 30 minutes.
+5. Each child must be given rest time, according to the child’s age and other needs.
+6. Dimmed, but adequate, lighting to allow visual supervision of all children must be maintained at all times.
+SECTION 19: NIGHTTIME CARE
+A. Additional rules for nighttime care. A licensee receiving children for night care must comply with the
+requirements in this section, in addition to other sections of this rule.
+B. Limitation for overnight care. On a given day, if working alone, a licensee must be limited to operating either a daytime child care or a nighttime child care, unless additional providers are employed.
+C. Rooms above the first floor. A room above the first floor may be used for sleeping or napping if the room has two exits, with one exit leading directly to the outside, with means to safely reach the ground level.
+D. Emergency planning. The provider must ensure that:
+1. There is a night light or other mechanism to illuminate hallways leading to stairs and restrooms;
+2. There is a plan for evacuating children to safety in case of fire or emergency;
+3. Smoke detection equipment is operating, properly mounted and installed on all floors where children sleep; and
+4. Nighttime fire evacuation drills are conducted at least once each month, while children are sleeping, using at least two means of exit.
+E. Beds and bedding. A licensee who offers nighttime care must have a safe and sturdy crib for each infant, and a safe and sturdy bed or cot with mattress and a pillow for each older child.
+1. The top level of bunk beds must have a safety rail.
+2. Waterbeds shall not be used for children under 36 months of age.
+3. Sheets must be changed weekly between use by different children, or more frequently if needed. No child may be allowed to sleep in a wet bed.
+4. Beds arranged side by side must be at least two feet apart.
+5. Cribs for infants must comply with Section 18.E. of this rule.
+F. Privacy. The provider must have written approval from the parent of each child in care to share a sleeping room with another person. Separate sleeping and dressing areas must be provided for school-age boys and girls.
+G. Bathing. Bathing facilities must be available.
+1. Children must not take baths together or share the same bath water.
+25
+10-144 C.M.R. Chapter 33
+ 
+2. The provider must give each child a shower, tub or sponge bath in a manner agreed upon between the parent and the provider.
+3. Tubs or showers must be cleaned after each use.
+4. Children must be given clean washcloths and towels.
+5. No child under five years of age shall be left unattended while in the bathtub.
+6. Each child must have individual toilet articles such as comb, toothbrush, towel and washcloth.
+SECTION 20: ENFORCEMENT
+The Department may take one or more of the following measures to address violations of this rule or applicable statutes.
+A. Directed plan of action. Failure to complete or comply with a plan of action will result in the Department issuing a directed plan of action to the licensee. The directed plan of action will specify the actions that must be completed in order to comply with this rule, along with a timeline for each action. The Department may direct any licensee to correct any violations in a manner, and within a time frame, that the Department determines is appropriate to ensure compliance with this rule or to protect the health and safety of children.
+B. Restrictions. As part of a directed plan of action, the Department may require the following:
+1. To stop all new admissions until the Department determines that the licensee has corrected all
+violations that resulted in the order.
+2. To reduce the capacity of the licensee until the Department determines that the licensee has corrected all violations that resulted in the order.
+C. Administrative fines. If the licensee does not complete corrective action for violation(s) within the Department’s timelines, then the Department may assess administrative fines in accordance with the schedule of fines outlined in this rule.
+1. The Department may only assess administrative fines after it issues an inspection report, and after the licensee fails to comply with a directed plan of action or any subsequent Department requirements related to the directed plan of action.
+2. An administrative fine may be assessed for a violation, or a failure to comply with the Department, that constituted noncompliance with statutes or this rule at the time it occurred.
+3. An administrative fine is issued via a Notice of Fine. The notice will describe each violation, the rule or statute that has been violated and any scheduled amount of administrative fine corresponding to that violation.
+4. The Department has established the following schedule of administrative fines for licensees failing to correct violations by the Department’s timeline pursuant to 22 M.R.S. §7702-A:
+a. Non-critical violation: $100.00 per violation.
+b. Critical violation (as defined in Section 1(A) (7)): $250.00 per violation.
+26
+10-144 C.M.R. Chapter 33
+ 
+10-144 C.M.R. Chapter 33
+5. The Department may assess administrative fines up to $500 per inspection.
+6. Licensees are required to pay the Department the amount of the administrative fine within 30 days of receipt of the notice of fine. If the licensee has not paid the total fines due before license renewal, then the Department may deny the license renewal application.
+7. Imposing an administrative fine is not deemed, in any way, to extend any deadline for compliance.
+D. Conditional license. The Department may issue a conditional license, in accordance with 22 M.R.S. §7802(1)(C). The notice of conditional license will include a directed plan of action.
+E. Suspension of a license. The Department may suspend or seek to suspend a license as follows:
+1. The Department’s Commissioner may suspend a license on an administrative basis by issuing an order of closure when conditions are found which, in the opinion of the Department, immediately jeopardize the health and safety of children.
+2. The order of closure may last for up to ten days in accordance with 22 MRS 8301-A(5), pending further investigation or prior to obtaining an order of emergency suspension from the court.
+3. The Department may seek an emergency suspension in accordance with 4 M.R.S. §184 when conditions are found which, in the opinion of the Department, immediately endanger the health or safety of children.
+F. Referral to the Office of the Attorney General. A licensee with violations may be referred to the Office of the Attorney General for appropriate civil action, if they fail to comply with Department timelines, including payment of fines, during enforcement.
+1. The Department may pursue civil fines in accordance with 22 M. R.S. §7702-A, §7702-B, or any other relevant section of the Maine Revised Statutes.
+2. The Department may seek injunctive relief to require compliance, in accordance with 22 M.R.S. §8301-A (7).
+G. Refusal to issue or renew a license. The Department may refuse to issue or renew a license when a licensee fails to comply with applicable laws and rules.
+H. Revocation. The Department may revoke a full or temporary license for violation of applicable laws and rules for committing, permitting, aiding or abetting any illegal practices in the operation of the child care or for conduct, or practices detrimental to the welfare of children attending the child care in accordance with 22 M.R.S. §7802(3)(D).
+I. Void. The Department may void a conditional license when the licensee fails to comply with the conditions of the license.
+J. Right to appeal. Appeals by a licensee are limited to appeals contending that a decision by the Department misapplies applicable laws, procedures or rules.
+1. The licensee shall address a request for an administrative hearing in accordance with the instructions provided in any action taken by the Department that is subject to the right of appeal.
+a. The request shall state the specific issue(s) being appealed. 27
+ 
+10-144 C.M.R. Chapter 33
+ b. The request must be made within 30 days of receipt of notice of an action subject to the right of appeal in accordance with 22 M.R.S. §7802.
+c. The following actions are subject to the right of appeal:
+i. Issuance of a conditional license;
+ii. Amendment or modification of a license;
+iii. V oiding of a conditional license;
+iv. Refusal to issue or renew a full license;
+v. Administrative fines; or
+vi. The denial of a waiver request.
+d. Actions subject to the right to appeal shall be stayed until the Department makes a final agency decision, unless the license is suspended under Section 20(E) or (F).
+2. The hearing will be conducted pursuant to the Department’s Administrative Hearings Regulations at 10-144 C.M.R. Ch. 1, and in conformity with Maine’s Administrative Procedure Act at 5 M.R.S. Ch. 375.
+3. An aggrieved party may appeal a final agency action to Superior Court in accordance with 5 M.R.S. Ch. 375, Subchapter 7.
+HISTORY
+EFFECTIVE DATE:
+July 1, 1998 – as “Home Day Care Provider Rules”
+AMENDED:
+August 1, 2006 – filing 2006-228 as “Rules for Family Child Care Providers”
+June 1, 2007 - filing 2007-191 (EMERGENCY major substantive)
+August 14, 2007 - filing 2007-331 (EMERGENCY major substantive)
+June 1, 2008 - filing 2008-235 (EMERGENCY routine technical following Resolve 2007 c. 199) August 27, 2008 - filing 2008-383 (routine technical following Resolve 2007 c. 199)
+July 1, 2009 - filing 2009-207 (Final adoption, major substantive)
+REPEALED AND REPLACED:
+September 20, 2017 – filing 2017-148 as 10-144 CMR Ch. 33, Family Child Care Provider Licensing
+Rule, replaced 10-148 CMR Ch. 33, Rule Relating to the Certification of Family Child Care Providers (EMERGENCY major substantive and routine technical)
+AMENDED:
+July 5, 2018 – filing 2018-105 (Final adoption, major substantive)
+NOTICE OF MAJOR SUBSTANTIVE PARTS OF THIS RULE
+The Maine Legislature has designated parts of this rule as major substantive, per 22 M.R.S. §§ 8302-A(2)(G)-(K) and 8303-A(1). Other sections are designated as routine technical, per 22 M.R.S. §§ 7702-B, 7703, 7802, 8301-A and 8302-A(2) (A)-(F).
+  28
+

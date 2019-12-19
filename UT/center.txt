@@ -1,0 +1,1637 @@
+R381 Health, Child Care Center Licensing Committee R381-100 Child Care Centers
+R381-100-1 Legal Authority and Purpose
+(1) ThisruleisenactedandenforcedinaccordancewithUtahCode, Title 26, Chapter 39.
+(2) This rule establishes the foundational standards necessary to protect the health and safety of children in child care centers and defines the general procedures and requirements to obtain and maintain a license to provide child care.
+R381-100-2 Definitions
+(1) "Applicant" means a person or business who has applied for a new or a renewal of a license, certificate, or exemption from Child Care Licensing.
+(2) "ASTM" means American Society for Testing and Materials.
+(3) "Background Finding" means information in a background check
+that may result in a denial from Child Care Licensing.
+(4) "Background Check Denial" means that an individual has failed the background check and is prohibited from being involved with
+a child care program.
+(5) "Barrier" means an enclosing structure such as a fence, wall,
+bars, railing, or solid panel to prevent accidental or deliberate
+movement through or access to something.
+(6) "Body Fluid" means blood, urine, feces, vomit, mucus, and/or
+saliva.
+(7) "BusinessDays/Hours"meansthedaysoftheweekandtimesthe
+facility is open for business.
+(8) "Capacity" means the maximum number of children for whom care
+can be provided at any given time.
+(9) "Caregiver-to-Child Ratio" means the number of caregivers
+responsible for a specific number of children.
+(10) "CCL" means the Child Care Licensing Program in the Department of Health that is delegated with the responsibility to enforce
+the Utah Child Care Licensing Act.
+(11) "Child Care" means continuous care and supervision of 5 or more
+qualifying children that is:
+(a) in place of care ordinarily provided by a parent in the
+parent's home,
+(b) for less than 24 hours a day, and (c) for direct or indirect compensation.
+(12) "Child Care Center Licensing Committee" means the Child Care Center Licensing Committee created in the Utah Child Care Licensing Act.
+(13) "Child Care Program" means a person or business that offers child care.
+(14) "Choking Hazard" means an object or a removable part on an object with a diameter of less than 1-1/4 inch and a length of less than 2-1/4 inches that could be caught in a child's throat blocking their airway and making it difficult or impossible to breathe.
+
+(15) "Conditional Status" means that the provider is at risk of losing their child care license because compliance with licensing rules has not been maintained.
+(16) "Covered Individual" means any of the following individuals involved with a child care program:
+(a) an owner;
+(b) a director;
+(c) a member of the governing body;
+(d) an employee;
+(e) a caregiver;
+(f) a volunteer, except a parent of a child enrolled in the
+child care program;
+(g) an individual age 12 years or older who resides in the
+facility; and
+(h) anyonewhohasunsupervisedcontactwithachildincare.
+(17) "CPSC" means the Consumer Product Safety Commission.
+(18) "Department" means the Utah Department of Health.
+(19) "Designated Play Surface" means any accessible elevated surface
+for standing, walking, crawling, sitting or climbing; or an accessible flat surface at least 2 by 2 inches in size and having an angle less than 30 degrees from horizontal.
+(20) "Director" means a person who meets the director qualifications in this rule, and who assumes the child care program’s day-to-day responsibilities for compliance with Child Care Licensing rules.
+(21) "Emotional Abuse" means behavior that could harm a child's emotional development, such as threatening, intimidating, humiliating, demeaning, criticizing, rejecting, using profane language, and/or using inappropriate physical restraint.
+(22) "Entrapment Hazard" means an opening greater than 3-1/2 by 6-1/4 inches and less than 9 inches in diameter where a child's body could fit through but the child's head could not fit through, potentially causing a child's entrapment and strangulation.
+(23) "Facility" means a child care program or the premises approved by the Department to be used for child care.
+(24) "Group" means the children who are supervised by one or more caregivers in an individual room or in an area within a room that is defined by furniture or other partition.
+(25) "Group Size" means the number of children in a group.
+(26) "Guest" means an individual who is not a covered individual and is at the child care facility with the provider's permission.
+(27) "Health Care Provider" means a licensed health professional, such as a physician, dentist, nurse practitioner, or physician's assistant.
+(28) "Homeless" means anyone who lacks a fixed, regular, and adequate nighttime residence as described in the McKinney-Vento Act. McKinney-Vento Homeless Assistance Act (Title IX, Part A of ESSA)
+
+(29) "Inaccessible" means out of reach of children by being:
+(a) locked, such as in a locked room, cupboard, or drawer; (b) securedwithachildsafetydevice,suchasachildsafety
+cupboard lock or doorknob device;
+(c) behind a properly secured child safety gate;
+(d) located in a cupboard or on a shelf that is at least 36
+inches above the floor; or
+(e) in a bathroom, at least 36 inches above any surface from
+where a child could stand or climb.
+(30) "Infant" means a child who is younger than 12 months of age.
+(31) "Infectious Disease" means an illness that is capable of being
+spread from one person to another.
+(32) "Involved with Child Care" means to do any of the following at
+or for a child care program licensed by the Department:
+(a) provide child care;
+(b) volunteer at a child care program;
+(c) own,operate,direct,orbeemployedatachildcareprogram; (d) reside at a facility where child care is provided; or (e) bepresentatafacilitywhilecareisbeingprovided,except
+for authorized guests or parents who are dropping off a child, picking up a child, or attending a scheduled event at the child care facility.
+(33) "License" means a license issued by the Department to provide child care services.
+(34) "Licensee" means the legally responsible person or business that holds a valid license from Child Care Licensing.
+(35) "LIS Supported Finding" means background check information from the Licensing Information System (LIS) database for child abuse and neglect, maintained by the Utah Department of Human Services.
+(36) "McKinney-Vento Act" means a federal law that requires protections and services for children and youth who are homeless including those with disabilities. McKinney-Vento Homeless Assistance Act (Title IX, Part A of ESSA)
+(37) "Over-the-Counter Medication" means medication that can be purchased without a written prescription including herbal remedies, vitamins, and mineral supplements.
+(38) "Parent" means the parent or legal guardian of a child in care.
+(39) "Person" means an individual or a business entity.
+(40) "Physical Abuse" means causing nonaccidental physical harm to
+a child.
+(41) "Play Equipment Platform" means a flat surface on a piece of
+stationary play equipment intended for more than one child to
+stand on, and upon which the children can move freely.
+(42) "Preschooler" means a child age 2 through 4 years old.
+(43) "Protective Barrier" means a structure such as bars, lattice,
+or a panel that is around an elevated platform and is intended to prevent accidental or deliberate movement through or access to something.
+(44) "Protective Cushioning" means a shock-absorbing surface under and around play equipment that reduces the severity of injuries from falls.
+(45) "Provider" means the legally responsible person or business that holds a valid license from Child Care Licensing.
+
+(46) "Qualifying Child" means:
+(a) a child who is younger than 13 years old and is the child
+of a person other than the child care provider or caregiver, (b) achildwithadisabilitywhoisyoungerthan18yearsold
+and is the child of a person other than the provider or
+caregiver, or
+(c) a child who is younger than 4 years old and is the child
+of the provider or a caregiver.
+(47) "Related Child" means a child for whom a provider is the parent,
+legal guardian, step-parent, grandparent, step-grandparent, great-grandparent, sibling, step-sibling, aunt, step-aunt, great-aunt, uncle, step-uncle, or great-uncle.
+(48) "Sanitize" means to use a chemical product to remove soil and bacteria from a surface or object.
+(49) "School-Age Child" means a child age 5 through 12 years old. (50) "Sexual Abuse" means abuse as defined in Utah Code, Title
+76-5-404(1).
+(51) "Sexually Explicit Material" means any depiction of sexually
+explicit conduct as defined in Utah Code, Title 76-5b-103(10). (52) "Sleeping Equipment" means a cot, mat, crib, bassinet,
+porta-crib, playpen, or bed.
+(53) "Stationary Play Equipment" means equipment such as a climber,
+slide, swing, merry-go-round, or spring rocker that is meant to stay in one location when a child uses it. Stationary play equipment does not include:
+(a) a sandbox;
+(b) a stationary circular tricycle;
+(c) a sensory table; or
+(d) a playhouse that sits on the ground or floor and has no
+attached equipment, such as a slide, swing, or climber. (54) "StrangulationHazard"meanssomethingonwhichachild'sclothes or drawstrings could become caught, or something in which a child
+could become entangled such as:
+(a) aprotrudingboltendthatextendsmorethan2threadsbeyond
+the face of the nut;
+(b) hardwarethatformsahookorleavesagaporspacebetween
+components such as a protruding S-hook; or
+(c) arope,cord,orchainthatisattachedtoastructureand
+is long enough to encircle a child's neck.
+(55) "Substitute" means a person who assumes a caregiver's duties
+when the caregiver is not present.
+(56) "Toddler" means a child age 12 through 23 months.
+(57) "Unrelated Child" means a child who is not a "related child"
+as defined in R381-100-2(46).
+(58) "Unsupervised Contact" means being with, caring for,
+communicating with, or touching a child in the absence of a caregiver or other employee who is at least 18 years old and has passed a Child Care Licensing background check.
+(59) "UseZone"meanstheareabeneathandsurroundingaplaystructure or piece of equipment that is designated for unrestricted movement around the equipment, and onto which a child falling from or exiting the equipment could be expected to land.
+(60) "Volunteer" means an individual who receives no form of direct or indirect compensation for their service.
+
+(61) "Working Days" means the days of the week the Department is open for business.
+(1) A person or persons shall be licensed as a child care center if they provide care:
+(a) in the absence of the child's parent,
+(b) in a place other than the provider's home or the child's
+R381-100-3 License Required
+home,
+(c) for 5 or more children,
+(d) for 4 or more hours per day,
+(e) foreachindividualchildforlessthan24hoursperday,
+(f) on an ongoing basis for 4 or more weeks in a year, and
+(g) for direct or indirect compensation.
+(2) TheDepartmentmaynotlicense,norisalicenserequiredfor: (a) a person who cares for related children only, or
+(b) a person who provides care on a sporadic basis only.
+(3) According to Foster Care Services rule R501-12-4(8)(f), a provider may not be licensed to provide child care in
+a facility that is also licensed to offer foster or respite care services, or another licensed or certified human services program.
+R381-100-4 License Application, Renewal, Changes, and Variances
+(1) An applicant for a new child care license shall submit to the Department:
+(a) an online application;
+(b) a copy of a current local fire clearance or a statement
+from the local fire authority that a fire inspection is
+not required;
+(c) a copy of a current local health department kitchen
+clearance for a facility providing food service or a statement from the local health department that a kitchen inspection is not required;
+(d) acopyofacurrentlocalbusinesslicenseorastatement from the city that a business license is not required;
+(e) a copy of the educational credentials of the person who will be the director as required in R381-100-7(4);
+(f) a copy of a completed Department health and safety plan
+form;
+(g) CCL background checks for all covered individuals as
+required in R381-100-8;
+(h) a current copy of the Department's new provider training
+certificate of attendance; and
+(i) all required fees, which are nonrefundable.
+(2) The applicant shall pass a Department's inspection of the facility before a new license or a renewal is issued.
+
+(3) If the local fire authority states that a fire inspection is not required, a Department's CCL inspection for a new license or a renewal of a license shall include compliance with the following:
+(a) addressnumbersand/orlettersshallbereadablefromthe street;
+(b) addressnumbersand/orlettersshallbeatleast4inches in height and 1/2 inch thick;
+(c) exit doors shall operate properly and shall be well maintained;
+(d) obstructions in exits, aisles, corridors, and stairways shall be removed;
+(e) exitdoorsshallbeunlockedfromtheinsideduringbusiness hours;
+(f) exits shall be clearly identified;
+(g) there shall be unobstructed fire extinguishers that are
+of an X minimum rate and appropriate to the type of hazard, currently charged and serviced, and mounted not more than 5 feet above the floor;
+(h) there shall be working smoke detectors that are properly installed on each level of the building; and
+(i) boiler, mechanical, and electrical panel rooms shall not be used for storage.
+(4) Iftheproviderservesfoodandthelocalhealthdepartmentstates that a kitchen inspection is not required, a Department's CCL inspection for a new license or a renewal of a license shall include compliance with the following:
+(a) therefrigeratorshallbeclean,ingoodrepair,andworking at or below 41 degrees Fahrenheit;
+(b) thereshallbeaworkingthermometerintherefrigerator;
+(c) thereshallbeaworkingstemthermometeravailabletocheck
+cook and hot hold temperatures;
+(d) cooksshallhaveacurrentfoodhandler'spermitavailable
+on-site for review by the Department;
+(e) cooks shall use hair restraints and wear clean outer
+clothing;
+(f) accordingtoFoodCode2-103-11,onlynecessarystaffshall
+be present in the kitchen;
+(g) reusable food holders, utensils, and food preparation
+surfaces shall be washed, rinsed, and sanitized with an
+approved sanitizer before each use;
+(h) chemicalsshallbestoredawayfromfoodandfoodservice
+items;
+(i) food shall be properly stored, kept to the proper
+temperature, and in good condition; and
+(j) there shall be a working handwashing sink in the kitchen
+and handwashing instructions posted by the sink.
+(5) Iftheapplicantdoesnotcompletetheapplicationprocesswithin
+6 months of first submitting any portion of the application, the Department may deny the application and to be licensed, the applicant shall reapply. This includes resubmitting all required documentation, repaying licensing fees, and passing another inspection of the facility.
+
+(6) TheDepartmentmaydenyanapplicationforalicenseif,within the 5 years preceding the application date, the applicant held a license or a certificate that was:
+(a) closed under an immediate closure;
+(b) revoked;
+(c) closedasaresultofasettlementagreementresultingfrom
+a notice of intent to revoke, a notice of revocation, or
+a notice of immediate closure;
+(d) voluntarilyclosedafteraninspectionofthefacilityfound
+rule violations that would have resulted in a notice of intent to revoke or a notice of revocation had the provider not closed voluntarily; or
+(e) voluntarily closed having unpaid fees or civil money penalties issued by the Department.
+(7) Eachchildcarelicenseexpiresatmidnightonthelastdayof the month shown on the license, unless the license was previously revoked by the Department, or voluntarily closed by the provider.
+(8) Within 30 to 90 days before a current license expires, the provider shall submit for renewal:
+(a) an online renewal request,
+(b) applicable renewal fees,
+(c) any previous unpaid fees,
+(d) a copy of a current business license,
+(e) a copy of a current fire inspection report, and (f) a copy of a current kitchen inspection report.
+(9) A provider who fails to renew their license by the expiration date may have an additional 30 days to complete the renewal process if they pay a late fee.
+(10) The Department may not renew a license for a provider who is no longer caring for children.
+(11) Theprovidershallsubmitacompleteapplicationforanewlicense at least 30 days before any of the following changes occur: (a) a change of the child care facility's location, or
+(b) a change that transfers 50 percent or more ownership or
+controlling interest to a new individual or entity. (12) The provider shall submit a complete application to amend an
+existing license at least 30 days before any of the following changes:
+(a) an increase or decrease of licensed capacity, including
+any change to the amount of usable indoor or outdoor space
+where child care is provided;
+(b) a change in the name of the program;
+(c) a change in the regulation category of the program;
+(d) a change in the name of the provider;
+(e) an addition or loss of a director; or
+(f) achangeinownershipthatdoesnotrequireanewlicense.
+(13) The Department may amend a license after verifying that the applicant is in compliance with all applicable rules and required feeshavebeenpaid. Theexpirationdateoftheamendedlicense remains the same as the previous license.
+(14) A license is not assignable or transferable and shall only be amended by the Department.
+
+(15) If an applicant or provider cannot comply with a rule but can meet the intent of the rule in another way, they may apply for a variance to that rule by submitting a request to the Department.
+(16) The Department may:
+(a) require additional information before acting on the
+variance request, and
+(b) impose health and safety requirements as a condition of
+granting a variance.
+(17) The provider shall comply with the existing rule until a variance
+is approved.
+(18) If a variance is approved, the provider shall keep a copy of
+the written approval on-site for review by parents and the
+Department.
+(19) The Department may grant variances for up to 12 months.
+(20) The Department may revoke a variance if:
+(a) theproviderisnotmeetingtheintentoftheruleasstated in their approved variance;
+(b) the provider fails to comply with the conditions of the variance; or
+(c) a change in statute, rule, or case law affects the basis for the variance.
+R381-100-5 Rule Violations and Penalties
+(1) The Department may place a program's child care license on a conditional status for the following causes:
+(a) chronic, ongoing noncompliance with rules;
+(b) unpaid fees; or
+(c) aseriousruleviolationthatplaceschildren'shealthor safety in immediate jeopardy.
+(2) The Department shall establish the length of the conditional status and set the conditions that the child care provider shall satisfy to remove the conditional status.
+(3) The Department may increase monitoring of the program that is on conditional status to verify compliance with rules.
+(4) The Department may deny or revoke a license if the child care provider:
+(a) fails to meet the conditions of a license on conditional status;
+(b) violates the Child Care Licensing Act;
+(c) providesfalseormisleadinginformationtotheDepartment;
+(d) misrepresents information by intentionally altering a
+license or any other document issued by the Department; (e) refuses to allow authorized representatives of the
+Department access to the facility to ensure compliance with
+rules;
+(f) refusestosubmitormakeavailabletotheDepartmentany
+written documentation required to verify compliance with
+rules;
+(g) commitsaseriousruleviolationthatresultsindeathor
+serious harm to a child, or that places a child at risk
+of death or serious harm; or
+(h) has committed an illegal act that would exclude a person
+from having a license.
+
+(5) Within 10 working days of receipt of a revocation notice, the provider shall submit to the Department the names and mailing addresses of the parents of each enrolled child so the Department can notify the parents of the revocation.
+(6) The Department may order the immediate closure of a facility if conditions create a clear and present danger to any child in care and may require immediate action to protect their health or safety.
+(7) Uponreceiptofanimmediateclosurenotice,theprovidershall give the Department the names and mailing addresses of the parents of each enrolled child so the Department can notify the parents of the immediate closure.
+(8) If there is a severe injury or the death of a child in care, the Department may order the child care provider to suspend services and/or prohibit new enrollments, pending a review by the Child Fatality Review Committee or a determination of the probable cause of death or injury by a medical professional.
+(9) Ifapersonisprovidingcareformorethan4unrelatedchildren without the appropriate license, the Department may:
+(a) issue a cease and desist order, or
+(b) allow the person to continue operation if:
+(i) the person was unaware of the need for a license, (ii) conditions do not create a clear and present danger
+to the children in care, and
+(iii)the person agrees to apply for the appropriate license
+within 30 calendar days of notification by the
+Department.
+(10) If a person providing care without the appropriate license agrees
+to apply for a license but does not submit an application and all required application documents within 30 days, the Department may issue a cease and desist order.
+(11) A violation of any rule is punishable by an administrative civil money penalty of up to $5,000 per day as provided in Utah Code, Section 26-39-601.
+(12) Assessment of any civil money penalty does not prevent the Department from also taking action to deny, place on conditional status, revoke, immediately close, or refuse to renew a license.
+(13) Assessment of any administrative civil money penalty under this section does not prevent court-ordered or other equitable remedies.
+(14) The Department may deny an application or revoke a license for failure to pay any required fees, including fees for applications, late fees, returned checks, license changes, additional inspections, conditional monitoring inspections, background checks, civil money penalties, and other fees assessed by the Department.
+(15) An applicant or provider may appeal any Department decision within 15 working days of being informed in writing of the decision.
+
+R381-100-6 Administration and Children's Records
+(1) The provider shall:
+(a) be at least 21 years of age,
+(b) pass a CCL background check, and
+(c) complete the new provider training offered by the
+Department.
+(2) Iftheownerisnotasoleproprietor,thebusinessentityshall
+submit to the Department the name(s) and contact information of the individual(s) who shall legally represent them and who shall comply with the requirements stated in R381-100-6(1).
+(3) Theprovidershallnotengageinorallowconductthatendangers children in care; or is contrary to the health, morals, welfare, and safety of the public.
+(4) Theprovidershallhaveknowledgeofandcomplywithallfederal, state, and local laws, ordinances, and rules, and shall be responsible for the operation and management of a child care program.
+(5) Theprovidershallcomplywithlicensingrulesatalltimeswhen a child in care is present.
+(6) Theprovidershallposttheoriginalchildcarelicenseonthe facility premises in a place readily visible and accessible to the public.
+(7) TheprovidershallpostacopyoftheDepartment'sParentGuide at the facility for parent review during business hours.
+(8) The provider shall inform parents and the Department of any changes to the program's telephone number and other contact information within 48 hours of the change.
+(9) Theprovidershallestablish,follow,andensurethatallstaff and volunteers follow a written health and safety plan that is: (a) completed on the Department's required form,
+(b) submitted to the Department for initial approval and any
+time changes are made to the plan, (c) reviewed and updated as needed,
+(d) signed and dated at least annually, and
+(e) availableforreviewbyparents,staff,andtheDepartment
+during business hours. (10) The provider shall:
+(a) have liability insurance, or
+(b) informparentsinwritingthattheproviderdoesnothave
+liability insurance.
+(11) The provider shall ensure that each parent completes an admission
+and health assessment form for their child before the child is
+admitted into the child care program.
+(12) The admission and health assessment form shall include the
+following information:
+(a) child's name;
+(b) child's date of birth;
+(c) parent's name, address, and phone number, including a
+daytime phone number;
+(d) names of people authorized by the parent to pick up the
+child;
+(e) name,address,andphonenumberofapersontobecontacted
+in case of an emergency if the provider is unable to contact the parent;
+
+(f) if available, the name, address, and phone number of an out-of-area emergency contact person for the child;
+(g) current emergency medical treatment and emergency transportation releases with the parent's signature;
+(h) any known allergies of the child;
+(i) any known food sensitivities of the child;
+(j) any chronic medical conditions that the child may have;
+(k) instructions for special or nonroutine daily health care
+of the child;
+(l) currentongoingmedicationsthatthechildmaybetaking;
+and
+(m) any other special health instructions for the caregiver.
+(13) The admission and health assessment form shall:
+(a) bereviewed,updated,andsignedorinitialedbytheparent
+at least annually; and
+(b) kept on-site for review by the Department.
+(14) Before admitting any child younger than 5 years of age into the child care program, including the provider's and employees' own children, the provider shall obtain the following documentation from the child's parent:
+(a) current immunizations, as required by Utah law;
+(b) a medical schedule to receive required immunizations; (c) a legal exemption; or
+(d) a 90-day exemption for children who are homeless.
+(15) For each child younger than 5 years of age, including the provider's and employees' own children, the provider shall keep their current immunization records on-site for review by the Department.
+(16) The provider shall submit the annual immunization report to the Immunization Program in the Utah Department of Health by the date specified by the Department.
+(17) Each child's information shall be kept confidential and shall not be released without written parental permission.
+R381-100-7 Personnel and Training Requirements
+(1) Theprovidershallensurethatallemployeesandvolunteersare supervised, qualified, and trained to:
+(a) meet the needs of the children as required by rule, and (b) be in compliance with all licensing rules.
+(2) Theprovidershallensurethatthecenterhasaqualifieddirector as required by licensing rules.
+(3) The director shall:
+(a) be at least 21 years of age;
+(b) pass a CCL background check;
+(c) receive at least 2.5 hours of preservice training before
+beginning job duties;
+(d) completethenewdirectortrainingofferedbytheDepartment
+within 60 working days of assuming director duties;
+(e) haveknowledgeofandfollowallapplicablelawsandrules;
+and
+(f) completeatleast20hoursofchildcaretrainingeachyear,
+based on the facility's license date.
+
+(4) New directors shall have one of the following educational credentials:
+(a) any bachelor's or higher education degree, and at least 60 clock hours of approved Utah Early Childhood Career Ladder courses in child development, social/emotional development, and the child care environment; or 60 clock hours of equivalent training as approved by the Department;
+(b) at least 12 college credit hours of child development courses;
+(c) acurrentlyvalidnationalcertificationsuchasaCertified Childcare Professional (CCP) issued by the National Child Care Association, a Child Development Associate (CDA) issued by the Council for Early Childhood Professional Recognition, or other equivalent credential as approved by the Department;
+(d) at least a Level 9 from the Utah Early Childhood Career Ladder system; or
+(e) aNationalAdministratorCredential(NAC)andatleast60 clock hours of approved Utah Early Childhood Career Ladder courses in child development, social/emotional development, and the child care environment; or 60 clock hours of equivalent training as approved by the Department.
+(5) The director shall be on duty at the facility for at least 20 hours per week during operating hours and have sufficient freedom from other responsibilities to manage the center and respond to emergencies.
+(6) Thedirectorshallarrangeforadesigneewhoshallhaveauthority to act on behalf of the director in the director's absence.
+(7) The director designee shall:
+(a) be at least 21 years of age;
+(b) pass a CCL background check;
+(c) receive at least 2.5 hours of preservice training before
+beginning job duties;
+(d) haveknowledgeofandfollowallapplicablelawsandrules;
+and
+(e) completeatleast20hoursofchildcaretrainingeachyear,
+based on the facility's license date.
+(8) The director or the director designee shall be present at the
+facility whenever the center is open for care. (9) Caregivers shall:
+(a) be at least 16 years old;
+(b) pass a CCL background check;
+(c) receive at least 2.5 hours of preservice training before
+caring for children;
+(d) haveknowledgeofandfollowallapplicablelawsandrules;
+and
+(e) completeatleast20hoursofchildcaretrainingeachyear,
+based on the facility's license date.
+
+(10) Substitutes shall:
+(a) be at least 18 years old;
+(b) pass a CCL background check;
+(c) be capable of providing care, supervising children, and
+handling emergencies in the caregiver's absence;
+(d) receive at least 2.5 hours of preservice training before
+caring for children; and
+(e) completeatleast1.5hoursofchildcaretrainingforeach
+month they work 40 hours or more.
+(11) All other employees such as drivers, cooks, and clerks shall:
+(a) pass a CCL background check,
+(b) receive at least 2.5 hours of preservice training before
+beginning job duties,
+(c) haveknowledgeofandfollowallapplicablelawsandrules.,
+ and
+(d) not have unsupervised contact with any child in care if
+the employee is younger than 16 years of age. (12) Volunteers shall:
+(a) pass a CCL background check, and
+(b) not have unsupervised contact with any child in care if
+the volunteer is younger than 18 years of age. (13) Guests:
+(a) shallnothaveunsupervisedcontactwithanychildincare, (b) shall wear a guest nametag, and
+(c) are not required to pass a CCL background check.
+(14) Student interns who are registered and participating in a high school or college child care course:
+(a) are not required to pass a CCL background check,
+(b) shallnothaveunsupervisedcontactwithanychildincare,
+and
+(c) shall wear a guest nametag.
+(15) Parents of children in care:
+(a) shallnothaveunsupervisedcontactwithanychildincare
+except their own, and
+(b) do not need a CCL background check unless involved with
+child care in the center. (16) Household members who are:
+(a) 12 to 17 years old shall pass a CCL background check; (b) 18yearsofageoroldershallpassaCCLbackgroundcheck
+that includes fingerprints; and
+(c) younger than 18 years of age shall not have unsupervised
+contact with any child in care including during offsite
+activities and transportation.
+(17) Individuals who provide IEP or IFSP services such as physical,
+occupational, or speech therapists:
+(a) are not required to have a CCL background check as long
+as the child's parent has given permission for services
+to take place at the center, and
+(b) shall provide proper identification before having access
+to the facility or a child at the facility.
+(18) Members from law enforcement or from Child Protective Services:
+(a) are not required to have a CCL background check, and (b) shall provide proper identification before having access
+to the facility or a child at the facility.
+
+(19) Preservice training shall include the following:
+(a) job description and duties;
+(b) current Department rule sections R381-100-7 through 24; (c) the Department-approved health and safety plan that
+includes preparing for and responding to emergencies; (d) prevention,signsandsymptomsofchildabuseandneglect,
+including child sexual abuse, and legal reporting
+requirements;
+(e) preventionofshakenbabysyndromeandabusiveheadtrauma,
+and coping with crying babies;
+(f) preventionofsuddeninfantdeathsyndrome(SIDS)andthe
+use of safe sleeping practices;
+(g) recognizing the signs of homelessness and available
+assistance;
+(h) a review of the information in each child's health
+assessment in the caregiver's assigned group; and
+(i) an introduction and orientation to the children in care.
+(20) Documentation of each individual's preservice training shall be kept on-site for review by the Department and include the following:
+(a) training topics,
+(b) date of the training, and
+(c) total hours or minutes of training.
+(21) Annual child care training shall include the following topics:
+(a) current Department rule sections R381-100-7 through 24; (b) the Department-approved health and safety plan that
+includes preparing for and responding to emergencies; (c) the prevention, signs and symptoms of child abuse and
+neglect, including child sexual abuse, and legal reporting
+requirements;
+(d) principlesofchildgrowthanddevelopment,includingbrain
+development;
+(e) positive guidance and interactions with children;
+(f) preventionofshakenbabysyndromeandabusiveheadtrauma,
+and coping with crying babies;
+(g) preventionofsuddeninfantdeathsyndrome(SIDS)anduse
+of safe sleeping practices; and
+(h) recognizing the signs of homelessness and available
+assistance.
+(22) At least 10 of the 20 hours of annual child care training shall
+be face-to-face instruction.
+(23) Individuals who are required to receive annual child care
+training and who begin employment partway through the facility's license year shall complete a proportionate number of training hours including the face-to-face instruction.
+
+(24) Documentation of each individual's annual child care training shall be kept on-site for review by the Department and include the following:
+(a) training topic,
+(b) date of the training,
+(c) whetherthetrainingwasface-to-faceornon-face-to-face
+instruction,
+(d) name of the person or organization that presented the
+training, and
+(e) total hours or minutes of training.
+(25) Whenever there are children at the center, there shall be at least one caregiver present who can demonstrate English literacy skills needed to care for children and respond to emergencies.
+(26) At least one staff member with a current Red Cross, American Heart Association, or equivalent first aid and infant/child CPR certification shall be present when children are in care: (a) at the facility,
+(b) in each vehicle transporting children, and
+(c) at each offsite activity.
+(27) CPR certification shall include hands-on testing.
+(28) The following records for each covered individual shall be kept
+on-site for review by the Department:
+(a) the date of initial employment or association with the
+program;
+(b) acurrentfirstaidandCPRcertification,ifrequiredin
+rule; and
+(c) a six-week record of the times worked each day.
+R381-100-8 Background Checks
+(1) Beforeanewcoveredindividualbecomesinvolvedwithchildcare in the program, the provider shall:
+(a) havetheindividualsubmitanonlinebackgroundcheckform, (b) authorize the individual’s background check form,
+(c) pay all required fees, and
+(d) receivewrittennoticefromCCLthattheindividualpassed
+the background check.
+(2) Theprovidershallensurethatanonlinebackgroundcheckform
+is submitted and authorized, and that background check fees are paid within 10 working days from when a child who resides in the facility turns 12 years old.
+(3) TheprovidershallensurethataCCLbackgroundcheckforeach individual age 18 years or older includes fingerprints and fingerprints fees.
+(4) The fingerprints shall be prepared by a local law enforcement agency or an agency approved by local law enforcement.
+(5) If fingerprints are submitted through Live Scan (electronically), the agency taking the fingerprints shall follow the Department's guidelines.
+(6) Fingerprints are not required if the covered individual has: (a) previously submitted fingerprints to CCL for a Next
+Generation, national criminal history check;
+(b) resided in Utah continuously since the fingerprints were
+submitted; and
+(c) kept their CCL background check current.
+
+(7) Backgroundchecksarevalidfor1yearandshallberenewedbefore the last day of the month listed on the covered individual's background check card.
+(8) At least 2 weeks before the end of the renewal month that is written on a covered individual's background check card, the provider shall:
+(a) havetheindividualsubmitanonlineCCLbackgroundcheck
+form and fingerprints if not previously submitted,
+(b) authorize the individual's background check form through
+the provider portal, and (c) pay all required fees.
+(9) Thefollowingbackgroundfindingsmaydenyacoveredindividual from being involved with child care:
+(a) LIS supported findings,
+(b) theindividual'snameappearsontheUtahornationalsex
+offender registry,
+(c) any felony convictions,
+(d) any Misdemeanor A convictions, or
+(e) MisdemeanorBandCconvictionsforthereasonslistedin
+R381-100-8(10).
+(10) The following convictions, regardless of severity, may result
+in a background check denial:
+(a) unlawful sale or furnishing alcohol to minors;
+(b) sexual enticing of a minor;
+(c) cruelty to animals, including dogfighting;
+(d) bestiality;
+(e) lewdness, including lewdness involving a child;
+(f) voyeurism;
+(g) providing dangerous weapons to a minor;
+(h) a parent providing a firearm to a violent minor;
+(i) a parent knowing of a minor's possession of a dangerous
+weapon;
+(j) sales of firearms to juveniles;
+(k) pornographic material or performance;
+(l) sexual solicitation;
+(m) prostitution and related crimes;
+(n) contributing to the delinquency of a minor;
+(o) any crime against a person;
+(p) a sexual exploitation act;
+(q) leaving a child unattended in a vehicle; and
+(r) drivingundertheinfluence(DUI)whileachildispresent
+in the vehicle.
+(11) A covered individual with a Class A misdemeanor background
+finding not listed in R381-100-8(10) may be involved with child care when:
+(a) 10ormoreyearshavepassedsincetheClassAmisdemeanor
+offense, and
+(b) thereisnootherconvictionfortheindividualinthepast
+10 years.
+
+(12) A covered individual with a Class A misdemeanor background finding not listed in R381-100-8(10) may be involved with child care for up to 6 months if:
+(a) 5 to 9 years have passed since the offense,
+(b) thereisnootherconvictionsincetheClassAmisdemeanor offense,
+(c) the individual provides to the Department documentation of an active petition for expungement, and
+(d) the provider ensures that the individual does not have unsupervised contact with any child in care.
+(13) If a petition for expungement is denied, the covered individual shall no longer be involved with child care.
+(14) A covered individual shall not be denied if the only background finding is a conviction or plea of no contest to a nonviolent drug offense that occurred 10 or more years before the CCL background check was conducted.
+(15) The Department may rely on the criminal background check findings as conclusive evidence of the arrest warrant, arrest, charge, or conviction; and the Department may revoke, suspend, or deny a license or employment based on that evidence.
+(16) If the provider has a background check denial, the Department may suspend or deny their license until the reason for the denial is resolved.
+(17) If a covered individual fails to pass a CCL background check, including that the individual has been convicted, has pleaded no contest, or is currently subject to a plea in abeyance or diversion agreement for a felony or misdemeanor, the provider shall prohibit that individual from being employed by the child care program or residing at the facility until the reason for the denial is resolved.
+(18) If a covered individual is denied a license or employment based upon the criminal background check and disagrees with the information provided by the Department of Public Safety, the covered individual may appeal the information as provided in Utah Code, Sections 77-18-10 through 77-18-14 and 77-18a-1.
+(19) If a covered individual disagrees with a supported finding on the Department of Human Services Licensing Information System (LIS):
+(a) theindividualcannotappealthesupportedfindingtothe
+Department of Health, and
+(b) the covered individual may appeal the finding to the
+Department of Human Services and follow the process
+established by the Department of Human Services.
+(20) Within 48 hours of becoming aware of a covered individual's
+arrest warrant, felony or misdemeanor arrest, charge, conviction, or supported LIS finding, the provider and the covered individual shall notify the Department. Failure to notify the Department within 48 hours may result in disciplinary action, including revocation of the license.
+(21) The Executive Director of the Department of Health may overturn a background check denial when the Executive Director determines that the nature of the background finding or mitigating circumstances do not pose a risk to children.
+
+R381-100-9 Facility
+(1) Thereshallbeatleast35squarefeetofindoorspaceforeach child in care, including the provider's and employees' children. (2) Indoorspaceperchildmayincludefloorspaceusedforfurniture, fixtures, or equipment if the furniture, fixture, or equipment
+is used:
+(a) by children,
+(b) for the care of children, or (c) to store classroom materials.
+(3) Thefollowingareasarenotincludedwhenmeasuringindoorspace for children's use:
+(a) bathrooms,
+(b) closets and staff lockers, (c) hallways,
+(d) lobbies and entryways, (e) kitchens, and
+(f) staff offices.
+(4) The maximum allowed capacity for a child care facility may be limited by local ordinances.
+(5) Thenumberofchildrenincareatanygiventimeshallnotexceed the capacity identified on the license.
+(6) The provider shall ensure that any building or play structure on the premises constructed before 1978 that has peeling, flaking, chalking, or failing paint is tested for lead. If lead-based paint is found, the provider shall contact their local health department within 5 working days and follow required procedures for remediation of the lead hazard.
+(7) Each room and indoor area that is used by children shall be ventilated by mechanical ventilation, or by windows that open and have screens.
+(8) Windowsandglassdoorswithin36inchesfromthefloororground shall be made of safety or tempered glass, or have a protective guard.
+(9) Allroomsandareasshallhaveadequatelightintensityforthe safety of the children and the type of activity being conducted.
+(10) The provider shall maintain the indoor temperature between 65
+and 82 degrees Fahrenheit.
+(11) There shall be a working telephone at the facility, in each
+vehicle while transporting children, and during offsite
+activities.
+(12) There shall be a working handwashing sink in each classroom or
+next to each classroom in buildings constructed after 1 July
+1997.
+(13) Each area where infants or toddlers are cared for shall meet
+one of the following criteria:
+(a) Thereshallbe2workingsinksintheroom. Onesinkshall
+be used exclusively for the preparation of food and bottles and handwashing before food preparation, and the other sink shall be used only for handwashing after diapering and nonfood activities.
+(b) There shall be 1 working sink that is used only for handwashing in the room, and all bottle and food preparation shall be done in the kitchen and brought to the infant and toddler area by a non-diapering staff member.
+
+(14) For preschoolers and toddlers who are toilet trained, there shall be 1 working toilet and 1 working sink for every fifteen children inthecenter. Forschool-agechildren,thereshallbe1working toilet and 1 working sink for every 25 children in the center.
+(15) A bathroom that provides privacy shall be available for use by school-age children.
+(16) There shall be an outdoor area that is safely accessible to children.
+(17) The outdoor area shall have at least 40 square feet of space for each child using the area at one time.
+(18) The total square footage of the outdoor area shall accommodate at least one-third of the approved capacity at one time or shall be at least 1600 square feet.
+(19) The outdoor area shall be enclosed within a fence, wall, or solid natural barrier that is at least 4 feet high.
+(20) When children are outdoors, they shall be in the enclosed area except during offsite activities.
+(21) There shall be no gap 5 by 5 inches or greater in or under the fence or barrier.
+(22) Whenever there are children in the outdoor area, there shall be shade available to protect them from excessive sun and heat.
+(23) If there is a swimming pool on the premises that is not emptied
+after each use:
+(a) the provider shall meet applicable state and local laws
+and ordinances related to the operation of a swimming pool
+and maintain the pool in a safe manner; and
+(b) whennotinuse,thepoolshallbeenclosedwithinatleast a 4-foot-high fence or solid barrier that is kept locked
+and that separates the pool from any other areas on the premises, or covered with an approved enclosure that meets the ASTM F1346 standard.
+(24) The provider shall maintain buildings and outdoor areas in good repair and safe condition including:
+(a) ceilings, walls, and floor coverings;
+(b) lighting, bathroom, and other fixtures;
+(c) draperies, blinds, and other window coverings;
+(d) indoor and outdoor play equipment;
+(e) furniture,toys,andmaterialsaccessibletothechildren;
+and
+(f) entrances, exits, steps, and walkways including keeping
+them free of ice, snow, and other hazards.
+(25) Accessible raised decks or balconies that are 5 feet or higher,
+and open basement stairwells that are 5 feet or deeper shall have protective barriers that are at least 3 feet high.
+
+(26) If the facility is subdivided, any part of the building is rented out, or any area of the facility is shared including the outdoor area, the entire facility shall be inspected and covered individuals in the facility shall comply with all rules, except when all of the following conditions are met:
+(a) there is a separate entrance for the child care program; (b) therearenoconnectinginteriordoorwaysthatcanbeused
+by unauthorized individuals; and
+(c) thereisnosharedaccesstotheoutdoorareausedforchild
+care, or a qualified caregiver is present when children are using a shared outdoor area of the facility.
+R381-100-10 Ratios and Group Size
+(1) As listed in Table 1 for single-age groups of children, the provider shall:
+(a) maintainatleastthenumberofcaregiversandnotexceed the number of children in the caregiver-to-child ratio, and
+(b) not exceed the group sizes.
+TABLE 1 Caregiver-to-Child Ratios and Group Sizes
+Ages of Children
+  # of Caregivers
+   # of Children
+   Group Size
+    birth - 23 months
+  1
+   4
+   8
+    2 years old
+   1
+     7
+     14
+      3 years old
+ 1
+ 12
+ 24
+  4 years old
+  1
+   15
+   30
+    School-age
+  1
+    20
+    40
+    (2) AslistedinTables2-13formixed-agegroupsofchildren,the provider shall:
+(a) maintainatleastthenumberofcaregiversandnotexceed the number of children in the caregiver-to-child ratio, and
+(b) not exceed the group sizes.
+TABLE 2
+Older Toddlers and Two-year-olds
+# Caregivers Required
+   Age
+     # Children Present
+   1
+    18 to 23 months
+     1-3
+  2
+        1-6
+   Total children: up to 7
+    2
+     18 to 23 months
+     1-6
+  2
+        1-13
+   Total children: up to 14
+     
+TABLE 3 Two-year-olds and Three-year-olds
+TABLE 4 Two-year-olds and Four-year-olds
+TABLE 5
+Two-year-olds and Five-twelve Year-olds
+TABLE 6 Three-year-olds and Four-year-olds
+TABLE 7
+Three-year-olds and Five-to-twelve-year-olds
+# Caregivers Required
+   Age
+        # Children Present
+      1
+    2
+  1-6
+ 3
+        1-9
+     Total children: up to 10
+    2
+    2
+     1-13
+   3
+        1-19
+     Total children: up to 20
+   # Caregivers Required
+   Age
+        # Children Present
+      1
+    2
+  1-6
+ 4
+        1-10
+     Total children: up to 11
+    2
+    2
+     1-13
+   4
+        1-21
+     Total children: up to 22
+   # Caregivers Required
+   Age
+      # Children Present
+    1
+    2
+  1-6
+ 5-12
+      1-13
+   Total children: up to 14
+    2
+    2
+    1-13
+  5-12
+      1-27
+   Total children: up to 28
+   # Caregivers Required
+   Age
+        # Children Present
+      1
+    3
+  1-11
+ 4
+        1-13
+     Total children: up to 14
+    2
+    3
+     1-23
+   4
+        1-27
+     Total children: up to 28
+   # Caregivers Required
+   Age
+      # Children Present
+    1
+    3
+  1-11
+ 5-12
+      1-15
+   Total children: up to 16
+    2
+    3
+    1-23
+  5-12
+      1-31
+   Total children: up to 32
+   
+TABLE 8
+Four-year-olds and Five-to-twelve-year-olds
+TABLE 9
+Two-year-olds, Three-year-olds, and Four-year-olds
+TABLE 10
+Two-year-olds, Three-year-olds, and Five-to-twelve-year-olds
+TABLE 11
+Two-year-olds, Four-year-olds, and Five-to-twelve-year-olds
+# Caregivers Required
+   Age
+      # Children Present
+    1
+    4
+  1-14
+ 5-12
+      1-17
+   Total children: up to 18
+    2
+    4
+    1-29
+  5-12
+      1-35
+   Total children: up to 36
+   # Caregivers Required
+   Age
+        # Children Present
+      1
+      2
+  1-6
+ 3
+     1-9
+   4
+        1-9
+     Total children: up to 11
+    2
+       2
+     1-13
+   3
+        1-20
+     4
+     1-20
+   Total children: up to 22
+     # Caregivers Required
+   Age
+    # Children Present
+   1
+       2
+      1-6
+   3
+  1-11
+ 5-12
+      1-11
+   Total children: up to 13
+   2
+       2
+    1-13
+  3
+    1-24
+  5-12
+      1-24
+   Total children: up to 26
+     # Caregivers Required
+   Age
+    # Children Present
+   1
+      2
+    1-6
+  4
+      1-12
+   5-12
+    1-12
+  Total: up to 14
+    2
+      2
+      1-13
+   4
+  1-26
+ 5-12
+      1-26
+   Total children: up to 28
+   
+TABLE 12
+Three-year-olds, Four-year-olds, and Five-to-twelve-year-olds
+# Caregivers Required
+   Age
+      # Children Present
+    1
+      3
+  1-11
+ 4
+    1-14
+  5-12
+      1-14
+   Total: up to 16
+    2
+       3
+    1-23
+  4
+      1-30
+   5-12
+    1-30
+  Total children: up to 32
+     TABLE 13
+Two-year-olds, Three-year-olds, Four-year-olds, and Five-to-twelve-year-olds
+# Caregivers Required
+   Age
+      # Children Present
+    1
+        2
+  1-6
+ 3
+    1-11
+  4
+      1-11
+   5-12
+    1-11
+  Total children: up to 14
+    2
+         2
+      1-13
+   3
+  1-25
+ 4
+    1-25
+  5-12
+      1-25
+   Total children: up to 28
+     (3) Infants and toddlers may be included in mixed-age groups only when 8 or fewer children are present in the group.
+(4) Ifmorethan2childrenwhoareyoungerthan24monthsoldare included in a mixed-age group, and the group has more than 4 children, there shall be at least 2 caregivers with the group.
+(5) During nap time only, the caregiver-to-child ratio may double if:
+(a) all children in the group are at least 18 months old,
+(b) all children in the group are in a restful and nonactive
+state, and
+(c) thecaregiversupervisingthenappingchildrenisableto
+contact another on-site caregiver without leaving the
+children unattended.
+(6) Thereshallbeatleast2caregiverspresentwhenthereisonly
+one group of children on the premises and that group has more
+than 8 children, or more than 2 infants or toddlers.
+(7) The provider's or an employee's child age 4 years or older is not counted in the caregiver-to-child ratio when the parent of
+the child is working at the facility, but the child shall be
+counted in the group size.
+(8) Caregivers who are 16 or 17 years old may be included in the
+caregiver-to-child ratio, but shall not have unsupervised contact with any child in care.
+
+(9) Volunteers may be included in the caregiver-to-child ratio if they:
+(a) are at least 16 years old,
+(b) receive at least 2.5 hours of preservice training before
+counting in the caregiver-to-child ratio, and
+(c) completeatleast1.5hoursofchildcaretrainingforeach
+month they volunteer 40 hours or more.
+(10) Student interns who are registered in a high school or college
+child care course may count in the caregiver-to-child ratio when
+requirements in R381-100-7(14)(a)-(c) are met.
+(11) Guests shall not count in caregiver-to-child ratios.
+(12) A center that has been constructed, licensed, and continuously
+operated since 1 January 2004 is exempt from maximum group size requirements if:
+(a) the caregiver-to-child ratio is maintained, and
+(b) therequiredsquarefootageforeachgroupofchildrenis
+maintained.
+R381-100-11 Child Supervision and Security
+(1) Theprovidershallensurethatcaregiversprovideandmaintain active supervision of each child at all times.
+(2) Active supervision shall include:
+(a) for children younger than 5 years of age, the caregiver
+shall be physically present in the room or area with
+the children;
+(b) for school-age children, the caregiver shall be able to
+hear the children and be close enough to intervene;
+(c) caregiversshallknowthenumberofchildrenintheircare
+at all times;
+(d) caregivers'attentionshallbefocusedonthechildrenand
+not on caregivers' personal interests;
+(e) caregiversshallbeawareoftheentiregroupofchildren
+even when interacting with a smaller group or an
+individual child; and
+(f) caregivers shall position themselves so all children in
+their assigned group are actively supervised.
+(3) When video cameras and mirrors are used to supervise napping
+children:
+(a) thenappingroomshallbeadjacenttoanon-nappingroom; (b) there shall be a staff member in the non-napping room; (c) camerasormirrorsshallbepositionedsothateverychild
+can be seen;
+(d) thestaffmembershallbeabletoseeandheareachchild; (e) there shall be an open door without a barrier, such as a
+gate, between the napping room and the non-napping room;
+and
+(f) childrenwhowakeupshallbemovedtothenon-nappingroom.
+(4) A blanket or other item shall not be placed over sleeping equipment in such a way that prevents the caregiver from seeing the sleeping child.
+(5) Wheneverachildisincare,thechild'sparentshallhaveaccess to their child and the areas used to care for their
+child.
+
+(6) Tomaintainsecurityandsupervisionofchildren,theprovider shall ensure that:
+(a) each child is signed in and out;
+(b) only parents or persons with written authorization from
+the parent may sign out a child;
+(c) photoidentificationisrequirediftheindividualsigning
+the child in or out is unknown to the provider;
+(d) personssigningchildreninandoutuseidentifiers,such
+as a signature, initials, or electronic code;
+(e) thesign-inandsign-outrecordsincludethedateandtime
+each child arrives and leaves; and
+(f) thereiswrittenpermissionfromtheirparentsifschool-age
+children sign themselves in and out.
+(7) Inanemergency,thecaregivershallaccepttheparent'sverbal
+authorization to release a child when the caregiver can confirm the identity of:
+(a) the person giving verbal authorization, and (b) the person picking up the child.
+(8) A six-week record of each child's daily attendance, including sign-in and sign-out records, shall be kept on-site for review by the Department.
+R381-100-12 Child Guidance and Interaction
+(1) Theprovidershallensurethatnochildissubjectedtophysical, emotional, or sexual abuse while in care.
+(2) The provider shall inform parents, children, and those who interact with the children of the center's behavioral expectations and how any misbehavior will be handled.
+(3) Individualswhointeractwiththechildrenshallguidechildren's behavior by using positive reinforcement, redirection, and by setting clear limits that promote children's ability to become self-disciplined.
+(4) Caregivers shall use gentle, passive restraint with children only when it is needed to stop children from injuring themselves or others, or from destroying property.
+(5) Interactions with the children shall not include:
+(a) anyformofcorporalpunishmentoranyactionthatproduces
+physical pain or discomfort such as hitting, spanking,
+shaking, biting, or pinching;
+(b) restraining a child's movement by binding, tying, or any
+other form of restraint that exceeds gentle, passive
+restraint;
+(c) shouting at children;
+(d) any form of emotional abuse;
+(e) forcing or withholding food, rest, or toileting; or
+(f) confining a child in a closet, locked room, or other
+enclosure such as a box, cupboard, or cage.
+(6) Any person who witnesses or suspects that a child has been
+subjected to abuse, neglect, or exploitation shall immediately notify Child Protective Services or law enforcement as required in Utah Code Section 62A-4a-403 and Section 62A-4a-411.
+
+R381-100-13 Child Safety and Injury Prevention
+(1) The building, outdoor area, toys, and equipment shall be used in a safe manner and as intended by the manufacturer to prevent injury to children.
+(2) Poisonous and harmful plants shall be inaccessible to children. (3) Sharp objects, edges, corners, or points that could cut or
+puncture skin shall be inaccessible to children.
+(4) Choking hazards shall be inaccessible to children to children
+younger than 3 years of age.
+(5) Strangulation hazards such as ropes, cords, chains, and wires
+attached to a structure and long enough to encircle a child's
+neck shall be inaccessible to children.
+(6) Tripping hazards such as unsecured flooring, rugs with curled
+edges, or cords in walkways shall be inaccessible to children. (7) For children younger than 5 years of age, empty plastic bags large enough for a child's head to fit inside, latex gloves,
+and balloons shall be inaccessible to children.
+(8) Standing water that measures 2 inches or deeper and 5 by 5 inches
+or greater in diameter shall be inaccessible to children. (9) Toxic or hazardous chemicals such as cleaners, insecticides,
+lawn products, and flammable materials shall be:
+(a) inaccessible to children,
+(b) used according to manufacturer instructions, and (c) stored in containers labeled with their contents.
+(10) Items and substances that could burn a child or start a fire shall be inaccessible, such as:
+(a) matches or cigarette lighters;
+(b) open flames;
+(c) hot wax or other substances; and
+(d) wheninuse,portablespaceheaters,woodburningstoves,
+and fireplaces of all types.
+(11) Children shall be protected from items that cause electrical
+shock such as:
+(a) live electrical wires; and
+(b) forchildrenyoungerthan5yearsofage,electricaloutlets
+and surge protectors without protective caps or safety
+devices when not in use.
+(12) Unless used and stored in compliance with the Utah Concealed
+Weapons Act or as otherwise allowed by law, firearms such as guns, muzzles loaders, rifles, shotguns, hand guns, pistols, and automatic guns shall:
+(a) belockedinacabinetorareawithakey,combinationlock,
+or fingerprint lock; and
+(b) stored unloaded and separate from ammunition.
+(13) Weapons such as paintball guns, BB guns, airsoft guns, sling shots, arrows, and mace shall be inaccessible to children.
+(14) Alcohol, illegal substances, and sexually explicit material shall be inaccessible, and shall not be used on the premises, during offsite activities, or in center vehicles any time a child is in care.
+(15) An outdoor source of drinking water, such as individually labeled water bottles, a pitcher of water and individual cups, or a working water fountain shall be available to each child whenever the outside temperature is 75 degrees or higher.
+
+(16) Areas accessible to children shall be free of heavy or unstable objects that children could pull down on themselves, such as furniture, unsecured televisions, and standing ladders.
+(17) Hot water accessible to children shall not exceed 120 degrees Fahrenheit.
+(18) Highchairs shall have T-shaped safety straps or devices that are used whenever a child is in the chair.
+(19) Infant walkers with wheels shall be inaccessible to children.
+(20) In compliance with the Utah Indoor Clean Air Act, tobacco,
+e-cigarettes, e-juice, e-liquids, and similar products shall be inaccessible and not used:
+(a) in the facility or any other building when a child is in
+care,
+(b) inanyvehiclethatisbeingusedtotransportachildin
+care,
+(c) within 25 feet of any entrance to the facility or other
+building occupied by a child in care, or
+(d) inanyoutdoorareaorwithin25feetofanyoutdoorarea
+occupied by a child in care.
+R381-100-14 Emergency Preparedness and Response
+(1) The provider shall post the center's street address and emergency numbers, including ambulance, fire, police, and poison control, near each telephone in the center or in an area clearly visible to anyone needing the information.
+(2) The provider shall keep first-aid supplies in the center, including at least antiseptic, bandages, and tweezers.
+(3) The provider shall conduct fire evacuation drills monthly. Drills shall include a complete exit of all children, staff, and volunteers from the building.
+(4) The provider shall document each fire drill, including: (a) the date and time of the drill,
+(b) the number of children participating,
+(c) the name of the person supervising the drill,
+(d) the total time to complete the evacuation, and
+(e) any problems encountered.
+(5) Theprovidershallconductdrillsfordisastersotherthanfires
+at least once every 6 months.
+(6) The provider shall document each disaster drill, including:
+(a) thetypeofdisaster,suchasearthquake,flood,prolonged power or water outage, or tornado;
+(b) the date and time of the drill;
+(c) the number of children participating;
+(d) the name of the person supervising the drill; and (e) any problems encountered.
+(7) The provider shall vary the days and times on which fire and other disaster drills are held.
+(8) Theprovidershallkeepdocumentationoftheprevious12months of fire and disaster drills on-site for review by the Department.
+(9) Incaseofanemergencyordisaster,theproviderandemployees shall follow procedures as outlined in the center's health and safety plan unless otherwise instructed by emergency personnel.
+
+(10) The provider shall give parents a written report of every incident, accident, or injury involving their child:
+(a) the caregivers involved, the center director or director
+designee, and the person picking up the child shall sign
+the report on the day of occurrence; and
+(b) ifschool-agechildrensignthemselvesoutofthecenter,
+a copy of the report shall be sent to the parent on the
+day following the occurrence.
+(11) If a child is injured and the injury appears serious but not
+life-threatening, the child's parent shall be contacted
+immediately.
+(12) In the case of a life-threatening injury to a child, or an injury
+that poses a threat of the loss of vision, hearing, or a limb: (a) emergency personnel shall be called immediately;
+(b) afteremergencypersonnelarecalled,thentheparentshall
+be contacted; and
+(c) iftheparentcannotbereached,staffshalltrytocontact
+the child's emergency contact person.
+(13) If a child is injured while in care and receives medical
+attention, or for a child fatality, the provider shall:
+(a) submitacompletedaccidentreportformtotheDepartment
+within the next business day of the incident; or
+(b) contact the Department within the next business day and
+submit a completed accident report form within 5 business
+days of the incident.
+(14) The provider shall keep a six-week record of every incident,
+accident, and injury report on-site for review by the Department.
+R381-100-15 Health and Infection Control
+(1) The building, furnishings, equipment, and outdoor area shall be kept clean and sanitary including:
+(a) walls,andflooringshallbecleanandfreeofspills,dirt,
+and grime;
+(b) areasandequipmentusedforthestorage,preparation,and
+service of food shall be clean and sanitary;
+(c) surfaces used by children shall be free of rotting food
+or a build-up of food;
+(d) the building and grounds shall be free of a build-up of
+litter, trash, and garbage; and
+(e) the facility shall be free of animal feces.
+(2) Theprovidershalltakesafeandeffectivemeasurestoprevent and eliminate the presence of insects, rodents, and other pests.
+(3) All toys and materials including those used by infants and toddlers shall be cleaned:
+(a) at least weekly or more often if needed,
+(b) afterbeingputinachild'smouthandbeforeanotherchild
+plays with the toy, and
+(c) after being contaminated by a body fluid.
+(4) Fabrictoysanditemssuchasstuffedanimals,clothdolls,pillow covers, and dress-up clothes shall be machine washable and washed weekly, and as needed.
+(5) Highchairtraysshallbecleanedandsanitizedbeforeeachuse.
+(6) Waterplaytablesortubsshallbecleanedandsanitizeddaily,
+if used by the children.
+
+(7) Bathroom surfaces including toilets, sinks, faucets, and counters shall be cleaned and sanitized each day.
+(8) Potty chairs shall be cleaned and sanitized after each use.
+(9) Toilet paper shall be accessible to children and kept in a
+dispenser.
+(10) The provider shall post handwashing procedures that are readily
+visible from each handwashing sink and shall ensure that the
+procedures are followed.
+(11) Staff and volunteers shall wash their hands thoroughly with
+liquid soap and running water at required times including: (a) before handling or preparing food or bottles,
+(b) beforeandaftereatingmealsandsnacksorfeedingachild, (c) afterusingthetoiletorhelpingachildusethetoilet, (d) after contact with a body fluid,
+(e) when coming in from outdoors, and
+(f) after cleaning up or taking out garbage.
+(12) Caregivers shall teach children how to wash their hands
+thoroughly and shall oversee handwashing whenever possible. (13) The provider shall ensure that children wash their hands
+thoroughly with liquid soap and running water at required times including:
+(a) before and after eating meals and snacks,
+(b) after using the toilet,
+(c) after contact with a body fluid,
+(d) before using a water play table or tub, and (e) when coming in from outdoors.
+(14) Only single-use towels from a covered dispenser or an electric hand dryer may be used to dry hands.
+(15) Personal hygiene items, such as toothbrushes, combs, and hair accessories, shall not be shared and shall be stored so they do not touch each other, or they shall be sanitized between each use.
+(16) Pacifiers, bottles, and nondisposable drinking cups shall: (a) be labeled with each child's name or individually
+identified; and
+(b) not shared, or washed and sanitized before being used by
+another child.
+(17) A child's clothing shall be promptly changed if the child has
+a toileting accident.
+(18) Children's clothing that is wet or soiled from a body fluid shall:
+(a) not be rinsed or washed at the center,
+(b) be placed in a leakproof container that is labeled with
+the child's name,
+(c) be returned to the parent, or (d) thrown away with parent consent.
+(19) Staff shall take precautions when cleaning floors, furniture, and other surfaces contaminated by blood, urine, feces, or vomit. Except for diaper changes and toileting accidents, staff shall: (a) wear waterproof gloves;
+(b) clean the surface using a detergent solution; (c) rinse the surface with clean water;
+(d) sanitize the surface;
+
+(e) throw away in a leakproof plastic bag the disposable materials, such as paper towels, that were used to clean up the body fluid;
+(f) washandsanitizeanynondisposablematerialsusedtoclean up the body fluid, such as cleaning cloths, mops, or reusable rubber gloves, before reusing them; and
+(g) wash their hands after cleaning up the body fluid.
+(20) A child who is ill with an infectious disease may not be cared for at the center except when the child shows signs of illness
+after arriving at the center.
+(21) When a child becomes ill while in care:
+(a) the provider shall contact the child's parent or, if the parent cannot be reached, an individual listed as the emergency contact to immediately pick up the child; and
+(b) ifthechildisillwithaninfectiousdisease,thechild shall be made comfortable in a safe, supervised area that is separated from the other children until the parent arrives.
+(22) When any child or employee has an infectious disease, an unusual or serious illness, or a sudden onset of an illness, the provider shall notify the local health department on the day the illness is discovered.
+(23) The provider shall post a notice at the center when any staff member or child has an infectious disease or parasite. The notice shall:
+(a) not disclose any personal identifiable information,
+(b) be posted in a conspicuous place where it can be seen by all parents,
+(c) be posted and dated on the same day that the disease or parasite is discovered, and
+(d) remain posted for at least 5 days.
+(24) To prevent contamination of food, the spread of foodborne
+illnesses, and other diseases:
+(a) individualswhopreparefoodinthekitchenshallnotchange
+diapers or help in toileting children;
+(b) caregiverswhocarefordiaperedchildrenshallonlyprepare
+food for the children in their care, and they shall not prepare food outside of the room used by the diapered children or prepare food for other children and adults in the facility; and
+(c) individualswithaninfectiousdiseaseorshowingsymptoms such as diarrhea, fever, and vomit shall not prepare or serve foods.
+
+R381-100-16 Food and Nutrition
+(1) Theprovidershallensurethateachchildage2yearsandolder is offered a meal or snack at least once every 3 hours.
+(2) Whenfoodforchildren'smealsand/orsnacksissuppliedbythe provider:
+(a) the meal service shall meet local health department food service regulations;
+(b) the foods that are served shall meet the nutritional requirements of the USDA Child and Adult Care Food Program (CACFP) whether or not the provider participates in the CACFP;
+(c) the provider shall use the CACFP menus, the standard Department-approved menus, or menus approved by a registered dietician. Dietitian approval shall be noted and dated on the menus, and shall be current within the past 5 years;
+(d) thecurrentweek'smenushallbepostedforreviewbyparents and the Department; and
+(e) providers who are not participating or in good standing with the CACFP shall keep a six-week record of foods served at each meal and snack.
+(3) The person who serves food to children shall:
+(a) beawareofthechildrenintheirassignedgroupwhohave
+food allergies or sensitivities, and
+(b) ensurethatthechildrenarenotservedthefoodordrink
+they are allergic or sensitive to.
+(4) Children'sfoodshallbeservedondishes,napkins,orsanitary
+highchair trays, except an individual finger food, such as a cracker, that may be placed directly in a child's hand. Food shall not be placed on a bare table.
+(5) Foodanddrinkbroughtinbyparentsfortheirchild'suseshall be:
+(a) labeled with the child's name, (b) refrigerated if needed, and (c) consumed only by that child.
+R381-100-17 Medications
+(1) Nonrefrigeratedmedicationsshallbestoredatleast48inches above the floor or shall be locked.
+(2) Refrigeratedmedicationsshallbestoredatleast36inchesabove the floor or shall be locked, and if liquid, they shall be stored in a separate leakproof container.
+(3) All over-the-counter and prescription medications supplied by parents shall:
+(a) be labeled with the child's full name,
+(b) be kept in the original or pharmacy container, (c) have the original label, and
+(d) have child-safety caps.
+(4) The provider shall have a written medication permission form completed and signed by the parent before administering any medication supplied by the parent for their child.
+
+(5) The medication permission form shall include:
+(a) the name of the child,
+(b) the name of the medication,
+(c) written instructions for administration, and (d) the parent signature and the date signed.
+(6) Theinstructionsforadministeringthemedicationshallinclude: (a) the dosage,
+(b) how the medication will be given,
+(c) the times and dates to administer the medication, and (d) the disease or condition being treated.
+(7) If the provider supplies an over-the-counter medication for children's use, the medication shall not be administered to any child without previous parental consent for each instance it is given. The consent shall be:
+(a) prior written consent; or
+(b) verbal consent if the date and time of the consent is
+documented, and is signed by the parent upon picking up
+their child.
+(8) The caregiver administering the medication shall:
+(a) wash their hands,
+(b) checkthemedicationlabeltoconfirmthechild'snameif
+the parent supplied the medication,
+(c) check the medication label or the package to ensure that
+a child is not given a dosage larger than that recommended by the health care professional or manufacturer, and
+(d) administer the medication.
+(9) Immediately after administering a medication, the caregiver
+giving the medication shall record the following information: (a) the date, time, and dosage of the medication given;
+(b) any errors in administration or adverse reactions; and (c) their signature or initials.
+(10) The provider shall report a child's adverse reaction to a medication or error in administration to the parent immediately upon recognizing the reaction or error, or after notifying emergency personnel if the reaction is life-threatening.
+(11) If the provider chooses not to administer medication as instructed by the parent, the provider shall notify the parent of their refusal to administer the medication before the time the medication needs to be given.
+(12) The provider shall keep a six-week record of medication permission and administration forms on-site for review by the Department.
+R381-100-18 Activities
+(1) The provider shall offer daily activities that support each child's healthy physical, social, emotional, cognitive, and language development.
+(2) Dailyactivitiesshallincludeoutdoorplayasweatherandair quality allow.
+(3) Physicaldevelopmentactivitiesshallincludelight,moderate, and vigorous physical activity for a daily total of at least 15 minutes for every 2 hours children spend in the program.
+
+(4) Foreachpreschoolandschool-agegroup,theprovidershallpost a daily schedule that includes:
+(a) activities that support children's healthy development,
+and
+(b) thetimesactivitiesoccurincludingatleastmeal,snack,
+nap or rest, and outdoor play times.
+(5) Toys, materials, and equipment needed to support children's
+healthy development shall be available to the children.
+(6) Except for occasional special events, the children's primary
+screen time activity on media such as television, cell phones, tablets, and computers shall:
+(a) not be allowed for children 0 to 17 months old;
+(b) belimitedforchildren18monthsto4yearsoldto1hour
+per day, or 5 hours per week with a maximum screen time
+of 2 hours per activity; and
+(c) beplannedtoaddresstheneedsofchildren5to12years
+old.
+(7) Ifswimmingactivitiesareofferedorifwadingpoolsareused:
+(a) theprovidershallobtainparentalpermissionbeforeeach child in care uses the pool;
+(b) caregivers shall stay at the pool supervising whenever a child is in the pool or has access to the pool, and whenever a wading pool has water in it;
+(c) diapered children shall wear swim diapers whenever they are in the pool;
+(d) wading pools shall be emptied and sanitized after use by each group of children;
+(e) ifthepoolisover4feetdeep,thereshallbealifeguard on duty who is certified by the Red Cross or other approved certification program any time children have access to the pool; and
+(f) lifeguards and pool personnel shall not count toward the caregiver-to-child ratio.
+(8) If offsite activities are offered:
+(a) theprovidershallobtainwrittenparentalconsentbefore
+each activity;
+(b) therequiredcaregiver-to-childratioandsupervisionshall
+be maintained during the entire activity;
+(c) first aid supplies, including at least antiseptic,
+band-aids, and tweezers shall be available;
+(d) children shall wear or carry with them the name and phone
+number of the center;
+(e) children'snamesshallnotbeusedonnametags,t-shirts,
+or in other visible ways; and
+(f) there shall be a way for caregivers and children to wash
+their hands with soap and water, or if there is no source of running water, caregivers and children shall clean their hands with wet wipes and hand sanitizer.
+(9) On every offsite activity, caregivers shall take the written emergency information and releases for each child in the group. The information shall include:
+(a) the child's name,
+(b) the parent's name and phone number,
+
+(c) the name and phone number of a person to notify in case of an emergency if the parent cannot be contacted,
+(d) the names of people authorized by the parents to pick up the child, and
+(e) currentemergencymedicaltreatmentandemergencymedical transportation releases.
+R381-100-19 Play Equipment
+(1) The provider shall ensure that children using play equipment use it safely and in the manner intended by the manufacturer.
+(2) Thehighestdesignatedplaysurfaceonstationaryplayequipment used by infants or toddlers shall not exceed 3 feet in height.
+(3) Swings used by infants or toddlers shall have enclosed seats.
+(4) Stationaryplayequipmentshallhaveasurroundingusezonethat
+extends from the outermost edge of the equipment. With the exception of swings, stationary play equipment that is:
+(a) used by infants or toddlers shall have at least a 3-foot
+use zone if any designated play surface is higher than 18
+inches,
+(b) usedbypreschoolersshallhaveatleasta6-footusezone
+if any designated play surface is higher than 20 inches,
+and
+(c) used by school-age children shall have at least a 6-foot
+use zone if any designated play surface is higher than 30
+inches.
+(5) The use zone in the front and rear of a single-axis, enclosed
+swing shall extend at least twice the distance of the swing pivot
+point to the swing seat.
+(6) Theusezoneinthefrontandrearofasingle-axisswingshall
+extend at least twice the distance of the swing pivot point to
+the ground.
+(7) Theusezoneforamulti-axisswing,suchasatireswing,shall
+extend:
+(a) at least the measurement of the suspending rope or chain
+plus 3 feet, if the swing is used by infants or toddlers;
+or
+(b) at least the measurement of the suspending rope or
+chain plus 6 feet, if the swing is used by preschoolers
+or school-age children.
+(8) The use zone for a merry-go-round shall extend:
+(a) atleast3feetinalldirectionsfromitsoutermostedge if the merry-go-round is used by infants or toddlers, or (b) atleast6feetinalldirectionsfromitsoutermostedge if the merry-go-round is used by preschoolers or school-age
+children.
+(9) The use zone for a spring rocker shall extend:
+(a) atleast3feetfromtheoutermostedgeoftherockerwhen at rest; or
+(b) atleast6feetfromtheoutermostedgeoftherockerwhen at rest if the seat is higher than 20 inches, and the rocker is used by preschoolers or school-age children.
+
+(10) The following use zones shall not overlap the use zone of any other piece of play equipment:
+(a) the use zone in front of a slide;
+(b) theusezoneinthefrontandrearofanysingle-axisswing,
+including a single-axis enclosed swing;
+(c) the use zone of a multi-axis swing; and
+(d) theusezoneofamerry-go-roundiftheplatformdiameter
+measures 20 inches or more.
+(11) Unless prohibited in R381-100-19([11]10), the use zones of play
+ equipment may overlap when:
+(a) the equipment is used by infants or toddlers, and there
+ is at least 3 feet between the pieces of equipment; or (b) theequipmentisusedbypreschoolersorschool-agechildren and there is at least 6 feet between the pieces of equipment if the designated play surface is 30 inches or lower, or there is at least 9 feet between the pieces of equipment if the designated play surface is higher than 30 inches. (12) Stationary play equipment without moving parts children sit or stand on shall not be placed on concrete, asphalt, dirt, a bare
+floor, or any other hard surface, but may be placed on grass or other cushioning, if the highest designated play surface measures between:
+(a) 6 to 18 inches if used by infants or toddlers,
+(b) 6 to 20 inches if used by preschoolers, and
+(c) 6 to 30 inches if used by school-age children.
+(13) Protective cushioning shall cover the entire surface of each
+required use zone and its depth or thickness shall be determined
+by the highest designated play surface of the equipment. (14) If sand, gravel, or shredded tires are used as protective cushioning, the depth of the material shall meet the CPSC
+guidelines in Table 14.
+(a) the provider shall ensure that the cushioning is
+periodically checked for compaction and loosened to the
+depth listed in Table 14 if compacted; and
+(b) ifthematerialcannotbeloosenedduetoextremeweather conditions, the provider shall not allow children to play on the equipment until the material can be loosened to the
+required depth.
+TABLE 14 - Depths of Protective Cushioning Required for Sand, Gravel, and Shredded Tires
+Highest Designated Play Surface, Climbing Bar, or Swing Pivot Point
+  Fine Sand
+  Coarse Sand
+   Fine Gravel
+     Medium
+Gravel
+ Shredded
+ Tires
+    4' high or less
+  6"
+  6"
+   6"
+     6"
+ 6"
+    Over 4' up to 5'
+   6"
+   6"
+     6"
+        6"
+  6"
+      Over 5' up to 6'
+ 6"
+ 9"
+ 6"
+  9"
+6"
+  Over 6' up to 7'
+  9"
+  not allowed
+   9"
+     not allowed
+ 6"
+    Over 7' up to 8'
+   9"
+   not allowed
+     9"
+        not allowed
+  6"
+      Over 8' up to 9'
+ 9"
+ not allowed
+ 9"
+  not allowed
+6"
+  Over 9' up to 10'
+  not allowed
+  not allowed
+   9"
+     not allowed
+ 6"
+    Over 10' up to 11'
+   not allowed
+   not allowed
+     not allowed
+        not allowed
+  6"
+      Over 11' up to 12'
+  not allowed
+  not allowed
+   not allowed
+     not allowed
+ 6"
+    
+(15) If shredded wood products are used as protective cushioning: (a) theprovidershallkeepon-siteforreviewbytheDepartment documentation from the manufacturer that the wood product
+meets ASTM Specification F1292,
+(b) there shall be adequate drainage under the material, and
+(c) thedepthoftheshreddedwoodshallmeettheCPSCguidelines
+in Table 15.
+TABLE 15 - Depths of Protective Cushioning Required for Shredded Wood Products
+Highest Designated Play Surface, Climbing Bar, or Swing Pivot Point
+  Engineered Wood Fibers
+   Wood Chips
+      Double
+ Shredded
+Bark Mulch
+   4' high or less
+   6"
+     6"
+      6"
+     Over 4' up to 5'
+ 6"
+ 6"
+  6"
+ Over 5' up to 6'
+  6"
+   6"
+    6"
+   Over 6' up to 7'
+   9"
+     6"
+      9"
+     Over 7' up to 8'
+ 9"
+ 9"
+  9"
+ Over 8' up to 9'
+  9"
+   9"
+    9"
+   Over 9' up to 10'
+   9"
+     9"
+      9"
+     Over 10' up to 11'
+ 9"
+ 9"
+  9"
+ Over 11'
+   9"
+     not allowed
+      not allowed
+     (16) If a unitary cushioning is used, the provider shall ensure that the material meets the standard established in ASTM Specification F1292. The provider shall maintain on-site for review by the Department documentation from the manufacturer that the material meets these specifications.
+(17) If a unitary cushioning is used, the provider shall ensure that the cushioning material is securely installed, so that it cannot become displaced when children jump, run, walk, land, or move on it, or be moved by children picking it up.
+(18) A play equipment platform that is more than:
+     (a)  18 inches above the floor or ground and used by infants
+or toddlers shall have a protective barrier that is at
+least 24 inches high,
+(b) 30 inches above the floor or ground and used by preschoolers
+shall have a protective barrier that is at least 29 inches
+high, and
+(c) 48 inches above the floor or ground and used by school-age
+children shall have a protective barrier that is at least
+38 inches high.
+(19) There shall be no gap greater than 3-1/2 inches in or under a
+required protective barrier on a play equipment platform.
+(20) Stationary play equipment shall be stable and securely anchored.
+(21) There shall be no trampolines on the premises that are accessible
+to any child in care.
+(22) There shall be no entrapment hazards on or within the use zone
+of any piece of stationary play equipment.
+(23) There shall be no strangulation hazards on or within the use
+zone of any piece of stationary play equipment.
+(24) There shall be no crush, shearing, or sharp edge hazards on or within the use zone of any piece of stationary play equipment.
+
+(25) There shall be no tripping hazards such as concrete footings, tree stumps, tree roots, or rocks within the use zone of any piece of stationary play equipment.
+R381-100-20 Transportation
+If transportation services are offered:
+(1) For each child being transported, the provider shall have a
+transportation permission form:
+(a) signed by the parent, and
+(b) on-site for review by the Department.
+(2) Each vehicle used for transporting children shall: (a) be enclosed with a roof or top,
+(b) be equipped with safety restraints,
+(c) have a current vehicle registration,
+(d) be maintained in a safe and clean condition, and
+(e) contain first aid supplies, including at least antiseptic,
+band-aids, and tweezers.
+(3) Thesafetyrestraintsineachvehiclethattransportschildren
+shall:
+(a) be appropriate for the age and size of each child who is
+transported, as required by Utah law; (b) be properly installed; and
+(c) be in safe condition and working order.
+(4) Thedriverofeachvehiclewhoistransportingchildrenshall: (a) be at least 18 years old;
+(b) haveandcarrywiththemacurrent,validdriver'slicense
+for the type of vehicle being driven;
+(c) have with them the written emergency contact information
+for each child being transported;
+(d) ensurethateachchildbeingtransportedisinanindividual
+safety restraint that is used according to Utah law; (e) ensurethattheinsidevehicletemperatureisbetween60-85
+degrees Fahrenheit;
+(f) neverleaveachildinthevehicleunattendedbyanadult;
+(g) ensure that children stay seated while the vehicle is
+moving;
+(h) neverleavethekeysintheignitionwhennotinthedriver's
+seat; and
+(i) ensure that the vehicle is locked during transport.
+(5) When the provider walks or uses public transportation to transport children to or from the facility, the provider shall ensure that:
+(a) eachchildbeingtransportedhasacompletedtransportation
+permission form signed by their parent,
+(b) acaregivergoeswiththechildrenandactivelysupervises
+them,
+(c) the caregiver-to-child ratio is maintained, and
+(d) caregivers take each child's written emergency contact
+information and releases with them.
+
+R381-100-21 Animals
+(1) Theprovidershallinformparentsofthekindsofanimalsallowed at the facility.
+(2) There shall be no animal on the premises that:
+(a) is naturally aggressive;
+(b) has a history of dangerous, attacking, or aggressive
+behavior; or
+(c) has a history of biting even one person.
+(3) Animalsatthefacilityshallbecleanandfreeofobviousdisease or health problems that could adversely affect children.
+(4) Thereshallbenoanimaloranimalequipmentinfoodpreparation
+or eating areas.
+(5) Childrenyoungerthan5yearsofageshallnotassistwiththe
+cleaning of animals or animal cages, pens, or equipment.
+(6) Ifschool-agechildrenhelpinthecleaningofanimalsoranimal equipment, the children shall wash their hands immediately after
+cleaning the animal or equipment.
+(7) Children and staff shall wash their hands immediately after
+playing with or touching reptiles and amphibians.
+(8) Dogs, cats, and ferrets that are housed at the facility shall
+have current rabies vaccinations.
+(9) The provider shall keep current animal vaccination records
+on-site for review by the Department.
+R381-100-22 Rest and Sleep
+(1) The provider shall offer children in care a daily opportunity for rest or sleep in an environment with subdued
+lighting, a low noise level, and freedom from distractions.
+(2) Naporresttimesshallnotbescheduledformorethan2hours daily.
+(3) A separate crib, cot, mat, or other sleeping equipment shall be used for each child during nap times.
+(4) Sleepingequipmentshallbekeptingoodrepair,includingmats and mattresses that shall have smooth, waterproof surfaces.
+(5) Each crib shall:
+(a) have a tight-fitting mattress;
+(b) have slats spaced no more than 2-3/8 inches apart;
+(c) have at least 20 inches from the top of the mattress to
+the top of the crib rail, or at least 12 inches from the top of the mattress to the top of the crib rail if the child using the crib cannot sit up without assistance;
+(d) not have strings, cords, ropes, or other entanglement hazards on the crib or within reach of the child; and
+(e) meet CPSC standards.
+(6) When in use, sleeping equipment such as cribs, cots, and mats
+shall be placed at least 2 feet apart.
+(7) Sleeping equipment shall not block exits.
+(8) Duringnaptime,asheetandblanketoracceptablealternative
+shall be made available to each child 12
+months or older. These items shall be:
+(a) clearly assigned to one child,
+(b) stored separately from other children's bedding, and (c) launderedasneeded,butatleastonceaweek,andbefore
+use by another child.
+
+(9) Sleeping equipment that is clearly assigned to and used by an individual child shall be cleaned and sanitized as
+needed and at least weekly.
+(10) Sleeping equipment that is not clearly assigned to and used by an individual child shall be cleaned and sanitized before each use.
+(11) The provider shall store sleeping equipment so that:
+(a) the surfaces children sleep on do not touch each other,
+or
+(b) the provider shall clean and sanitize sleeping equipment
+before each use.
+R381-100-23 Diapering
+If the provider accepts children who wear diapers:
+(1) Theprovidershallpostdiaperingproceduresateachdiapering
+station and ensure that they are followed.
+(2) Caregivers shall ensure that each child's diaper is:
+(a) checked at least once every 2 hours,
+(b) promptly changed when wet or soiled, and (c) checked as soon as a sleeping child awakens.
+(3) Caregivers shall change children's diapers at a diapering station. Diapersshallnotbechangedonsurfacesusedforany other purpose.
+(4) Thediaperingsurfaceshallbesmooth,waterproof,andingood repair.
+(5) Eachdiaperingstationshallbeequippedwithrailingstoprevent a child from falling when being diapered.
+(6) Caregiversshallnotleavechildrenunattendedonthediapering surface.
+(7) Caregiversshallcleanandsanitizethediaperingsurfaceafter each diaper change, or use a disposable, waterproof diapering surface that is thrown away after each diaper change.
+(8) Caregivers shall wash their hands after each diaper change.
+(9) Caregivers shall place wet and soiled disposable diapers: (a) in a container that has a disposable plastic lining and
+a tight-fitting lid,
+(b) directly in an outdoor garbage container that has a
+tight-fitting lid, or
+(c) in a container that is inaccessible to children.
+(10) Indoor containers where wet and soiled diapers are placed shall be cleaned and sanitized each day.
+(11) If cloth diapers are used:
+(a) they shall not be rinsed at the facility; and
+(b) they shall be placed directly into a leakproof container
+that is inaccessible to any child and labeled with the child's name, or placed in a leakproof diapering service container.
+R381-100-24 Infant and Toddler Care
+If the provider cares for infants or toddlers:
+(1) Each awake infant and toddler shall receive positive physical
+and verbal interaction with a caregiver at least once every 20 minutes.
+
+(2) Tostimulatetheirhealthydevelopment,theprovidershallensure that infants receive daily interactions with adults; including on the ground interaction and closely supervised time spent in the prone position for infants less than 6 months of age.
+(3) Infant and toddler areas shall not be used to pass through or access other indoor and outdoor areas.
+(4) Infants and toddlers shall play in the same enclosed outdoor space with older children only when there are 8 or fewer children in the group.
+(5) Caregivers shall respond promptly to infants and toddlers who are in emotional distress due to conditions such as hunger, fatigue, a wet or soiled diaper, fear, teething, or illness.
+(6) Fortheirhealthydevelopment,safetoysshallbeavailablefor infants and toddlers. There shall be enough toys accessible to each infant and toddler in the group to engage in play.
+(7) Mobile infants and toddlers shall have freedom of movement in a safe area.
+(8) Anawakeinfantortoddlershallnotbeconfinedformorethan 30 minutes in any piece of equipment, such as a swing, high chair, crib, playpen, or other similar piece of equipment.
+(9) Onlyoneinfantortoddlershalloccupyanyonepieceofequipment at any time, unless the equipment has individual seats for more than one child.
+(10) Infants and toddlers shall not have access to objects made of styrofoam.
+(11) Each infant and toddler shall be allowed to eat and sleep on their own schedule.
+(12) Baby food, formula, or breast milk that is brought from home for an individual child's use shall be:
+(a) labeled with the child's name;
+(b) labeled with the date and time of preparation or opening
+of the container, such as a jar of baby food;
+(c) kept refrigerated if needed; and
+(d) discardedwithin24hoursofpreparationoropening,except
+for unprepared powdered formula or dry food.
+(13) If an infant is unable to sit upright and hold their own bottle, acaregivershallholdtheinfantduringbottlefeeding. Bottles
+shall not be propped.
+(14) The caregiver shall swirl and test warm bottles for temperature
+before feeding to children.
+(15) Formula and milk, including breast milk, shall be discarded
+after feeding or within 2 hours of starting a feeding.
+(16) Caregiversshallcutsolidfoodsforinfantsintopiecesnolarger than 1/4 inch in diameter, and shall cut solid foods for toddlers
+into pieces no larger than 1/2 inch in diameter.
+(17) Infants shall sleep in equipment designed for sleep such as a
+crib, bassinet, porta-crib or play pen. An infant shall not be placed to sleep on a mat, cot, pillow, bouncer, swing, car seat, or other similar piece of equipment unless the provider has written permission from the infant's parent.
+(18) Infants shall be placed on their backs for sleeping unless there is documentation from a health care provider requiring a different sleep position.
+
+(19) Soft toys, loose blankets, or other objects shall not be placed in cribs while in use by sleeping infants.
+(20) Caregivers shall document each infant's eating and sleeping patterns each day. The record shall:
+(a) be completed within an hour of each feeding or nap, and (b) include the infant's name, the food and beverages eaten,
+and the times the infant slept.
+(21) Within an hour of each infant or toddler's diaper change,
+caregivers shall record:
+(a) the infant or toddler's name,
+(b) the time of the diaper change, and
+(c) whether the diaper was dry, wet, soiled, or both.
+(22) The provider shall maintain on-site for review by the Department a six-week record of:
+(a) the eating and sleeping patterns for each infant; and (b) the diaper changes for each infant and toddler.
+KEY: child care facilities, child care, child care centers
+Date of Enactment or Last Substantive Amendment: August 10, 2018 Authorizing, and Implemented or Interpreted Law: 26-39-203(1)(a)
+

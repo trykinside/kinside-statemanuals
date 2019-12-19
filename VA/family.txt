@@ -1,0 +1,1141 @@
+STANDARDS FOR
+LICENSED FAMILY DAY HOMES
+Adopted by the State Board of Social Services August 19, 2009
+Effective: July 1, 2010
+Amended by the State Board of Social Services May 17, 2013
+Effective: July 17, 2013
+Amended by the State Board of Social Services August 17, 2016
+Effective: October 19, 2016
+VIRGINIA DEPARTMENT OF SOCIAL SERVICES Division of Licensing Programs
+801 E. Main Street
+Richmond, Virginia 23219
+
+FOREWORD
+Attaining and maintaining compliance with these standards are prerequisites for issuance and maintenance of a license to operate. Failure to maintain substantial compliance with standards or applicable requirements of the Code of Virginia constitutes grounds for revocation of a license or for lesser sanctions. These Standards for Licensed Family Day Homes were promulgated in compliance with the provisions of Virginia's Administrative Process Act (§ 9-6.14:1 et. seq. of the Code of Virginia) in accord with the statutory authority of the State Board of Social Services to promulgate regulations.
+LEGAL BASE
+The Department of Social Services (DSS) is responsible for licensing certain child welfare agencies and facilities in Virginia, as specified in § 63.2-100; § 63.2-203;
+§ 63.2-217; and pertinent portions of Chapter 17 and 18 of Title § 63.2 of the Code of Virginia.
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED FAMILY DAY HOMES CHAPTER 111 TABLE
+OF CONTENTS
+Part I GENERAL PROVISIONS................................................................................. 1
+22VAC40-111-10. Definitions.................................................................................. 1
+Part II ADMINISTRATION ......................................................................................... 4
+22VAC40-111-20. (Reserved)................................................................................. 4
+22VAC40-111-30. Operational responsibilities........................................................ 4
+22VAC40-111-40. Capacity .................................................................................... 4
+22VAC40-111-50. General recordkeeping .............................................................. 5
+22VAC40-111-60. Children’s records...................................................................... 5
+22VAC40-111-70. Written information for parents................................................... 7
+22VAC40-111-80. Proof of age and identity; record of child care and schools........ 8
+22VAC40-111-90. Immunizations for children......................................................... 9
+22VAC40-111-100. Physical examinations for children .......................................... 9
+22VAC40-111-110. Form and content of immunization and physical examination reports for children ................................................................................................ 10
+22VAC40-111-120. Caregiver records .................................................................. 10
+Part III PERSONNEL ............................................................................................... 12
+22VAC40-111-130. General qualifications for caregivers...................................... 12
+22VAC40-111-140. Qualifications and requirements for providers and substitute providers ............................................................................................................... 12
+22VAC40-111-150. Qualifications and requirements for assistants ...................... 13
+Part IV HOUSEHOLD MEMBERS........................................................................... 13
+22VAC40-111-160. Attributes for household members ......................................... 13
+Part V PHYSICAL HEALTH OF CAREGIVERS AND HOUSEHOLD MEMBERS .. 14
+22VAC40-111-170. Initial tuberculosis screening for caregivers and household members ............................................................................................................... 14
+22VAC40-111-180. Subsequent tuberculosis screening for caregivers and household members.............................................................................................. 14
+22VAC40-111-190. Physical and mental health examinations for caregivers and household members.............................................................................................. 14
+Part VI CAREGIVER TRAINING ............................................................................. 15
+22VAC40-111-200. Orientation ............................................................................. 15 22VAC40-111-210. Annual training....................................................................... 15
+  
+22VAC40-111-220. Medication administration training ......................................... 16
+22VAC40-111-230. Documentation of education and training .............................. 16
+Part VII PHYSICAL ENVIRONMENT AND EQUIPMENT ....................................... 17
+22VAC40-111-240. Homemaintenance..............................................................17 22VAC40-111-250. Hanging, suffocation and strangulation hazards.................... 17 22VAC40-111-260. Drowning hazards.................................................................. 17 22VAC40-111-270. Firearms and ammunition...................................................... 18 22VAC40-111-280. Poisonous materials .............................................................. 18 22VAC40-111-290. Sharp objects ........................................................................ 18 22VAC40-111-300. Body fluids contamination...................................................... 18 22VAC40-111-310. Machinery.............................................................................. 18 22VAC40-111-320. Fire safety and shock prevention........................................... 19 22VAC40-111-330. Telephones............................................................................ 19 22VAC40-111-340. Bathrooms ............................................................................. 20 22VAC40-111-350. Water supply.......................................................................... 20 22VAC40-111-360. Garbage ................................................................................ 20 22VAC40-111-370. Rodents and insects .............................................................. 20 22VAC40-111-380. Space .................................................................................... 21 22VAC40-111-390. Individual location .................................................................. 21 22VAC40-111-400. Heating and cooling............................................................... 21 22VAC40-111-410. Electric fans ........................................................................... 21 22VAC40-111-420. Lighting.................................................................................. 21 22VAC40-111-430. Stairs ..................................................................................... 21 22VAC40-111-440. Decks and porches................................................................ 22 22VAC40-111-450. Doors and windows ............................................................... 22 22VAC40-111-460. Animals.................................................................................. 22 22VAC40-111-470. Smoking and prohibited substances...................................... 23 22VAC40-111-480. Play equipment and materials ............................................... 23 22VAC40-111-490. Indoor slides and climbing equipment ................................... 23 22VAC40-111-500. Outdoor play area and equipment ......................................... 23 22VAC40-111-510. Rest areas ............................................................................. 24 22VAC40-111-520. Cribs ...................................................................................... 25 22VAC40-111-530. Linens.................................................................................... 25 22VAC40-111-540. Infant and toddler equipment ................................................. 26 22VAC40-111-550. Play pens............................................................................... 26
+
+Part VIII CARE OF CHILDREN ............................................................................... 26
+22VAC40-111-560. Supervision............................................................................ 26 22VAC40-111-570. Determining need for additional caregiver ............................. 27 22VAC40-111-580. General requirements for programs....................................... 27 22VAC40-111-590. Requirements for sleeping and resting .................................. 28 22VAC40-111-600. Daily activities for infants and toddlers................................... 29 22VAC40-111-610. Television, computers, videos and video games ................... 29 22VAC40-111-620. Care of a child with special needs ......................................... 29 22VAC40-111-630. Behavioral guidance .............................................................. 30 22VAC40-111-640. Forbidden actions .................................................................. 31 22VAC40-111-650. Parent notifications ................................................................ 31 22VAC40-111-660. Swimming and wading activities ............................................ 32
+Part IX PREVENTING THE SPREAD OF DISEASE ............................................... 33
+22VAC40-111-670. Exclusion of sick children ...................................................... 33 22VAC40-111-680. Hand washing........................................................................ 33 22VAC40-111-690. Diapering and toileting........................................................... 34
+Part X MEDICATION ADMINISTRATION ............................................................... 35
+22VAC40-111-700. General requirements for medication administration ............. 35 22VAC40-111-710. Prescription medication ......................................................... 35 22VAC40-111-720. Nonprescription medication ................................................... 35 22VAC40-111-730. Storage of medication............................................................ 36 22VAC40-111-740. Medication records ................................................................ 36 22VAC40-111-750. Topical skin products............................................................. 36
+Part XI EMERGENCIES .......................................................................................... 37
+22VAC40-111-760. First aid and emergency medical supplies............................. 37 22VAC40-111-770. Emergency flashlights and radios.......................................... 38 22VAC40-111-780. Emergency information.......................................................... 38 22VAC40-111-790. Posted telephone numbers.................................................... 38 22VAC40-111-800. Emergency preparedness and response plan ....................... 38 22VAC40-111-810. Evacuation and relocation procedures .................................. 39 22VAC40-111-820. Shelter-in-place procedures .................................................. 39 22VAC40-111-830. Emergency response drills .................................................... 39 22VAC40-111-840. Injury records......................................................................... 40 22VAC40-111-850. Reports to department........................................................... 40
+
+22VAC40-111-860. Reports of suspected child abuse or neglect and disease outbreaks .............................................................................................................. 41
+Part XII NUTRITION ................................................................................................ 41
+22VAC40-111-870. General requirements for meals and snacks ......................... 41 22VAC40-111-880. Meals and snacks provided by family day home.................... 42 22VAC40-111-890. Meals and snacks brought from child’s home ........................ 42 22VAC40-111-900. Preventing choking ................................................................ 42 22VAC40-111-910. Drinking water and fluids ....................................................... 42 22VAC40-111-920. Menus.................................................................................... 43 22VAC40-111-930. Eating utensils and dishes ..................................................... 43 22VAC40-111-940. Food storage ......................................................................... 43 22VAC40-111-950. Milk ........................................................................................ 43 22VAC40-111-960. Feeding infants ...................................................................... 44 22VAC40-111-970. Special feeding needs ........................................................... 44
+Part XIII TRANSPORTATION.................................................................................. 45
+22VAC40-111-980. Written permission for transportation and field trips ............... 45 22VAC40-111-990. Requirements for drivers ....................................................... 45 22VAC40-111-1000. Requirements for vehicles ................................................... 45 22VAC40-111-1010. Requirements for transportation .......................................... 46
+Part XIV NIGHTTIME CARE .................................................................................... 46
+22VAC40-111-1020. Requirements for vehicles ................................................... 46
+
+STANDARDS FOR LICENSED FAMILY DAY HOMES Part I.
+GENERAL PROVISIONS
+22VAC40-111-10. Definitions.
+The following words and terms when used in this chapter shall have the following meanings unless the context clearly indicates otherwise:
+"Accessible" means capable of being entered, reached, or used.
+"Adult" means any individual 18 years of age or older.
+"Age-appropriate" means suitable to the chronological age and individual needs of a child.
+"Assistant" means an individual who helps the provider or substitute provider in the care, protection, supervision, and guidance to children in the home.
+"Body fluids" means urine, feces, vomit, blood, saliva, nasal discharge, and tissue discharge.
+"Caregiver" means an individual who provides care, protection, supervision, and guidance to children in the home and includes the provider, substitute provider, and assistant.
+"Child" means an individual under 18 years of age.
+"Child day program" means a regularly operating service arrangement for children where, during the absence of a parent or guardian, a person or organization has agreed to assume responsibility for the supervision, protection, and well-being of a child under the age of 13 for less than a 24-hour period.
+"Child with special needs" means a child with developmental disabilities, intellectual disabilities, emotional disturbance, sensory or motor impairment, or significant chronic illness who requires special health surveillance or specialized programs, interventions, technologies, or facilities.
+"Cleaned" means treated in such a way as to remove dirt and debris by scrubbing and washing with soap and water or detergent solution and rinsing withwater.
+"Commissioner" means the Commissioner of the Virginia Department of Social Services. "Department" means the Virginia Department of Social Services.
+"Department's representative" means an employee or designee of the Virginia Department of Social Services, acting as the authorized agent of the commissioner.
+"Evacuation" means movement of occupants out of the building to a safe area
+1
+11/18
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+near the building.
+"Family day home" means a child day program offered in the residence of the provider or the home of any of the children in care for one through 12 children under the age of 13, exclusive of the provider's own children and any children who reside in the home, when at least one child receives care for compensation. A family day home serving five through 12 children, exclusive of the provider's own children and any children who reside in the home, shall be licensed. A family day home caring for more than four children under the age of two years, including the provider's own children and any children who reside in the home, shall be licensed or voluntarily registered. A family day home where the children in care are all related to the provider by blood or marriage shall not be required to be licensed.
+"Good character and reputation" means knowledgeable and objective people agree that the individual (i) maintains business, professional, family, and community relationships that are characterized by honesty, fairness, and truthfulness; and (ii) demonstrates a concern for the well-being of others to the extent that the individual is considered suitable to be entrusted with the care, guidance, and protection of children. Relatives by blood or marriage, and people who are not knowledgeable of the individual, such as recent acquaintances, shall not be considered objective references.
+"High school program completion or the equivalent" means an individual has earned a high school diploma or General Education Development (G.E.D.) certificate, or has completed a program of home instruction equivalent to high school completion.
+"Inaccessible" means not capable of being entered, reached, or used. "Infant" means a child from birth up to 16 months of age.
+"Nighttime care" means care provided between 7 p.m. and 6 a.m.
+"Parent" means the biological, foster or adoptive parent, legal guardian, or any individual with responsibility for or custody of a child enrolled in or in the process of being enrolled in a family day home.
+"Physician" means an individual licensed to practice medicine in any of the 50 states or the District of Columbia.
+"Preschool" means children from two years up to the age of eligibility to attend public school, age five by September 30 of that same year.
+"Programmatic experience" means time spent working directly with children in a group that is located away from the child's home. Work time shall be computed on the basis of full-time work experience during the period prescribed or equivalent work time over a longer period. Experience settings may include, but not be limited to, a child day program, family day home, child day center, boys and girls club, field placement, elementary school, or a faith-based organization.
+11/18
+2
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+"Provider" means an individual who is issued the family day home license by the Department of Social Services and who has primary responsibility in providing care, protection, supervision, and guidance of children in the family home.
+"Relocation" means movement of occupants of the building to a safe location away from the vicinity of the building.
+"Residence" means principal legal dwelling or abode that is occupied for living purposes by the provider and contains the facilities necessary for sleeping, eating, cooking, and family living.
+"Sanitized" means treated in such a way as to remove bacteria and viruses from inanimate surfaces through first cleaning and secondly using a solution of one tablespoon of bleach mixed with one gallon of water and prepared fresh daily or using a sanitizing solution approved by the U.S. Environmental Protection Agency. The surface of the item is sprayed or dipped into the sanitizing solution and then allowed to air dry.
+"School age" means eligible to attend public school, age five or older by September 30 of that same year.
+"Serious injury" means a wound or other specific damage to the body such as, but not limited to, unconsciousness; broken bones; dislocation; deep cut requiring stitches; poisoning; concussion; and a foreign object lodged in eye, nose, ear, or other body orifice.
+"Shelter-in-place" means movement of occupants of the building to designated protected spaces within the building.
+"Substitute provider" means an individual who meets the qualifications of a provider; is designated by the provider; and who provides care, protection, supervision, and guidance for children in the family day home when the provider is absent from the home for more than two hours.
+"Time out" means a discipline technique in which a child is moved for a brief time away from the stimulation and reinforcement of ongoing activities and other children in the group to allow the child who is losing self-control to regain composure.
+"Toddler" means a child from 16 months of age up to 24 months of age.
+11/18
+3
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+Part II. ADMINISTRATION
+22VAC40-111-20. (Reserved.)
+22VAC40-111-30. Operational Responsibilities.
+A. The provider shall ensure compliance with these standards and the terms of the current license issued by the department and with relevant federal, state or local laws, and other relevant regulations.
+B. The provider will ensure compliance with the home's policies that have been disclosed to the parents as required by 22VAC-40-111-70.
+C. The provider shall be of good character and reputation. Character and reputation investigation includes, but is not limited to, background checks as required by §§ 63.2-1702 and 63.2 – 1721 of the Code of Virginia.
+D. The provider shall meet the requirements specified in 22VAC40-191, Background Checks for Child Welfare Agencies.
+E. The provider shall ensure that the home's activities, services, and facilities are conducive to the welfare of children in care.
+F. The provider shall be responsible for the home's day-to-day operation.
+G. The provider shall ensure that any advertising is not misleading or deceptive as required by § 63.2-1713 of the Code of Virginia.
+H. The provider shall meet the requirements specified in 22VAC40-80, General Procedures and Information for Licensure.
+22VAC40-111-40. Capacity.
+A. The provider shall ensure that the total number of children receiving care at any one time does not exceed the maximum licensed capacity of the home.
+B. When at least one child receives care for compensation, all children, exclusive of the provider's own children and children who reside in the home, who are in the care and supervision of a provider, count in the licensed capacity.
+C. The department will establish the home's maximum capacity based on the following factors:
+1. The availability of adequate space to allow each child free movement and active play indoors and outdoors as required by 22VAC40-111- 380;
+2. The provider's responsibility to care for another individual who may require special attention or care, including but not limited to an elderly
+11/18
+4
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+resident or a child with a serious physical, emotional, or behavioral
+11/18
+5
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+condition; or
+3. The issuance of a special order to limit capacity pursuant to § 63.2-1709.2 of the Code of Virginia.
+.
+22VAC40-111-50. General Recordkeeping.
+A. The family day home shall keep a written record of children in attendance each day.
+B. The provider's records shall be maintained in the home and made accessible to the department's representative.
+C. Information contained in a child's record shall be privileged and confidential. The provider shall not distribute or release information in a child's record to any unauthorized person without the written consent of the child's parent.
+D. Children's records shall be made available to a child's parent upon request, unless otherwise ordered by the court.
+E. Records and reports on children, caregivers, and household members required by this chapter shall be maintained and made accessible to the department's representative for two years from the date of termination of services for a child, date of separation from employment for caregivers, or date of termination of residence for a household member, or unless specified otherwise.
+22VAC40-111-60. Children's Records.
+A. Theprovidershallmaintainanup-to-daterecordatthefamilydayhomefor each enrolled child.
+B. A child's record shall contain the following information:
+1. Child's full name, nickname (if any), sex, address, and birth date; 2. Emergency contact information including:
+a. Name, home address, and telephone number of each parent who has custody;
+b. Name, address and telephone number of each custodial parent's place of employment;
+c. Name, office address and telephone number of the child's physician;
+d. Name, address and telephone number of two designated persons to contact in case of an emergency if the parent cannot be reached;
+e. Information on allergies and intolerance to food, medication, or any other substances, and actions to take in an emergency situation;
+f. Name and policy number of the child's medical insurance, if applicable; 6
+11/18
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+g. Names of persons other than the custodial parents who are authorized to pick up the child;
+h. Appropriate legal paperwork when a custodial parent does not authorize the provider to release the child to the other parent; and
+i. Chronic physical problems, pertinent developmental information, and any special accommodations needed;
+3. First and last dates of attendance;
+4. Parent'ssignedacknowledgementofthereceiptofthe information required by 22VAC40-111-70;
+5. Proof of the child's age and identity and the names and addresses of previously attended child day care and schools as required by22VAC40- 111-80;
+6. Immunization records for the child as required by 22VAC40-111-90;
+7. Resultsofthehealthexaminationforthechildasrequiredby22VAC40- 111-100;
+8. Written authorization for emergency medical care should an emergency occur and the parent cannot be located immediately unless the parent presents a written objection to provision of medical treatment on religious or other grounds;
+9. Written authorization if a caregiver is to administer prescription or nonprescription medication to the child as required by 22VAC40-111- 700 A 2;
+10. Written authorization if the child is to participate in swimming or wading activities as required by 22VAC40-111-660B;
+11. Written authorization if the child is taken off the premises of the family day home as required by 22VAC40-111-980;
+12.Special instructions to the provider including, but not limited to, exception to an infant's sleeping position as required in 22VAC40-111- 590 A, recommendations for the care and activities of a child with special needs as required in 22VAC40-111-620 A, and exception to an infant's being fed on demand as required in 22VAC40-111-960 A;
+13.Record of any accidents or injuries sustained by the child while at the family day home as required by 22VAC40-111-840; and
+14.Documentation of the review of the child's emergency contact information as required by 22VAC40-111-780 B.
+11/18
+7
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+22VAC40-111-70. Written Information for Parents.
+A. Before the child's first day of attendance, parents shall be provided in writing the following information:
+1. Operating information including the hours and days of operation, holidays or other times closed, and the telephone number where a message can be left for a caregiver;
+2. Schedule of fees and payment plans;
+3. Check in and check out procedures;
+4. Policies for the administration of medications;
+5. Whether or not there is liability insurance of at least $100,000 per occurrence and $300,000 aggregate in force on the family day home operation as required by § 63.2-1809.1 of the Code of Virginia;
+6. Requirement for the family day home to notify the parent when the child becomes ill and for the parent to arrange to have the child picked up as soon as possible if so requested by the home;
+7. Requirement for the parent to inform the family day home within 24 hours or the next business day after his child or any member of the immediate household has developed any reportable communicable disease, as defined by the State Board of Health, except for life- threatening diseases, which must be reported immediately;
+8. Requirement for the child to be adequately immunized as required by 22VAC-40-111-90;
+9. Requirement for paid caregivers to report suspected child abuse or neglect according to § 63.2-1509 of the Code of Virginia;
+10. Custodial parent's right to be admitted to the family day home any time the child is in care as required by § 63.2-1813 of the Code of Virginia;
+11. General daily schedule that is appropriate for the age of the enrolling child;
+12.Policies for the provision of food;
+13.Presence of a pet or animal in the home;
+14. Discipline policies including acceptable and unacceptable discipline measures;
+15.Amount of time per week that an adult assistant or substitute provider instead of the provider is scheduled to care for the child and the name of the adult assistant or substitute provider;
+16. Provisions of the family day home's emergency preparedness and response plan;
+11/18
+8
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+17. Parental notifications required in 22VAC40-111-650;
+18.Policies for termination of care; and
+19.Address of the website of the department, with a note that a copy of this regulation and additional information about the family day home may be obtained from the website, including compliance history that includes information after July 1, 2003.
+B. The provider shall obtain the parent's written acknowledgement of the receipt of the information in this section.
+22VAC40-111-80. Proof of Age and Identity; Record of Child Care and Schools.
+A. Within seven business days of the child's first day of attendance at the family day home, the provider shall obtain from the parent:
+1. Verification of the identity and age of the child; and
+2. Name and location of previous day care programs and schools the child has attended.
+B. The provider shall verify the identity and age of a child by viewing one of the following:
+1. Certified birth certificate;
+2. Birth registration card;
+3. Notification of birth, i.e., hospital, physician, or midwife record;
+4. Passport;
+5. Copy of the placement agreement or other proof of the child's identity from a child placing agency;
+6. Original or copy of a record or report card from a public school in Virginia;
+7. Signed statement on letterhead stationery from a public school principal or other designated official that assures the child is or was enrolled in the school; or
+8. Child identification card issued by the Virginia Department of Motor Vehicles. C. The provider shall document in the child's record:
+1. The method of verification of the child's age and identity; and
+2. The names and locations of the previous child care programs and schools the child has attended.
+D. The provider shall notify the local law-enforcement agency if the parent does not provide the information required in 22VAC40-111-80 A within seven
+11/18
+9
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+business days of the child's first day of attendance at the family day home.
+E. The proof of identity, if reproduced or retained by the family day home, shall be destroyed two years after termination of services to the child. The procedures for the disposal, physical destruction, or other disposition of the proof of identity containing social security numbers shall include all reasonable steps to destroy such documents by:
+1. Shredding;
+2. Erasing; or
+3. Otherwise modifying the social security numbers in those records to make them unreadable or indecipherable by any means.
+22VAC40-111-90. Immunizations for Children.
+A. Before a child may attend the family day home, the provider shall obtain documentation that the child has been adequately immunized according to the requirements of § 32.1-46 A of the Code of Virginia and applicable State Board of Health regulations.
+B. Pursuant to subsection C of § 22.1-271.2 of the Code of Virginia, documentation of immunizations is not required for any child whose:
+1. Parent submits an affidavit to the family day home on the current form approved by the Virginia Department of Health stating that the administration of immunizing agents conflicts with the parent's or child's religious tenets or practices; or
+2. Physician or a local health department states on a Department of Health- approved form that one or more of the required immunizations may be detrimental to the child's health, indicating the specific nature and probable duration of the medical condition or circumstance that contraindicates immunization.
+C. The family day home shall obtain documentation of additional immunizations for a child who is not exempt from the immunization requirements according to subsection B of this section:
+1. Once every six months for children under the age of two years; and
+2. Once between each child's fourth and sixth birthdays.
+22VAC40-111-100. Physical Examinations for Children.
+A. The provider shall obtain documentation of a physical examination by or under the direction of a physician prior to a child's attendance or within 30 days after the first day of attendance.
+B. The physical examination prior to attendance shall have been conducted within: 10
+11/18
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+1. Two months prior to attendance for children six months of age or younger;
+2. Three months prior to attendance for children age seven months through 18 months;
+3. Six months prior to attendance for children age 19 months through 24 months;
+4. Twelve months prior to attendance for children two years of age through five years of age; or
+5. Twenty-four months prior to attendance for children six years of age and above.
+EXCEPTIONS:
+1. A new physical examination is not required if a copy of the physical examination is available to the admitting family day home for a child transferring from a facility licensed by the Virginia Department of Social Services, approved by a licensed family day system, voluntarily registered by the Virginia Department of Social Services or by a contract agency of the Virginia Department of Social Services, or transferring from a Virginia Department of Education-approved child care program .
+2. Pursuant to subsection D of § 22.1-270 of the Code of Virginia, physical examinations are not required for any child whose parent objects on religious grounds. The parent must submit a signed statement noting that the parent objects on religious grounds and certifying that to the best of the parent's knowledge the child is in good health and free from communicable or contagious disease.
+3. For a school age child, a copy of the physical examination required for his entry into a Virginia public kindergarten or elementary school is acceptable documentation.
+22VAC40-111-110. Form and Content of Immunization and Physical Examination Reports for Children.
+A. The current form approved by the Virginia Department of Health or a physician's form shall be used to record immunizations received and the results of the required physical examination.
+B. Each report shall include the date of the physical examination and dates immunizations were received and shall be signed by a licensed physician, the physician's designee, or an official of a local health department.
+22VAC40-111-120. Caregiver Records.
+A. The provider shall maintain a record for each caregiver.
+11/18
+11
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+B. Assistants' and substitute providers' records shall contain the following: 1. Name;
+2. Address;
+3. Verification of age;
+4. Job title;
+5. Date of employment or volunteering;
+6. Name address and telephone number of a person to be notified in an emergency;
+7. For assistants and substitute providers who are not the spouse, parent, sibling, or child of the provider and are hired after June 30, 2010, documentation that two or more references as to character and reputation as well as competency were checked before employment. If a reference check is taken over the telephone, documentation shall include:
+a. Datesofcontact,
+b. Namesofpersonscontacted,
+c. Firms contacted,
+d. Results,and
+e. Signature of person making call;
+8. Background checks as required by 22VAC40-111-130;
+9. Documentation of tuberculosis screening as required by 22VAC40- 111-170 and 22VAC40-111-180 A; and
+10.Documentation of the education and training as required by 22VAC40-111- 230.
+C. Substitute providers' records shall also contain documentation of the time of arrivals and departures as required by 22VAC40-111-140 D.
+D. Providers' records shall contain the following:
+1. Background checks as required by 22VAC40-111-130;
+2. Documentation of tuberculosis screening as required by 22VAC40- 111-170 and 22VAC40-111-180 A; and
+3. Documentation of the education and training as required by 22VAC40-111- 230.
+11/18
+12
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+Part III. PERSONNEL
+22VAC40-111-130. General Qualifications for Caregivers.
+Caregivers shall:
+1. Be of good character and reputation;
+2. Be physically and mentally capable of carrying out assigned responsibilities;
+3. Be courteous, respectful, patient, and affectionate toward the children in care;
+4. Be able to speak, read, and write in English as necessary to:
+a. Carry out assigned job responsibilities, and
+b. Communicate effectively with emergency responders; and
+5. Meet the requirements specified in 22VAC40-191, Background Checks for Child Welfare Agencies.
+22VAC40-111-140. Qualifications and Requirements for Providers and Substitute Providers.
+A. Providers and substitute providers shall be 18 years of age or older.
+B. Providers licensed after and substitute providers employed after June 30, 2010, shall have:
+1. A high school program completion or the equivalent or (ii) evidence of having met the requirements for admission to an accredited college or university;
+2. Three months of programmatic experience;
+3. Current certification in cardiopulmonary resuscitation (CPR), as appropriate to the age of the children in care, from the American Red Cross, American Heart Association, American Safety and Health Institute, or the National Safety Council, or current CPR certification issued within the past two years by a community college, a hospital, a rescue squad, or a fire department; and
+4. Current certification in first aid from the American Red Cross, American Heart Association, American Safety and Health Institute, or the National Safety Council, or current first aid certification issued within the past three years by a community college, a hospital, a rescue squad, or a fire department.
+EXCEPTION: A provider or substitute provider who is a registered nurse or licensed practical nurse with a current license from the Board of Nursing shall not be required to obtain first aid certification.
+11/18
+13
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+C. Use of a substitute provider shall be limited to no more than a total of 240 hours per calendar year.
+D. A substitute provider shall record and sign the time of arrivals and departures on each day that the substitute provider works.
+22VAC40-111-150. Qualifications and Requirements for Assistants.
+A. Assistants shall be 16 years of age or older.
+B. An assistant under the age of 18 years of age shall always work under the direct supervision of the provider or substitute provider. Direct supervision means being able to hear or see the assistant and children at all times.
+C. An assistant 18 years of age or older shall not be left alone with children in care for more than two hours per day.
+D. An assistant 18 years of age or older who is left alone with children in care shall have:
+1. Current certification in cardiopulmonary resuscitation (CPR), as appropriate to the age of the children in care, from the American Red Cross, American Heart Association, American Safety and Health Institute, or National Safety Council, or current CPR certification issued within the past two years by a community college, a hospital, a rescue squad, or a fire department; and
+2. Current certification in first aid from the American Red Cross, American Heart Association, American Safety and Health Institute, or National Safety Council, or current first aid certification issued within the past three years by a community college, a hospital, a rescue squad, or a fire department.
+EXCEPTION: An assistant who is a registered nurse or licensed practical nurse with a current license from the Board of Nursing shall not be required to obtain first aid certification.
+E.An assistant 18 years of age or older who meets the requirements for a substitute provider may act as the substitute provider when the provider is absent from the home for more than two hours.
+Part IV. HOUSEHOLD MEMBERS
+22VAC40-111-160. Attributes for Household Members.
+Individuals 14 years of age and older who reside in the family day home shall: 1. Display behavior that demonstrates emotional stability;
+11/18
+14
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+2. Be of good character and reputation; and
+3. Meet the requirements specified in 22VAC40-191, Background Checks for Child Welfare Agencies.
+Part V.
+PHYSICAL HEALTH OF CAREGIVERS AND HOUSEHOLD MEMBERS
+22VAC40-111-170. Initial Tuberculosis Screening for Caregivers and Household Members.
+A. The provider shall obtain from each caregiver at the time of hire and each adult household member prior to coming into contact with children a current Report of Tuberculosis Screening form published by the Virginia Department of Health or a form consistent with it documenting the absence of tuberculosis in a communicable form.
+B. The form shall have been completed within the last 30 days and be signed by a physician, physicians' designee, or an official of the local health department.
+22VAC40-111-180. Subsequent Tuberculosis Screening for Caregivers and Household Members.
+A. The provider shall obtain for each caregiver and adult household member a currentReport of Tuberculosis Screening form, in accordance with the requirements in 22VAC40-111-170, every two years from the date of the first screening or more frequently as recommended by a physician or the local health department
+B. Within 30 days of a caregiver's or adult household member's coming into contact with a known case of infectious tuberculosis, the provider shall obtain for the individual a new Report of Tuberculosis Screening form in accordance with the requirements in 22VAC40-111-170. Until a new screening form is issued that documents the absence of tuberculosis in a communicable form, the care giver or adult household member shall not have contact with children.
+C. The provider shall immediately obtain a new Report of Tuberculosis Screening form in accordance with the requirements in 22VAC40-111-170 for any caregiver or adult household member who develops chronic respiratory symptoms of three weeks duration. Until a new screening form is issued that documents the absence of tuberculosis in a communicable form, the caregiver or adult household member shall not have contact with children.
+22VAC40-111-190. Physical and Mental Health Examinations for Caregivers and Household Members.
+A. The provider or the department's representative may require a report of examination by a licensed physician or mental health professional when there are indications that a caregiver's or household member's physical or mental health
+11/18
+15
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+may endanger the health, safety, or well- being of children in care.
+B. A caregiver or household member who is determined by a licensed physician or mental health professional to show an indication of a physical or mental condition that may endanger the health, safety, or well-being of children in care or that would prevent the performance of duties shall be removed immediately from contact with children and food served to children until the condition is cleared as evidenced by a signed statement from the physician or mental health professional.
+Part VI. CAREGIVER TRAINING
+22VAC40-111-200. Orientation.
+A. The provider shall orient the substitute provider and assistant by the end of their first week of assuming job responsibilities.
+B. The orientation shall cover the following topics: 1. Job responsibilities;
+2. Requirements for parental notifications listed in 22VAC40-111-650;
+3. Standards in this chapter that relate to the substitute provider's or assistant's responsibilities;
+4. Emergency evacuation, relocation, and shelter-in-place procedures;
+5. Location of emergency numbers, first aid kit, and emergency supplies;
+6. Confidential treatment of information about children in care and their families; and
+7. Requirement for reporting suspected child abuse and neglect.
+C. Documentation of the orientation shall be signed and dated by the provider and substitute provider or by the provider and assistant.
+22VAC40-111-210. Annual Training.
+A. In addition to satisfactory completion of first aid training and CPR training, caregivers shall obtain a minimum of eight clock hours of training annually in areas relevant to their job responsibilities.
+1. Effective July 1, 2011, caregivers shall obtain 12 clock hours of training annually.
+2. Effective July 1, 2012, caregivers shall obtain 14 clock hours of training annually.
+3. Effective July 1, 2013, caregivers shall obtain 16 clock hours of training
+16
+11/18
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+annually.
+B. The annual training shall cover areas such as, but not limited to:
+1. Physical, intellectual, social, and emotional child development; 2. Behavior management and discipline techniques;
+3. Health and safety in the family day home environment;
+4. Art and music activities for children;
+5. Child nutrition;
+6. Recognition and prevention of child abuse and neglect;
+7. Emergency preparedness as required by 22 VAC 40-111-800 C; or 8. Recognition and prevention of the spread of communicable diseases.
+22VAC40-111-220. Medication Administration Training.
+A. To safely perform medication administration practices listed in 22VAC40-111- 710 whenever the family day home has agreed to administer prescription medications or nonprescription medications, the administration shall be performed by a caregiver who:
+1. Has satisfactorily completed a training program for this purpose developed or approved by the Board of Nursing and taught by a registered nurse, licensed practical nurse, doctor of medicine or osteopathic medicine, or pharmacist; or
+2. Is licensed by the Commonwealth of Virginia to administer medications.
+B. Caregivers required to have the training in subdivision A 1 of this section shall be retrained at three-year intervals.
+22VAC40-111-230. Documentation of Education and Training.
+A. The provider shall maintain written documentation of each caregiver's applicable education and programmatic experience, applicable first aid and CPR certification, orientation, annual training, and applicable medication administration training.
+B. Written documentation of annual training shall include: 1. Name of the caregiver;
+2. Name of the training session;
+3. Date and total hours of the session; and
+4. Name of the organization that sponsored the training and the trainer.
+11/18
+17
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+Part VII.
+PHYSICAL EQUIPMENT AND ENVIRONMENT
+22VAC40-111-240. Home Maintenance.
+A. Areas and furnishings of the family day home, inside and outside, shall be maintained in a clean, safe, and operable condition. Unsafe conditions shall include, but not be limited to, the presence of poisonous plants; tripping hazards; unstable heavy equipment, furniture, or other items that a child could pull down on himself; splintered, cracked, or otherwise deteriorating wood; chipped or peeling paint; visible cracks, bending or warping, rusting, or breakage of any equipment; head entrapment hazards; and protruding nails, bolts, or other components that could entangle or could snag skin.
+B. No equipment, materials, or furnishings shall be used if recalled or identified by the U.S. Consumer Product Safety Commission as being hazardous.
+22VAC40-111-250. Hanging, Suffocation, and Strangulation Hazards.
+A. Hanging items including, but not limited to, window blind or curtain cords, appliance cords, and ropes shall be out of reach of children under five years of age.
+B. Children shall be protected from materials that could be swallowed or present a choking hazard. Toys or objects less than 1-1/4 inches in diameter and less than two inches in length shall be kept out of reach of children under the age of three years.
+C. Items tied across the top or corner of a crib or playpen or toys hung from the sides with strings or cords shall be removed when the child begins to push up on hands and knees or is five months of age, whichever occurs first.
+D. Hood or neck drawstrings shall be removed from a child's clothing prior to a child's using climbing play equipment.
+E. Latex gloves, balloons, and empty plastic bags large enough for a child's head to fit inside shall be inaccessible to children under five years of age.
+22VAC40-111-260. Drowning Hazards.
+A. Access to the water in aboveground swimming pools shall be prevented by locking and securing the ladder in place or storing the ladder in a place inaccessible to children.
+B. A nonclimbable barrier at least four feet high such as, but not limited to, a fence or impenetrable hedge shall surround outdoor play areas located within 30 feet of drowning hazards such as, but not limited to, inground swimming or wading pools, ponds, or fountains not enclosed by safety fences. Facilities licensed prior to July1, 2010, must comply fully with the requirement of this subsection by July 1, 2011.
+11/18
+18
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+C. Portable wading pools without integral filter systems shall:
+1. Be emptied after use by each group of children, rinsed, and filled with clean water, or more frequently as necessary; and
+2. When not in use during the family day home's hours of operation, be emptied, sanitized, and stored in a position to keep them clean and dry.
+D. Portable wading pools shall not be used by children who are not potty trained.
+E. Bathtubs, buckets, and other containers of liquid accessible to children shall be emptied immediately after use.
+F. Hot tubs, spas, and whirlpools shall:
+1. Not be used by children in care, and
+2. Covered with safety covers while children are in care.
+22VAC40-111-270. Firearms and Ammunition.
+A. Firearms of every type and purpose shall be stored unloaded in a locked container, compartment, or cabinet, and apart from ammunition.
+B. Ammunition shall be stored in a locked container, compartment, or cabinet during the family day home's hours of operation.
+C. If a key is used to lock the container, compartment, or cabinet, the key shall be inaccessible to children.
+22VAC40-111-280. Poisonous Materials.
+Potentially poisonous substances, materials and supplies such as, but not limited to, cleaning agents, disinfectants, deodorizers, plant care chemicals, pesticides, and petroleum distillates shall be stored away from food in areas inaccessible to children.
+22VAC40-111-290. Sharp Objects.
+Sharp kitchen utensils and other sharp objects shall be inaccessible to children unless being used by the caregiver or with children under close supervision.
+22VAC40-111-300. Body Fluids Contamination.
+When any surface has been contaminated with body fluids, it shall be cleaned and sanitized.
+22VAC40-111-310. Machinery.
+Machinery in operation such as lawnmowers and power tools shall be inaccessible to the children in care.
+11/18
+19
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+22VAC40-111-320. Fire Safety and Shock Prevention.
+A. Small electrical appliances such as, but not limited to, curling irons, toasters, blenders, can openers, and irons shall be unplugged unless being used by the caregiver or with children under close supervision.
+B. Child-resistant protective covers larger than 1-1/4 inches in diameter shall be installed on all unused electrical outlets and surge protectors accessible to children under five years of age.
+C. No electrical device accessible to children shall be placed so that it could be plugged into an electrical outlet while in contact with a water source, such as a sink, tub, shower area, toilet, or swimming or wading pool.
+D. Electrical cords and electrical appliances and equipment with cords that are frayed and have exposed wires shall not be used.
+E. Radiators, oil and wood burning stoves, floor furnaces, fireplaces, portable electric heaters, and similar heating devices located in areas accessible to children shall have barriers or screens and be located at least three feet from combustible materials.
+F. Unvented fuel burning heaters shall not be used when children are in care. Unvented fuel burning heaters include, butare not limited to, portable oil-burning (kerosene) heaters; portable, unvented liquid or gas fueled heaters; and unvented fireplaces.
+G. Wood burning stoves and fireplaces and associated chimneys shall be inspected annually by a knowledgeable inspector to verify that the devices are properly installed, maintained, and cleaned as needed. Documentation of the inspection and cleaning shall be maintained by the provider.
+H. All flammable and combustible materials such as, but not limited to, matches, lighters, lighter fluid, kerosene, turpentine, oil and grease products, aerosol cans, and alcohol shall be stored in an area inaccessible to children.
+I. If there are open and obvious fire hazards, including the absence of fire extinguishers or smoke detectors as required by the Uniform Statewide Building Code and the Statewide Fire Prevention Code, the local fire prevention or building official’s or the State Fire Marshal's office shall be contacted by the department's representative. The provider shall comply with the requirements or recommendations made by the fire prevention or building officials to eliminate fire hazards.
+22VAC40-111-330. Telephones.
+A. A landline telephone, excluding a cordless or cell phone, shall be available, operable, and accessible during the family day home's hours of operation. An operable landline telephone is one that does not require electricity to operate. Cordless or cell phones may be used in addition to the landline telephone.
+11/18
+20
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+B. If the telephone number is unlisted, the provider shall ensure that parents and the department have been given the unlisted number in writing.
+C. The provider shall inform the department within 48 hours and parents within 24 hours of a change of the telephone number.
+22VAC40-111-340. Bathrooms.
+A. The home shall have an indoor bathroom.
+B. The bathroom shall be easily accessible to children two years of age and older.
+C. The bathroom shall be kept clean and contain a working toilet and sink, toilet tissue, liquid soap, and paper towels.
+22VAC40-111-350. Water Supply.
+A. The home shall have indoor running water.
+B. When water is not obtained from a municipal supply, and the house is not connected to a municipal sewer line, the water supply and septic system of the family day home shall be inspected and approved by the local health official or a private laboratory if there are open and obvious symptoms of water or sewage system problems, such as evidence of cloudy, murky, or muddy water, or sewage back up.
+C. Family day homes connected to a municipal water supply and sewer line that have open and obvious symptoms of water or sewage system problems shall have the problems corrected within a time frame established by the local public utility department.
+D. There shall be an ample supply of hot and cold water available to children and caregivers for hand washing.
+E. Hot water at taps available to children shall be maintained within a range of 105°F to 120°F.
+22VAC40-111-360. Garbage.
+A. Garbage shall be removed on a daily basis from rooms occupied by children and removed from the premises at least once weekly or more often asneeded.
+B. There shall be a sufficient number of garbage and diaper containers.
+C. Children shall not be allowed access to garbage storage areas.
+D. Garbage storage areas shall be free of litter, odor, and uncontained trash. 22VAC40-111-370. Rodents and insects.
+A. The home shall be kept free from rodents and insect infestation.
+B. No home shall maintain any receptacle or pool, whether natural or artificial,
+11/18
+21
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+containing water in such condition that insects breeding therein may become a menace to public health.
+22VAC40-111-380. Space.
+The home shall provide each child with adequate space to allow free movement and active play indoors and out.
+22VAC40-111-390. Individual Location.
+A. Each child who is two years of age and older shall have access to an individual locationin which to keep clothing, toys, and belongings.
+B. Each child who is under the age of two shall have an individual location in which to keep clothing, toys, and belongings that is accessible to the caregiver and parent.
+22VAC40-111-400. Heating and Cooling.
+A. The temperature in all inside areas occupied by children shall be maintained no lower than 65°F.
+B. Fans or other cooling systems shall be used when the temperature of inside areas occupied by children exceeds 80°F.
+22VAC40-111-410. Electric Fans.
+Portable electric fans shall be securely mounted out of the reach of children and shall be equipped with a mesh guard.
+22VAC40-111-420. Lighting.
+A. Rooms, halls, and stairways used by children in care shall be lighted with naturalor electric lighting for the children's safety and comfort.
+B. Entrance and exit ways shall be unobstructed and be lighted with natural or electric lighting.
+22VAC40-111-430. Stairs.
+A. Children under two years of age and children over two years of age who are not developmentally ready to climb or descend stairs without supervision shall not have access to stairs.
+B. Accordion expansion gates and pressure mounted gates shall not be used as protective barriers at stair openings.
+C. Children over the age of two shall not have access to stairs with three or more risers that do not have protective barriers or guardrails on each side.
+D. Protective barriers or guardrails on sides of stairs shall be constructed to prevent a child from climbing over, crawling or falling through, or becoming
+11/18
+22
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+entrapped.
+22VAC40-111-440. Decks and Porches.
+A. Children shall not have access to decks, porches, lofts, or balconies that do not have protective barriers or guardrails.
+B. Protective barriers or guardrails shall be constructed to prevent a child from climbing over, crawling or falling through, or becoming entrapped.
+22VAC40-111-450. Doors and Windows.
+A. Doors with clear glass panels that reach within 18 inches of the floor shall be clearly marked with decorative objects such as pictures, art work, or decals at the eye level of children in care.
+B. Closet doors with latches shall be such that children can open the door from inside the closet.
+C. Bathroom doors with locks shall be designed to permit opening of the locked door from the outside with a readily accessible opening device.
+D. Windows and doors used for ventilation shall be securely screened.
+22VAC40-111-460. Animals.
+A. Family pets shall not be allowed on any surfaces where food is prepared or served.
+B. A pet or animal present at the home, indoors or outdoors, shall be in good health and show no evidence of carrying any disease.
+C. Dogs or cats, where allowed, shall be vaccinated for rabies and shall be treated for fleas, ticks, or worms as needed.
+D. The provider shall maintain documentation of the current rabies vaccination.
+E. Caregivers shall closely supervise children when children are exposed to animals.
+F. Children shall be instructed on safe procedures to follow when in close proximity to animals, e.g., not to provoke or startle them or remove their food.
+G. Animals that have shown aggressive behavior shall not be kept in the home or on the grounds.
+H. Monkeys, ferrets, reptiles, psittacine birds (birds of the parrot family), or wild or dangerous animals shall not be in areas accessible to children during the hours children are in care.
+I. Animal litter boxes, toys, food dishes, and water dishes shall be inaccessible to children.
+11/18
+23
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+J. All animal excrement shall be removed promptly, disposed of properly, and, if indoors, the soiled areacleaned.
+22VAC40-111-470. Smoking and Prohibited Substances.
+The provider shall ensure that:
+1. No person smokes:
+a. Indoors while children are in care;
+b. In a vehicle when children are transported; or
+c. Outdoors in an area occupied by children.
+2. No caregiver is under the effects of medication that impairs functioning, alcohol, or illegal drugs.
+22VAC40-111-480. Play Equipment and Materials.
+A. The family day home shall provide a sufficient quantity and variety of play materials and equipment that shall be readily accessible to children.
+B. Equipment and materials used by a child shall be appropriate to the age, size, ability, and interest of the child.
+C. Materials and equipment available shall include, but not be limited to, arts and crafts materials, texture materials, construction materials, music and sound materials, books, social living equipment, and manipulative equipment.
+D. Equipment used by children shall be assembled, maintained, and used in accordance with the manufacturer's instructions.
+E. Equipment and materials used by children shall be clean, nontoxic, and free from hazards such as lead paint, sharp edges or points, loose parts, and rust.
+F. Toys mouthed by children shall be cleaned and sanitized daily.
+22VAC40-111-490. Indoor Slides and Climbing Equipment.
+The climbing portions of indoor slides and climbing equipment over 18 inches high shall not be over bare floor.
+22VAC40-111-500. Outdoor Play Area and Equipment.
+A. A nonclimbable barrier at least four feet high such as, but not limited to, a fence or impenetrable hedge shall surround outdoor play areas located within 30 feet of hazards such as, but not limited to, streets with speed limits in excess of 25 miles per hour or with heavy traffic, or railroad tracks. Facilities licensed prior to July 1, 2010, must comply fully with the requirement of this subsection by July 1, 2011.
+11/18
+24
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+B. The highest climbing rung or platform on outdoor climbing equipment or top of a slide shall not exceed six feet for school age children and four feet for preschool children.
+C. Stationary outdoor playground equipment shall:
+1. Not be installed over concrete, asphalt, or any other hard surface;
+2. Be placed at least six feet from the perimeter of other play structures or obstacles; and
+3. Be firmly anchored with ground supports that are covered with materials to protect children from injury.
+D. Outdoor play equipment shall meet the following requirements: 1. "S" hooks shall be tightly closed;
+2. Swings shall have flexible seats of rubber, canvas, or nylon;
+3. Nonflexible-molded seats shall be used only when a caregiver stays within arm's length of any hard-molded swing in use and is positioned to see and protect other children who might walk into the path of the swing;
+4. Openings above the ground that are closed on all sides shall be smaller than 3-1/2 inches or larger than nine inches to prevent head entrapment hazards;
+5. Ropes, loops, or any hanging apparatus that might entrap, close, or tighten upon a child shall not be used;
+6. Equipment with moving parts that might pinch or crush children's hands or fingers shall not be used unless they have guards or covers;and
+7. Equipment with platforms and ramps over 30 inches high shall have been designed with guardrails or barriers to prevent falls.
+E. Sandboxes shall be covered when not in use.
+F. Trampolines shall not be used during the hours children are in care.
+22VAC40-111-510. Rest Areas.
+A. A child shall be provided with an individual crib, cot, rest mat, or bed for resting or napping.
+B. Upper levels of double-deck beds shall not be used. C. Occupied cribs, cots, rest mats, and beds shall be:
+1. At least three feet from any heat-producing appliance; and 2. At least 12 inches from each other.
+11/18
+25
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+D. Rest mats that are used must have at least an inch of cushioning.
+E. Rest mats shall be cleaned and sanitized on all sides at least weekly and as needed.
+22VAC40-111-520. Cribs.
+A. Cribs shall be provided for children from birth through 12 months of age and for children over 12 months of age who are not developmentally ready to sleep on a cot, rest mat, or bed.
+B. Cribs shall not be used as a play space for infants. C. Cribs shall:
+1. Meet the U.S. Consumer Product Safety Commission standards at the time they were manufactured;
+2. Not have been recalled;
+3. Have no more than six centimeters or 2-3/8 inches of space between slats;
+4. Have mattresses that fit snugly next to the crib so that no more than two fingers can be inserted between the mattress and the crib;
+5. Not have end panel cutouts of a size to cause head entrapment; and
+6. Not have mesh sides.
+D. Double-deck cribs shall not be used.
+E. Crib bumper pads shall not be used.
+F. Crib sides shall always be up and the fastenings secured when a child is in the crib, except when the caregiver is giving the child immediate attention.
+22VAC40-111-530. Linens.
+A. Cribs, cots, rest mats, and beds when being used for sleeping or napping by children other than infants shall have linens consisting of a top cover and a bottom cover or a one-piece covering that is open on three edges.
+B. Cribs when being used by infants shall have a tight-fitting bottom cover. C. Linens shall be assigned for individual use.
+D. Linens shall be clean and washed at least weekly or when soiled.
+E. Clean linens shall be used each time a child rests on the bed of a family member.
+F. No soft bedding of any kind shall be used under or around infants including, but not limited to, pillows, quilts, comforters, sheepskins, or stuffed toys.
+G. Children under two years of age shall not use pillows or filled comforters.
+11/18
+26
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+H. Pillows, when used for children over two years of age, shall be assigned for individual use and covered with pillowcases.
+I. Mattresses, when used, shall be covered with a waterproof material that can be cleaned and sanitized.
+22VAC40-111-540. Infant and Toddler Equipment.
+A. Infant carrier seats, swings, strollers, feeding or activity tables, and high chairs shall be used according to the manufacturer's instructions and when occupied by a child, a safety strap shall be used and securely fastened.
+B. Infant walkers shall not be used.
+22VAC40-111-550. Play Pens.
+A play pen where used shall:
+1. Have either mesh netting with mesh holes smaller than 1/4 inch or slats no more than2- 3/8 inches apart;
+2. Have a firm floor with a secured, waterproof pad that is not more than one-inch thick;
+3. Have the sides up and the fastenings secured when a child is in the play pen, except when the caregiver is giving the child immediate attention;
+4. Be cleaned and sanitized each day of use or more often as needed;
+5. Not be occupied by more than one child;
+6. Not be used for the designated sleeping area;
+7. Not have torn mesh sides or vinyl-covered or fabric-covered rails,
+protruding rivets on the rails, or broken hinges;
+8. Not contain any pillows or filled comforters;
+9. Not contain large toys and other objects that can serve as a stepping stool
+for climbing out when a child can pull to a standing position;
+10. Not be used by children who weigh 30 pounds or more; and
+11. Not be used by children who are 35 inches tall or taller.
+Part VIII. CARE OF CHILDREN
+22VAC40-111-560. Supervision.
+A. A caregiver shall be physically present on site and provide direct care and supervision of each child at all times. Direct care and supervision of each child includes:
+11/18
+27
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+1. Awareness of and responsibility for each child in care, including being near enough to intervene if needed; and
+2. Monitoring of each sleeping infant in one of the following ways:
+a. By placing each infant for sleep in a location where the infant is within sight and hearing of a caregiver;
+b. By in-person observation of each sleeping infant at least once every 15 minutes; or
+c. By using a baby monitor.
+B. Caregivers shall actively supervise each child during outdoor play to minimize the risk of injury to a child.
+C. A caregiver may allow only school age children to play outdoors while the caregiver is indoors if the caregiver can hear the children playing outdoors.
+D. Infants shall be protected from older children.
+E. No child under five years of age or a child older than five who lacks the motor skills and strength to avoid accidental drowning, scalding, or falling while bathing shall be left unattended while in the bathtub.
+22VAC40-111-570. Determining Need for Additional Caregiver.
+A. The provider shall ensure that a caregiver does not exceed 16 points by using the following point system to determine if an additional caregiver is needed:
+1. Children from birth through 15 months of age count as four points each;
+2. Children from 16 months through 23 months of age count as three points each;
+3. Children from two through four years of age count as two points each;
+4. Children from five years through nine years of age count as one point each; and
+5. Children who are 10 years of age and older count as zero points.
+B. A caregiver's own children and resident children under eight years of age count in point maximums.
+22VAC40-111-580. General Requirements for Programs.
+A. In order to promote the child's physical, intellectual, emotional, and social well- being and growth, caregivers shall:
+1. Talk to the child;
+2. Provide needed help, comfort, and support;
+11/18
+28
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+3. Respect personal privacy;
+4. Respect differences in cultural, ethnic, and family backgrounds; 5. Encourage decision-making abilities;
+6. Promote ways of getting along;
+7. Encourage independence and self-direction; and
+8. Use consistency in applying expectations.
+B. Caregivers shall provide age-appropriate activities for children in care throughout the day that:
+1. Are based on the physical, social, emotional, and intellectual needs of the children;
+2. Reflect the diversity of enrolled children's families, culture, and ethnic backgrounds; and
+3. Enhance the total development of children. C. Daily age-appropriate activities shall include:
+1. Opportunities for alternating periods of indoor active and quiet play depending on the ages of the children;
+2. Opportunities for vigorous outdoor play daily, depending upon the weather, the ages, and the health of the children;
+3. Opportunities for one or more regularly scheduled rest or nap periods. Children unable to sleep shall be provided time and space for quiet play;
+4. Opportunities for children to learn about themselves, others, and the world around them;
+5. Opportunities for children to exercise initiative and develop independence in accordance with their ages; and
+6. Opportunities for structured and unstructured play time and provider- directed and child-initiated learning activities.
+22VAC40-111-590. Requirements for Sleeping and Resting.
+A. Infants shall be placed on their backs when sleeping or napping unless otherwise ordered by a written statement signed by the child's physician.
+B. An infant, toddler, or preschool child who falls asleep in a play space other than his own crib, cot, mat, or bed shall be moved promptly to his designated sleeping space if the safety or comfort of the infant, toddler, or preschool child is in question.
+C. School age children shall be allowed to nap if needed, but not forced to do so.
+29
+11/18
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+22VAC40-111-600. Daily Activities for Infants and Toddlers.
+A. Infants and toddlers shall be provided with opportunities to:
+1. Interact with caregivers and other children in the home in order to stimulate language development;
+2. Play with a wide variety of safe, age-appropriate toys;
+3. Receive individual attention from caregivers including, but not limited to, holding, cuddling, talking, and reading; and
+4. Reach, grasp, pull up, creep, crawl, and walk to develop motor skills.
+B. Infants and toddlers shall spend no more than 30 minutes of consecutive time during waking hours, with the exception of mealtimes, confined in a crib, play pen, high chair or other confining piece of equipment. The intervening time period between confinements shall be at least one hour.
+22VAC40-111-610. Television, Computers, Videos, and Video Games.
+A. Use of media such as, but not limited to, television, videos, video games, and computers shall be:
+1. Limited to not more than a total of two hours per day; and
+2. Limited to programs, tapes, websites, and software that are produced for children or are suitable for children.
+B. Other activities shall be available to children during television or video viewing.
+22VAC40-111-620. Care of a Child with Special Needs.
+A. Caregivers shall provide a child with special needs with the care and activities recommended in writing by a physician, psychologist, or other professional whohas evaluated or treated the child.
+B. The written recommendation shall:
+1. Include instructions for any special treatment, diet, or restrictions in activities that are necessary for the health of the child; and
+2. Be maintained in the child's record.
+C. The provider shall ensure the environment is appropriate for the child based on the plan of care and shall instruct other caregivers in the proper techniques of care.
+D. A caregiver shall perform only those procedures and treatments for which he has the necessary training, experience, credentials, or license to perform.
+E. Staffing shall be appropriate and adequate to meet the specific physical and developmental needs of a child with special needs in care.
+11/18
+30
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+F. The provider and the parent of the child with special needs shall mutually determine a recommendation for the level of staffing necessary to care for and supervise the child based on the child's chronological and functional age and degree of disability.
+G. Within 30 days of the child's enrollment, the provider shall provide the department's representative a written recommendation for the level of staffing necessary to care for and supervise the child.
+H. The department shall make the final decision regarding level of staffing or any capacity limitations necessary to care for, supervise, and protect all children in care when a child with special needs is receiving care.
+I. The parent, provider, and department's representative shall review the staffing requirements annually.
+J. A separate area shall be provided for the purpose of privacy for diapering, dressing, and other personal care procedures for a child above age three with special needs who requires assistance in these activities.
+22VAC40-111-630. Behavioral Guidance.
+A. Caregivers shall use positive methods of discipline. Discipline shall be constructive in nature and include techniques such as:
+1. Using limits that are fair, consistently applied, appropriate, and understandable for the child's level of development;
+2. Providing children with reasons for limits;
+3. Giving positively worded direction;
+4. Modeling and redirecting children to acceptable behavior;
+5. Helping children to constructively express their feelings and frustration to resolve conflict; and
+6. Arranging equipment, materials, activities, and schedules in a way that promotes desirable behavior.
+B. When time out is used as a discipline technique:
+1. It shall be used sparingly and shall not exceed one minute for each year of the child's age;
+2. It shall be appropriate to the child's developmental level and circumstances;
+3. It shall not be used with infants or toddlers;
+4. The child shall be in a safe, lighted, well-ventilated place, and within sight and sound of a caregiver; and
+5. The child shall not be left alone inside or outside the home while 11/18
+31
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+separated from the group.
+22VAC40-111-640. Forbidden Actions.
+The following acts or threats thereof are forbidden:
+1. Physical punishment including, but not limited to, striking a child, roughly handling or shaking a child, biting, pinching, restricting movement through binding or tying, forcing a child to assume an uncomfortable position, or exercise as punishment;
+2. Enclosure in a small, confined space or any space that the child cannot freely exit himself; however, this does not apply to the use of equipment such as cribs, play pens, high chairs, and safety gates when used for their intended purpose with children preschool age or younger;
+3. Punishment by another child;
+4. Withholding or forcing of food, water, or rest;
+5. Verbal remarks that are demeaning to the child;
+6. Punishment for toileting accidents; and
+7. Punishment by applying unpleasant or harmful substances.
+22VAC40-111-650. Parent Notifications.
+A. Theprovidershallprovidewrittennotificationtotheparentwithin10business days after the effective date of the change when there is no longer liability insurance in force on the family day home operation.
+1. The provider shall obtain the parent's written acknowledgement of the receipt of this notification, and
+2. A copy of the parent's written acknowledgement of the receipt of this notification shall be maintained in the child's record.
+B. Caregivers shall provide information daily to parents about the child's health, development, behavior, adjustment, or needs.
+C. The provider shall give parents prior notice when a substitute provider will be caring for the children.
+D. Caregivers shall notify parents when persistent behavioral problems are identified and such notification shall include any disciplinary steps taken in response.
+E. The provider shall notify the parent immediately when the child:
+1. Has a head injury or any serious injury that requires emergency medical or dental treatment;
+11/18
+32
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+2. Has an adverse reaction to medication administered; 3. Has been administered medication incorrectly;
+4. Is lost or missing; or
+5. Has died.
+F. The provider shall notify a parent the same day whenever first aid is administered to the child.
+G. When a child has been exposed to a communicable disease listed in the Department of Health's current communicable disease chart, the provider shall notify the parent within 24 hours or the next business day of the home's having been informed, unless forbidden by law, except for life-threatening diseases, which must be reported to parents immediately. The provider shall consult the local health department if there is a question about the communicability of a disease.
+H. Parents shall be informed of any changes in the home's emergency preparedness and response plan.
+I. Except in emergency evacuation or relocation situations, the provider shall inform the parentandhavewrittenpermissionasrequiredby22VAC40-111-980 whenever the child will be taken off the premises of the family day home, before such occasion.
+J. If an emergency evacuation or relocation is necessary, the parent shall be informed of the child's whereabouts as soon as possible.
+22VAC40-111-660. Swimming and Wading Activities.
+A. The level of supervision by caregivers required in 22VAC40-111-560 and the point system as outlined in 22VAC40-111-570 shall be maintained while the children are participating in swimming or wading activities.
+B. The family day home shall annually obtain:
+1. Written permission from the parent of each child who participates in swimming or wading activities, and
+2. A written statement from the parent advising of a child's swimming skills before the child is allowed in water above the child's shoulder height.
+C. Caregivers shall have a system for accounting for all children in the water. D. Outdoor swimming activities shall occur only during daylight hours.
+E. When one or more children are in water that is more than two feet deep in a pool, lake, or other swimming area on or off the premises of the family day home:
+1. A minimum of least two caregivers shall be present and able to supervise the children; and
+11/18
+33
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+2. An individual currently certified in basic water rescue, community water safety, water safety instruction, or lifeguarding shall be on duty supervising the children participating in swimming or wading activities at all times. The certification shall be obtained from an organization such as, but not limited to, the American Red Cross, the YMCA, or the Boy Scouts.
+Part IX.
+PREVENTING THE SPREAD OF DISEASE
+22VAC40-111-670. Exclusion of Sick Children.
+A. Unless otherwise approved by a child's health care professional, a child shall beexcluded from the family day home if he has:
+1. Both fever and behavior change. A fever means oral temperature over 101°F or armpit temperature over 100°F;
+2. Diarrhea (more watery, less formed, more frequent stools not associated with a diet change or medication). Children in diapers who develop diarrhea shall be excluded, and children who have learned to use the toilet, but cannot make it to the toilet in time, shall also be excluded;
+3. Recurrent vomiting (vomiting two or more times in 24 hours); or
+4. Symptoms of a communicable disease listed in the Virginia Department of Health's current communicable disease chart.
+B. If a child needs to be excluded according to subsection A of this section, the following shall apply:
+1. The parents or designated emergency contact shall be contacted immediately so that arrangements can be made to remove the child from the home as soon as possible; and
+2. The child shall remain in a quiet, designated area and the caregiver shall respond immediately to the child until the child leaves the home.
+22VAC40-111-680. Hand Washing.
+A. Caregivers shall wash their hands with liquid soap and warm running water: 1. When their hands are dirty;
+2. After toileting;
+3. Before preparing and serving food;
+4. Before feeding or helping children with feeding; 5. After contact with any body fluids;
+11/18
+34
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+6. After handling or caring for animals;
+7. After handling raw eggs or meat; and
+8. After diapering a child or assisting a child with toileting.
+B. Caregivers shall ensure that children's hands are washed with liquid soap and warm running water:
+1. When their hands are dirty; 2. Before eating;
+3. After toileting or diapering;
+4. After handling or caring for animals; and 5. After contact with any body fluids.
+22VAC40-111-690. Diapering and Toileting.
+A. A child shall not be left unattended on a changing table during diapering.
+B. When a child's clothing or diaper becomes wet or soiled, the child shall be cleaned and changed immediately.
+C. During each diaper change or after toileting accidents, the child's genital area shall be thoroughly cleaned with a moist disposable wipe or a moist, clean individually assignedcloth, if the child is allergic to disposable wipes.
+D. The diapering surface shall be:
+1. Separate from the kitchen, food preparation areas, or surfaces used for children's activities;
+2. Nonabsorbent and washable; and
+3. Cleaned and sanitized after each use.
+E. Soiled disposable diapers and wipes shall be disposed of in a leak-proof or plastic-lined storage system that is either foot operated or used in such a way that neither the caregiver's hand nor the soiled diaper or wipe touches the exterior surface of the storage system during disposal.
+F. When cloth diapers are used, a separate leak-proof storage system as specified in subsection E of this section shall be used.
+G. Children five years of age and older shall be permitted privacy when toileting. H. Caregivers shall respond promptly to a child's request for toileting assistance. I. The provider shall consult with the parent before toilet training is initiated.
+J. Toilet training shall be relaxed and pressure free.
+11/18
+35
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+K. There shall be a toilet chair or an adult-sized toilet with a platform or steps and adapter seat available to a child being toilet trained.
+L. Toilet chairs, when used, shall be emptied promptly, cleaned and sanitized after each use.
+Part X MEDICATION ADMINISTRATION
+22VAC40-111-700. General Requirements for Medication Administration.
+A. Prescription and nonprescription medications shall be given to a child: 1. According to the home's written medication policies; and
+2. Only with written authorization from the parent.
+B. The parent's written authorization for medication shall expire or be renewed after 10 working days.
+EXCEPTION: Long-term prescription and nonprescription drug use may be allowed with written authorization from the child's physician and parent.
+C. When an authorization for medication expires, the parent shall be notified that the medication needs to be picked up within 14 days or the parent must renew the authorization. Medications that are not picked up by the parent within 14 days shall be taken to a pharmacy for proper disposal.
+22VAC40-111-710. Prescription Medication.
+The family day home may administer prescription medication that would normally be administered by a parent or guardian to a child provided:
+1. The medication is administered by a caregiver who meets the requirements in 22VAC40- 111-220 A;
+2. The caregiver administers only those drugs that were dispensed from a pharmacy and maintained in the original, labeled container; and
+3. The caregiver administers drugs only to the child identified on the prescription label in accordance with the prescriber's instructions pertaining to dosage, frequency, and manner of administration.
+22VAC40-111-720. Nonprescription Medication.
+A. The family day home may administer nonprescription medication provided the medication is:
+1. Administered by a caregiver 18 years of age or older who meets the requirements in 22VAC40-111-220 A;
+2. Labeled with the child's name;
+11/18
+36
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+3. In the original container with the manufacturer's direction label attached; and
+4. Given only at the dose, duration, and method of administration specified on the manufacturer's label for the age or weight of the child needing the medication.
+B. Nonprescription medication shall not be used beyond the expiration date of the product.
+22VAC40-111-730. Storage of Medication.
+A. Medications for children in care shall be stored separately from medications for household members and caregivers.
+B. When needed, medication shall be refrigerated.
+C. When medication is stored in a refrigerator used for food, the medications shall be stored together in a container or in a clearly defined area away from food.
+D. Medication, except for those prescriptions designated otherwise by a written physician's order, including refrigerated medication and medications for caregivers and household members, shall be kept in a locked place using a safe locking method that prevents access by children.
+E. If a key is used, the key shall be inaccessible to the children.
+22VAC40-111-740. Medication Records.
+The provider shall keep a record of prescription and nonprescription medication given children, which shall include the following:
+1. Name of the child to whom medication was administered;
+2. Amount and type of medication administered to the child;
+3. The day and time the medication was administered to the child;
+4. Name of the caregiver administering the medication;
+5. Any adverse reactions; and
+6. Any medication administration error.
+22VAC40-111-750. Topical Skin Products.
+A. When topical skin products such as sunscreen, diaper ointment and lotion, oral teething medicine, and insect repellent are used, the following requirements shall be met:
+1. Written parent authorization noting any known adverse reactions shall be obtained at least annually;
+2. The product shall be in the original container and, if provided by the parent,
+37
+11/18
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+labeled with the child's name;
+3. Manufacturer's instructions for application shall be followed; and 4. Parents shall be informed immediately of any adverse reaction.
+B. The product does not need to be kept locked, but shall be inaccessible to children.
+C. Caregivers without medication administration training may apply the product unless it is a prescription medication, in which case the storing andadministration must meet prescription medication requirements of this chapter.
+D. The product shall not be used beyond the expiration date of the product.
+E. Sunscreen shall have a minimum sunburn protection factor (SPF) of 15. Part XI.
+EMERGENCIES
+22VAC40-111-760. First Aid and Emergency Medical Supplies.
+A. The following emergency supplies shall be in the family day home, accessible to outdoor play areas, on field trips, in vehicles used for transportation and wherever children are in care:
+1. A first aid kit that contains at a minimum:
+a. Scissors;
+b. Tweezers;
+c. Gauze pads;
+d. Adhesivetape;
+e. Adhesivebandages,assortedsizes;
+f. Antiseptic cleaning solution or pads;
+g. Digital thermometer;
+h. Triangularbandages;
+i. Single use gloves such as surgical or examination gloves;
+j. In homes located more than one hour's travel time from a healthcare facility, activated charcoal preparation (to be used only on the direction of a physician or the home's local poison control center); and
+k. First aid instructional manual.
+2. An ice pack or cooling agent.
+11/18
+38
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+B. The first aid kit shall be readily accessible to caregivers and inaccessible to children.
+22VAC40-111-770. Emergency Flashlights and Radios.
+A working battery-operated flashlight, a working portable battery-operated weather band radio, and extra batteries shall be kept in a designated area and be available to caregivers at all times.
+22VAC40-111-780. Emergency Information.
+A. The emergency contact information listed in 22VAC40-111-60 B 2 and the parent's written authorization for emergency medical care as required by 22VAC40- 111-60 B 8 shall be made available to a physician, hospital, or emergency responders in the event of a child's illness or injury.
+B. Annually, the provider shall:
+1. Review with the parent the emergency contact information required in 22VAC40-111-60 B 2 to ensure the information is correct, and
+2. Obtain the parent's signed acknowledgment of the review.
+22VAC40-111-790. Posted Telephone Numbers.
+The following telephone numbers shall be posted in a visible area close to the telephone:
+1. A 911 or local dial number for police, fire, and emergency medical responders;
+2. The responsible person for emergency backup care as required in 22VAC40-
+111-800 A 3; and
+3. The regional poison control center.
+22VAC40-111-800. Emergency Preparedness and Response Plan.
+A. The family day home shall have a written emergency preparedness and response plan that:
+1. Includes emergency evacuation, emergency relocation, and shelter-in-place procedures;
+2. Addresses the most likely to occur scenarios, including but not limited to fire, severe storms, flooding, tornadoes, and loss of utilities; and
+3. Includes provisions for a responsible person who is 18 years of age or older and is able to arrive at the family day home within 10 minutes for emergency backup care until the children can be picked up by their parents.
+B. The provider shall review the emergency plan at least annually and update the plan as needed. The provider shall document in writing each review and
+11/18
+39
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+update to the emergency plan.
+C. The provider shall ensure that each caregiver receives training regarding the emergency evacuation, emergency relocation, and shelter-in-place procedures by the end of his first week of assuming job responsibilities, on an annual basis, and at the time of each plan update.
+22VAC40-111-810. Evacuation and Relocation Procedures.
+Evacuation procedures shall include:
+1. Methods to alert caregivers and emergency responders;
+2. Designated primary and secondary routes out of the building;
+3. Designated assembly point away from the building;
+4. Designated relocation site;
+5. Methods to ensure all children are evacuated from the building and, if
+necessary, moved to a relocation site;
+6. Methods to account for all children at the assembly point and relocation site;
+7. Methods to ensure essential documents, including emergency contact
+information, medications, and supplies are taken to the assembly point and relocation site;
+8. Method of communication with parents and emergency responders after the evacuation; and
+9. Method of communication with parents after the relocation.
+22VAC40-111-820. Shelter-in-place Procedures.
+Shelter-in-place procedures shall include:
+1. Methods to alert caregivers and emergency responders;
+2. Designated safe location within the home;
+3. Designated primary and secondary routes to the safe location;
+4. Methods to ensure all children are moved to the safe location;
+5. Methods to account for all children at the safe location;
+6. Methods to ensure essential documents, including emergency contact
+information, and supplies are taken to the safe location; and
+7. Method of communication with parents and emergency responders. 22VAC40-111-830. Emergency Response Drills.
+A. The emergency evacuation procedures shall be practiced monthly with all
+11/18
+40
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+caregivers and children in care during all shifts that children are in care.
+B. Shelter-in-place procedures shall be practiced a minimum of twice per year.
+C. Documentation shall be maintained of emergency evacuation and shelter-in- place drills that includes:
+1. Identity of the person conducting the drill; 2. The date and time of the drill;
+3. The method used for notification of the drill; 4. The number of caregivers participating;
+5. The number of children participating; 6. Any special conditions simulated;
+7. The time it took to complete the drill; 8. Problems encountered, if any; and
+9. For emergency evacuation drills only, weather conditions.
+D. Records of emergency evacuation and shelter-in-place drills shall be maintained for one year.
+22VAC40-111-840. Injury Records.
+A. The provider shall record in the child's record an injury or accident sustained by achild while at the family day home that requires first aid or emergency medical or dental treatment.
+B. The information recorded shall include the following: 1. Date and time of injury;
+2. Name of injured child;
+3. Type and circumstance of the injury;
+4. Caregiver present and action taken;
+5. Date and time when parents were notified;
+6. Any future action to prevent recurrence of the injury;
+7. Caregiver and parent signatures or two caregiver signatures; and 8. Documentation on how the parent was notified.
+22VAC40-111-850. Reports to Department.
+A. The provider shall report to the department within 24 hours of the 11/18
+41
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+circumstances surrounding the following incidents:
+1. Lost or missing child when local authorities have been contacted for help; 2. Serious injury to a child while under the family day home's supervision;and 3. Death of a child while under the family day home's supervision.
+B. A written report shall be completed and submitted to the department within five working days of the date the incident occurred.
+22VAC40-111-860. Reports of Suspected Child Abuse or Neglect and Disease Outbreaks.
+A. A caregiver shall immediately call the local department of social services or call the toll free number of the Child Abuse and Neglect Hotline (1-800-552- 7096/TDD) whenever there is reason to suspect that a child has been or is being subjected to any kind of child abuse or neglect by any person.
+B. The provider shall immediately make or cause to be made a report of an outbreak of disease as defined by the Virginia Board of Health. Such report shall be made by rapid means to the local health department or to the Commissioner of the Virginia Department of Health.
+Part XII. NUTRITION
+22VAC40-111-870. General Requirements for Meals and Snacks.
+A. Meals and snacks shall be served in accordance with the times children are in care, which include:
+1. For family day homes operating less than four consecutive hours at least one snack shall be served.
+2. For family day homes operating four to seven consecutive hours at least one meal and one snack shall be served.
+3. For family day homes operating seven to 12 consecutive hours at least one meal and two snacks or two meals and one snack shall be served.
+4. For family day homes operating 12 to 16 consecutive hours at least two meals and two snacks or three meals and one snack shall be served.
+B. A family day home shall ensure that children arriving from a half-day, morning program who have not yet eaten lunch receive a lunch.
+C. The family day home shall schedule snacks or meals so there is a period of at least 1-1/2 hours, but no more than three hours, between each meal or snack unless there is a scheduled rest or sleep period for children between the meals
+11/18
+42
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+and snacks.
+D. Children shall be served small-sized portions.
+E. Food shall be prepared, stored, served, and transported in a clean and sanitary manner.
+F. Leftover food shall be discarded from individual plates following a meal or snack. G. Tables and high chair trays shall be cleaned after each use, but at least daily. 22VAC40-111-880. Meals and Snacks Provided by Family Day Home.
+When family day homes provide meals or snacks, the following shall apply:
+1. Family day homes shall follow the most recent, age-appropriate nutritional requirements of a recognized authority such as the Child and Adult Care Food Program of the United States Department of Agriculture (USDA).
+2. Children shall be allowed second helpings of food listed in the child care food program meal patterns.
+22VAC40-111-890. Meals and Snacks Brought from Child's Home.
+When food is brought from home, the following shall apply:
+1. The food container shall be clearly labeled in a way that identifies the owner;
+2. The family day home shall have extra food or shall have provisions to obtain
+food to serve to a child so the child can have an appropriate snack or meal as required in 22VAC40- 111-880 if the child forgets to bring food from home or brings an inadequate meal or snack; and
+3. Unused portions of food shall be discarded by the end of the day or returned to the parent.
+22VAC40-111-900. Preventing Choking.
+A. To assist in preventing choking, food that is hard, round, small, thick and sticky, or smooth and slippery such as whole hot dogs sliced into rounds, nuts, seeds, raisins, uncut grapes, uncut raw carrots, peanuts, chunks of peanut butter, hard candy, and popcorn shall not be served to children under four years of age, unless the food is prepared before being served in a manner that will reduce the risk of choking, i.e., hot dogs cut lengthwise, grapes cut in small pieces, and carrots cooked or cut lengthwise.
+B. Children shall not be allowed to eat or drink while walking, running, playing, lying down, or riding in vehicles.
+22VAC40-111-910. Drinking Water and Fluids.
+A. Water shall be available for drinking and shall be offered on a regular basis to all children in care.
+11/18
+43
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+B. In environments of 80oF or above, attention shall be given to the fluid needsof children at regular intervals. Children in such environments shall be encouraged to drink fluids.
+C. Clean individual drinking cups shall be provided daily. Children shall not be allowed to share common drinking cups.
+22VAC40-111-920. Menus.
+When meals or snacks are provided by the family day home, the menu for the current one- week period shall:
+1. Be dated;
+2. Be given to parents or posted or placed in an area accessible to parents;
+3. List any substituted food; and
+4. Be kept on file one week at the family day home.
+22VAC40-111-930. Eating Utensils and Dishes.
+A. Eating utensils shall be appropriate in size for children to handle.
+B. Chipped or cracked dishes shall not be used.
+C. Eating utensils and dishes shall be properly cleaned by prerinsing, washing, and air drying, or using a dishwasher.
+D. Eating utensils and dishes shall be stored in a clean dry place, and protected from contamination.
+E. If disposable eating utensils and dishes are used, they shall be sturdy enough to prevent spillage or other health and safety hazards.
+F. Disposable utensils and dishes shall be used once and discarded.
+22VAC40-111-940. Food Storage.
+A. Temperatures shall be maintained at or below 40°F in refrigerator compartments and at or below 0°F in the freezer compartments.
+B. The provider shall have an operable thermometer available to monitor refrigerator and freezer compartment temperatures.
+C. All perishable foods and drinks used for children in care, except when being prepared and served, shall be kept in the refrigerator.
+22VAC40-111-950. Milk.
+A. All milk and milk products shall be pasteurized. B. Powdered milk shall be used only for cooking.
+11/18
+44
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+22VAC40-111-960. Feeding Infants.
+A. Infants shall be fed on demand unless the parent provides other written instructions.
+B. Infants who cannot hold their own bottles shall be picked up and held for bottle feeding. Bottles shall not be propped.
+C. High chairs, infant carrier seats, or feeding tables with safety waist and crotch straps fastened according to the manufacturer's instructions shall be used for children under 12 months of age who are not held while being fed.
+D. Infant formula shall be prepared according to the manufacturer's or physician's instructions.
+E. Bottles shall be refrigerated and labeled with the child's full name and the date, if more than one infant is in care.
+F. Refrigerated bottles of prepared formula and breast milk shall be discarded after 48 hours if not used.
+G. Bottles shall not be heated in a microwave oven.
+H. To avoid burns, heated formula and baby food shall be stirred or shaken and tested for temperature before being served to children.
+I. A child's mother shall be granted access to a private area of the family day home to facilitate breast feeding.
+J. Solid foods shall:
+1. Not be fed to infants less than four months of age without parental consent; and
+2. Be fed with a spoon, with the exception of finger foods.
+K. Baby food shall be served from a dish and not from the container. L. Baby food remaining in:
+1. A serving dish shall be discarded;
+2. Opened containers, from which a portion has been removed, shall be refrigerated and labeled with the child's full name and the date, if more than one infant is in care; and
+3. Opened containers stored in the refrigerator shall be discarded if not consumed within 24 hours of storage.
+22VAC40-111-970. Special Feeding Needs.
+A. The consistency of food provided for a child with special needs shall be appropriate to any special feeding needs of the child.
+11/18
+45
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+B. Necessary and adaptive feeding equipment and feeding techniques shall be used for a child with special feeding needs.
+Part XIII. TRANSPORTATION
+22VAC40-111-980. Written Permission for Transportation and Field Trips.
+A. General written permission shall be obtained from the parent of each child for the provider to take the child off the premises of the family day home. The general written permission shall be on a form that lists regularly scheduled trips (e.g., library, store, playground) and the driver, if the child is to be transported.
+B. Special written permission shall be obtained from the parent of each child for the provider to take the child on special field trips (those not regularly scheduled). The written special permission shall specify destination, duration of trip, and driver, if the child is to be transported.
+22VAC40-111-990. Requirements for Drivers.
+A. Drivers must be 18 years of age or older.
+B. The provider shall ensure that during transportation of children the driver has:
+1. A valid driver's license;
+2. The name, address, and telephone number of the family day home;
+3. A copy of the parent's written permission to transport the child;
+4. A copy of each child's emergency contact information as required in 22VAC40-111-60 B 2;
+5. Emergency supplies as required in 22VAC40-111-760; and
+6. A mechanism for making telephone calls to emergency responders and parents (e.g., change, calling card, cellular phone).
+22VAC40-111-1000. Requirements for Vehicles.
+The provider shall ensure that the vehicle used for transportation:
+1. Meets the safety standards set by the Virginia Department of Motor Vehicles;
+2. Is kept in satisfactory condition to assure the safety of children;
+3. Is licensed and insured according to state law;
+4. Was manufactured for the purpose of transporting people seated in an
+enclosed area; and
+5. Has seats that are attached to thefloor.
+11/18
+46
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+22VAC40-111-1010. Requirements for Transportation.
+The provider shall ensure that during transportation of children:
+1. Each child is in an individual car seat or individual and appropriate restraint in accordance with Virginialaw;
+2. Each child's arms, legs, and head remain inside the vehicle;
+3. Doors are closed properly and locked unless locks were not installed by the
+manufacturer of the vehicle;
+4. No child is left unattended inside or outside a vehicle; and
+5. Each child boards and leaves the vehicle from the curb side of the street.
+Part XIV. NIGHTTIME CARE
+22VAC40-111-1020. Nighttime Care.
+A. For nighttime care during which a child sleeps more than two hours, the following is required:
+1. A child shall have a rest area that meets the requirements of 22VAC40- 111-510;
+2. An infant shall have an individual crib that meets the requirements of 22VAC40-111- 520; and
+3. Linens shall be provided that meet the requirements in 22VAC40-111-530.
+B. For children in nighttime care, quiet activities and experiences shall be available immediately before bedtime.
+C. Providers shall establish a bedtime schedule for a child in consultation with the child's parent.
+D. Separate sleeping and dressing areas shall be provided for children of the opposite sex over six years of age.
+E. Each child shall have a toothbrush, and a comb or hair brush assigned for individual use.
+F. Each child nine months of age or older shall have flame-resistant or snug-fitting sleepwear.
+G. Bath towels and washcloths, when used, shall be assigned for individual use and laundered as needed, but at least weekly.
+H. A child shall have a routine that encourages good personal hygiene practices including bathing (if needed) and teeth brushing.
+11/18
+47
+
+STATE BOARD OF SOCIAL SERVICES STANDARDS FOR LICENSED
+FAMILY DAY HOMES 22VAC40-111
+I. Caregivers shall remain awake until all children are asleep and shall sleep on the same floor level as the children in care.
+J. A baby monitor shall be used if the caregiver is not sleeping in the room with the child or in a room adjacent to the room where the child is sleeping.
+11/18
+48
+
